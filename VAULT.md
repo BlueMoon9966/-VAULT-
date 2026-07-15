@@ -9,19 +9,15 @@
 "image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
 "imageScale": "center",
 "url": "https://github.com/BlueMoon9966/-VAULT-/blob/main/VAULT.md?plain=1",
-"import": false
 },
 {
 "name":"Movies",
 "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
 "url": "https://raw.githubusercontent.com/BlueMoon9966/Lee9966/refs/heads/main/Movies",
-"import": false
 },
 {
 "name": "Serie",
 "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
 "url": "https://raw.githubusercontent.com/BlueMoon9966/Lee9966/refs/heads/main/Serie",
-"import": false
 },
-]
 }
