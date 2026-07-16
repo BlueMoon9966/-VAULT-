@@ -13,19 +13,19 @@
 {
 "name": "Movies",
 "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
-"url": "https://raw.githubusercontent.com/BlueMoon9966/Lee_9966/refs/heads/main/Movies?token=GHSAT0AAAAAAECTTUUFYVTQFDUXGBTKXNTG2SYS25A",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/Lee_9966/refs/heads/main/Movies",
 "import": false
 },
 {
 "name": "Serie",
 "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
-"url": "https://raw.githubusercontent.com/BlueMoon9966/Lee_9966/refs/heads/main/Serie?token=GHSAT0AAAAAAECTTUUFSBV6C7FT6M4G56QQ2SYS36Q",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/Lee_9966/refs/heads/main/Serie",
 "import": false
 },
 {
 "name": "As_requested",
 "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
-"url": "https://raw.githubusercontent.com/BlueMoon9966/Lee_9966/refs/heads/main/As_requested?token=GHSAT0AAAAAAECTTUUFUJN3UMBS6OXKV24O2SYS4LA",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/Lee_9966/refs/heads/main/As_requested",
 "import": false
 },
 ]
