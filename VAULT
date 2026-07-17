@@ -8,25 +8,25 @@
 {
 "name": "Movies",
 "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
-"url": "https://github.com/BlueMoon9966/-VAULT-/blob/226f4c9b6a497297da5fa43a1687b6c7d7b92b6f/Movies",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Movies",
 "import": false
 },
 {
 "name": "Serie",
 "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
-"url": "https://github.com/BlueMoon9966/-VAULT-/blob/226f4c9b6a497297da5fa43a1687b6c7d7b92b6f/Serie",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Serie",
 "import": false
 },
 {
 "name": "As_requested",
 "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
-"url": "https://github.com/BlueMoon9966/-VAULT-/blob/226f4c9b6a497297da5fa43a1687b6c7d7b92b6f/As_requested",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/As_requested",
 "import": false
 },
 {
 "name": "Various TV programs",
 "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
-"url": "https://github.com/BlueMoon9966/-VAULT-/blob/226f4c9b6a497297da5fa43a1687b6c7d7b92b6f/Various%20TV%20programs",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV%20programs",
 "import": false
 },
 ]
