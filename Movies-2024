@@ -1,7 +1,8 @@
 {
  "name": "Movies-2024",
- "day": "18-07-2026",
+ "author": "อัพเดท_วันที่ 2026-07-18",
  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdhOTYzZGZucDlkb3ZkbDJtbzhwcXNwNDU1ZGhlYWpzc2JvNGI2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4DuMuWjKxlbwfIVLA/giphy.gif",
+ "last_updated": "2026-07-18T00:00:00Z",
  "parental": "true",
  "stations": [
         {
@@ -4399,6 +4400,7 @@
             "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Bitconned-2023-คริปโตลวง.jpg",
             "url": "https://main.24playerhd.com/newplaylist/292fb85656f8b7048ac1a09c/292fb85656f8b7048ac1a09c.m3u8",
             "referer": "https://www.24-hd.com/"
-        },
-    ]
-},
+        }
+    /* add other station objects here, ensuring no trailing comma after the last item */
+  ]
+}
