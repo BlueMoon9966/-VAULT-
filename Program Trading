@@ -10,7 +10,7 @@
     "passwordHash": "cc58df9b11ad64d9f4eedbfe945cfb9ca6f1b1996d7b754a26152ed578b952bd",
     "algorithm": "SHA256",
     "requireAuth": true,
-    "message": "กรุณากรอกรหัสผ่าน (Please enter password)"
+    "message": "password"
   },
 "groups": [
 {
