@@ -1,8 +1,60 @@
 {
+"version": "1.0",
+"name": "ⓈⓅⒶⒸⒺ",
+"author": "🤜Akaraphisit🤛",
+"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT",
+{
   "owner": "BlueMoon9966",
   "repo": "-VAULT-",
   "path": "VAULT",
   "message": "Add encrypted password authentication field for Wiseplay app",
   "sha": "60f863bb9a62bc5ebb2cc0f64a8bcfe3474874404239023d6224d48d4b3bbf66",
   "content": "{\n  \"version\": \"1.0\",\n  \"name\": \"ⓈⓅⒶⒸⒺ\",\n  \"author\": \"🤜Akaraphisit🤛\",\n  \"image\": \"https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif\",\n  \"url\": \"https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT\",\n  \"authentication\": {\n    \"enabled\": true,\n    \"type\": \"password\",\n    \"passwordHash\": \"8d969eef6ecad3c29a3a873fba8fe5e8b5e4e1a2c5d8f3a6b7c9e0f2a4b5c6d\",\n    \"algorithm\": \"SHA256\",\n    \"requireAuth\": true,\n    \"message\": \"กรุณากรอกรหัสผ่าน (Please enter password)\"\n  },\n  \"groups\": [\n    {\n      \"name\": \"Refresh\",\n      \"image\": \"https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif\",\n      \"imageScale\": \"center\",\n      \"url\": \"https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT\",\n      \"import\": false\n    },\n    {\n      \"name\": \"Movies New\",\n      \"image\": \"https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdhOTYzZGZucDlkb3ZkbDJtbzhwcXNwNDU1ZGhlYWpzc2JvNGI2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4DuMuWjKxlbwfIVLA/giphy.gif\",\n      \"url\": \"https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Movies%20New\",\n      \"import\": false\n    },\n    {\n      \"name\": \"Movies Old\",\n      \"image\": \"https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdhOTYzZGZucDlkb3ZkbDJtbzhwcXNwNDU1ZGhlYWpzc2JvNGI2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4DuMuWjKxlbwfIVLA/giphy.gif\",\n      \"url\": \"https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Movies%20Old\",\n      \"import\": false\n    },\n    {\n      \"name\": \"Serie\",\n      \"image\": \"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif\",\n      \"url\": \"https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Serie\",\n      \"import\": false\n    },\n    {\n      \"name\": \"As_requested\",\n      \"image\": \"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R1Nmk1b2wxZHg2cnU4aDRvdzloamk2Zm5wend2Ymx0bjJqb3pmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/afEDNhitcay8rwmTKf/giphy.gif\",\n      \"url\": \"https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/As_requested\",\n      \"import\": false\n    },\n    {\n      \"name\": \"Various_TV_programs\",\n      \"image\": \"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFlZjllNXQ2aGZ1anNxbG1ieG9yM3lqbnkxa3N0OThlZW81empiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyEo8EE0MThPq/giphy.gif\",\n      \"url\": \"https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV%20programs\",\n      \"import\": false\n    },\n    {\n      \"name\": \"18+\",\n      \"image\": \"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3huc2ZpZm91bWhvbm1rdmRnOHVxeWtsdjA0MmhiMjh2dWZvd3dtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif\",\n      \"url\": \"https://raw.githubusercontent.com/BlueMoon9966/Lee_9966/refs/heads/main/JAV-ANIME.txt.w3u?token=GHSAT0AAAAAAECRHPQSOVRBVD6FAGEO2SL62S3SJUA\",\n      \"import\": false\n    }\n  ]\n}\n"
+}
+"groups": [
+{
+"name": "Refresh",
+"image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
+"imageScale": "center",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT",
+"import": false
+},
+{
+"name": "Movies New",
+"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdhOTYzZGZucDlkb3ZkbDJtbzhwcXNwNDU1ZGhlYWpzc2JvNGI2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4DuMuWjKxlbwfIVLA/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Movies%20New",
+"import": false
+},
+{
+"name": "Movies Old",
+"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdhOTYzZGZucDlkb3ZkbDJtbzhwcXNwNDU1ZGhlYWpzc2JvNGI2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4DuMuWjKxlbwfIVLA/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Movies%20Old",
+"import": false
+},
+{
+"name": "Serie",
+"image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Serie",
+"import": false
+},
+{
+"name": "As_requested",
+"image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R1Nmk1b2wxZHg2cnU4aDRvdzloamk2Zm5wend2Ymx0bjJqb3pmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/afEDNhitcay8rwmTKf/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/As_requested",
+"import": false
+},
+{
+"name": "Various_TV_programs",
+"image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFlZjllNXQ2aGZ1anNxbG1ieG9yM3lqbnkxa3N0OThlZW85empiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyEo8EE0MThPq/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV%20programs",
+"import": false
+},
+{
+"name": "18+",
+"image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3huc2ZpZm91bWhvbm1rdmRnOHVxeWtsdjA0MmhiMjh2dWZvd3dtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/Lee_9966/refs/heads/main/JAV-ANIME.txt.w3u?token=GHSAT0AAAAAAECRHPQSOVRBVD6FAGEO2SL62S3SJUA",
+"import": false
+},
+]
 }
