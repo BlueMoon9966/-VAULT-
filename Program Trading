@@ -7,7 +7,7 @@
   "authentication": {
     "enabled": true,
     "type": "password",
-    "passwordHash": "cc58df9b11ad64d9f4eedbfe945cfb9ca6f1b1996d7b754a26152ed578b952bd",
+    "passwordHash": "6b4614c73fedac076e342928f362f43217cde1c7b785d5f27a98f4c2ff814650",
     "algorithm": "SHA256",
     "requireAuth": true,
     "message": "password"
