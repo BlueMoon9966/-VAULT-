@@ -7,7 +7,7 @@
   "authentication": {
     "enabled": true,
     "type": "password",
-    "passwordHash": "8d969eef6ecad3c29a3a873fba8fe5e8b5e4e1a2c5d8f3a6b7c9e0f2a4b5c6d",
+    "passwordHash": "220632",
     "algorithm": "SHA256",
     "requireAuth": true,
     "message": "กรุณากรอกรหัสผ่าน (Please enter password)"
@@ -46,7 +46,7 @@
     },
     {
       "name": "Various_TV_programs",
-      "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFlZjllNXQ2aGZ1anNxbG1ieG9yM3lqbnkxa3N0OThlZW85empiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyEo8EE0MThPq/giphy.gif",
+      "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFlZjllNXQ2aGZ1anNxbG1ieG9yM3lqbnkxa3N0OThlZW81empiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyEo8EE0MThPq/giphy.gif",
       "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV%20programs",
       "import": false
     },
