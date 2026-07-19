@@ -8,7 +8,7 @@
     "enabled": true,
     "type": "password",
     "passwordHash": "220632",
-    "algorithm": "SHA256",
+    "algorithm": "6b4614c73fedac076e342928f362f43217cde1c7b785d5f27a98f4c2ff814650",
     "requireAuth": true,
     "message": "กรุณากรอกรหัสผ่าน (Please enter password)"
   },
