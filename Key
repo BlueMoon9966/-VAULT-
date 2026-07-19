@@ -1,21 +1,6 @@
 {
-  "version": "1.0",
-  "user_id": "220632",
+  "user_id": "1001",
   "name": "Somchai",
-  "credit_card": "REDACTED"
-
+  "credit_card": "4111-2222-3333-4444"
+}
   "playlist": [
-    {
-      "title": "Omniscie ...",
-      "tvg-logo": "https://image.bangkokbiznews.com/...",
-      "url": "https://media.vdohls.com/halrybuvwxjvkoz/playlist.m3u8",
-      "group": "หนังฝรั่ง",
-    },
-    {
-      "title": "The Death of Robin Hood (2026) ...",
-      "tvg-logo": "https://cms.dmpcdn.com/...",
-      "url": "https://media.vdohls.com/P_wHG8-9oQEey/playlist.m3u8",
-      "group": "หนังฝรั่ง",
-    },
-  ]
-},
