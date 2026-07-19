@@ -1,4 +1,4 @@
-{
+ค{
 "name": "Stop time (18+)",
 "author": "อัพเดท_วันที่ 17 กรกฎาคม 2569",
 "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3huc2ZpZm91bWhvbm1rdmRnOHVxeWtsdjA0MmhiMjh2dWZvd3dtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif",
@@ -76,7 +76,13 @@
 {
 "name": "RATE R",
 "image": "https://i.pinimg.com/originals/54/52/a1/5452a1cf458a2187e59dc63d41869317.gif",
-"url": "https://drive.google.com/uc?export=download&id=1d7_yQCWm4u-1Tnr_F09twd_M2ZxWyT9v",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/Lee_9966/refs/heads/main/av24flix_All_All.w3u?token=GHSAT0AAAAAAECRHPQTDLGW62CEFXMXZRQM2S44URA",
+"import": false
+},
+{
+"name": "av24flix",
+"image": "https://av24flix.com/Logo/logo-24-flix-01.png",
+"url": "https://raw.githubusercontent.com/Infinity-000/AV-Subthai/master/all.w3u",
 "import": false
 },
 ]
