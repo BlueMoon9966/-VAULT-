@@ -1,0 +1,6 @@
+{
+  "requirePassword": true,
+  "passwordHash": "hashed_password_here",
+  "encryptionKey": "key_here",
+  "configUrl": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT"
+}
