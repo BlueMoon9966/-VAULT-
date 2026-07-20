@@ -1,7 +1,6 @@
 {
   "name": "av24flix",
   "author": "Update วันที่ 11 พฤษภาคม 2024",
-  "info": "av24flix",
   "image": "https://av24flix.com/Logo/logo-24-flix-01.png",
   "stations": [
     {
@@ -14681,3 +14680,4 @@
       "referer": "https://api.av24flix.com/"
     },
     ]
+    },
