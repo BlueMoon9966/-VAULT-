@@ -13,11 +13,6 @@
 "import": false
 },
       {
-      "name": "Movies",
-      "info": "🤜Akaraphisit🤛",
-      "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-      "stations": [
-      {
       "name": "Movies New",
       "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdhOTYzZGZucDlkb3ZkbDJtbzhwcXNwNDU1ZGhlYWpzc2JvNGI2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4DuMuWjKxlbwfIVLA/giphy.gif",
       "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Movies%20New",
@@ -35,8 +30,6 @@
       "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Serie",
       "import": false
       }
-     ]
-    },
 {
 "name": "As_requested",
 "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R1Nmk1b2wxZHg2cnU4aDRvdzloamk2Zm5wend2Ymx0bjJqb3pmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/afEDNhitcay8rwmTKf/giphy.gif",
