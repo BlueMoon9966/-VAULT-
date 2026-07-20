@@ -1,0 +1,60 @@
+{
+"version": "1.0",
+"name": "ⓈⓅⒶⒸⒺ",
+"author": "🤜Akaraphisit🤛",
+"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT",
+"groups": [
+{
+"name": "Refresh",
+"image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
+"imageScale": "center",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT",
+"import": false
+},
+      {
+      "name": "Movies New",
+      "info": "🤜Akaraphisit🤛",
+      "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+      "stations": [
+      {
+      "name": "Movies New",
+      "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdhOTYzZGZucDlkb3ZkbDJtbzhwcXNwNDU1ZGhlYWpzc2JvNGI2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4DuMuWjKxlbwfIVLA/giphy.gif",
+      "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Movies%20New",
+      "import": false
+      },
+     ]
+    },
+      {
+      "name": "Movies Old",
+      "info": "🤜Akaraphisit🤛",
+      "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+      "stations": [
+      {
+      "name":"Movies 2026",
+      "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZlNWx5bXhjbHFvcG9lbHN2YWgwYzQ2NnFibGN6OHd3eGR3ZHdocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xHhAjwo6ic13fTyjc/giphy.gif",
+      "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Twenty-Four2%20HD-(2026)"
+      },
+      {
+      "name":"Movies 2025",
+      "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h6YW9hNmxrd2ppMm9hMXV4b29vNG1qOHhobmg0YjJ1ZmRjbmkxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0n8j4zs6xhA6HuxDmQ/giphy.gif",
+      "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Twenty-Four2%20HD-(2025)"
+      },
+      {
+      "name":"Movies 2024",
+      "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjU3eGp5cHd2MDMwbjJ2NTg2cmJ1NnFzbm9sbnQxYmxlMzB6b3djNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/banxKXqeiqfue0M3u3/giphy.gif",
+      "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Twenty-Four2%20HD-(2024)"
+      },
+      {
+      "name":"Movies 2023",
+      "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYyaGg0MjhheWU2bDA1NGU2cDExYXc0dWRyOWVmamE2aXNwbDI2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M4TtJKBFtyhKDivKTX/giphy.gif",
+      "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Twenty-Four2%20HD-(2023)"
+      }
+      {
+      "name": "Serie",
+      "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
+      "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Serie",
+      "import": false
+      }
+     ]
+    },
