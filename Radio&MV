@@ -3,21 +3,13 @@
 "author": "🤜Akaraphisit🤛",
 "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp6bjdpbnRobTJqeWQ5dmNxaDB2dm80M2JlZXZxd3B4ZHkweHhvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72FbPweVVttIxHTG/giphy.gif",
 "groups": [
-
-{
-"name": "Radio",
-"author": "🤜Akaraphisit🤛",
-"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ozaTF3MWVoaDMxbzhiNnIyejk4ZW11ZG51emJzazZka3JrdXhjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif",
-"groups": [
                 {
                 "name": "greenwave",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Music_.jpg",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg",
                 "url": "https://atime.live/greenwave",
                 "referer": "https://dookeela.live/",
                 "info":"Thai",
                 "embed" : true
                 },
-               ]
-              },
 ]
 },
