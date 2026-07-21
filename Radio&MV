@@ -3,11 +3,12 @@
 "author": "🤜Akaraphisit🤛",
 "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp6bjdpbnRobTJqeWQ5dmNxaDB2dm80M2JlZXZxd3B4ZHkweHhvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72FbPweVVttIxHTG/giphy.gif",
 "groups": [
-                {
-                "name": "greenwave",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg",
-                "url": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8",
-                "info":"Thai",
-                },
+{
+"name": "greenwave",
+"image": "https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg",
+"url": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8",
+"info":"Thai",
+"referer": "https://atime.live/greenwave",
+},
 ]
 },
