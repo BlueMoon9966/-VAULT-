@@ -1,13 +1,17 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "name": "Radio&MV",
   "description": "Thai Radio and Media Streaming Collection",
   "author": "🤜Akaraphisit🤛",
+  "country": "TH",
+  "category": ["radio", "streaming", "media"],
   "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp6bjdpbnRobTJqeWQ5dmNxaDB2dm80M2JlZXZxd3B4ZHkweHhvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72FbPweVVttIxHTG/giphy.gif",
   "metadata": {
     "lastSynced": "2026-07-21T00:00:00Z",
     "totalStreams": 2,
-    "updateFrequency": "weekly"
+    "updateFrequency": "weekly",
+    "maintainer": "community",
+    "statusCheckInterval": 3600
   },
   "groups": [
     {
@@ -21,8 +25,15 @@
       "quality": "HLS",
       "bitrate": "128kbps",
       "status": "active",
+      "statusCheckedAt": "2026-07-21T00:00:00Z",
       "lastUpdated": "2026-07-21T00:00:00Z",
-      "referer": "https://atime.live/greenwave/"
+      "referer": "https://atime.live/greenwave/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "timeout": 10,
+      "authRequired": false,
+      "proxyRequired": false,
+      "rating": 4.5,
+      "recommended": true
     },
     {
       "id": 2,
@@ -35,8 +46,15 @@
       "quality": "HD",
       "bitrate": "2500kbps",
       "status": "active",
+      "statusCheckedAt": "2026-07-21T00:00:00Z",
       "lastUpdated": "2026-07-21T00:00:00Z",
-      "referer": "https://atime.live/greenwave/"
+      "referer": "https://atime.live/greenwave/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "timeout": 15,
+      "authRequired": false,
+      "proxyRequired": false,
+      "rating": 4.7,
+      "recommended": true
     }
   ]
 }
