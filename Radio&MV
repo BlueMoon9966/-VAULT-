@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GREEN WAVE.MV" tvg-name="GREEN WAVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTUOasjuvVBivxzBpqHIIN5g1CzC5iwaHWwzcMa3PmQ&s=10" group-title="MV" duration="-1",GREEN WAVE
-https://atimevideo.smartclick.co.th/live/greenlive.sdp/playlist.m3u8
 
+# ==================================================
+#                       MV
+# ==================================================
+#EXTINF:-1 tvg-id="GREEN WAVE.MV" tvg-name="GREEN WAVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTUOasjuvVBivxzBpqHIIN5g1CzC5iwaHWwzcMa3PmQ&s=10" group-title="MV" duration="-1",GREEN WAVE
+https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
+
+#EXTINF:-1 tvg-id="GREEN WAVE.MV" tvg-name="GREEN WAVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTUOasjuvVBivxzBpqHIIN5g1CzC5iwaHWwzcMa3PmQ&s=10" group-title="MV" duration="-1",GREEN WAVE
+https://atimehd.smartclick.co.th/efm/hls/efm.m3u8
+
+# ==================================================
+#                      Radio
+# ==================================================
 #EXTINF:-1 tvg-id="greenwave.radio" tvg-name="Green Wave" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg" group-title="Radio" duration="-1",Green Wave 105.5 FM
 https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
