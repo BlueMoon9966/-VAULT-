@@ -27,5 +27,5 @@ https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8
 #EXTINF:-1 tvg-id="Met 107 FM" tvg-name="Met 107 FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/369/met-107-fm.e754f3fd.jpg" group-title="Radio" duration="-1",Met 107 FM LIVE
 https://eb27a17z.mcot.net/FM107/fm107.stream_aac/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MUNforward Xtra" tvg-name="MUNforward Xtra" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/369/met-107-fm.e754f3fd.jpg" group-title="Radio" duration="-1"MUNforward Xtra LIVE
+#EXTINF:-1 tvg-id="MUNforward Xtra" tvg-name="MUNforward Xtra" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fANqGSV3WH.png" group-title="Radio" duration="-1"MUNforward Xtra LIVE
 https://cdn-th2.livestreaming.in.th/shoutcast/8795
