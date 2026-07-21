@@ -1,109 +1,17 @@
 {
-  "version": "1.3",
-  "name": "Radio&MV",
-  "description": "Thai Radio and Media Streaming Collection",
-  "author": "🤜Akaraphisit🤛",
-  "country": "TH",
-  "category": ["radio", "streaming", "media"],
-  "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp6bjdpbnRobTJqeWQ5dmNxaDB2dm80M2JlZXZxd3B4ZHkweHhvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72FbPweVVttIxHTG/giphy.gif",
-  "metadata": {
-    "lastSynced": "2026-07-21T12:00:00Z",
-    "totalStreams": 2,
-    "updateFrequency": "weekly",
-    "maintainer": "community",
-    "statusCheckInterval": 3600,
-    "notes": "URLs updated with working fallback options. Use alternative URLs if primary fails."
-  },
-  "groups": [
-    {
-      "id": 1,
-      "name": "Green Wave 106.5 FM",
-      "type": "radio",
-      "image": "https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg",
-      "url": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8",
-      "description": "Green Wave 106.5 FM - Live Radio Stream",
-      "language": "th",
-      "quality": "HLS",
-      "bitrate": "128kbps",
-      "status": "inactive",
-      "statusCheckedAt": "2026-07-21T12:00:00Z",
-      "lastUpdated": "2026-07-21T12:00:00Z",
-      "referer": "https://atime.live/greenwave/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "timeout": 10,
-      "authRequired": false,
-      "proxyRequired": false,
-      "rating": 4.5,
-      "recommended": true,
-      "note": "Primary URL may be unavailable. Try alternatives below.",
-      "alternativeUrls": [
-        {
-          "priority": 1,
-          "url": "https://stream.greenwave.co.th/radio/hls/stream.m3u8",
-          "description": "Green Wave Primary Backup",
-          "referer": "https://greenwave.co.th",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        },
-        {
-          "priority": 2,
-          "url": "https://greenwave-radio.streaming-asia.net/live/gw106.m3u8",
-          "description": "Green Wave Asia Mirror",
-          "referer": "https://streaming-asia.net",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        },
-        {
-          "priority": 3,
-          "url": "https://cdn-gw.liveradio.asia/greenwave.m3u8",
-          "description": "Green Wave CDN Fallback",
-          "referer": "https://liveradio.asia",
-          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Green Wave Live Video",
-      "type": "video",
-      "image": "https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg",
-      "url": "https://atimevideo.smartclick.co.th/live/greenlive.sdp/playlist.m3u8",
-      "description": "Green Wave Live TV Stream",
-      "language": "th",
-      "quality": "HD",
-      "bitrate": "2500kbps",
-      "status": "inactive",
-      "statusCheckedAt": "2026-07-21T12:00:00Z",
-      "lastUpdated": "2026-07-21T12:00:00Z",
-      "referer": "https://atime.live/greenwave/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "timeout": 15,
-      "authRequired": false,
-      "proxyRequired": false,
-      "rating": 4.7,
-      "recommended": true,
-      "note": "Primary URL may be unavailable. Try alternatives below.",
-      "alternativeUrls": [
-        {
-          "priority": 1,
-          "url": "https://stream.greenwave.co.th/tv/hls/livestream.m3u8",
-          "description": "Green Wave TV Primary Backup",
-          "referer": "https://greenwave.co.th",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        },
-        {
-          "priority": 2,
-          "url": "https://greenwavetvcdn.streaming-asia.net/live/hd.m3u8",
-          "description": "Green Wave TV Asia Mirror",
-          "referer": "https://streaming-asia.net",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        },
-        {
-          "priority": 3,
-          "url": "https://cdn-gwtv.livetv.asia/greenwave-hd.m3u8",
-          "description": "Green Wave TV CDN Fallback",
-          "referer": "https://livetv.asia",
-          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
-        }
-      ]
-    }
-  ]
-}
+"version": "1.0",
+"name": "Radio",
+"author": "🤜Akaraphisit🤛",
+"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ozaTF3MWVoaDMxbzhiNnIyejk4ZW11ZG51emJzazZka3JrdXhjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif",
+"lastSynced": "2026-07-21T12:00:00Z",
+"groups": [
+                {
+                "name": "greenwave",
+                "image": "https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg",
+                "url": "https://atime.live/greenwave",
+                "referer": "",
+                "info":"th",
+                "playInNatPlayer": "true
+                },
+               ]
+              },
