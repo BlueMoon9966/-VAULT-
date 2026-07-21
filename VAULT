@@ -1,17 +1,88 @@
 {
 "version": "1.0",
-"name": "Radio",
+"name": "ⓈⓅⒶⒸⒺ",
 "author": "🤜Akaraphisit🤛",
-"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ozaTF3MWVoaDMxbzhiNnIyejk4ZW11ZG51emJzazZka3JrdXhjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif",
-"lastSynced": "2026-07-21T12:00:00Z",
+"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT",
 "groups": [
-                {
-                "name": "greenwave",
-                "image": "https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg",
-                "url": "https://atime.live/greenwave",
-                "referer": "",
-                "info":"th",
-                "playInNatPlayer": "true
-                },
-               ]
-              },
+{
+"name": "Refresh",
+"image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
+"imageScale": "center",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT",
+"import": false
+},
+      {
+      "name": "Movies&Serie",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
+      "groups": [
+         {
+         "name": "As_requested",
+         "author": "🤜Akaraphisit🤛",
+         "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdhOTYzZGZucDlkb3ZkbDJtbzhwcXNwNDU1ZGhlYWpzc2JvNGI2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4DuMuWjKxlbwfIVLA/giphy.gif",
+         "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/As_requested",
+         "import": false
+         },
+         {
+         "name": "Movies Old",
+         "author": "🤜Akaraphisit🤛",
+         "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFlZjllNXQ2aGZ1anNxbG1ieG9yM3lqbnkxa3N0OThlZW85empiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyEo8EE0MThPq/giphy.gif",
+         "groups": [
+         {
+         "name":"Movies 2026",
+         "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZlNWx5bXhjbHFvcG9lbHN2YWgwYzQ2NnFibGN6OHd3eGR3ZHdocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xHhAjwo6ic13fTyjc/giphy.gif",
+         "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Twenty-Four2%20HD-(2026)"
+         },
+         {
+         "name":"Movies 2025",
+         "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h6YW9hNmxrd2ppMm9hMXV4b29vNG1qOHhobmg0YjJ1ZmRjbmkxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0n8j4zs6xhA6HuxDmQ/giphy.gif",
+         "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Twenty-Four2%20HD-(2025)"
+         },
+         {
+         "name":"Movies 2024",
+         "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjU3eGp5cHd2MDMwbjJ2NTg2cmJ1NnFzbm9sbnQxYmxlMzB6b3djNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/banxKXqeiqfue0M3u3/giphy.gif",
+         "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Twenty-Four2%20HD-(2024)"
+         },
+         {
+         "name":"Movies 2023",
+         "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYyaGg0MjhheWU2bDA1NGU2cDExYXc0dWRyOWVmamE2aXNwbDI2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M4TtJKBFtyhKDivKTX/giphy.gif",
+         "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Twenty-Four2%20HD-(2023)"
+         },
+        ]
+       },
+         {
+         "name": "Serie",
+         "author": "🤜Akaraphisit🤛",
+         "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
+         "groups": [
+         {
+         "name": "Serie",
+         "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcyajc0d212cXl3ODdhbnFxdmVjd3NvOXN3NTVscHc5YTM3YzA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RlHZvzhGizzWvUYgWF/giphy.gif",
+         "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Serie",
+         "import": false
+         },
+        ]
+       },
+      ]
+     },
+{
+"name": "Various_TV_programs",
+"image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFlZjllNXQ2aGZ1anNxbG1ieG9yM3lqbnkxa3N0OThlZW85empiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyEo8EE0MThPq/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV%20programs",
+"import": false
+},
+{
+"name": "18+",
+"image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3huc2ZpZm91bWhvbm1rdmRnOHVxeWtsdjA0MmhiMjh2dWZvd3dtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Stop%20time%2018%2B",
+"import": false
+},
+{
+"name": "Radio&MV",
+"image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp6bjdpbnRobTJqeWQ5dmNxaDB2dm80M2JlZXZxd3B4ZHkweHhvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72FbPweVVttIxHTG/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Radio%26MV",
+"import": false
+},
+    ]
+},
