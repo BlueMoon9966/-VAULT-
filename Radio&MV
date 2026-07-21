@@ -1,26 +1,42 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "name": "Radio&MV",
+  "description": "Thai Radio and Media Streaming Collection",
   "author": "🤜Akaraphisit🤛",
   "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp6bjdpbnRobTJqeWQ5dmNxaDB2dm80M2JlZXZxd3B4ZHkweHhvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72FbPweVVttIxHTG/giphy.gif",
+  "metadata": {
+    "lastSynced": "2026-07-21T00:00:00Z",
+    "totalStreams": 2,
+    "updateFrequency": "weekly"
+  },
   "groups": [
     {
-      "name": "greenwave",
+      "id": 1,
+      "name": "Green Wave 106.5 FM",
+      "type": "radio",
       "image": "https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg",
       "url": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8",
-      "info": "Thai",
+      "description": "Green Wave 106.5 FM - Live Radio Stream",
+      "language": "th",
+      "quality": "HLS",
+      "bitrate": "128kbps",
       "status": "active",
-      "lastUpdated": "2026-07-21",
+      "lastUpdated": "2026-07-21T00:00:00Z",
       "referer": "https://atime.live/greenwave/"
     },
     {
-      "name": "greenwave",
+      "id": 2,
+      "name": "Green Wave Live Video",
+      "type": "video",
       "image": "https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg",
       "url": "https://atimevideo.smartclick.co.th/live/greenlive.sdp/playlist.m3u8",
-      "info": "Thai",
+      "description": "Green Wave Live TV Stream",
+      "language": "th",
+      "quality": "HD",
+      "bitrate": "2500kbps",
       "status": "active",
-      "lastUpdated": "2026-07-21",
+      "lastUpdated": "2026-07-21T00:00:00Z",
       "referer": "https://atime.live/greenwave/"
-    },
+    }
   ]
 }
