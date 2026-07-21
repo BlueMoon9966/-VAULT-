@@ -3,11 +3,11 @@
 "name": "Radio",
 "author": "🤜Akaraphisit🤛",
 "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ozaTF3MWVoaDMxbzhiNnIyejk4ZW11ZG51emJzazZka3JrdXhjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif",
-                {
+                
                 "name": "greenwave",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg",
                 "url": "https://atimevideo.smartclick.co.th/live/greenlive.sdp/playlist.m3u8",
                 "referer": "",
                 "info":"th",
                 "playInNatPlayer": "true
-                }
+                },
