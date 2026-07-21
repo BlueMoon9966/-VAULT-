@@ -6,7 +6,7 @@
                 
                 "name": "greenwave",
                 "image": "https://static.mytuner.mobi/media/tvos_radios/815/green-wave-1065-fm.ea9ba6a2.jpg",
-                "url": "https://atimevideo.smartclick.co.th/live/greenlive.sdp/playlist.m3u8",
+                "url": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8",
                 "referer": "",
                 "info":"th",
                 "playInNatPlayer": "true
