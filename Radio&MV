@@ -3,13 +3,13 @@
 # ==================================================
 #                       MV
 # ==================================================
-#EXTINF:-1 tvg-id="GREEN WAVE" tvg-name="GREEN WAVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTUOasjuvVBivxzBpqHIIN5g1CzC5iwaHWwzcMa3PmQ&s=10" group-title="Radio" duration="-1",Green Wave 105.5 FM LIVE
+#EXTINF:-1 tvg-id="GREEN WAVE" tvg-name="GREEN WAVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTUOasjuvVBivxzBpqHIIN5g1CzC5iwaHWwzcMa3PmQ&s=10" group-title="MV" duration="-1",Green Wave 105.5 FM LIVE
 https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
 
-#EXTINF:-1 tvg-id="EFM 94" tvg-name="GREEN WAVE" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ck8sVEmWdv.jpeg" group-title="Radio" duration="-1",EFM 94 LIVE
+#EXTINF:-1 tvg-id="EFM 94" tvg-name="GREEN WAVE" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ck8sVEmWdv.jpeg" group-title="MV" duration="-1",EFM 94 LIVE
 https://atimehd.smartclick.co.th/efm/hls/efm.m3u8
 
-#EXTINF:-1 tvg-id="Hotwave" tvg-name="GREEN WAVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIB7xiVBUJgNoHb09Y1nBAhwIBl3LP_J8ahjEGEymc8pON50tWDl9Zefla&s=10" group-title="Radio" duration="-1",Hotwave LIVE
+#EXTINF:-1 tvg-id="Hotwave" tvg-name="GREEN WAVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIB7xiVBUJgNoHb09Y1nBAhwIBl3LP_J8ahjEGEymc8pON50tWDl9Zefla&s=10" group-title="MV" duration="-1",Hotwave LIVE
 https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8
 
 #EXTINF:-1 tvg-id="TRACE URBAN" tvg-name="GREEN WAVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="MV" duration="-1",TRACE URBAN LIVE
@@ -26,6 +26,9 @@ https://vsd68.okcdn.ru/hls/16435944098518.m3u8/sig/dzc83YSceK8/expires/178477420
 
 #EXTINF:-1 tvg-id="THAT'S 90S & 00S" tvg-name="THAT'S 90S & 00S" tvg-logo="https://ritsatv.ru/files/poster/original/901635.webp" group-title="MV" duration="-1",THAT'S 90S & 00S LIVE
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb543d1c7e6c678884cb3f67cef341a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59641c1dd1cbfd28208834b837ef1099c93a68ace4180d3c57efb02ba675e0a74289bd82991fb40dca8f29ad99e0b4a7236178e979bff47308749472e9795a99e568fd84a1447fb0416a8099935f558769ba87bccd146a9b9a8de4c5435abcf19144f5b15a2f8996366c70dcbaae0c9607d97e318774c830ab2477d6dc0ad9b46c7ab81f5c76d1af5f48b8d90b13c7bb56d9e92c0b46ad649ebd4fd9972604f6d03098956983d0cb134f077b2c71f2d5d0211e3ca158cb1d050346d5895c070e0534ae995dbd89f3932c4364f01a8788f0f4c2ced247c70e01afc9817659d695fd66273a80e75c869d48c01d9eb9be90f30b09ee047fc64e0fc4af1fe10a660391653e6a2620f0b1c3380ae550c3678d14cab8699b6395a56acd2c9f98f026d5777471c5cc5b29505f1e4f7201312ce443520254065f12ae2298e500750548674ba81007797093222e0b34d34776595dabe9288d0de3edb5ad7c8f879627b6e6ab3370a317d91d1a95cee335f716a57e1578422489cbaf18c365b0e82a45fed4d909f3c10e63e7298/8/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 tvg-id="TRACE UK" tvg-name="TRACE UK" tvg-logo="https://ritsatv.ru/files/poster/medium/901235.webp" group-title="MV" duration="-1",TRACE UK LIVE
+https://amg01131-tracetv-amg01131c5-plex-us-4388.playouts.now.amagi.tv/playlist1080p.m3u8
 
 # ==================================================
 #                      Radio
