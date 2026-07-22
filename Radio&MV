@@ -6,11 +6,11 @@
 #EXTINF:-1 tvg-id="TRACE URBAN" tvg-name="GREEN WAVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="MV" duration="-1",TRACE URBAN LIVE
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 tvg-id="TRACE LATINA" tvg-name="TRACE LATINA" tvg-logo="https://ritsatv.ru/files/poster/medium/901573.webp" group-title="MV" duration="-1",TRACE LATINA LIVE
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
+
 #EXTINF:-1 tvg-id="About Juice TV" tvg-name="About Juice TV" tvg-logo="https://www.juicetv.live/assets/global-assets/juicetv-social-v3.png" group-title="MV" duration="-1",About Juice TV LIVE
 https://juicex.nz/hls/mystream.m3u8
-
-#EXTINF:-1 tvg-id="Hotwave" tvg-name="GREEN WAVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTUOasjuvVBivxzBpqHIIN5g1CzC5iwaHWwzcMa3PmQ&s=10" group-title="MV" duration="-1",Hotwave LIVE
-https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8
 
 #EXTINF:-1 tvg-id="RITSA TV" tvg-name="RITSA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l7EU-QKiy38qkLmNlbbqKTAKfsVahcQy8vicsv9-Ic0qA=s900-c-k-c0x00ffffff-no-rj" group-title="MV" duration="-1",RITSA TV LIVE
 https://vsd68.okcdn.ru/hls/16435944098518.m3u8/sig/dzc83YSceK8/expires/1784774200944/srcIp/104.23.172.95/urls/185.226.55.87/clientType/0/srcAg/CHROME/mid/15065312337622/16435944098518_medium/index.m3u8
