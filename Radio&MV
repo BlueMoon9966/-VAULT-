@@ -30,8 +30,8 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/p
 #EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/901479.jpg" group-title="MV" duration="-1",EDM MAINSTAGE DANCE TV LIVE
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/901479.jpg" group-title="MV" duration="-1",EDM MAINSTAGE DANCE TV LIVE
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/original/900991.jpg" group-title="MV" duration="-1",CITY TV LIVE
+https://tv.city.bg/play/tshls/citytv/1.m3u8
 
 #EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/900857.webp" group-title="MV" duration="-1",MTV LIVE USA LIVE
 https://mtv.hach.workers.dev/?url=http%3A%2F%2F23-237-104-106.nip.io%3A8080%2FUSA_MTV_LIVE%2Ftracks-v1a1%2Fmono.m3u8
