@@ -1,4 +1,4 @@
-#EXTM3U url="https://hls.iptv-th.workers.dev/playlist.m3u?fbclid=IwT01FWATNNDhleHRuA2FlbQIxMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR6HTvqoLdFxVri0Tu0wwZdGxoSQJxhQU1gGrv0IEsk8MhNqcGhKjWuCN-ypCQ_aem_PaH5o2epj2I3fXb1G9aV-w"
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/3hd.png" group-title="ดิจิตอลทีวี",CH 3 HD
 https://hls.iptv-th.workers.dev/live/127/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/5hd.png" group-title="ดิจิตอลทีวี",CH 5 HD
