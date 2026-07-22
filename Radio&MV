@@ -62,3 +62,21 @@ https://eb27a17z.mcot.net/FM107/fm107.stream_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fANqGSV3WH.png" group-title="Radio" duration="-1",MUNforward Xtra Music
 https://cdn-th2.livestreaming.in.th/shoutcast/8795
+
+#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/radios-150px/yevk8f78cyqr.jpeg" group-title="Radio" duration="-1",FLEX 104.5 FM Music
+https://radio10.plathong.net/7228/;stream.mp3
+
+#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7t8tsnDj3V.png"Radio" duration="-1",104 Green FM Music
+https://radio14.plathong.net/7072/;stream.mp3
+
+#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/168/top-view-point-radio.7c74e932.png" group-title="Radio" duration="-1",Top Viewpoint Radio 93.75 Music
+https://radio9.plathong.net/7146/;stream.mp3
+
+#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://bangkok.fm/assets/logo-bangkokfm-white-dp3-G7l2.png" group-title="Radio" duration="-1",Bangkok FM Music
+https://audio-edge-fvq45.ams.d.radiomast.io/b4328177-eee1-4fb1-8b28-94009a331613
+
+#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png" group-title="Radio" duration="-1",COOL fahrenheit FM 93 Music
+https://coolism-web.cdn.byteark.com/;stream/1
+
+#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ck8sVEmWdv.jpeg" group-title="Radio" duration="-1",EFM-94 Music
+https://atimeonline2.smartclick.co.th/efm
