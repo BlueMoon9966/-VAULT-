@@ -1,19 +1,27 @@
 {
- "name": "ซีรีส์จีนแนวตั้ง",
- "author": "🤜Akaraphisit🤛",
- "day": "18-07-2026",
- "info": "",
- "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
- "stations": [
-  {
-   "name": "คุณหรือฉันที่เป็นทายาทท่านประธาน",
-   "image": "https://pic.bstarstatic.com/ugc/9136cd9289532ba8e1bc7bf416039edd.jpg@720w_405h_1e_1c_90q.webp",
-   "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/q3/w3/n251208ad1o7oja2bcbw5d1btb40w3q3-1-131210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&gen=playurlv3&platform=pc&oi=837273976&trid=bc8f0ca2d5aa4efa9136c64a1dc1b77ci&mid=0&nbs=1&deadline=1784807147&os=akam&upsig=97af2212619b1b50c0da0ef116945fa0&uparams=e,uipk,gen,platform,oi,trid,mid,nbs,deadline,os&hdnts=exp=1784807147~hmac=bbc1f0fa71de408820b458bf8cd3ed94bda0ac7b5b702378785b66a96ad1c196&bvc=vod&orderid=0,2&logo=00000000&f=i_0_0",
-   "info": "ภาพ HD | พากย์ไทย"
-  },
-  {
-   "name": "สองคู่ซี้ปราบแม่ผัวตัวแสบในยุค 80",
-   "image": "https://pic.bstarstatic.com/ugc/dd72129f3a55c6d15ec70c6f267d4235.jpg@720w_405h_1e_1c_90q.webp",
-   "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/t6/1k/n251208ad2uqvh2rrpfrrc2gapv41kt6-1-131210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&os=akam&platform=pc&nbs=1&deadline=1784808223&gen=playurlv3&oi=837273976&trid=66029b83a4c24e039e1c9e8bb74dec4di&mid=0&upsig=c836af0ffea93c557225820bd03fddf1&uparams=e,uipk,os,platform,nbs,deadline,gen,oi,trid,mid&hdnts=exp=1784808223~hmac=0eae8c8f74a1df51e922d057a041e98c804fe8c323007df867515a2d152dcd0b&bvc=vod&orderid=0,2&logo=00000000&f=i_0_0",
-   "info": "ภาพ HD | พากย์ไทย"
-  },
+    "name": "ซีรีส์จีนแนวตั้ง",
+    "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+    "author": "🤜Akaraphisit🤛",
+    "groups": [
+{
+  "name": "ที่จอดรถเจ้าปัญหา (พากย์ไทย)",
+  "image": "https://xn--12cl2bu4bo9gyf.com/wp-content/uploads/2026/03/%E0%B8%82%E0%B8%AD%E0%B9%82%E0%B8%97%E0%B8%A9%E0%B8%99%E0%B8%B0%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%89%E0%B8%B1%E0%B8%99-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-225x300.webp",
+  "info": "พากย์ไทย",
+  "author": "🤜Akaraphisit🤛",
+  "stations": [
+    {
+      "name": "EP1",
+      "image": "https://xn--12cl2bu4bo9gyf.com/wp-content/uploads/2026/03/%E0%B8%82%E0%B8%AD%E0%B9%82%E0%B8%97%E0%B8%A9%E0%B8%99%E0%B8%B0%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%89%E0%B8%B1%E0%B8%99-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-225x300.webp",
+      "url": "https://media.vdohls.com/aPL-Wk8_vUJA9/video.m3u8",
+      "referer": "",
+      "info": "พากย์ไทย",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "EP2",
+      "image": "https://xn--12cl2bu4bo9gyf.com/wp-content/uploads/2026/03/%E0%B8%82%E0%B8%AD%E0%B9%82%E0%B8%97%E0%B8%A9%E0%B8%99%E0%B8%B0%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%89%E0%B8%B1%E0%B8%99-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-225x300.webp",
+      "url": "https://media.vdohls.com/21_eSe-4tuTBs/video.m3u8",
+      "referer": "",
+      "info": "พากย์ไทย",
+      "playInNatPlayer": "true"
+    },
