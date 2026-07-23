@@ -3,9 +3,6 @@
 # ==================================================
 #                       MV
 # ==================================================
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/187/musichitz-radio-inter.1312996b.jpg" group-title="MV" duration="-1",Musichitz Inter LIVE
-https://free.rcast.net/71036
-
 #EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTUOasjuvVBivxzBpqHIIN5g1CzC5iwaHWwzcMa3PmQ&s=10" group-title="MV" duration="-1",Green Wave 105.5 FM LIVE
 https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
 
@@ -63,6 +60,9 @@ https://vkvsd62.okcdn.ru/cmaf/6083717368449/sig/g4ytyKdWnSw/srcIp/223.24.201.213
 # ==================================================
 #                      Radio
 # ==================================================
+#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/187/musichitz-radio-inter.1312996b.jpg" group-title="Radio" duration="-1",Musichitz Inter LIVE
+https://free.rcast.net/71036
+
 #EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/369/met-107-fm.e754f3fd.jpg" tvg-info="Sound Track" group-title="Radio" duration="-1",Met 107 FM Music
 https://eb27a17z.mcot.net/FM107/fm107.stream_aac/playlist.m3u8
 
