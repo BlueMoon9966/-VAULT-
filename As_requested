@@ -7,25 +7,32 @@
  "groups": [
   {
    "name": "War Machine (2026) สงครามจักรกลถล่มโลก",
-   "info": "22/7/2026 20:54",
    "image": "https://image.bangkokbiznews.com/uploads/images/contents/w1024/2025/07/3270jM18Y4qilpiue88x.webp?x-image-process=style/lg-webp",
-   "url": "https://media.vdohls.com/Cm-Ehv5P_EktP/video.m3u8"
+   "url": "https://media.vdohls.com/Cm-Ehv5P_EktP/video.m3u8",
+   "info": "22/7/2026 20:54",
+   "referer": "",
+   "playInNatPlayer": "true"
   },
   {
    "name": "The Death of Robin Hood (2026) บันทึกสุดท้ายของจอมโจร",
-   "info": "20/6/2026 20:54",
    "image": "https://image.bangkokbiznews.com/uploads/images/contents/w1024/2025/07/3270jM18Y4qilpiue88x.webp?x-image-process=style/lg-webp",
-   "url": "https://media.vdohls.com/P_wHG8-9oQEey/playlist.m3u8"
+   "url": "https://media.vdohls.com/P_wHG8-9oQEey/playlist.m3u8",
+   "info": "23/7/2026 20:54",
+   "referer": "",
+   "playInNatPlayer": "true"
   },
   {
    "name": "Omniscient Reader The Prophecy (2025) อ่านชะตาวันสิ้นโลก",
    "info": "20/6/2026 20:54",
    "image": "https://cms.dmpcdn.com/dara/2026/05/02/88b3c370-4601-11f1-a7a4-371548f2e07e_webp_original.webp",
-   "url": "https://media.vdohls.com/halrybuvwxjvkoz/playlist.m3u8"
+   "url": "https://media.vdohls.com/halrybuvwxjvkoz/playlist.m3u8",
+   "info": "23/7/2026 20:54",
+   "referer": "",
+   "playInNatPlayer": "true"
   },
   {
    "name": "Man on Fire (2026) คนจริงเผาแค้น",
-   "info": "05/05/2026 20:54",
+   "info": "23/7/2026 20:54",
    "image": "https://image.tmdb.org/t/p/original/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
    "url": "https://docs.google.com/uc?id=1v_d96y8VLI5K5H1v4JZqlOuwWft8hIr2"
   },
