@@ -6,6 +6,18 @@
  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
  "stations": [
   {
+   "name": "Crime 101 (2026) เส้นทางปล้นโคตรระห่ำ",
+   "image": "https://9.9nung.com/wp-content/uploads/2026/02/vFFrG27mjg0qXy2RaKp4a5US8kx-185x278.jpg",
+   "url": "https://media.vdohls.com/4e-C_oZbsRPJc/video.m3u8",
+   "info": "ภาพ HD | พากย์ไทย"
+  },
+  {
+   "name": "Pee Nak 5 (2026) พี่นาค 5",
+   "image": "https://9.9nung.com/wp-content/uploads/2026/07/mGQBm9azvEO3cOQuZPhmH0QZiOb-185x278.jpg",
+   "url": "https://media.vdohls.com/dqqp_gH-EyoDl/video.m3u8",
+   "info": "ภาพ HD | พากย์ไทย"
+  },
+  {
    "name": "War Machine (2026) สงครามจักรกลถล่มโลก",
    "image": "https://www.mangodvd.com/uploads/products/2026-03-26/1591.jpg",
    "url": "https://media.vdohls.com/Cm-Ehv5P_EktP/video.m3u8",
@@ -21,12 +33,6 @@
    "name": "Omniscient Reader The Prophecy (2025) อ่านชะตาวันสิ้นโลก",
    "image": "https://cms.dmpcdn.com/dara/2026/05/02/88b3c370-4601-11f1-a7a4-371548f2e07e_webp_original.webp",
    "url": "https://media.vdohls.com/halrybuvwxjvkoz/playlist.m3u8",
-   "info": "ภาพ HD | พากย์ไทย"
-  },
-  {
-   "name": "Pee Nak 5 (2026) พี่นาค 5",
-   "image": "https://9.9nung.com/wp-content/uploads/2026/07/mGQBm9azvEO3cOQuZPhmH0QZiOb-185x278.jpg",
-   "url": "https://media.vdohls.com/dqqp_gH-EyoDl/video.m3u8",
    "info": "ภาพ HD | พากย์ไทย"
   },
  ]
