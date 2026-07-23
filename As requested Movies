@@ -1,9 +1,10 @@
 {
- "name": " 🎦ⓈⓅⒶⒸⒺ🎦",
+ "name": "As requested Movies",
  "author": "🤜Akaraphisit🤛",
  "day": "18-07-2026",
+ "info": "",
  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
- "groups": [
+ "stations": [
   {
    "name": "War Machine (2026) สงครามจักรกลถล่มโลก",
    "image": "https://image.bangkokbiznews.com/uploads/images/contents/w1024/2025/07/3270jM18Y4qilpiue88x.webp?x-image-process=style/lg-webp",
@@ -18,7 +19,6 @@
   },
   {
    "name": "Omniscient Reader The Prophecy (2025) อ่านชะตาวันสิ้นโลก",
-   "info": "20/6/2026 20:54",
    "image": "https://cms.dmpcdn.com/dara/2026/05/02/88b3c370-4601-11f1-a7a4-371548f2e07e_webp_original.webp",
    "url": "https://media.vdohls.com/halrybuvwxjvkoz/playlist.m3u8",
    "info": "ภาพ HD | พากย์ไทย"
