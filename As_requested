@@ -6,34 +6,23 @@
  "url": "https://github.com/BlueMoon9966/Lee9966/blob/main/As_requested",
  "groups": [
   {
-  "name": "หนัง",
-  "image": "https://www.seriesday-hd.com/wp-content/uploads/2025/09/Mandate-2025.jpg",
-  "info": "23/07/2569",
-  "author": ":หนัง",
-  "stations": [
-  {
    "name": "War Machine (2026) สงครามจักรกลถล่มโลก",
-   "image": "https://image.tmdb.org/t/p/original/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
-   "url": "https://media.vdohls.com/Boh_2-ffd1NcT/playlist.m3u8"
+   "info": "22/7/2026 20:54",
+   "image": "https://image.bangkokbiznews.com/uploads/images/contents/w1024/2025/07/3270jM18Y4qilpiue88x.webp?x-image-process=style/lg-webp",
+   "url": "https://media.vdohls.com/Cm-Ehv5P_EktP/video.m3u8"
   },
   {
    "name": "The Death of Robin Hood (2026) บันทึกสุดท้ายของจอมโจร",
+   "info": "20/6/2026 20:54",
    "image": "https://image.bangkokbiznews.com/uploads/images/contents/w1024/2025/07/3270jM18Y4qilpiue88x.webp?x-image-process=style/lg-webp",
    "url": "https://media.vdohls.com/P_wHG8-9oQEey/playlist.m3u8"
   },
   {
    "name": "Omniscient Reader The Prophecy (2025) อ่านชะตาวันสิ้นโลก",
+   "info": "20/6/2026 20:54",
    "image": "https://cms.dmpcdn.com/dara/2026/05/02/88b3c370-4601-11f1-a7a4-371548f2e07e_webp_original.webp",
    "url": "https://media.vdohls.com/halrybuvwxjvkoz/playlist.m3u8"
   },
-  ]
-  }
-  {
-  "name": "ซีรีย์",
-  "image": "https://www.seriesday-hd.com/wp-content/uploads/2025/09/Mandate-2025.jpg",
-  "info": "23/07/2569",
-  "author": ":ซีรี่ไทย",
-  "stations": [
   {
    "name": "Man on Fire (2026) คนจริงเผาแค้น",
    "info": "05/05/2026 20:54",
@@ -93,8 +82,6 @@
    "name": "โจวอิ๋ง สตรีจอมทระนง",
    "image": "https://wow-drama.com/wp-content/uploads/2023/10/โจวอิ๋ง-สตรีจอมทระนง-1.jpg",
    "url": "https://drive.google.com/uc?id=1la5RC_3Hk13pQMX5eXoRKe71xKpg6bYM"
-  },
+  }
  ]
-},
-]
 }
