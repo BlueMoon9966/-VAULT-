@@ -7,7 +7,7 @@
  "stations": [
   {
    "name": "War Machine (2026) สงครามจักรกลถล่มโลก",
-   "image": "https://image.bangkokbiznews.com/uploads/images/contents/w1024/2025/07/3270jM18Y4qilpiue88x.webp?x-image-process=style/lg-webp",
+   "image": "https://www.mangodvd.com/uploads/products/2026-03-26/1591.jpg",
    "url": "https://media.vdohls.com/Cm-Ehv5P_EktP/video.m3u8",
    "info": "ภาพ HD | พากย์ไทย"
   },
@@ -15,6 +15,12 @@
    "name": "The Death of Robin Hood (2026) บันทึกสุดท้ายของจอมโจร",
    "image": "https://image.bangkokbiznews.com/uploads/images/contents/w1024/2025/07/3270jM18Y4qilpiue88x.webp?x-image-process=style/lg-webp",
    "url": "https://media.vdohls.com/P_wHG8-9oQEey/playlist.m3u8",
+   "info": "ภาพ HD | พากย์ไทย"
+  },
+  {
+   "name": "Omniscient Reader The Prophecy (2025) อ่านชะตาวันสิ้นโลก",
+   "image": "https://cms.dmpcdn.com/dara/2026/05/02/88b3c370-4601-11f1-a7a4-371548f2e07e_webp_original.webp",
+   "url": "https://media.vdohls.com/halrybuvwxjvkoz/playlist.m3u8",
    "info": "ภาพ HD | พากย์ไทย"
   },
   {
