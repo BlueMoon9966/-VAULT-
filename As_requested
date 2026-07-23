@@ -2,142 +2,75 @@
  "name": " 🎦ⓈⓅⒶⒸⒺ🎦",
  "author": "🤜Akaraphisit🤛",
  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
- "info": "22/7/2026 20:54",
- "url": "https://github.com/BlueMoon9966/Lee9966/blob/main/As_requested",
  "groups": [
   {
    "name": "War Machine (2026) สงครามจักรกลถล่มโลก",
    "image": "https://image.tmdb.org/t/p/original/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
-   "url": "https://media.vdohls.com/Boh_2-ffd1NcT/playlist.m3u8"
+   "url": "https://media.vdohls.com/Boh_2-ffd1NcT/playlist.m3u8",
   },
   {
    "name": "The Death of Robin Hood (2026) บันทึกสุดท้ายของจอมโจร",
    "image": "https://image.bangkokbiznews.com/uploads/images/contents/w1024/2025/07/3270jM18Y4qilpiue88x.webp?x-image-process=style/lg-webp",
-   "url": "https://media.vdohls.com/P_wHG8-9oQEey/playlist.m3u8"
+   "url": "https://media.vdohls.com/P_wHG8-9oQEey/playlist.m3u8",
   },
   {
    "name": "Omniscient Reader The Prophecy (2025) อ่านชะตาวันสิ้นโลก",
    "image": "https://cms.dmpcdn.com/dara/2026/05/02/88b3c370-4601-11f1-a7a4-371548f2e07e_webp_original.webp",
-   "url": "https://media.vdohls.com/halrybuvwxjvkoz/playlist.m3u8"
+   "url": "https://media.vdohls.com/halrybuvwxjvkoz/playlist.m3u8",
   },
-      [
-      {
-      "name": "Man on Fire (2026) คนจริงเผาแค้น",
-      "author": "05/05/2026 20:58",
-      "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/7bf18093ef6587411e8b74e1/7bf18093ef6587411e8b74e1.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/a97e3b43e3c7a04313d7ff72/a97e3b43e3c7a04313d7ff72.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/d94973a800e6a66e676a5d24/d94973a800e6a66e676a5d24.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/df73663572d2d45e2f604ec1/df73663572d2d45e2f604ec1.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/1cbcc527c61068f940d40fbc/1cbcc527c61068f940d40fbc.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/a78f779d82d6debe25705319/a78f779d82d6debe25705319.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/2801f8e36ae61bc45b677e94/2801f8e36ae61bc45b677e94.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/166ef5445ca39a21938bf3f3/166ef5445ca39a21938bf3f3.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/c099f5bbb86e589319e3eac0/c099f5bbb86e589319e3eac0.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/5880c46c2a85c5fb61f70acf/5880c46c2a85c5fb61f70acf.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/5cdf0b372c49b6a0a57e7ad1/5cdf0b372c49b6a0a57e7ad1.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/da586d1017876e4da25be79d/da586d1017876e4da25be79d.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/996f280cdbfff1ddb7f06a8c/996f280cdbfff1ddb7f06a8c.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.serie-days.com/wp-content/uploads/2026/05/Man-on-Fire-2026.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/92527c53945e647b4dc0fee9/92527c53945e647b4dc0fee9.m3u8",
-          "referer": "https://www.serie-days.com/",
-          "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-        },
-       },
-      ]
-     ]
-    },
+{
+   "name": " High Potential 1-2",
+   "info": "04/05/2026 17:53",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/01/High-Potential-Season-1.jpg",
+   "url": "https://docs.google.com/uc?id=1ZmmwTxsaMGWRcmyZCBtRlzln9Ic3cIDK"
+  },
+  {
+   "name": "Taxi Driver แท็กซี่จ้างแค้น",
+   "info": "04/05/2026 17:50",
+   "image": "https://goseries4k.com/wp-content/uploads/2021/12/Taxi-Driver-แท็กซี่จ้างแค้น.jpg",
+   "url": "https://docs.google.com/uc?id=17OUfasZ41lD17T5uid55L80VvjmDwVc9"
+  },
+  {
+   "name": "ดูซีรี่ย์ออนไลน์ MAN ON FIRE คนจริงเผาแค้น (2026) พากย์ไทย EP.1-7 จบ G4",
+   "info": "02/05/2026 17:16",
+   "image": "https://goseries4k.com/wp-content/uploads/2026/04/4.jpg",
+   "url": "https://docs.google.com/uc?id=1ACGhYPtDXlYwa-UqVUAhoOjSaQK2naig"
+  },
+  {
+   "name": "Sword Snow Stride (2021) ดาบพิฆาตกลางหิมะ ตอนที่1-38 (จบ) | พากย์ไทย",
+   "info": "01/05/2026 15:35",
+   "image": "https://goseries4k.com/wp-content/uploads/2022/01/ดาบพิฆาตกลางหิมะ.jpg",
+   "url": "https://docs.google.com/uc?id=1kNwc0H5oOCWHgdbuNsXp5PYf6GeCMMJA"
+  },
+  {
+   "name": "Tu Yaa Main (2026) ไม่เธอ... ก็ฉัน",
+   "image": "https://nanamovies.org/wp-content/uploads/2026/04/Tu-Yaa-Main-2026.webp",
+   "url": "https://drive.google.com/uc?id=1MJ8Z_dOWb5KMNGV4p-nlORuJ4y6YZ5Cp"
+  },
+  {
+   "name": "Dr. Romantic ดอกเตอร์ โรแมนติกซีซั่น 1-3 ครบทุกตอน",
+   "image": "https://img.monomax.me/cGX4e6hz0_4CaS8Tf3nj9tWo14Y=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/products/102905_41FCKn6SqzIDd4b9nebY.jpg",
+   "url": "https://drive.google.com/uc?id=1GfIU0eA9dPiQbIG54lY2a9rGJufQ8nzb"
+  },
+  {
+   "name": "Shin's Project (2025) มิสเตอร์ชินรับจบ",
+   "image": "https://www.serie-days.com/wp-content/uploads/2025/09/Shins-Project-2025.jpg",
+   "url": "https://drive.google.com/uc?id=13jQpKYVSb8V5dMfRe8AdSJ4lmLTMA1BE"
+  },
+  {
+   "name": "อนงค์ 2..สามสี่ชาติ My Boo 2 (2025)",
+   "image": "https://www.siamzone.com/movie/pic/2025/myboo2/poster2.jpg",
+   "url": "https://drive.google.com/uc?id=1cMjsRGptOSbqJGskBqnjd1xXDAv3YVZY"
+  },
+  {
+   "name": "The K2 (2016) รหัสรักบอดี้การ์ด",
+   "image": "https://subserieshd.com/img/The-K2.jpg?v=1001",
+   "url": "https://drive.google.com/uc?id=1mfA9-8NPaH_V-mt9M9HioARjmnOWtsN1"
+  },
+  {
+   "name": "โจวอิ๋ง สตรีจอมทระนง",
+   "image": "https://wow-drama.com/wp-content/uploads/2023/10/โจวอิ๋ง-สตรีจอมทระนง-1.jpg",
+   "url": "https://drive.google.com/uc?id=1la5RC_3Hk13pQMX5eXoRKe71xKpg6bYM"
+  },
+ ]
+},
