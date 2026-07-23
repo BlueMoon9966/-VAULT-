@@ -78,8 +78,14 @@
          },
         ]
        },
-      ]
-     },
+         {
+         "name": "ซีรีส์จีนแนวตั้ง",
+         "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVhOW16MmI1Z3lsZnRwb2MyN2R2N3dyY2w5YjZvemk0N20wb2RraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqSBJZJJ9q40M3E35g/giphy.gif",
+         "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87",
+         "import": false
+         },
+        ]
+       },
 {
 "name": "Various_TV_programs",
 "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFlZjllNXQ2aGZ1anNxbG1ieG9yM3lqbnkxa3N0OThlZW85empiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyEo8EE0MThPq/giphy.gif",
