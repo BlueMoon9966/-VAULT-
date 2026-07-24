@@ -379,5 +379,13 @@
     },
    ]
   },
+    {
+      "name": "สุสานมังกร (พากย์ไทย)",
+      "image": "https://www.xn--72c9ab1ec1bc6q.online/uploads/posters/d336c2777a8f4881972055771e62a12a.webp",
+      "url": "https://stream.xn--72c9ab1ec1bc6q.xyz/1a43263f-9239-41e2-9a80-fbc7a572950a/480p/video.m3u8",
+      "author": "🤜Akaraphisit🤛",
+      "info": "พากย์ไทย",
+      "playInNatPlayer": "true"
+    },
  ]
 },
