@@ -4,11 +4,29 @@
     "author": "🤜Akaraphisit🤛",
     "stations": [
 {
-"name": "ดูผ่านเว็บ",
+"name": "ช่องของ มินิซีรีส์จีนแนวตั้ง",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
-"url": "https://www.bilibili.tv/th/short-drama", 
+"url": "https://www.bilibili.tv/th/space/1967559152", 
 "referer": "",
-"info":"TH/EN",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ช่องของ ติดซีรีย์แนวตั้ง",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
+"url": "https://www.bilibili.tv/th/space/1002761341", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ช่องของ ละครสั้นจีน",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
+"url": "https://www.bilibili.tv/th/space/1877661680", 
+"referer": "",
+"info":"ผ่านเว็บ",
 "embed": "true",
 "playInNatPlayer": "true"
 },
