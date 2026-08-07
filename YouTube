@@ -1,7 +1,7 @@
 {
   "name": "สตรีม YouTube",
   "author": "🤜Akaraphisit🤛",
-  "image": "https://static.mytuner.mobi/media/tvos_radios/187/musichitz-radio-inter.1312996b.jpg",
+  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
   "stations": [
     {
       "id": "2zxM3ldsiEY",
@@ -11,7 +11,7 @@
       "url": "https://www.youtube.com/watch?v=2zxM3ldsiEY",
       "embedUrl": "https://www.youtube.com/embed/2zxM3ldsiEY",
       "provider": "youtube",
-      "isEmbed": true
+      "isEmbed": false
     }
   ]
 }
