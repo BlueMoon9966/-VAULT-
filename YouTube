@@ -11,8 +11,8 @@
       "url": "https://www.youtube.com/watch?v=2zxM3ldsiEY",
       "embedUrl": "https://www.youtube.com/embed/2zxM3ldsiEY",
       "provider": "youtube",
-      "isEmbed": false
-      "openInNativeApp": true
+      "isEmbed": true
+      "openInNativeApp": false
     }
   ]
 }
