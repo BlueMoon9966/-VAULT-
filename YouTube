@@ -11,8 +11,7 @@
       "url": "https://www.youtube.com/watch?v=23cipSExADA",
       "embedUrl": "https://www.youtube.com/embed/23cipSExADA",
       "provider": "youtube",
-      "openInNativeApp": true
-      "info":"[OFFICIAL MV]",
+      "isEmbed": true
     }
   ]
 }
