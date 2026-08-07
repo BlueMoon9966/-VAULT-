@@ -1,31 +1,38 @@
-{ 
-"schemaVersion": "1.0", 
-"name": "สตรีม YouTube", 
-"author": "🤜Akaraphisit🤛", 
-"language": "th", 
-"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif", 
-"stations": [ 
 {
-"videoId": "2zxM3ldsiEY", 
-"title": "สามีบ้าน ๆ ที่ฉันเก็บมาแต่งงาน ดันเป็นประธานใหญ่ตัวจริง พอท้องถึง...", 
-"description": "", 
-"thumbnails":
-{
-"default": "https://i.ytimg.com/vi/2zxM3ldsiEY/default.jpg", 
-"medium": "https://i.ytimg.com/vi/2zxM3ldsiEY/mqdefault.jpg", 
-"high": "https://i.ytimg.com/vi/2zxM3ldsiEY/hqdefault.jpg" 
-}, 
-"url": "https://www.youtube-nocookie.com/embed/2zxM3ldsiEY?rel=0&playsinline=1", 
-"embedUrl": "https://www.youtube-nocookie.com/embed/2zxM3ldsiEY",
-"provider": "youtube", 
-"isEmbed": true, 
-"openInNativeApp": false, 
-"playerParams": 
-{
-"rel": 0, 
-"playsinline": 1, 
-"modestbranding": 1
- } ,
-} ,
-]
-},
+  "schemaVersion": "1.1",
+  "name": "สตรีม YouTube",
+  "author": "🤜Akaraphisit🤛",
+  "language": "th",
+  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+  "imageAlt": "Animated GIF for YouTube stream list",
+  "description": "รายการสตรีมที่คัดเลือกจากช่อง (YouTube).",
+  "videos": [
+    {
+      "videoId": "2zxM3ldsiEY",
+      "title": "สามีบ้าน ๆ ที่ฉันเก็บมาแต่งงาน ดันเป็นประธานใหญ่ตัวจริง",
+      "description": "",
+      "channelTitle": "",
+      "publishedAt": "2026-07-01T00:00:00Z",
+      "duration": "PT15M30S",
+      "tags": ["นิยาย", "ไทย", "romance"],
+      "thumbnails": {
+        "default": "https://i.ytimg.com/vi/2zxM3ldsiEY/default.jpg",
+        "medium": "https://i.ytimg.com/vi/2zxM3ldsiEY/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/2zxM3ldsiEY/hqdefault.jpg",
+        "standard": "https://i.ytimg.com/vi/2zxM3ldsiEY/sddefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/2zxM3ldsiEY/maxresdefault.jpg"
+      },
+      "watchUrl": "https://www.youtube.com/watch?v=2zxM3ldsiEY",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/2zxM3ldsiEY",
+      "provider": "youtube",
+      "isEmbed": true,
+      "openInNativeApp": false,
+      "playerParams": {
+        "rel": 0,
+        "playsinline": 1,
+        "modestbranding": 1
+      },
+      "addedAt": "2026-08-07T00:00:00Z"
+    }
+  ]
+}
