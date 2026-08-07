@@ -5,13 +5,14 @@
   "stations": [
     {
       "id": "2zxM3ldsiEY",
-      "name": "สามีบ้าน ๆ ที่ฉันเก็บมาแต่งงาน ดันเป็นประธานใหญ่ตัวจริง",
+      "name": "เพราะพี่รักจริง - หนึ่ง บีเคแบนด์",
       "description": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwnSr-YIaJgbKKtBJGD0__vhuh-c_XbKYI6eOE8-fhQQ&s=10",
-      "url": "https://www.youtube.com/watch?v=2zxM3ldsiEY",
-      "embedUrl": "https://www.youtube.com/embed/2zxM3ldsiEY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqMwKaMLJgcpbN6qPmeKMqM5kAhgp97kO63W--SaJRw&s",
+      "url": "https://www.youtube.com/watch?v=23cipSExADA",
+      "embedUrl": "https://www.youtube.com/embed/23cipSExADA",
       "provider": "youtube",
       "openInNativeApp": true
+      "info":"[OFFICIAL MV]",
     }
   ]
 }
