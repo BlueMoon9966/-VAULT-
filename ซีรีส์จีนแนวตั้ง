@@ -35,7 +35,16 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZ3BODhgjed1dFkVdWVMo-fZ8IUoHrmyNjoGekf2Epe1nJXZQIDVxA3Q&s=10",
 "url": "https://www.facebook.com/share/v/18NcvuFmES/", 
 "referer": "",
-"info":"ผ่านเว็บ",
+"info":"Facebook",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "เพราะพี่รักจริง - หนึ่ง บีเคแบนด์",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqMwKaMLJgcpbN6qPmeKMqM5kAhgp97kO63W--SaJRw&s",
+"url": "https://youtu.be/23cipSExADA?si=2fKLQZJMUz6LmLuL", 
+"referer": "",
+"info":"Facebook",
 "embed": "true",
 "playInNatPlayer": "true"
 },
