@@ -23,7 +23,7 @@
         "maxres": "https://i.ytimg.com/vi/2zxM3ldsiEY/maxresdefault.jpg"
       },
       "watchUrl": "https://m.youtube.com/watch?v=2zxM3ldsiEY&pp=iggCQAE%3D",
-      "embedUrl": "https://m.youtube-nocookie.com/embed/2zxM3ldsiEY&pp=iggCQAE%3Dhttps://www.youtube-nocookie.com/embed/2zxM3ldsiEY",
+      "embedUrl": "https://m.youtube-nocookie.com/embed/2zxM3ldsiEY&pp=iggCQAE%3D",
       "provider": "youtube",
       "isEmbed": true,
       "openInNativeApp": false,
