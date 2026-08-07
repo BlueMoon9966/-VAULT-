@@ -1,0 +1,13 @@
+{
+  "name": "สตรีม YouTube",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://static.mytuner.mobi/media/tvos_radios/187/musichitz-radio-inter.1312996b.jpg",
+  "stations": [
+    {
+      "name": "สามีบ้าน ๆ ที่ฉันเก็บมาแต่งงาน ดันเป็นประธาน ใหญ่ตัวจริง พอท้องถึงได้รู้ว่าหลอกกันทั้งเรื่อง",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwnSr-YIaJgbKKtBJGD0__vhuh-c_XbKYI6eOE8-fhQQ&s=10",
+      "url": "ytdl://youtube.com/watch?v=2zxM3ldsiEY",
+      "isEmbed": true
+    },
+  ]
+},
