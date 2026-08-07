@@ -12,7 +12,8 @@
       "embedUrl": "https://www.youtube.com/embed/23cipSExADA",
       "provider": "youtube",
       "isEmbed": true
-      "openInNativeApp": false,
+      "openInNativeApp": false
+      "info": "OFFICIAL MV",
     }
   ]
 }
