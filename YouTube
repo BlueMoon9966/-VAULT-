@@ -1,29 +1,61 @@
 {
-  "schemaVersion": "1.1",
+  "schemaVersion": "1.2",
+  "id": "youtube-streams",
   "name": "สตรีม YouTube",
   "author": "🤜Akaraphisit🤛",
   "language": "th",
+  "license": "standard",
+  "maintainer": {
+    "name": "Akaraphisit",
+    "contact": ""
+  },
   "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
   "imageAlt": "Animated GIF for YouTube stream list",
   "description": "รายการสตรีมที่คัดเลือกจากช่อง (YouTube).",
+  "sortBy": "publishedAt",
   "videos": [
     {
-      "videoId": "2zxM3ldsiEY&pp=iggCQAE%3D",
+      "videoId": "2zxM3ldsiEY",
+      "canonicalId": "youtube:2zxM3ldsiEY",
       "title": "สามีบ้าน ๆ ที่ฉันเก็บมาแต่งงาน ดันเป็นประธานใหญ่ตัวจริง",
       "description": "",
       "channelTitle": "",
+      "channelId": "",
       "publishedAt": "2026-07-01T00:00:00Z",
+      "addedAt": "2026-08-07T00:00:00Z",
       "duration": "PT15M30S",
-      "tags": ["นิยาย", "ไทย", "romance"],
+      "durationSeconds": 930,
+      "tags": [
+        "นิยาย",
+        "ไทย",
+        "romance"
+      ],
+      "language": "th",
       "thumbnails": {
-        "default": "https://i.ytimg.com/vi/2zxM3ldsiEY/default.jpg",
-        "medium": "https://i.ytimg.com/vi/2zxM3ldsiEY/mqdefault.jpg",
-        "high": "https://i.ytimg.com/vi/2zxM3ldsiEY/hqdefault.jpg",
-        "standard": "https://i.ytimg.com/vi/2zxM3ldsiEY/sddefault.jpg",
-        "maxres": "https://i.ytimg.com/vi/2zxM3ldsiEY/maxresdefault.jpg"
+        "default": {
+          "url": "https://i.ytimg.com/vi/2zxM3ldsiEY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2zxM3ldsiEY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2zxM3ldsiEY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2zxM3ldsiEY/sddefault.jpg"
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2zxM3ldsiEY/maxresdefault.jpg"
+        }
       },
-      "watchUrl": "https://m.youtube.com/watch?v=2zxM3ldsiEY&pp=iggCQAE%3D",
-      "embedUrl": "https://m.youtube-nocookie.com/embed/2zxM3ldsiEY&pp=iggCQAE%3D",
+      "watchUrl": "https://www.youtube.com/watch?v=2zxM3ldsiEY",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/2zxM3ldsiEY",
       "provider": "youtube",
       "isEmbed": true,
       "openInNativeApp": false,
@@ -32,7 +64,15 @@
         "playsinline": 1,
         "modestbranding": 1
       },
-      "addedAt": "2026-08-07T00:00:00Z"
+      "captions": {
+        "hasCaptions": false,
+        "languages": []
+      },
+      "stats": {
+        "viewCount": null,
+        "likeCount": null,
+        "commentCount": null
+      }
     }
   ]
 }
