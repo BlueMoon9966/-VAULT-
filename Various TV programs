@@ -5,7 +5,7 @@
   "day": "09-08-2026",
   "info": "",
   "groups": [
-{
+    {
   "name": "Working Channels TV",
   "author": "🤜Akaraphisit🤛",
   "image": "https://kicksball.com/assets/img/logo.png",
@@ -1163,6 +1163,8 @@
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "embed": "true"
     },
+   ]
+  },
     {
   "name": "Player TV",
   "author": "🤜Akaraphisit🤛",
