@@ -3,16 +3,14 @@
   "author": "🤜Akaraphisit🤛",
   "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
   "info": "2026-08-08T21:30:59Z",
-  "defaults": {
-    "referer": "https://7-hds.com/",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-    "embed": true
-  },
   "stations": [
 {
-"name": "เมื่อพายุมาเยือน Sesame Street (2026)",
-"url": "https://weplayhls.xyz/embed/T_bf6-vFeYoCu",
-"image": "https://7-hds.com/wp-content/uploads/2026/08/เมื่อพายุมาเยือน-Sesame-Street-2026-e1785884403158.png",
+"name": "High School Musical มือถือไมค์หัวใจปิ๊งรัก (2006)",
+"url": "https://weplayhls.xyz/embed/ulgipjzp3r/",
+"image": "https://7-hds.com/wp-content/uploads/2023/09/ดาวน์โหลด-16.jpeg",
+"referer": "https://7-hds.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"embed": "true"
 },
 ]
 },
