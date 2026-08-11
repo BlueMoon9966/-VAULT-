@@ -21,10 +21,15 @@
 ]
 },
 {
-"name": "WEPLAYHLS Movies",
+"name": "WEPLAYHLS Serie",
 "author": "🤜Akaraphisit🤛",
 "image": "https://play-lh.googleusercontent.com/bbXycIKJOmmxquP0HQ7NT0-TPMif5Axc1CF0g3cPW6hFbwgRVM02RNLhvwRXlELBX3JpJPTD2Tx5zZaXMorwgA",
-"stations": [
+"groups": [
+{
+"name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026)",
+"author": "🤜Akaraphisit🤛",
+"image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+"groups": [
 {
 "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 1 - EP 1",
 "url": "https://weplayhls.xyz/embed/d6_irMX-a9jVT",
@@ -104,6 +109,8 @@
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "embed: "true"
+},
+]
 },
 ]
 },
