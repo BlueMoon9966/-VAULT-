@@ -3,20 +3,20 @@
   "author": "🤜Akaraphisit🤛",
   "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
   "version": "1.0.0",
-  "info": "18-07-2026",
+  "info": "2026-07-18",
   "groups": [
-{
-"name": "WEPLAYHLS Movies",
-"author": "🤜Akaraphisit🤛",
-"image": "https://play-lh.googleusercontent.com/bbXycIKJOmmxquP0HQ7NT0-TPMif5Axc1CF0g3cPW6hFbwgRVM02RNLhvwRXlELBX3JpJPTD2Tx5zZaXMorwgA",
-"stations": [
+    {
+      "name": "WEPLAYHLS Movies",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://play-lh.googleusercontent.com/bbXycIKJOmmxquP0HQ7NT0-TPMif5Axc1CF0g3cPW6hFbwgRVM02RNLhvwRXlELBX3JpJPTD2Tx5zZaXMorwgA",
+      "stations": [
 {
 "name": "เมื่อพายุมาเยือน Sesame Street (2026)",
 "url": "https://weplayhls.xyz/embed/T_bf6-vFeYoCu",
 "image": "https://7-hds.com/wp-content/uploads/2026/08/เมื่อพายุมาเยือน-Sesame-Street-2026-e1785884403158.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ชุม Chum (2026)",
@@ -24,7 +24,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/ชุม-Chum-2026-e1785673905120.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เกมล่าทรชน คนล่าคน Scare Out (2026)",
@@ -32,7 +32,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/เกมล่าทรชน-คนล่าคน-Scare-Out-2026-e1785673933719.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โมจิน โคตรคนล่าสุสาน The Legend Hunters (2026)",
@@ -40,7 +40,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/โมจิน-โคตรคนล่าสุสาน-The-Legend-Hunters-2026-e1785673872989.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โอเวอร์ ยู เดด บอดี้ Over Your Dead Body (2026)",
@@ -48,7 +48,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/โอเวอร์-ยู-เดด-บอดี้-Over-Your-Dead-Body-2026-e1785673966291.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "23000 ชีวิต 23000 Lives (2026)",
@@ -56,7 +56,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/23000-ชีวิต-23000-Lives-2026-e1785673843959.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บันทึกสุดท้ายของจอมโจร The Death of Robin Hood (2026)",
@@ -64,7 +64,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/บันทึกสุดท้ายของจอมโจร-The-Death-of-Robin-Hood-2026-e1785673807166.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ผู้ร่วมทางตาย Passenger (2026)",
@@ -72,7 +72,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/ผู้ร่วมทางตาย-Passenger-2026-e1785565267844.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ปฏิบัติการกล้าสนั่นเมือง แค้นเดือดไร้ปรานี Dhurandhar The Revenge (2026)",
@@ -80,7 +80,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/ปฏิบัติการกล้าสนั่นเมือง-แค้นเดือดไร้ปรานี-Dhurandhar-The-Revenge-2026-e1785884309407.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ลูกหลานแห่งดินแดนมหัศจรรย์สุดพิสดาร (2026) Descendants Wicked Wonderland (2026)",
@@ -88,7 +88,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/ลูกหลานแห่งดินแดนมหัศจรรย์สุดพิสดาร-2026-Descendants-Wicked-Wonderland-2026-e1785884323495.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "วัยหนุ่มคุกผี Ghost in the Cell (2026)",
@@ -96,7 +96,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/วัยหนุ่มคุกผี-Ghost-in-the-Cell-2026-e1785776396922.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ศึกเดือด ครอบครัวระห่ำ Blast (2026)",
@@ -104,7 +104,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/ศึกเดือด-ครอบครัวระห่ำ-Blast-2026-e1785776590121.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ปิ๊งรักในออฟฟิศ Office Romance (2026)",
@@ -112,7 +112,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/ปิ๊งรักในออฟฟิศ-Office-Romance-2026-e1785565323993.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดันจง ราชันย์นักโทษแห่งชองนยองโพ The Kings Warden (2026)",
@@ -120,7 +120,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/ดันจง-ราชันย์นักโทษแห่งชองนยองโพ-The-Kings-Warden-2026-e1785565439646.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซูเปอร์เกิร์ล Supergirl (2026)",
@@ -128,7 +128,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ซูเปอร์เกิร์ล-Supergirl-2026-e1785513395731.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เรคเลส Reckless (2026)",
@@ -136,7 +136,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/08/เรคเลส-Reckless-2026-e1785565468272.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รักร้ายกลายร่าง Leviticus (2026)",
@@ -144,7 +144,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/รักร้ายกลายร่าง-Leviticus-2026-e1785513343780.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สไปเดอร์แมน แบรนด์ นิว เดย์ Spider-Man Brand New Day (2026)",
@@ -152,7 +152,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/สไปเดอร์แมน-แบรนด์-นิว-เดย์-Spider-Man-Brand-New-Day-2026-e1785513390224.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Toy Story 5 (2026) ทอย สตอรี่ 5",
@@ -160,7 +160,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/Toy-Story-5-2026-ทอย-สตอรี่-5-e1785331010897.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เปิดเกมฆ่า ล่าถล่มเมือง Cold War 1994 (2026)",
@@ -168,7 +168,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/เปิดเกมฆ่า-ล่าถล่มเมือง-Cold-War-1994-2026-e1785364920621.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โมอนา 2026 Moana (2026)",
@@ -176,7 +176,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/โมอนา-2026-Moana-2026-e1785331036165.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มหากาพย์โอดิสซี The Odyssey (2026)",
@@ -184,7 +184,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/มหากาพย์โอดิสซี-The-Odyssey-2026-e1785331060878.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "72 ชั่วโมงในไมแอมี 72 Hours (2026)",
@@ -192,7 +192,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-29-เวลา-03.37.34-e1785271514807.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คนเดือดทวงแค้น The Debt Collector (2026)",
@@ -200,7 +200,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-29-เวลา-03.36.42-e1785271420980.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มันแอบอยู่ในร้าน The Convenience Store (2026)",
@@ -208,7 +208,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-28-เวลา-19.11.56-e1785243752194.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ผีอมตะแผดเผา Evil Dead Burn (2026)",
@@ -216,7 +216,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-29-เวลา-03.37.04-e1785271300740.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เหลี่ยมจารชน คนเหนือเทา In the Grey (2026)",
@@ -224,7 +224,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-28-เวลา-19.11.37-e1785243783190.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รถโดยสาร เที่ยวเดียวกลางคืน Propeller One Way Night Coach (2026)",
@@ -232,7 +232,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-28-เวลา-19.10.50-e1785243818858.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พินอคคิโอ หุ่นไม้สายเชือด Pinocchio Unstrung (2026)",
@@ -240,7 +240,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-28-เวลา-19.10.35-e1785243851762.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บันนี่! หลุมรักอันตราย Bunny!! (2026)",
@@ -248,7 +248,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-27-เวลา-19.54.25-e1785157152718.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มาเธอร์ แมรี่ Mother Mary (2026)",
@@ -256,7 +256,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-27-เวลา-19.54.12-e1785157172453.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เรื่องวุ่นๆ คุณแม่กับลูกสาว Maa Behen (2026)",
@@ -264,7 +264,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-27-เวลา-19.54.37-e1785157020553.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มหาศึกล้างพิภพ ตอน ศึกชี้ชะตาแห่งดาวบุพกาล Swallowed Star Showdown on Primeval Star (2026)",
@@ -272,7 +272,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-27-เวลา-19.55.06-e1785156951171.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เรือนอาถรรพ์บูชาเลือด Blood Devotion (2026)",
@@ -280,7 +280,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-27-เวลา-19.51.59-e1785156767499.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สัปเหร่อ 2",
@@ -288,7 +288,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-26-เวลา-04.18.08-e1785014354789.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พี่นาค 5",
@@ -296,7 +296,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-26-เวลา-04.17.01-e1785014250636.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เทอม 4",
@@ -304,7 +304,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-26-เวลา-04.11.05-e1785013928246.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มินเนี่ยน แอนด์ มอนเตอร์ Minions & Monsters (2026)",
@@ -312,7 +312,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-26-เวลา-04.11.28-e1785013949946.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นักรบเจ้าจักรวาล Masters of the Universe (2026)",
@@ -320,7 +320,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-28-เวลา-03.38.59-e1782592896387.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ห้องกุมวิญญาณ Hokum (2026)",
@@ -328,7 +328,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-28-เวลา-03.38.49-e1782592913913.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สาปรักคลั่งหลอน Obsession (2026)",
@@ -336,7 +336,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-28-เวลา-03.39.11-e1782592874222.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ทะลุมิติมาสะสมรัก ภาค1",
@@ -344,7 +344,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-24-เวลา-19.49.05-e1782305887435.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พันล้านต่อวินาที",
@@ -352,7 +352,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-24-เวลา-19.49.18-e1782305860715.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นรกห้องลับ Backrooms (2026)",
@@ -360,7 +360,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-28-เวลา-03.38.22-e1782592952339.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ทะลุมิติมาสะสมรัก ภาค2",
@@ -368,7 +368,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-24-เวลา-19.48.21-e1782305910458.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รักแท้หลังจากการเดินหน้าต่อ",
@@ -376,7 +376,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-24-เวลา-19.47.44-e1782305931247.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ประธานหญิงปลอมตัวเป็นแม่บ้าน ทดสอบนิสัยว่าที่ลูกสะใภ้",
@@ -384,7 +384,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-24-เวลา-19.51.11-e1782305778672.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พ่อบ้านพันปี",
@@ -392,7 +392,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-24-เวลา-19.50.22-e1782305802952.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ถังจู๋ยวิ๋น หมอหญิงทะลุมิติ",
@@ -400,7 +400,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-24-เวลา-19.49.55-e1782305836163.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หัวใจนักซิ่ง",
@@ -408,7 +408,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/06/-2569-06-24-เวลา-19.51.21-e1782305750140.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "แมนดาลอเรี่ยนและโกรกู The Mandalorian and Grogu (2026)",
@@ -416,7 +416,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-24-เวลา-22.05.39-e1779635255307.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สงครามผีแจ็คไรอันของทอมแคลนซี Tom Clancys Jack Ryan Ghost War (2026)",
@@ -424,7 +424,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-24-เวลา-22.05.51-e1779635358672.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เจมี่ วาร์ดี้ Jamie Vardy (2026)",
@@ -432,7 +432,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-24-เวลา-13.31.16-e1779632408878.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คนนี้… ที่รัก The Loved One (2026)",
@@ -440,7 +440,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-24-เวลา-13.31.00-e1779632389887.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เหยี่ยวล่าบุกระห่ำ Falcon Assault (2026)",
@@ -448,7 +448,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-24-เวลา-13.30.46-e1779632368264.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไจแอนท์ Giant (2026)",
@@ -456,7 +456,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-24-เวลา-13.30.30-e1779632348303.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เจ้าสาวแห่งปี Bride of the Year (2026)",
@@ -464,7 +464,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-19-เวลา-23.26.14-e1779208346961.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รถบัสเจ้าปัญหา การประท้วงของทีมชาติฝรั่งเศส The Bus A French Football Mutiny (2026)",
@@ -472,7 +472,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-24-เวลา-13.30.03-e1779632305997.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หน้าที่เหนือชีวิต Kartavya (2026)",
@@ -480,7 +480,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-19-เวลา-23.26.27-e1779208260670.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "แหวนศักดิ์สิทธิ์ JieLing (2026)",
@@ -488,7 +488,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-13-เวลา-21.04.39-e1778686887382.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ยามซากุระร่วงโรย 5 Centimeters Per Second (2026)",
@@ -496,7 +496,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-13-เวลา-21.05.23-e1778686811898.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สายลับซ่อนตัวตน I AM UNDERCOVER (2026)",
@@ -504,7 +504,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-13-เวลา-21.03.18-e1778686986512.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มาฟก้า ตำนานที่แท้จริง Mavka The True Myth (2026)",
@@ -512,7 +512,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-13-เวลา-21.02.43-e1778687113564.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คาเคน Kraken (2026)",
@@ -520,7 +520,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-13-เวลา-21.03.00-e1778687074988.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "วัยแก่ 2569 In Age We Doubt (2026)",
@@ -528,7 +528,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-13-เวลา-21.06.46-e1778686517349.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อควาเรียมสำหรับคน หมึก และสิ่งของ Remarkably Bright Creatures (2026)",
@@ -536,7 +536,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-13-เวลา-21.02.30-e1778687310333.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มอร์ทัล คอมแบท 2 Mortal Kombat II (2026)",
@@ -544,7 +544,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-10-เวลา-00.00.16-e1778346050140.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นางมารสวมปราด้า 2 The Devil Wears Prada 2 (2026)",
@@ -552,7 +552,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-05-เวลา-18.09.31-e1777979425156.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เลือดรักนักฆ่า My Dearest Assassin (2026)",
@@ -560,7 +560,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-09-เวลา-20.50.28-e1778334726200.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ลูกเขยคนโปรด Son In Law (2026)",
@@ -568,7 +568,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-05-เวลา-18.07.31-e1777979493922.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "แต่งก็บ้า..ดราม่าเบอร์นี้ The Drama (2026)",
@@ -576,7 +576,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-05-เวลา-18.07.16-e1777979516509.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไบเกอร์ ซิ่งเดือดสายเลือดนักบิด Biker (2026)",
@@ -584,7 +584,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-13-เวลา-21.02.12-e1778687378572.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซินญอริต้าที่รัก My Dearest Señorita (2026)",
@@ -592,7 +592,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-05-เวลา-18.00.47-e1777979540530.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เส้นทางสู่ความรุ่งโรจน์ของซูเปอร์คาร์ Supercars Road To Glory (2026)",
@@ -600,7 +600,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-03-เวลา-01.41.22-e1777747627664.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฉันชื่ออักเนียต้า Je Mappelle Agneta (2026)",
@@ -608,7 +608,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-05-เวลา-18.00.32-e1777979562158.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เมืองธรรมดานรกเรียกพ่อ Normal (2026)",
@@ -616,7 +616,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-03-เวลา-01.39.50-e1777747721359.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สลับร่างผจญภัย Swapped (2026)",
@@ -624,7 +624,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-03-เวลา-01.40.11-e1777747697928.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ลี โครนิน เดอะ มัมมี่ Lee Cronins The Mummy (2026)",
@@ -632,7 +632,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-01-เวลา-20.01.20-e1777631558179.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สาวงามในบันทึกเรื่องประหลาด The Enchanting Cranium Mystery (2026)",
@@ -640,7 +640,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-01-เวลา-19.59.38-e1777631682919.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตำนานสตอร์มไรเดอร์แห่งแฮมเมอร์เฮด Storm Rider Legend Of Hammerhead (2026)",
@@ -648,7 +648,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-23-เวลา-19.09.17-e1776946558357.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อูรังอูตัง Orangutan (2026)",
@@ -656,7 +656,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-27-เวลา-19.04.02-e1777291615924.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ห่วงโซ่สังหาร Apex (2026)",
@@ -664,7 +664,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-27-เวลา-19.27.44-e1777292899515.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บัลลิสติก Ballistic (2026)",
@@ -672,7 +672,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-23-เวลา-19.09.45-e1776946534998.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เหตุกราดยิงที่ฮอว์ธอร์น ฮิลล์ Untold The Shooting At Hawthorne Hill (2026)",
@@ -680,7 +680,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-23-เวลา-19.11.44-e1776946425526.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อันเดอร์โทน Undertone (2026)",
@@ -688,7 +688,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-23-เวลา-19.11.25-e1776946446352.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "แพนด้าเด้งยกกำลังฟัด Panda Plan 2 The Magical Tribe (2026)",
@@ -696,7 +696,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-23-เวลา-18.55.16-e1776945380711.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ปฏิบัติการเดือดเลือดล้างเลือด Vengeance (2026)",
@@ -704,7 +704,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-21-เวลา-03.51.52-e1776718552777.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไทสัน ฟิวรี ปะทะ อาร์สลันเบค มัคห์มูดอฟ Tyson Fury vs Arslanbek Makhmudov (2026)",
@@ -712,7 +712,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-21-เวลา-03.51.40-e1776718587806.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รูมเมท Roommates (2026)",
@@ -720,7 +720,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-21-เวลา-03.52.14-1-e1776718509222.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โนอาห์ คาห์น เส้นทางสู่จุดสูงสุด Noah Kahan Out Of Body (2026)",
@@ -728,7 +728,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-19-เวลา-03.41.59-e1776545027865.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หนึ่ง แปด ศูนย์ 180 (2026)",
@@ -736,7 +736,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-19-เวลา-03.41.23-e1776545004843.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เล่าเรื่องกอริลลา โดยเดวิด แอทเทนเบอเรอห์ A Gorilla Story (2026)",
@@ -744,7 +744,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-19-เวลา-03.41.11-e1776544980395.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บทเพลงแห่งความหวัง Matter of Time (2026)",
@@ -752,7 +752,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-18-เวลา-01.12.43-e1776449608910.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฟาเบียนและงานแต่งงานมรณะ Fabian and the Deadly Wedding (2026)",
@@ -760,7 +760,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-18-เวลา-01.14.53-e1776449722687.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สี่คนแห่งเคาน์ตีแฟร์ฟิลด์ The Fairfield County Four (2026)",
@@ -768,7 +768,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-18-เวลา-01.05.08-e1776449499351.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "วา วาธิยาร์ Vaa Vaathiyaar (2026)",
@@ -776,7 +776,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-18-เวลา-01.12.19-1-e1776449663233.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ปิง ปิ่ง ปิ้ง Toaster (2026)",
@@ -784,7 +784,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-18-เวลา-01.05.58-e1776449410817.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บอลอัพ Balls Up (2026)",
@@ -792,7 +792,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-18-เวลา-01.05.43-e1776449436432.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เอาท์ คัม Outcome (2026)",
@@ -800,7 +800,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-15-เวลา-15.53.23-e1776243477239.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ เยติ The Yeti (2026)",
@@ -808,7 +808,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-15-เวลา-15.56.29-e1776243515303.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "แทรกซึม Infiltrate (2026)",
@@ -816,7 +816,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-15-เวลา-15.56.05-e1776243496459.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หมอกาฬโรค Doctor Plague (2026)",
@@ -824,7 +824,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-15-เวลา-15.56.46-e1776243535451.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เรด็อกซ์ เรด็อกซ์ Redux Redux (2026)",
@@ -832,7 +832,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-12-เวลา-01.11.09-e1775931120634.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตามหาแฮร์รี่ งานฝีมือเบื้องหลังโลกเวทมนตร์ Finding Harry The Craft Behind the Magic (2026)",
@@ -840,7 +840,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-12-เวลา-01.10.40-e1775931162780.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "53 อาทิตย์คิดเพื่อพ่อ 53 Sundays (2026)",
@@ -848,7 +848,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-12-เวลา-01.10.25-e1775931184375.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฉลามคลั่ง ทะเลเดือด THRASH 2026",
@@ -856,7 +856,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-11-เวลา-10.06.04-e1775876795682.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไม่เธอ ก็ฉัน Tu Yaa Main (2026)",
@@ -864,7 +864,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-15-เวลา-15.55.48-e1776243554624.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดีว่าราวี Diva La Vie 2026",
@@ -872,7 +872,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-09-เวลา-10.54.21-e1775707188215.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พิซซ่า มูฟวี่ Pizza Movie 2026",
@@ -880,7 +880,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-09-เวลา-10.53.00-e1775707141234.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฆาตกรโรคจิต Psycho Killer (2026)",
@@ -888,7 +888,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-10-เวลา-14.48.21-e1775807635812.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หุ่นดินผี Mudborn (2026)",
@@ -896,7 +896,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-10-เวลา-14.48.05-e1775807583560.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กุหลาบแรกแย้ม 18th Rose (2026)",
@@ -904,7 +904,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-10-เวลา-14.47.37-e1775807522261.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เจ้าสาว! The Bride!",
@@ -912,7 +912,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-09-เวลา-10.55.21-e1775707228871.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อำพรางสวรรค์ Shrounding The Heavens Movie Fighting Against Wang Teng With Copper Coffin (2026)",
@@ -920,7 +920,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-08-เวลา-21.56.51-e1775660748488.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สไนเปอร์ไร้สังกัด Sniper No Nation (2026)",
@@ -928,7 +928,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-08-เวลา-21.58.36-e1775660807381.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หญิงเหล็กล่าทมิฬ 3 Mardaani 3 (2026)",
@@ -936,7 +936,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-08-เวลา-02.24.18-e1775590061397.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โปรเจกต์ Y Project Y (2026)",
@@ -944,7 +944,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-08-เวลา-21.58.03-e1775660787473.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คู่แข่งหมากรุก Untold Chess Mates (2026)",
@@ -952,7 +952,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-08-เวลา-02.24.31-e1775590084435.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "วาฮาด 2 Vadh 2 (2026)",
@@ -960,7 +960,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-08-เวลา-02.24.43-e1775590040687.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตำนานหลิงจิง Legend of Ling Jing (2026)",
@@ -968,7 +968,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-06-เวลา-19.20.01-e1775478362133.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สัมผัสแห่งเสีย Feel My Voice (2026)",
@@ -976,7 +976,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-06-เวลา-19.19.42-e1775478339594.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ความจริงและโศกนาฏกรรมของโมไรอาห์ วิลสัน The Truth and Tragedy of Moriah Wilson (2026)",
@@ -984,7 +984,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-06-เวลา-19.18.48-e1775478288948.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สตาร์ไบรท์ Starbright (2026)",
@@ -992,7 +992,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-06-เวลา-19.18.01-e1775478247433.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ความตายและชีวิตของลามาร์ โอดอม Untold The Death And Life Of Lamar Odom (2026)",
@@ -1000,7 +1000,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-05-เวลา-23.38.24-e1775407302687.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ราตรีราศีพิจิก 4 Scorpio Nights 4 (2026)",
@@ -1008,7 +1008,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-05-เวลา-13.50.01-e1775371936930.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ภาพยนตร์ซูเปอร์มาริโอกาแล็กซี The Super Mario Galaxy Movie (2026)",
@@ -1016,7 +1016,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-03-เวลา-23.40.57-e1775234590341.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พ่อยักษ์สั่งลา The Giant Falls (2026)",
@@ -1024,7 +1024,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-03-เวลา-23.15.04-e1775233054537.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "วอร์ไดเวอร์ Wardriver (2026)",
@@ -1032,7 +1032,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-02-เวลา-22.24.23-e1775143740862.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หมู่เฮารวมใจ It Takes a Village (2026)",
@@ -1040,7 +1040,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-02-เวลา-22.24.10-e1775143759155.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เกมจารชนคนในเงา Humint (2026)",
@@ -1048,7 +1048,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-02-เวลา-22.25.13-e1775143717771.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เมื่อน้องหมาพาไปฮีลใจ Eat Pray Bark (2026)",
@@ -1056,7 +1056,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-02-เวลา-22.23.48-e1775143782186.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บัตรอาหาร Meal Ticket 2026",
@@ -1064,7 +1064,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-04-01-เวลา-01.50.37-e1774983342601.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ครอบครัวที่ไม่คาดคิด Unexpected Family (2026)",
@@ -1072,7 +1072,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-16.44.42-e1774778074323.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "การกลับมาของ BTS Arirang BTS the Comeback Live Arirang (2026) BTS 2026",
@@ -1080,7 +1080,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-16.47.11-e1774777904900.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กระบี่แห่งตำนาน จิตวิญญาณและคมดาบ Swords of Legends Soul and Blade (2026)",
@@ -1088,7 +1088,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-18.58.07-e1774785515338.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ กู้ด บอย The Good Boy (2026)",
@@ -1096,7 +1096,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-16.45.45-e1774778025819.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ ครู The Cure (2026)",
@@ -1104,7 +1104,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-16.46.05-e1774777990691.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไมค์ นิค นิค อลิซ Mike & Nick & Nick & Alice (2026)",
@@ -1112,7 +1112,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-16.45.21-e1774778049125.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โปรเทคเตอร์ Protector (2026)",
@@ -1120,7 +1120,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-01.34.41-e1774724348945.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "วงเนอร์แวนนา เดอะ แบนด์ เดอะ โชว์ เดอะ มูฟวี่ Nirvanna The Band The Show The Movie (2026)",
@@ -1128,7 +1128,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-01.36.49-e1774724043409.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ร่องรอยรัก Reminders Of Him (2026)",
@@ -1136,7 +1136,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-01.33.45-e1774724310194.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โยจิดะ Yogi Da (2026)",
@@ -1144,7 +1144,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-01.36.12-e1774724076751.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หน้าสวย สังหาร Pretty Lethal (2026)",
@@ -1152,7 +1152,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-28-เวลา-00.24.24-e1774632548960.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อมราวตีกี อาห์วานัม Amaravathiki Aahvanam (2026)",
@@ -1160,7 +1160,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-28-เวลา-00.26.09-e1774632497417.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฝ่าแดนสงครามนรก BREAK THROUGH (2026)",
@@ -1168,7 +1168,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-28-เวลา-00.25.01-e1774632522719.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เส้นตาย สายลวง The Red Line (2026)",
@@ -1176,7 +1176,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-27-เวลา-01.40.49-e1774550569807.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Ready or Not 2 เกมพร้อมตาย 2 (2026)",
@@ -1184,7 +1184,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-27-เวลา-02.11.37-e1774554587301.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บอร์ดเดอร์ Border 2 (2026)",
@@ -1192,7 +1192,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-26-เวลา-22.29.58-e1774539191950.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ห้ามเข้า Do Not Enter (2026)",
@@ -1200,7 +1200,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-26-เวลา-22.30.16-e1774539164673.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เด้งโดด เปลี่ยนโหมดเป็นบีเวอร์ Hoppers (2026)",
@@ -1208,7 +1208,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-25-เวลา-05.33.59-e1774391735958.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โพส Pose (2026)",
@@ -1216,7 +1216,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-26-เวลา-10.53.09-e1774497413269.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สุสานลวงห้วงอารมณ์ The Ghost Marriage (2026)",
@@ -1224,7 +1224,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-26-เวลา-10.54.18-e1774497394465.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "จากบาร์บาร่าสู่ชีริน ดาวิด Barbara Becoming Shirin David (2026)",
@@ -1232,7 +1232,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-26-เวลา-10.55.26-e1774497372696.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ขอให้โชคดี สนุก และอย่าตาย Good Luck Have Fun Dont Die (2026)",
@@ -1240,7 +1240,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-26-เวลา-10.50.35-e1774497433706.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เซต้า ปริศนาจารชน Agent Zeta (2026)",
@@ -1248,7 +1248,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-25-เวลา-05.34.26-e1774391756155.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เงือกน้อยมรณะ The Deadly Little Mermaid (2026)",
@@ -1256,7 +1256,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-24-เวลา-17.21.25-e1774347895836.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "วิธีสร้างรายได้มหาศาล How To Make A Killing (2026)",
@@ -1264,7 +1264,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-24-เวลา-17.20.37-e1774347964762.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คุณแพะหัวใจไม่แพ้ Goat (2026)",
@@ -1272,7 +1272,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-23-เวลา-14.10.04-e1774250070263.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ โมเม้น The Moment (2026)",
@@ -1280,7 +1280,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-23-เวลา-14.11.53-e1774250093295.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ อินเทิร์นชิบ The Internship (2026)",
@@ -1288,7 +1288,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-23-เวลา-14.10.33-e1774250052499.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ผู้คุ้มกันพิเศษ Code Guardian (2026)",
@@ -1296,7 +1296,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-23-เวลา-14.10.45-e1774250033775.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดีท็อกซ์ ล้างพิษไมโครพลาสติก The Plastic Detox (2026)",
@@ -1304,7 +1304,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-23-เวลา-14.09.42-e1774249986167.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะเดรสเดนซัน The Dresden Sun (2026)",
@@ -1312,7 +1312,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-21-เวลา-18.16.01-e1774091834839.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฟังกี้ Funky (2026)",
@@ -1320,7 +1320,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-21-เวลา-18.14.45-e1774091925835.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฟุกุชิมะ ฝันร้ายจากนิวเคลียร์ Fukushima A Nuclear Nightmare (2026)",
@@ -1328,7 +1328,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-21-เวลา-18.13.53-e1774091957433.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พีกี้ ไบลน์เดอร์ส ชายผู้เป็นอมตะ Peaky Blinders The Immortal Man (2026)",
@@ -1336,7 +1336,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-20-เวลา-14.20.05-e1774004186984.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รันนิ่งแมนไทยแลนด์ Running Man Thailand 2026",
@@ -1344,7 +1344,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-20-เวลา-14.31.58-e1774003928606.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ภารกิจสู่สุริยะ Project Hail Mary 2026",
@@ -1352,7 +1352,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-19-เวลา-05.29.27-e1773873062659.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นี่คือตัวฉัน This is I (2026)",
@@ -1360,7 +1360,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-19-เวลา-05.26.58-e1773873338786.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ข่าวรักรับวันใหม่ Relationship Goals (2026)",
@@ -1368,7 +1368,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-19-เวลา-05.26.45-e1773873373490.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เมืองนักสู้ Gezhi Town 2026",
@@ -1376,7 +1376,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-19-เวลา-05.29.44-e1773873041784.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ราชินีหมากรุก Queen of Chess (2026)",
@@ -1384,7 +1384,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-17-เวลา-12.11.05-e1773724515891.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มหัศจรรย์ฮอกกี้ปี 80 Miracle The Boys of 80 (2026)",
@@ -1392,7 +1392,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-17-เวลา-12.11.36-e1773724380538.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เมลาเนีย Melania 2026",
@@ -1400,7 +1400,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-16-เวลา-11.42.15-e1773636246132.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เจ้าหญิงกระบอกไม้ไผ่ ในโลกเมตาเวิร์ส Cosmic Princess Kaguya! (2026)",
@@ -1408,7 +1408,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-15-เวลา-15.06.45-e1773564857287.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สร้างฝันในเกาหลี Made in Korea (2026)",
@@ -1416,7 +1416,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-15-เวลา-15.06.31-e1773564812666.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซูช่าน 2 ฝ่ามือพิชิตมังกร Master so Dragon Subduing Palms (2026)",
@@ -1424,7 +1424,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-15-เวลา-15.05.57-e1773564698904.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อิน เดอะ บลิง ออฟ แอนด์ อาย In the Blink of an Eye (2026)",
@@ -1432,7 +1432,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-15-เวลา-15.05.27-e1773564592918.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บ้านบนพื้นที่ผีสิง The House On Haunted Grounds (2026)",
@@ -1440,7 +1440,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-15-เวลา-01.24.07-e1773512704614.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หลุยส์ เทอโรซ์ เจาะโลกยุคใหม่ของชายนิยม Louis Theroux Inside the Manosphere (2026)",
@@ -1448,7 +1448,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-14-เวลา-23.59.36-e1773512581928.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หนุ่มบ้านๆ กับฝันระดับราชา Anaganaga Oka Raju (2026)",
@@ -1456,7 +1456,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-14-เวลา-12.05.45-e1773464927487.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กระชากหน้าอำมหิต 3 The Strangers Chapter 3 (2026)",
@@ -1464,7 +1464,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-13-เวลา-13.02.27-e1773383422915.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตี๋เหรินเจี๋ย เจดีย์สู่สวรรค์ Detective Dee Buddha’s Wrath (2026)",
@@ -1472,7 +1472,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-13-เวลา-13.03.24-e1773383503553.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เซียนแมงมุม Spider Fairy (2026)",
@@ -1480,7 +1480,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-12-เวลา-01.47.27-e1773255228418.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซูเบดาร์ Subedaar (2026)",
@@ -1488,7 +1488,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-13-เวลา-13.02.54-e1773383462455.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สองฮีโร่บุกทะลวง The Dual Heroes Strike (2026)",
@@ -1496,7 +1496,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-13-เวลา-13.03.09-e1773383482156.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ห้องเย็น Cold Storage 2026",
@@ -1504,7 +1504,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-13-เวลา-00.02.55-e1773337856329.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ เวย์ ทู ยู The Way to You (2026)",
@@ -1512,7 +1512,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-11-เวลา-17.56.28-e1773226737793.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คดีปล้นโหดระห่ำ Fury In The Shadows (2026)",
@@ -1520,7 +1520,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-11-เวลา-17.56.56-e1773226782687.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รักนะ รักฉัน Love Me Love Me (2026)",
@@ -1528,7 +1528,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-10-เวลา-12.50.18-e1773122401503.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เฮลไฟร์ Hellfire (2026)",
@@ -1536,7 +1536,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-10-เวลา-12.50.33-e1773122297981.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ เดรด ฟู The Dreadful (2026)",
@@ -1544,7 +1544,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-10-เวลา-12.50.02-e1773122438762.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ปฏิบัติการณ์ล่าฆาตกร Catch The Killer (2026)",
@@ -1552,7 +1552,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-08-เวลา-15.42.42-e1772959726283.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เซ็กซ์ทริป Sex Trip (2026)",
@@ -1560,7 +1560,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-08-เวลา-15.41.39-e1772959610797.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คนแปลกหน้าในสวน Strangers in the Park (2026)",
@@ -1568,7 +1568,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-07-เวลา-14.03.56-e1772868970207.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตำนานนักล่าภูผาอาถรรพ์ Ginseng King (2026)",
@@ -1576,7 +1576,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-07-เวลา-14.05.05-e1772868826151.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กระถางศักดิ์สิทธิ์แห่งดินแดน Geomancer (2026)",
@@ -1584,7 +1584,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-05-เวลา-13.08.07-e1772694060387.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หายนะอสรพิษร้าย Special Police and Snake Revenge (2026)",
@@ -1592,7 +1592,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-05-เวลา-13.08.45-e1772694019712.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ทางแยก 3 Street Flow 3 (2026)",
@@ -1600,7 +1600,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-05-เวลา-13.09.24-e1772693976371.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หอร้อยราตรี Huckster (2026)",
@@ -1608,7 +1608,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-05-เวลา-13.08.32-e1772694041190.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หวีดสุดขีด 7 Scream 7 (2026)",
@@ -1616,7 +1616,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-03-เวลา-13.21.13-e1772519128132.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "จับไต๋เบโธเฟน Beethoven Fabrication (2026)",
@@ -1624,7 +1624,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-04-เวลา-14.04.23-e1772633120713.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เรื่องเล่าประหลาดในหุบเขาวานร Anecdotes of Ape Mountain (2026)",
@@ -1632,7 +1632,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-04-เวลา-14.04.36-e1772633024966.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หมู่บ้านนางต้องสาป Cursed Village (2026)",
@@ -1640,7 +1640,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-04-เวลา-14.03.50-e1772633073896.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คลิกา ฝ่าชะตาล่าฝัน Clika (2026)",
@@ -1648,7 +1648,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-03-เวลา-13.24.20-e1772519084818.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นายพราน The Huntsman (2026)",
@@ -1656,7 +1656,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-02-เวลา-12.06.12-e1772427998488.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "2002 อีกครั้ง หนังสั้นจีน รวมตอนแล้ว",
@@ -1664,7 +1664,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-03-01-เวลา-15.33.32-e1772425283520.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "IKKIS คิดคิส (2026)",
@@ -1672,7 +1672,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-28-เวลา-18.06.47-e1772277210241.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เอฟ-ซี เค วอเลนไทน์ เดย์ F-ck Valentines Day (2026)",
@@ -1680,7 +1680,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-28-เวลา-18.07.48-e1772277158801.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คืนหมีกริซลี่ Grizzly Night (2026)",
@@ -1688,7 +1688,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-03-01-เวลา-15.34.41-e1772354216260.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ใต้เงาคำกล่าวหา Accused (2026)",
@@ -1696,7 +1696,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-03-01-เวลา-15.34.29-e1772354188752.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โย่! เพื่อนรัก Yoh! Bestie (2026)",
@@ -1704,7 +1704,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-28-เวลา-18.07.11-e1772277185769.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "KINKI อาถรรพ์ คิงคิ 2026",
@@ -1712,7 +1712,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-28-เวลา-18.08.01-e1772277120236.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หนึ่งไมล์ บทที่หนึ่ง One Mile Chapter One (2026)",
@@ -1720,7 +1720,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-27-เวลา-13.45.13-e1772179155629.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เที่ยวบินนางฟ้า Angel Flight The Movie (2026)",
@@ -1728,7 +1728,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-27-เวลา-13.45.26-e1772179215652.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "แดรกคูล่า เรื่องราวความรัก Dracula A Love Tale (2026)",
@@ -1736,7 +1736,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-28-เวลา-18.08.32-e1772277092745.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หนึ่งไมล์ บทที่สอง One Mile Chapter Two (2026)",
@@ -1744,7 +1744,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-27-เวลา-13.45.06-e1772179181989.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "The Real Monkey King (2026) คาถารัตเกล้าแห่งภูผาไร้อารยะ",
@@ -1752,7 +1752,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-27-เวลา-13.43.56-e1772179277915.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ชำระแค้นราชินีโจรสลัด The Bluff (2026)",
@@ -1760,7 +1760,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-27-เวลา-13.45.43-e1772179301309.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตำรวจล่า อาชญากร Fight Against Evil 3 (2026)",
@@ -1768,7 +1768,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-26-เวลา-14.44.56-e1772091920837.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Iron Lung (2026) ไอรอน ลัง",
@@ -1776,7 +1776,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-27-เวลา-13.44.22-e1772178754302.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Back to the Past (Chum Chun Gei) เจาะเวลาหาจิ๋นซี เดอะมูฟวี่ (2025)",
@@ -1784,7 +1784,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-26-เวลา-14.44.45-e1772091963292.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "The Investigation of Lucy Letby การสืบสวนคดีลูซี่ เล็ตบี (2026)",
@@ -1792,7 +1792,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-25-เวลา-22.49.45-e1772034619201.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เสตท ออฟ เฟีย State of Fear (2026)",
@@ -1800,7 +1800,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-25-เวลา-14.23.53-e1772004277812.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ ราชาซาบ The Raja Saab (2026)",
@@ -1808,7 +1808,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-25-เวลา-14.24.09-e1772004304389.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Joe’s College Road Trip (2026) โร้ดทริปป่วนกับคุณปู่โจ",
@@ -1816,7 +1816,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-24-เวลา-14.24.16-e1771918016227.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เส้นทางปล้นโคตรระห่ำ Crime 101 2026",
@@ -1824,7 +1824,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-24-เวลา-13.13.56-e1771913993252.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สงคราม จักรกลถล่มโลก War Machine 2026",
@@ -1832,7 +1832,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-24-เวลา-13.21.05-e1771914173618.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Whistle หวีดเรียกผี 2026",
@@ -1840,7 +1840,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-24-เวลา-13.12.53-e1771913727703.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เมื่อใจบ่มรัก Pavane (2026)",
@@ -1848,7 +1848,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-23-เวลา-22.20.56-e1771860286789.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดับไฟอารมณ์ Firebreak (2026)",
@@ -1856,7 +1856,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-23-เวลา-22.21.10-e1771860309283.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ผู้ขับขานเพลงชีวิต The Singers (2026)",
@@ -1864,7 +1864,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/2569-02-16-เวลา-23.06.46-e1771258138587.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ใต้เงาสวีเดน  The Swedish Connection (2026)",
@@ -1872,7 +1872,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-23-เวลา-22.22.30-e1771860334186.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Pillion (2026) คนข้างหลัง",
@@ -1880,7 +1880,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-21-เวลา-01.49.47-e1771618363626.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อะ ฟาเธอร์ มิราเคิล A Fathers Miracle (2026)",
@@ -1888,7 +1888,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-23-เวลา-22.23.12-e1771860361334.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Deaw​ Still​ Alive​ (2026) เดี่ยว สตีล อะไลฟ์",
@@ -1896,7 +1896,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-30-เวลา-18.06.38-e1769771227610.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สรรพลี้หวน Suppaleehuan (2026)",
@@ -1904,7 +1904,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/2569-02-13-เวลา-23.51.41-e1771001539261.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คู่พยัคฆ์เดือด เชือดเจ้าพ่อฮาวาย The Wrecking Crew (2026)",
@@ -1912,7 +1912,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-30-เวลา-18.10.13-e1769771441585.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คลั่งนรก หลบตาย Shelter (2026)",
@@ -1920,7 +1920,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/2569-02-10-เวลา-21.39.04-e1770734495604.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "จอมปลอม The Big Fake (2026)",
@@ -1928,7 +1928,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-28-เวลา-18.16.44-e1769599109117.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "28 ปีให้หลัง เชื้อเขมือบคน วิหารซากกะโหลก 28 Years Later The Bone Temple (2026)",
@@ -1936,7 +1936,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-28-เวลา-18.16.28-e1769599203245.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ลิงคลั่งพันธุ์ดิบ Primate (2026)",
@@ -1944,7 +1944,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-28-เวลา-18.16.00-1-e1769599249759.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เมืองห่าผี นครคืนชีพ Return to Silent Hill (2026)",
@@ -1952,7 +1952,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-28-เวลา-18.15.47-e1769599273797.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สุลูตัน Sulutan (2026)",
@@ -1960,7 +1960,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-22-เวลา-12.50.12-e1769061126132.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เรื่องเล่าลึกลับตำบลไท่ผิง Taiping Zhen Strange Tales (2026)",
@@ -1968,7 +1968,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-17-เวลา-19.16.46-e1768652449649.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เงินบาปกระชากคน The Rip (2026)",
@@ -1976,7 +1976,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-17-เวลา-19.15.46-1-e1768652356999.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นักฆ่า วาฬ Killer Whale (2026)",
@@ -1984,7 +1984,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-17-เวลา-19.16.31-e1768652432605.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เหตุการณ์เขาเซี่ยงซานเรืองแสง Illuminant Object (2026)",
@@ -1992,7 +1992,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-17-เวลา-19.16.17-e1768652409747.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เราพบกัน ณ วันพักใจ People We Meet on Vacation (2026)",
@@ -2000,7 +2000,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-10-เวลา-00.41.05-e1767980563294.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คิส คิส Kiss-Kiss (2025)",
@@ -2008,7 +2008,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-05-เวลา-18.08.13-e1777979471761.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ชาร์ลี สุนัขมหัศจรรย์ Charlie The Wonderdog (2025)",
@@ -2016,7 +2016,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-27-เวลา-19.04.29-e1777291572581.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พ่อป่วน ลูกหนี ทริปนี้มีแต่เรื่อง Buen Camino (2025)",
@@ -2024,7 +2024,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-05-เวลา-18.00.19-e1777979591704.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หนีออกจากดินแดนรกร้าง Escape from the Outland (2025)",
@@ -2032,7 +2032,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-01-เวลา-20.00.17-e1777631637526.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โดดเด่น Out Standing (2025)",
@@ -2040,7 +2040,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/05/-2569-05-01-เวลา-19.59.52-e1777631660882.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คืนที่ยาวนานที่สุดอันน่าสะพรึงกลัว Dreadful Longest Night (2025)",
@@ -2048,7 +2048,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-27-เวลา-19.04.13-e1777291592434.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซูซูกิ บากุดัน Suzuki Bakudan (2025)",
@@ -2056,7 +2056,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-19-เวลา-03.41.43-e1776545048999.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตาโขน Ta Khon (2025)",
@@ -2064,7 +2064,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-18-เวลา-01.05.29-e1776449463568.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ความโปรดปราน The Favor (2025)",
@@ -2072,7 +2072,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-23-เวลา-19.12.00-e1776946396492.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เขาฆ่าในเวลากลางคืน He Kills At Night (2025)",
@@ -2080,7 +2080,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-23-เวลา-19.10.45-e1776946512799.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รอยรัก ปมร้าว Regretting You (2025)",
@@ -2088,7 +2088,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-23-เวลา-19.11.06-e1776946477287.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ล็อก ล่อมาตาย Locked (2025)",
@@ -2096,7 +2096,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-14-เวลา-21.24.14-e1776177117918.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ครูซา Cursa (2025)",
@@ -2104,7 +2104,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-14-เวลา-21.23.47-e1776177095668.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เรตต้า ธาลา Retta Thala (2025)",
@@ -2112,7 +2112,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-14-เวลา-21.23.25-e1776177076212.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โค้ดทรี Code 3 (2025)",
@@ -2120,7 +2120,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-14-เวลา-21.23.02-e1776177051276.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ลาบินัค พวกเขาเกือบจะเป็นเราแล้ว Labinak They Are Almost Us (2025)",
@@ -2128,7 +2128,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-14-เวลา-21.24.39-e1776177136766.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ถนนโจร Thieves Highway (2025)",
@@ -2136,7 +2136,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-14-เวลา-21.21.50-e1776177156753.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ครอบครัวให้เช่า Rental Family (2025)",
@@ -2144,7 +2144,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-14-เวลา-21.22.44-e1776177022979.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บากาส กับดักคนโง่ BAKAs Identity (2025)",
@@ -2152,7 +2152,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-14-เวลา-21.22.33-e1776176803474.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เอโกะ เสียงสะท้อนจากหุบเขา Eko (2025)",
@@ -2160,7 +2160,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-14-เวลา-21.29.18-e1776176989316.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สิรอตต้องรอด Sirāt (2025)",
@@ -2168,7 +2168,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-09-เวลา-10.52.21-e1775707109113.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "120 บาฮาดูร์ 120 Bahadur (2025)",
@@ -2176,7 +2176,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-14-เวลา-21.22.01-e1776176860574.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฉันจะบอกความจริงกับคุณ I will tell you the truth (2025)",
@@ -2184,7 +2184,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-12-เวลา-01.10.53-e1775931142374.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดโบลิค Diabolic (2025)",
@@ -2192,7 +2192,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-08-เวลา-21.56.30-e1775660726254.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เจา คนเล็กผจญเงือกใหญ่ ChaO (2025)",
@@ -2200,7 +2200,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-08-เวลา-21.57.10-e1775660767685.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มาสค์ไรเดอร์ กาบุ เดอะมูฟวี่ ศึกบุกบ้านขนมหวาน (2025) Kamen Rider Gavv Invaders of the Candy House",
@@ -2208,7 +2208,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-06-เวลา-19.20.19-e1775478382399.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดอลลี่ Dolly (2025)",
@@ -2216,7 +2216,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-06-เวลา-19.18.17-e1775478267990.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คาเมนไรเดอร์ กาฟ กิลตี้ ปาร์เฟต์ Kamen Rider Gavv Guilty Parfait (2025)",
@@ -2224,7 +2224,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-06-เวลา-19.19.16-e1775478312573.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ครั้งหนึ่งเราเคยเป็นเรา Once We Were Us (2025)",
@@ -2232,7 +2232,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-05-เวลา-23.38.45-e1775407335616.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตำนานฟุตบอลเหนือธรรมดา Lefter The Story Of The Ordinarius (2025)",
@@ -2240,7 +2240,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-05-เวลา-23.39.07-e1775407352179.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดี๋ยวสวย เดี๋ยวแสบ ผมแทบจะเครซี่ Pretty Crazy (2025)",
@@ -2248,7 +2248,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-08-เวลา-02.24.54-e1775590010447.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ ซูเปอร์ มาริโอ้ บราเธอร์ส มูฟวี่ The Super Mario Bros Movie (2023)",
@@ -2256,7 +2256,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-04-เวลา-08.37.43-e1775266814156.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สมบัติชาติ Kokuho (2025)",
@@ -2264,7 +2264,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-05-เวลา-13.50.35-e1775371894110.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เซ็กส์ ออน โฟน Sex on Phone (2025)",
@@ -2272,7 +2272,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-04-เวลา-08.37.29-e1775266934580.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตำนานคนจริง Him (2025)",
@@ -2280,7 +2280,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-16.46.28-e1774777941553.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โชว์ไทม์ เซเว่น โหนล่ามหาประลัย SHOWTIME 7 (2025)",
@@ -2288,7 +2288,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-04-01-เวลา-01.53.32-e1774983241243.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ปาเลสไตน์ 36 Palestine 36 (2025)",
@@ -2296,7 +2296,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/04/-2569-04-03-เวลา-23.16.08-e1775233010515.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เฟิร์ท มูน First Moon (2025)",
@@ -2304,7 +2304,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-28-เวลา-00.26.44-e1774632454374.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พี่วรรณามาสอน 2025",
@@ -2312,7 +2312,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-04-01-เวลา-01.51.45-e1774983160307.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กาโร่ ไทกะ กำเนิดอัศวินหมาป่าทองคำ GARO Taiga (2025)",
@@ -2320,7 +2320,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-16.48.28-e1774777817816.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฮีล Heel (2025)",
@@ -2328,7 +2328,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-16.47.35-e1774777874261.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ ไฟร์ เรเวน The Fire Raven 2025",
@@ -2336,7 +2336,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-01.35.00-e1774724252472.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อัมสเตอร์ดัมเนด 2 Amsterdamned II (2025)",
@@ -2344,7 +2344,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-29-เวลา-16.39.59-e1774778135108.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เกาลูน อุบัติรักปริศนาลับ Kowloon Generic Romance (2025)",
@@ -2352,7 +2352,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-26-เวลา-22.29.24-e1774539233554.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พินัยกรรมของแอนน์ ลี The Testament Of Ann Lee (2025)",
@@ -2360,7 +2360,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-28-เวลา-00.26.24-e1774632475213.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บันทึกประจำวันของปิลาร์ในป่าอะเมซอน Pilar’s Diary in the Amazon (2025)",
@@ -2368,7 +2368,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-26-เวลา-22.28.44-e1774539276322.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สิ่งนี้เปิดอยู่หรือเปล่า Is This Thing On (2025)",
@@ -2376,7 +2376,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-26-เวลา-22.29.39-e1774539212728.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดนออฟธีฟส์ 2 แพนเทร่า Den of Thieves 2 Pantera (2025)",
@@ -2384,7 +2384,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-26-เวลา-22.29.05-e1774539254959.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รูปที่ 3 ของลินทริก Sosok Ketiga Lintrik (2025)",
@@ -2392,7 +2392,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-26-เวลา-10.24.44-1-e1774497463481.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กุนเซน Kuncen (2025)",
@@ -2400,7 +2400,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-24-เวลา-17.23.13-e1774347916509.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คืนสยองห้องดับจิต The Mortuary Assistant (2025)",
@@ -2408,7 +2408,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-25-เวลา-00.58.11-e1774375214576.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เมะรูโกะ ชาน ใครว่าหนูเห็นผี Mieruko-chan (2025)",
@@ -2416,7 +2416,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-24-เวลา-17.20.57-e1774347943868.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มฤตยูแหวกโลก Worldbreaker (2025)",
@@ -2424,7 +2424,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-24-เวลา-17.20.23-e1774347986628.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดราก้อน DRAGN (2025)",
@@ -2432,7 +2432,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-24-เวลา-17.20.04-e1774348009190.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ความบ้าคลั่งของคนบ้า Ek Deewane Ki Deewaniyat (2025)",
@@ -2440,7 +2440,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-21-เวลา-18.15.24-e1774091872260.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ เรซ The Race (2025)",
@@ -2448,7 +2448,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-23-เวลา-14.11.05-e1774250008899.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฮินด์ ราจาบ เสียงร่ำไห้จากกาซา The Voice Of Hind Rajab (2025)",
@@ -2456,7 +2456,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-21-เวลา-18.14.15-e1774091975311.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ที่นี่ มีแต่ปีศาจ All the Devils Are Here (2025)",
@@ -2464,7 +2464,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-20-เวลา-14.22.13-e1774003954919.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ขอให้ผมได้รักคุณ 2 De De Pyaar De 2 (2025)",
@@ -2472,7 +2472,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-20-เวลา-14.21.57-e1774004036654.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สัตว์อันตราย Dangerous Animals (2025)",
@@ -2480,7 +2480,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-20-เวลา-14.21.36-e1774004079672.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดรีม แอนิมอล เดอะ มูฟวี่ Dream Animals The Movie (2025)",
@@ -2488,7 +2488,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-20-เวลา-14.20.49-e1774004138195.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฟางเส้นสุดท้าย Straw (2025)",
@@ -2496,7 +2496,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-20-เวลา-14.21.16-e1774004116138.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เอเลนอร์ผู้ยิ่งใหญ่ Eleanor the Great (2025)",
@@ -2504,7 +2504,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-20-เวลา-14.20.27-e1774004165173.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดวลเดือด สังเวียนระห่ำ The Last Gunfight (2025)",
@@ -2512,7 +2512,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-19-เวลา-05.27.52-e1773873284193.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กลบความจริง Cover-Up (2025)",
@@ -2520,7 +2520,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-19-เวลา-05.27.35-e1773873316267.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "100 ปี เดอะ นิวยอร์กเกอร์ The New Yorker at 100 (2025)",
@@ -2528,7 +2528,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-19-เวลา-05.28.25-e1773873213384.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ มาสเตอร์ มายด์ The Mastermind (2025)",
@@ -2536,7 +2536,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-17-เวลา-12.11.22-e1773724432306.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สตรีมมิ่ง Streaming (2025)",
@@ -2544,7 +2544,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-17-เวลา-12.10.34-e1773724602848.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดาราแห่งโลกมายา Kaantha 2025",
@@ -2552,7 +2552,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-16-เวลา-11.42.26-e1773636269994.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ในแสงเย็น In Cold Light 2025",
@@ -2560,7 +2560,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-16-เวลา-11.42.44-e1773636219483.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ช่างภาพเบื้องหลังรูปถ่ายประวัติศาสตร์ The Stringer The Man Who Took The Photo (2025)",
@@ -2568,7 +2568,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-15-เวลา-00.00.06-1-e1773512674676.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สปริงสตีน ส่งมอบฉันจากที่ไหนสักแห่ง Springsteen Deliver Me From Nowhere 2025",
@@ -2576,7 +2576,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-16-เวลา-11.42.05-e1773636289150.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คืนเดือดฝ่าวงล้อมนรก Banduan (2025)",
@@ -2584,7 +2584,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-15-เวลา-15.05.41-e1773564622452.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สาลิกมาตา Salikmata (2025)",
@@ -2592,7 +2592,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-14-เวลา-12.06.45-e1773464861450.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รสขม The Bitter Taste (2025)",
@@ -2600,7 +2600,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-14-เวลา-12.06.31-e1773464888101.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อะไนท์ วอร์ A Knights War (2025)",
@@ -2608,7 +2608,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-13-เวลา-13.02.41-e1773383442334.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นักฆ่าตาบอด Blind Murder (2025)",
@@ -2616,7 +2616,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-14-เวลา-12.05.58-e1773464908740.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "แฮมเน็ต Hamnet 2025",
@@ -2624,7 +2624,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-13-เวลา-00.03.41-e1773337878347.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ผู้พิทักษ์แดนเดือด Salvageland (2025)",
@@ -2632,7 +2632,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-13-เวลา-13.02.10-e1773383403865.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "งานแต่งงานที่ไม่มีวันจบสิ้น An Endless Wedding (2025)",
@@ -2640,7 +2640,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-12-เวลา-13.11.40-e1773295945772.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อันเดอร์ เคอเรนท์ Under Current 2025",
@@ -2648,7 +2648,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-13-เวลา-00.01.37-e1773337836918.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อยู่ต่อ Stay (2025)",
@@ -2656,7 +2656,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-12-เวลา-13.11.52-e1773296125293.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ปิดร้านกาแฟของคุณ Close Ur Kopitiam (2025)",
@@ -2664,7 +2664,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-12-เวลา-01.47.02-e1773255177344.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นางพญาอสรพิษ Snake (2025)",
@@ -2672,7 +2672,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-12-เวลา-01.47.17-e1773255209243.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไนท์ เดอะ รีปเปอร์ Night of the Reaper (2025)",
@@ -2680,7 +2680,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-12-เวลา-01.46.27-e1773255156903.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซาวน์ ออฟ ไซเรน Sound of Silence (2025)",
@@ -2688,7 +2688,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-11-เวลา-17.56.40-e1773226758327.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บาดัก Badak (2025)",
@@ -2696,7 +2696,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-11-เวลา-17.56.01-e1773226713828.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เอลล่า แมคเคย์ Ella McCay (2025)",
@@ -2704,7 +2704,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-10-เวลา-12.50.46-e1773122271336.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดาย มาย เลิฟ Die My Love (2025)",
@@ -2712,7 +2712,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-10-เวลา-12.51.23-e1773122376626.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตงจี๋ เรสคิว พลิกนรกกู้ Dongji Rescue (2025)",
@@ -2720,7 +2720,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-10-เวลา-12.49.37-e1773122341173.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เกาะสกินวอล์คเกอร์ Skinwalker Island (2025)",
@@ -2728,7 +2728,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-08-เวลา-15.42.23-e1772959687671.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ประกาศจับเจียงหู  WANTED (2025)",
@@ -2736,7 +2736,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-08-เวลา-15.41.51-e1772959660705.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เฮล อิน พาราไดซ์ Hell in Paradise (2025)",
@@ -2744,7 +2744,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-07-เวลา-14.04.14-e1772868946465.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตามล่าศพสยอง คืนสุดท้าย The Last Night (2025)",
@@ -2752,7 +2752,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-07-เวลา-14.04.45-e1772868882902.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คณะนักร้องประสานเสียง The Choral (2025)",
@@ -2760,7 +2760,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-08-เวลา-15.41.10-e1772959577160.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อนงค์ 2 สามสี่ชาติ (2025)",
@@ -2768,7 +2768,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-05-เวลา-14.27.29-e1772695872503.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ปลา กำปั้น อำพันอลวน Fish Fists and Ambergris (2025)",
@@ -2776,7 +2776,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-07-เวลา-14.04.28-e1772868920332.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ภาพยนตร์บ้านตุ๊กตาของแกบบี้ Gabby’s Dollhouse The Movie (2025)",
@@ -2784,7 +2784,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-05-เวลา-13.07.50-e1772694079935.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "H สำหรับเหยี่ยว H Is For Hawk (2025)",
@@ -2792,7 +2792,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-02-เวลา-12.03.45-e1772428491741.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตำนานเซียนจิ้งจอกแห่งเฟิ่งโหลว The Legend of Feng Lou Divine Fox (2025)",
@@ -2800,7 +2800,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-03-เวลา-13.19.45-e1772519002350.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คริสตี้ Christy (2025)",
@@ -2808,7 +2808,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-04-เวลา-14.04.04-e1772633094819.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นักล่าวิญญาณ The Demon Hunter (2025)",
@@ -2816,7 +2816,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-03-เวลา-13.19.21-e1772518979843.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สุนัข 51 Dog 51 (2025)",
@@ -2824,7 +2824,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-02-เวลา-12.03.09-e1772428468418.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Metro in Dino (2025) หลากชีวิตวันนี้… ในเมืองใหญ่",
@@ -2832,7 +2832,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-02-เวลา-12.03.22-e1772428354907.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สายน้ำลับ 12 ชั่วโมงหลอน 12 Hours of Terror (2025)",
@@ -2840,7 +2840,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-03-01-เวลา-15.34.17-e1772354167788.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กิฟาราห์ Qifarah (2025)",
@@ -2848,7 +2848,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/03/-2569-03-02-เวลา-12.02.49-e1772428036982.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ลูกชายช่างไม้ The Carpenters Son (2025)",
@@ -2856,7 +2856,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-27-เวลา-13.44.50-e1772178975914.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เอ็ดดิงตัน Eddington (2025)",
@@ -2864,7 +2864,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-03-01-เวลา-15.33.42-e1772354127473.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ผู้หญิงที่ชื่อแม่ A Woman Called Mother (2025)",
@@ -2872,7 +2872,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-03-01-เวลา-15.34.07-e1772354146281.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตูเมริ เมนเทรา เมนเทรา ตูเมริ Tu Meri Main Tera Main Tera Tu Meri (2025)",
@@ -2880,7 +2880,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-26-เวลา-23.58.47-e1772125159135.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "แผนการแห่งไฟ The Plot of Fire (2025)",
@@ -2888,7 +2888,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-25-เวลา-14.26.43-e1772004429565.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Near Death (2025) ใกล้ตาย",
@@ -2896,7 +2896,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-24-เวลา-14.24.52-e1771917981145.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มีชื่อเสียงจากระยะไกล Remotely Famous (2025)",
@@ -2904,7 +2904,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-30-เวลา-18.10.59-e1769771757985.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มาตี้ ซูพรีม Marty Supreme (2025)",
@@ -2912,7 +2912,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/02/-2569-02-24-เวลา-14.24.29-e1771917999670.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดันโดรา Dhandoraa (2025)",
@@ -2920,7 +2920,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-29-เวลา-14.41.37-e1769672547757.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ชีวิตสองด้านของฉันในฐานะชาวอามิช My Amish Double Life (2025)",
@@ -2928,7 +2928,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-29-เวลา-14.41.15-e1769672575965.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "The Orphans (2025) เดอะ ออร์แฟนส์",
@@ -2936,7 +2936,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-29-เวลา-14.40.27-e1769672657161.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บันทึก หนานจิง Dead to Rights (2025)",
@@ -2944,7 +2944,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-28-เวลา-18.15.33-e1769599342899.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Roofman (2025) คนดีที่ลัก",
@@ -2952,7 +2952,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-29-เวลา-14.40.49-e1769672614643.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คริสต์มาสกับกีฬาพิคเคิลบอล A Pickleball Christmas (2025)",
@@ -2960,7 +2960,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-29-เวลา-14.40.37-e1769672638412.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โรคระบาดแดง Red Plague (2025)",
@@ -2968,7 +2968,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-22-เวลา-12.49.09-e1769061984649.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "90 นาทีสั่งตาย Mercy (2025)",
@@ -2976,7 +2976,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-28-เวลา-18.12.11-e1769599374500.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นูเร็มเบิร์ก Nuremberg (2025)",
@@ -2984,7 +2984,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-19-เวลา-14.04.01-e1768806329602.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Honey Don’t! (2025) ฮันนี่…สวยสืบแส่",
@@ -2992,7 +2992,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-22-เวลา-12.49.28-e1769061964579.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซอง ซัง บลู Song Sung Blue (2025)",
@@ -3000,7 +3000,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-19-เวลา-14.04.14-e1768806311797.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ความทรงจำ Memori (2025)",
@@ -3008,7 +3008,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-19-เวลา-14.03.41-e1768806348814.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฆาตกรรมที่ประภาคาร Murder at the Lighthouse (2025)",
@@ -3016,7 +3016,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-22-เวลา-12.49.40-e1769061944657.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เรื่องผีสาป The Cursed Insatiable Desires (2025)",
@@ -3024,7 +3024,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-17-เวลา-19.17.02-e1768652470824.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "731 อีวิว อัน บาวน์ 731 Evil Unbound (2025)",
@@ -3032,7 +3032,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-12-เวลา-14.53.57-e1768204583631.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นากรักมาก ม๊ากมาก",
@@ -3040,7 +3040,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-14-เวลา-04.07.51-e1768338504645.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พี77 P77 (2025)",
@@ -3048,7 +3048,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-17-เวลา-19.17.20-e1768652498529.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดัท บันนี่ Dust Bunny (2025)",
@@ -3056,7 +3056,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-17-เวลา-19.16.05-e1768652383376.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ความลับแม่บ้านร้าย The Housemaid (2025)",
@@ -3064,7 +3064,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-12-เวลา-14.53.45-e1768204603298.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หลั่งเลือดพยัคฆ์ ปัจฉิมบทชำระแค้น Bleeding Tiger Resolution (2025)",
@@ -3072,7 +3072,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-12-เวลา-14.54.25-e1768204546126.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โจรกรรมมายากล Magik Rompak (2025)",
@@ -3080,7 +3080,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-12-เวลา-14.54.11-e1768204564782.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไวลด์แคท สวยต้องปล้น Wildcat (2025)",
@@ -3088,7 +3088,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-09-เวลา-23.03.24-e1767975035434.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "วิคเค็ด ภาค 2 Wicked 2 For Good (2025)",
@@ -3096,7 +3096,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-09-เวลา-23.05.45-e1767974776400.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ยายทราบแล้วเปลี่ยน Go For Grandma (2025)",
@@ -3104,7 +3104,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-10-เวลา-00.40.31-e1767980520523.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นักปล้นคนที่หก The Sixth Robber (2025)",
@@ -3112,7 +3112,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-10-เวลา-00.40.51-e1767980542165.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "100 Meters (2025) 100 เมตร",
@@ -3120,7 +3120,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-06-เวลา-23.34.06-e1767717473807.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Alma and The Wolf (2025) อัลมาและมนุษย์หมาป่า",
@@ -3128,7 +3128,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-06-เวลา-23.34.53-e1767717425233.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "The Tank (2025) รถถังเจ้าพยัคฆ์",
@@ -3136,7 +3136,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-06-เวลา-23.34.39-e1767717452572.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ป๊อปอาย เดอะ สเลเยอร์ แมน Popeye the Slayer Man (2025)",
@@ -3144,7 +3144,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-02-เวลา-02.21.18-e1767295634564.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฒ ผู้เฒ่า Last Light (2025)",
@@ -3152,7 +3152,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-02-เวลา-02.20.45-e1767295585372.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Trap House (2025) ดักแผนล่า ท้าทรชน",
@@ -3160,7 +3160,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-06-เวลา-23.35.11-e1767717403171.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คืนถิ่น Homebound (2025)",
@@ -3168,7 +3168,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-02-เวลา-02.20.27-e1767295540769.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตำนานจอมยุทธ์ภูตถังซาน วิถีจิตแห่งดาบ Soul Land Sword Master (2025)",
@@ -3176,7 +3176,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-02-เวลา-02.19.22-e1767295463424.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สามรัก หนึ่งนิรันดร์ Eternity (2025)",
@@ -3184,7 +3184,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-02-เวลา-02.19.06-e1767295433316.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฟิล์มหลอนซ่อนวิญญาณ Posthouse (2025)",
@@ -3192,7 +3192,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-02-เวลา-02.21.00-e1767295610914.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ด็อกแมน Dog Man (2025)",
@@ -3200,7 +3200,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-02-เวลา-02.19.37-e1767295503185.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มาซาเมียร์ จูเนียร์ Masameer Junior (2025)",
@@ -3208,7 +3208,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-02-เวลา-02.19.56-e1767295482944.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "หยุดชั่วโมงปีศาจ Aaryan (2025)",
@@ -3216,7 +3216,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-02-เวลา-02.18.52-e1767295415124.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "100 คืนแห่งวีรบุรุษ 100 Nights of Hero (2025)",
@@ -3224,7 +3224,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2026/01/2569-01-02-เวลา-02.18.29-e1767295395764.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Murder in Monaco (2025) ฆาตกรรมในโมนาโก",
@@ -3232,7 +3232,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-29-เวลา-00.44.07-e1766944037494.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "วอกเกอร์ Walker (2025)",
@@ -3240,7 +3240,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-29-เวลา-00.58.32-e1766944742289.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กรรมคริสต์มาส Christmas Karma (2025)",
@@ -3248,7 +3248,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-28-เวลา-01.32.00-e1766860548887.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ลาส อิลูซีอันดาส Las ilusyunadas (2025)",
@@ -3256,7 +3256,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/MV5BNzA3NWNhYmUtMTQyMi00MGFjLThjNGYtOTc4OTc5MzdhYTI4XkEyXkFqcGc@._V1_QL75_UX190_CR02190281_-e1766944507449.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไวโอเลท Violet (2025)",
@@ -3264,7 +3264,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-28-เวลา-01.32.18-e1766860814648.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เอคิส Ekis (2025)",
@@ -3272,7 +3272,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/ekis-philippine-movie-poster-e1766860752954.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ความหลงใหล Obsesyon (2025)",
@@ -3280,7 +3280,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-28-เวลา-01.32.40-e1766860785919.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เชลยศึก (2025) Prisoner of War (2025)",
@@ -3288,7 +3288,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/Prisoner-of-War-2025-187x269-1.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อนาคอนดา เลื้อยสยองโลก Anaconda (2025)",
@@ -3296,7 +3296,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/bg_4457-e1766862262847.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มาเรีย อาซามา ดาราหนังโป๊ที่ดีที่สุด Maria Azama Da Best Prn Star (2025)",
@@ -3304,7 +3304,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/maria-azama-da-best-prn-star-2025-ph-982033-1-e1766860724145.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ความปั่นป่วน Turbulence (2025)",
@@ -3312,7 +3312,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/TURBULENCE-1-EFM-1_2025-08-22-165821_ukys-e1766860670346.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เทยไทบ้าน 2025",
@@ -3320,7 +3320,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-22-เวลา-13.43.19-e1766385834107.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ลาก่อน มิถุนายน Goodbye June (2025)",
@@ -3328,7 +3328,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/goodbye-june-2025-ลาก่อน-จูน-2025-e1766860614189.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ลักหลอกๆ ไม่หยอกเล่น The Fakenapping (2025)",
@@ -3336,7 +3336,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-22-เวลา-13.19.46-e1766384466644.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โซโลริตี้ Sorority (2025)",
@@ -3344,7 +3344,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-22-เวลา-13.19.30-e1766384487391.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มายูมิ Mayumi (2025)",
@@ -3352,7 +3352,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-22-เวลา-13.19.15-e1766384507922.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อันลิ ป้อบ Unli Pop (2025)",
@@ -3360,7 +3360,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-22-เวลา-13.19.00-e1766384528241.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
@@ -3368,7 +3368,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-22-เวลา-13.18.21-e1766384566545.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
@@ -3376,7 +3376,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-22-เวลา-13.18.32-e1766384546296.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Kapag Tumayo Ang Testigo (2025)",
@@ -3384,7 +3384,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/MV5BMzAyNmM2MzItYjZjMS00NGE2LWIzYzUtODZjYzllZTY0Y2M2XkEyXkFqcGc@._V1_QL75_UX190_CR02190281_-e1766250637479.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไฮ ไฟว์ Hi Five (2025)",
@@ -3392,7 +3392,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2505161204344Od-e1766250580415.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไบเกย์ Bigay hilig Sexual Fetish (2025)",
@@ -3400,7 +3400,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-21-เวลา-00.02.53-e1766250203749.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ผีใช้ได้คะ 2025",
@@ -3408,7 +3408,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-21-เวลา-00.01.25-e1766250122841.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เมิร์ฟ สี่ขาสื่อหัวใจ Merv (2025)",
@@ -3416,7 +3416,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-20-เวลา-23.57.34-e1766249884259.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ เกรท ฟลัด The Great Flood 2025",
@@ -3424,7 +3424,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-20-เวลา-23.37.53-e1766248840235.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อวตาร 3 อัคนีและธุลีดิน Avatar 3 Fire and Ash (2025)",
@@ -3432,7 +3432,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/p_studios_avatar_fireandash_windtrader_poster_a90c31b6-e1766248885150.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "พระเอกหมดท่า Lost in the Spotlight (2025)",
@@ -3440,7 +3440,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-20-เวลา-23.55.48-e1766249780490.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คามาสุตรา VMX Kama Sutra (2025)",
@@ -3448,7 +3448,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/MV5BNzNhYjMwMmQtZjY5Ny00ZDIwLWFjMGYtZWVmOWQxZGZjMDBhXkEyXkFqcGc@._V1_-e1765781784148.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฆาตกรรมหรรษา ใครฆ่าคนบาป Wake Up Dead Man A Knives Out Mystery (2025)",
@@ -3456,7 +3456,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/news-9ccb595-e1765781595640.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Kingkaew (2026) กิ่งแก้ว",
@@ -3464,7 +3464,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-09-เวลา-20.02.06-e1765285460558.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คืนรักในห้องฉุกเฉิน (2025)",
@@ -3472,7 +3472,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-07-เวลา-10.58.45-e1765080228881.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "The Exit 8 (2025) ทางออกหมายเลข 8",
@@ -3480,7 +3480,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-09-เวลา-19.54.15-e1765284889327.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สิสู 2 เฒ่ามหากาฬ 2 Sisu 2 2025",
@@ -3488,7 +3488,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-09-เวลา-19.41.33-e1765284262852.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ล่าเจสสิก้า บร็อค Hunting Jessica Brok (2025)",
@@ -3496,7 +3496,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/MV5BNGZlNDc4MDgtNTIwYS00YWYyLWI3MDAtNmIzMWQ0NzE5YzNhXkEyXkFqcGc@._V1_-e1765284608121.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ข้างบ้าน 2025",
@@ -3504,7 +3504,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-09-เวลา-19.46.48-e1765284442945.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โกหกปุ๊บ เป็นจริงปั๊บ (2025)",
@@ -3512,7 +3512,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-07-เวลา-11.00.21-e1765080351166.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "OH WHAT FUN (2025) โอ้วอทฟัน คริสต์มาสนี้ แม่ล่ะเพลีย",
@@ -3520,7 +3520,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/channels-logo-white.png_0020003000002000300016702769243144_kvf21cb47db8d34aa971cd86f57a65cf8d_SX750_FMpng_-e1765080194561.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Soul On Fire (2025) ปาฏิหาริย์ไฟชีวิต",
@@ -3528,7 +3528,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/1082273-soul-on-fire-0-230-0-345-crop-e1765080274267.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โลน ซามูไร Lone Samurai (2025)",
@@ -3536,7 +3536,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/MV5BNzA5ZGFlYjUtNjMxZi00YzQ2LWE1MDUtZGQ3ZjMwMTYyZjE1XkEyXkFqcGc@._V1_-e1765080253839.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Jingle Bell Heist (2025) โจรกรรมจิงเกิลเบล",
@@ -3544,7 +3544,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/images-2.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฟ้าลิขิต ให้พ่อเฉิดฉาย (2025)",
@@ -3552,7 +3552,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-07-เวลา-10.59.51-e1765080317646.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "The Son of a Thousand Men (2025) ช่องว่างที่ขาดหาย สายใยที่ผูกพัน",
@@ -3560,7 +3560,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/The-Son-of-a-Thousand-Men-2025-ช่องว่างที่ขาดหาย-สายใยที่ผูกพัน-300x450-1.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดือดล้างอิทธิพล Jaat (2025)",
@@ -3568,7 +3568,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/8GYJw2W34dsJOwTpo4W563d8BUE.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "แชมเปญรัก ปัญหาร้าย Champagne Problems (2025)",
@@ -3576,7 +3576,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/images-1-1.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ลัดฟ้าตามล่ารักหลานสาวเศรษฐี (2025)",
@@ -3584,7 +3584,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-07-เวลา-11.01.09-e1765080415956.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "825 Forest Road ถนนป่าสาย 825 (2025)",
@@ -3592,7 +3592,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-07-เวลา-11.00.38-e1765080370645.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บทกวีล่าข้ามเวลา (2025)",
@@ -3600,7 +3600,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2d0e134a26a24e31975e977cce6feebe-e1765080389500.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เธอต้องรอด She Rides Shotgun (2025)",
@@ -3608,7 +3608,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/73020_medium.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เด็กมือซ้าย Left Handed Girl (2025)",
@@ -3616,7 +3616,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/พากย์ไทย-e1764787277650.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ภาพยนตร์คริสต์มาสของโจนาส A Very Jonas Christmas Movie (2025)",
@@ -3624,7 +3624,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/A-Very-Jonas-Christmas-Movie-2025-e1764679615261.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Baramulla (2025) บารามุลลาอาถรรพ์",
@@ -3632,7 +3632,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/Baramulla_2025-e1764679634537.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รักแบบไหนที่ใจตามหา Materialists (2025)",
@@ -3640,7 +3640,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/Materialists-2025-รักแบบไหนที่ใจตามหา-187x269-1.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Death of a Unicorn (2025) เดธ ออฟ อะ ยูนิคอร์น",
@@ -3648,7 +3648,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/untitled09811-e1764679652503.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เรียกมันกลับมาหลอน Bring Her Back (2025)",
@@ -3656,7 +3656,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/MV5BMWFlYTFhMmQtYzQ0MS00YWI4LWFiYWItNTM5ZmYxZWUyNzdmXkEyXkFqcGc@._V1_-e1764598331606.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "The Smashing Machine (2025) ตำนานเครื่องจักร สังเวียนเดือด",
@@ -3664,7 +3664,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/The-Smashing-Machine-2025-ตำนานเครื่องจักรสังเวียนเดือด-300x450-1-e1764679672543.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "รักในคำลวง Lovesick (2025)",
@@ -3672,7 +3672,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/images-e1764629890300.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คนเดือดขวางทางโจร Caught Stealing (2025)",
@@ -3680,7 +3680,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/thumb_4547-e1764629869465.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โทรลล์ 2 Troll 2 (2025)",
@@ -3688,7 +3688,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/Troll_2_2025_poster-e1764598351592.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มือปืน 2025",
@@ -3696,7 +3696,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/2568-12-01-เวลา-21.10.18-e1764598379205.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Dollhouse (2025) ดอลล์เฮ้าส์ หลอนซ่อนหุ่น",
@@ -3704,7 +3704,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/thumb_4804-e1764552796874.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เจ้าที่ปีศาจ 2025",
@@ -3712,7 +3712,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/12/672x840-1-e1764598167348.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Now You See Me 3 Now You Don’t (2025) อาชญากลปล้นโลก 3",
@@ -3720,7 +3720,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/11/images-4-1.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "The Running Man (2025) เดอะ รันนิ่ง แมน",
@@ -3728,7 +3728,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/11/aa040190-99f2-11f0-9f94-7fca32ec7f53_webp_original-e1763625655797-1.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "4 Tigers (2025) เสือ",
@@ -3736,7 +3736,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/11/thumb_4109-1-e1763012723893.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตี๋ใหญ่ ฤกษ์ ดาว โจร 2025",
@@ -3744,7 +3744,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/11/news-ca5000c-e1763092910990.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เทวดาแบบใด๋ 2025",
@@ -3752,7 +3752,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/11/796a2e80-9f4f-11f0-8e3c-3d2df101c52c_webp_original-e1763273018559.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Predator Badlands (2025) พรีเดเตอร์ แดนเถื่อน",
@@ -3760,7 +3760,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/11/locandinapg3-e1762782125169.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Frankenstein (2025) แฟรงเกนสไตน์",
@@ -3768,7 +3768,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/11/1167532-e1762782358941.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มาร์เวลซอมบี้  Marvel Zombies (2025)",
@@ -3776,7 +3776,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/10/Marvel-Zombies-20252-e1759491312375.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Play Dirty (2025) หักหลังต้องหักเหลี่ยม",
@@ -3784,7 +3784,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/10/Play-Dirty-2025-e1759683912262.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "One Battle After Another (2025) หนึ่งศึกครั้งแล้วครั้งเล่า",
@@ -3792,7 +3792,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/10/250522120422a0A-e1759488622560.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Tron Ares (2025) ทรอน แอรีส",
@@ -3800,7 +3800,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/10/images-2.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "The Woman in Cabin 10 (2025) ฝันร้ายในห้องหมายเลข 10",
@@ -3808,7 +3808,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/10/5bb830a0-a669-11f0-a6ad-754f9315cc26_webp_original-e1760245733113.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มะหมาเห็นผี Good Boy (2025)",
@@ -3816,7 +3816,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/10/2568-10-12-เวลา-20.26.59-e1760279700810.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เกาะรักพัก โสด ผจญภัยในกรีซ Planet Single Greek Adventure (2025)",
@@ -3824,7 +3824,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/Planeta_Singli_4_Wyspa_2025-e1756526921961.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ธี่หยด 3",
@@ -3832,7 +3832,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/10/‘ผี-อาจไม่ได้มีแค่ตัวเดียว-ธี่หยด-3-e1759488666174.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Caramelo (2025) คาราเมโล",
@@ -3840,7 +3840,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/10/images-2-1-e1760249201871.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไซต์ Site (2025)",
@@ -3848,7 +3848,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/Site-e1756310594546.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สวรรค์คนบาป  Eden (2025)",
@@ -3856,7 +3856,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/unnamed-1-e1756526670954.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Nobody 2 (2025) คนธรรมดานรกเรียกพี่ 2",
@@ -3864,7 +3864,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/unnamed-2-e1756310608731.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ลวงรักทรยศ Fall For Me (2025)",
@@ -3872,7 +3872,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/1830fd3de135505d115145eeace9bea1-e1756526586150.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ชายผู้ถูกลอตเตอรี่ Millionaire (2025)",
@@ -3880,7 +3880,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/MV5BZGFkMjNiOTgtMDA5Yi00N2E3LWIxOTMtNmRjMzMyNTAzYzg2XkEyXkFqcGc@._V1_QL75_UX190_CR028190281_.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เขาชุมทอง คะนองชุมโจร Gold Rush Gang (2025)",
@@ -3888,7 +3888,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/th_goldrushgang_mainposter-e1755878460345.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Tha Rae The Exorcist (2025) ท่าแร่",
@@ -3896,7 +3896,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/Tha-Rae-The-Exorcist-Theme-Poster-e1755573786793.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Night Always Comes (2025) คืนวันอันตราย",
@@ -3904,7 +3904,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/gHCIEwzFvQ3MksSME-2690W-e1755573800359.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Love or Lie (2025) ฮักสัปปะลี่กับคดีสีชมพู",
@@ -3912,7 +3912,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/unnamed-e1755573851591.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อ่านชะตาวันสิ้นโลก Omniscient Reader The Prophecy (2025)",
@@ -3920,7 +3920,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/YByqLuAhnfIcPMplat5luLzKgUw96f3r7LFOh1PC-e1755001250728.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Freakier Friday (2025) ศุกร์สยอง สี่ร่างสลับรุ่น",
@@ -3928,7 +3928,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/20O5DOCNnEto4edBcbVQxW3AnaZsPOv-e1755573868487.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฮาลาบาลา 2025",
@@ -3936,7 +3936,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/images-2.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กำเนิดเทพเจ้า ตอน มหาศึกเทพยุทธ Creation of the Gods II Demon Force (2025)",
@@ -3944,7 +3944,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/Poster_กำเนิดเทพเจ้า-e1755001295459.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เวเพินส์ Weapon 2025",
@@ -3952,7 +3952,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/2568-08-12-เวลา-19.04.29-e1755000291468.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ตำนานจอมยุทธ์ภูตถังซาน Soul land sword master 2025",
@@ -3960,7 +3960,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/Soul-Land-Sword-Master-2025-e1754370702748.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซ่อนเร้น Untold 2025",
@@ -3968,7 +3968,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/Untold-2025-265x375-1-e1754370689853.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สงครามโลก War of the worlds 2025",
@@ -3976,7 +3976,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/War_of_the_Worlds_2025_official_poster-e1754370714551.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "An Honest Life (2025) ชีวิตซื่อ",
@@ -3984,7 +3984,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/An-Honest-Life-2025-200x300-1-e1754370664799.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "งานเลี้ยงแต่งงาน The wedding banquet 2025",
@@ -3992,7 +3992,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/The_Wedding_Banquet_2025_poster-e1754370727452.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน My Oxford Year (2025)",
@@ -4000,7 +4000,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/images-e1754370407718.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อันเดอร์ นินจา Under Ninja (2025)",
@@ -4008,7 +4008,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/images-6.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "The Naked Gun (2025) มือปราบปืนเปลือย",
@@ -4016,7 +4016,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/8fb94fe0-6c2d-11f0-99d7-cd32861d58b4_webp_original.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โอชิ อสูรขี้อ้อน พาน้อน กลับบ้าน The Legend of Ochi (2025)",
@@ -4024,7 +4024,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/images-5.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดาบพิฆาคอสูร 2025 Demon Slayer Kimetsu no Yaiba Infinity Castle (2025)",
@@ -4032,7 +4032,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/2137b950-fa5c-11ef-b9ca-2feb79962fa1_webp_original-e1754054237446.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กระบี่เย้ยยุทธจักร Invincible Swordsman (2025)",
@@ -4040,7 +4040,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/images-4.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เดอะ สโตน พระแท้ คนเก๊ The Stone (2025)",
@@ -4048,7 +4048,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/08/w1200-e1754053896132.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ทูซก ทูซก Tusok tusok (2025)",
@@ -4056,7 +4056,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/poster_en-e1753666089890.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นครสัตว์มหาสนุก 2 Zootopia 2 2025",
@@ -4064,7 +4064,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/Zootopia_2_2025_film-e1753842821218.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซิกซ์อีช (2025) Six Each",
@@ -4072,7 +4072,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/MV5BMjA0OGQzZDMtNzgwZC00NzEyLWI4MWYtNzNkYWNlYjA1ZGU0XkEyXkFqcGc@._V1_-e1753666127611.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซอมบี้ 4 รุ่งอรุณแห่งแวมไพร์ ZOMBIES 4 Dawn of the Vampires (2025)",
@@ -4080,7 +4080,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/watch-zombies-4-dawn-of-the-vampires-on-july-10-next-day-on-v0-076eczlwylwe1-e1753665915413.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โกสต์คิลเลอร์ (2025) Ghost Killer",
@@ -4088,7 +4088,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/Ghost-Killer-2025-e1753666107746.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โซเวอเรน (2025) Sovereign",
@@ -4096,7 +4096,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/images-9.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โคโลญ 75 (2025) Köln 75",
@@ -4104,7 +4104,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/MV5BNDk4YzUwZGQtNWViMi00ZmRkLTlhYjAtOTVhNTY1MWYxNDEzXkEyXkFqcGc@._V1_FMjpg_UX1000_-e1753559640485.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฮิปัค (2025) Hipak",
@@ -4112,7 +4112,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/MV5BNzkxNTQ2ZmYtMjI5Zi00MDY3LTlhZTMtYTY3ODFlM2ZjNjFkXkEyXkFqcGc@._V1_QL75_UX190_CR00190281_-e1753559549719.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซัมเมอร์สยอง I Know What You Did Last Summer (2025)",
@@ -4120,7 +4120,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/1752676107_I-Know-What-You-Did-Last-Summer-160725-5-e1753559318648.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เพื่อนหาย อย่าหา 2 Another Simple Favor 2 (2025)",
@@ -4128,7 +4128,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/1746002753_Another-Simple-Favor-300425-1-1-e1753245901329.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บิ๊กแมน Big Man (2025)",
@@ -4136,7 +4136,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/applebigman2-high-e1753559199321.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "โดราและการตามหาโซลโดราโด Dora and the Search for Sol Dorado (2025)",
@@ -4144,7 +4144,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/Dora-and-the-Search-for-Sol-Dorado-203x300-1-e1753245872409.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ไล่มันออกจากร่าง The Ritual (2025)",
@@ -4152,7 +4152,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/The-Ritual-2025-Poster-Art-550x817-1-e1752898317385.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สเมิร์ฟ Smurfs (2025)",
@@ -4160,7 +4160,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/981887b0-3793-11f0-90dc-ed1cbbf6847e_webp_original-e1752993231539.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กว่าจะเป็นครอบครัว Almost Family (2025)",
@@ -4168,7 +4168,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/Almost-Family-1024x576-1-e1752898841142.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ฝันร้าย 84 ตร.ม. Wall to Wall (2025)",
@@ -4176,7 +4176,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/8a2b6920-6311-11f0-9bb0-3bf5826c03e9_webp_original-e1752887000333.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Mountainhead (2025) เมาน์เทนเฮด",
@@ -4184,7 +4184,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/MH1_02-e1752843124986.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Madea’s Destination Wedding (2025) ป้าลุยแหลกแหกวิวาห์ป่วน",
@@ -4192,7 +4192,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/Madea-s-Destination-Wedding-e1752842869575.png.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซ่อนในเงามืด Lilim (2025)",
@@ -4200,7 +4200,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/2xleZc3H7AUhqyu1O9tHuUpPJgU-265x375-1-e1752886934931.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Detective Chinatown 1900 (2025) แก๊งม่วนป่วนอเมริกา",
@@ -4208,7 +4208,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/unnamed-1-e1747344449817.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คายอ้อ ลบหลู่ ศรัทธา อาถรรพ์ Kayaor 2025",
@@ -4216,7 +4216,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/250626120421910-e1752831969931.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Almost cops คู่สืบ​ คู่อันตราย 2025",
@@ -4224,7 +4224,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/AAAABauQ0EcSj_2cnlesbA4yntsu1OuD_quOv1_Y6P-CP2-UT83VSeohjFph47L1WFbUYx6S8NPm9tZBVJz3nqoNhT0LKMTN-fsxaKE3mIBmKjTI7Ardm_hP4_XMAVZThwsGWWZ9yw-e1752474588388.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซูเปอร์แมน Superman (2025)",
@@ -4232,7 +4232,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/unnamed-e1752306528565.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "กำแพง Brick (2025)",
@@ -4240,7 +4240,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/Brick-2025-e1752306540637.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ทัณฑกาล Thantakan (2025)",
@@ -4248,7 +4248,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/105408_tfuxxzcWTy7MAeUPPGfU-scaled-e1752306497467.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "คาราเต้ คิด ผนึกพลังตำนานนักสู้ Karate Kid Legends (2025)",
@@ -4256,7 +4256,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/images-e1752306513803.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Lilo and Stitch ลิโล่แอนด์สติทช์ 2025",
@@ -4264,7 +4264,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/images-4-e1742073666973.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นักล่าผู้ฆ่าแห่งเหล่าฆาตกร Predator Killer of Killers (2025)",
@@ -4272,7 +4272,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/predator-killer-of-killers-digital-ka-teaser-v4-lg-1744139282398-e1749398901524.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "บัลเลลิน่า แค้นกว่านรก John Wick Ballerina 2025",
@@ -4280,7 +4280,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/ballerina-ballerina_2025x3000_online_1sht_char_keanu_v2_01_rgb-scaled-e1749067280523.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ผู้นำสายบู๊กู้วิกฤต Heads of State (2025)",
@@ -4288,7 +4288,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/images-5-e1751602231815.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ปากกัด ตีนถีบ 2025",
@@ -4296,7 +4296,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/90c1616d-a3de-48bc-9597-99f94b66ae33-e1751987691305.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "จูราสสิค เวิลด์ กำเนิดชีวิตใหม่ Jurassic World Rebirth (2025)",
@@ -4304,7 +4304,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/jurassic_world_rebirth_poster_t_rex_blue_2025_by_mrandrew7w7_dinrv9k-fullview-e1751598306332.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ดิ โอลด์ การ์ด 2 The Old Guard 2 (2025)",
@@ -4312,7 +4312,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/images-4-e1751542365547.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ทรชนคนสองหน้า Yadang The Snitch (2025)",
@@ -4320,7 +4320,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/07/images-3-e1751542146339.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เอฟวัน เดอะ มูฟวี่ F1 The Movie 2025",
@@ -4328,7 +4328,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/06/Screenshot-2024-07-18-at-12-10-01-F1-2025-e1751193981296.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เกิร์ลกรุ๊ปนักล่าปีศาจ KPop Demon Hunters (2025)",
@@ -4336,7 +4336,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/06/8364d5a0828f7f9754cc8d798590c0b9-e1750943684268.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "28 ปีให้หลัง เชื้อเขมือบคน 28 Years Later 2025",
@@ -4344,7 +4344,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/06/MV5BNjgwYTI0YjctMWYzNS00MmI1LWI5YTctNmE1YjBkNDFlNWMxXkEyXkFqcGc@._V1_-e1750943461795.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "เมแกน 2.0 Megan 2.0 2025",
@@ -4352,7 +4352,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/06/unnamed-2-e1750943939659.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นาคบรรพ์ (2025)",
@@ -4360,7 +4360,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/06/images-1-5.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Eilo เอลิโอ 2025",
@@ -4368,7 +4368,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/06/p_studio_elio_payoff_poster_v1_b71992a8-e1750942820356.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "อภินิหารไวกิ้งพิชิตมังกร How to Train Your Dragon (2025)",
@@ -4376,7 +4376,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/06/how-to-train-your-dragon-2025-flight_u-l-q1titxf0-e1749791994521.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ธี่หด Shrinking Tee 2025",
@@ -4384,7 +4384,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/-2568-04-18-เวลา-02.48.22-e1744919414853.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Officer on Duty (2025) เจ้าหน้าที่",
@@ -4392,7 +4392,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/images-1-1.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ป็อบอาย รีเวนจ์ Popeye’s Revenge (2025)",
@@ -4400,7 +4400,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/images-3.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "มฤตยูงาบ The Bayou (2025)",
@@ -4408,7 +4408,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/unnamed-10-e1744919997884.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ธันเดอร์โบลต์ส* Thunderbolts 2025",
@@ -4416,7 +4416,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/unnamed-6-e1744891638824.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ร้ายสมัครเล่น The Amateur 2025",
@@ -4424,7 +4424,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/unnamed-13-e1744891797163.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สุสานคนเป็น Tomb Watcher 2025",
@@ -4432,7 +4432,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/unnamed-7-e1744891608399.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซินเนอร์ส Sinners 2025",
@@ -4440,7 +4440,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/unnamed-5-e1744891672409.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซองแดงแต่งผี The Red Envelope 2025",
@@ -4448,7 +4448,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/-2568-04-08-เวลา-12.52.51-e1744109665119.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "แก๊งหิมะเดือด Frozen Hot Boys (2025)",
@@ -4456,7 +4456,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/-2568-04-13-เวลา-16.14.43-e1744578164515.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "A Working Man (2025) นรกหยุดนรก",
@@ -4464,7 +4464,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/-2025-A-Working-Man-350x422-1-e1743848520180.jpg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "สโนว์ไวท์ Snow White 2025",
@@ -4472,7 +4472,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/03/images-e1743158589787.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "A Minecraft Movie (2025) ไมน์คราฟต์ มูฟวี่",
@@ -4480,7 +4480,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/images-2.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "Novocaine (2025) มิสเตอร์โคตรคนทรหด",
@@ -4488,7 +4488,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/04/images-1-e1743848195664.jpeg",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "4 ป่าช้า",
@@ -4496,7 +4496,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/03/images-5-e1742074200732.jpeg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "นาจา 2 Ne Zha 2 2025",
@@ -4504,7 +4504,7 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/03/-2568-03-28-เวลา-11.36.35-e1743158305500.png",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
+"embed": true
 },
 {
 "name": "ซันเรย์ ทหารผู้พ่ายแพ้ Sunray Fallen Soldier (2025)",
@@ -4512,9 +4512,103 @@
 "image": "https://7-hds.com/wp-content/uploads/2025/03/Sunray-Fallen-Soldier-2025.jpg.webp",
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": "true"
-},
+"embed": true
+        }
+      ]
+    },
+    {
+      "name": "WEPLAYHLS Series",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://play-lh.googleusercontent.com/bbXycIKJOmmxquP0HQ7NT0-TPMif5Axc1CF0g3cPW6hFbwgRVM02RNLhvwRXlELBX3JpJPTD2Tx5zZaXMorwgA",
+      "groups": [
+    {
+      "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+      "stations": [
+        {
+          "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 1",
+          "url": "https://weplayhls.xyz/embed/d6_irMX-a9jVT",
+          "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+          "referer": "https://7-hds.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "embed": true
+        },
+        {
+          "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 2",
+          "url": "https://weplayhls.xyz/embed/YVZDztY-mA_LF",
+          "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+          "referer": "https://7-hds.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "embed": true
+        },
+        {
+          "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 3",
+          "url": "https://weplayhls.xyz/embed/bk3Px-t_wenml",
+          "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+          "referer": "https://7-hds.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "embed": true
+        },
+        {
+          "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 4",
+          "url": "https://weplayhls.xyz/embed/C1L_Lm-FfwN1k",
+          "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+          "referer": "https://7-hds.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "embed": true
+        },
+        {
+          "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 5",
+          "url": "https://weplayhls.xyz/embed/AJvXl-13T_dQY",
+          "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+          "referer": "https://7-hds.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "embed": true
+        },
+        {
+          "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 6",
+          "url": "https://weplayhls.xyz/embed/u-G06_g72CcPd",
+          "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+          "referer": "https://7-hds.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "embed": true
+        },
+        {
+          "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 7",
+          "url": "https://weplayhls.xyz/embed/4Fjw-5rkru_2H",
+          "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+          "referer": "https://7-hds.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "embed": true
+        },
+        {
+          "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 8",
+          "url": "https://weplayhls.xyz/embed/e-VK_txYYZY9O",
+          "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+          "referer": "https://7-hds.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "embed": true
+        },
+        {
+          "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 9",
+          "url": "https://weplayhls.xyz/embed/1-CtRRM_vJc0X",
+          "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+          "referer": "https://7-hds.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "embed": true
+        },
+        {
+          "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 10",
+          "url": "https://weplayhls.xyz/embed/w-7Ty1cz_hVU5",
+          "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+          "referer": "https://7-hds.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "embed": true
+        },
+      ]
+    }
+  ]
+}
 ]
-},
-]
-},
+}
