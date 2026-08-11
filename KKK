@@ -11,7 +11,6 @@
       "image": "https://play-lh.googleusercontent.com/bbXycIKJOmmxquP0HQ7NT0-TPMif5Axc1CF0g3cPW6hFbwgRVM02RNLhvwRXlELBX3JpJPTD2Tx5zZaXMorwgA",
       "stations": [
         {
-          "id": "movie-001",
           "name": "High School Musical มือถือไมค์หัวใจปิ๊งรัก (2006)",
           "url": "https://weplayhls.xyz/embed/ulgipjzp3r/",
           "image": "https://7-hds.com/wp-content/uploads/2023/09/ดาวน์โหลด-16.jpeg",
@@ -25,9 +24,13 @@
       "name": "WEPLAYHLS Series",
       "author": "🤜Akaraphisit🤛",
       "image": "https://play-lh.googleusercontent.com/bbXycIKJOmmxquP0HQ7NT0-TPMif5Axc1CF0g3cPW6hFbwgRVM02RNLhvwRXlELBX3JpJPTD2Tx5zZaXMorwgA",
+      "groups": [
+    {
+      "name": "WEPLAYHLS Series",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://play-lh.googleusercontent.com/bbXycIKJOmmxquP0HQ7NT0-TPMif5Axc1CF0g3cPW6hFbwgRVM02RNLhvwRXlELBX3JpJPTD2Tx5zZaXMorwgA",
       "stations": [
         {
-          "id": "series-agentkim-ep01",
           "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 1",
           "url": "https://weplayhls.xyz/embed/d6_irMX-a9jVT",
           "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
@@ -36,7 +39,6 @@
           "embed": true
         },
         {
-          "id": "series-agentkim-ep02",
           "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 2",
           "url": "https://weplayhls.xyz/embed/YVZDztY-mA_LF",
           "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
@@ -45,7 +47,6 @@
           "embed": true
         },
         {
-          "id": "series-agentkim-ep03",
           "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 3",
           "url": "https://weplayhls.xyz/embed/bk3Px-t_wenml",
           "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
@@ -54,7 +55,6 @@
           "embed": true
         },
         {
-          "id": "series-agentkim-ep04",
           "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 4",
           "url": "https://weplayhls.xyz/embed/C1L_Lm-FfwN1k",
           "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
@@ -63,7 +63,6 @@
           "embed": true
         },
         {
-          "id": "series-agentkim-ep05",
           "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 5",
           "url": "https://weplayhls.xyz/embed/AJvXl-13T_dQY",
           "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
@@ -72,7 +71,6 @@
           "embed": true
         },
         {
-          "id": "series-agentkim-ep06",
           "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 6",
           "url": "https://weplayhls.xyz/embed/u-G06_g72CcPd",
           "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
@@ -81,7 +79,6 @@
           "embed": true
         },
         {
-          "id": "series-agentkim-ep07",
           "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 7",
           "url": "https://weplayhls.xyz/embed/4Fjw-5rkru_2H",
           "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
@@ -90,7 +87,6 @@
           "embed": true
         },
         {
-          "id": "series-agentkim-ep08",
           "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 8",
           "url": "https://weplayhls.xyz/embed/e-VK_txYYZY9O",
           "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
@@ -99,7 +95,6 @@
           "embed": true
         },
         {
-          "id": "series-agentkim-ep09",
           "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 9",
           "url": "https://weplayhls.xyz/embed/1-CtRRM_vJc0X",
           "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
@@ -108,15 +103,16 @@
           "embed": true
         },
         {
-          "id": "series-agentkim-ep10",
           "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 10",
           "url": "https://weplayhls.xyz/embed/w-7Ty1cz_hVU5",
           "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
           "referer": "https://7-hds.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
           "embed": true
-        }
+        },
       ]
     }
   ]
+}
+]
 }
