@@ -4555,13 +4555,7 @@
 "embed:  true
 },
 {
-"name": "บุหงาหมื่นภมร Enigma Black Stage (2025)",
-"author": "🤜Akaraphisit🤛",
-"image": "https://7-hds.com/wp-content/uploads/2025/07/e1753842875831.jpg.webp",
-"stations": [
-{
-{
-"name": "เพียงเธอ 2025 - EP 1",
+"name": "เพียงเธอ 2025",
 "url": "https://weplayhls.xyz/embed/uszfiiwlczesjpl",
 "image": "https://7-hds.com/wp-content/uploads/2025/07/ef522b40-67d5-11f0-9ed8-b7196adf47de_webp_original-e1753574651741.webp",
 "referer": "https://7-hds.com/",
@@ -5081,7 +5075,12 @@
 "embed:  true
        },
       ]
-    },
+    }
+    {
+      "name": "WEPLAYHLS Series",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://play-lh.googleusercontent.com/bbXycIKJOmmxquP0HQ7NT0-TPMif5Axc1CF0g3cPW6hFbwgRVM02RNLhvwRXlELBX3JpJPTD2Tx5zZaXMorwgA",
+      "groups": [
 {
 "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026)",
 "author": "🤜Akaraphisit🤛",
