@@ -2,16 +2,14 @@
   "name": "WEPLAYHLS",
   "author": "🤜Akaraphisit🤛",
   "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-  "day": "18-07-2026",
   "version": "1.0.0",
-  "info": "weplayhls.xyz",
+  "info": "18-07-2026",
   "groups": [
 {
 "name": "WEPLAYHLS Movies",
 "author": "🤜Akaraphisit🤛",
 "image": "https://play-lh.googleusercontent.com/bbXycIKJOmmxquP0HQ7NT0-TPMif5Axc1CF0g3cPW6hFbwgRVM02RNLhvwRXlELBX3JpJPTD2Tx5zZaXMorwgA",
-"info": "18-07-2026",
-"groups": [
+"stations": [
 {
 "name": "เมื่อพายุมาเยือน Sesame Street (2026)",
 "url": "https://weplayhls.xyz/embed/T_bf6-vFeYoCu",
@@ -4527,7 +4525,7 @@
 "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated",
 "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
 "author": "🤜Akaraphisit🤛",
-"groups": [
+"stations": [
 {
 "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026) - EP 1 - EP 1",
 "url": "https://weplayhls.xyz/embed/d6_irMX-a9jVT",
@@ -4614,7 +4612,7 @@
 "name": "สไปเดอร์ นัวร์ ไอ้แมงมุมพันธุ์นรก Spider-Noir (2026)",
 "author": "🤜Akaraphisit🤛",
 "image": "https://7-hds.com/wp-content/uploads/2026/07/ภาพถ่ายหน้าจอ-2569-07-28-เวลา-19.09.46-e1785243876538.png",
-"groups": [
+"stations": [
 {
 "name": "สไปเดอร์ นัวร์ ไอ้แมงมุมพันธุ์นรก Spider-Noir (2026) - EP 1 - EP 1",
 "url": "https://weplayhls.xyz/embed/8RWBm_4-Bl5wC",
@@ -4678,6 +4676,8 @@
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "embed: "true"
+},
+]
 },
 ]
 },
