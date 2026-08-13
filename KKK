@@ -1,31 +1,4 @@
 {
-  "name": "WEPLAYHLS",
-  "author": "🤜Akaraphisit🤛",
-  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-  "version": "1.0.0",
-  "info": "2026-07-18",
-  "groups": [
-    {
-      "name": "WEPLAYHLS Movies",
-      "author": "🤜Akaraphisit🤛",
-      "image": "https://play-lh.googleusercontent.com/bbXycIKJOmmxquP0HQ7NT0-TPMif5Axc1CF0g3cPW6hFbwgRVM02RNLhvwRXlELBX3JpJPTD2Tx5zZaXMorwgA",
-      "stations": [
-{
-"name": "เมื่อพายุมาเยือน Sesame Street (2026)",
-"url": "https://weplayhls.xyz/embed/T_bf6-vFeYoCu",
-"image": "https://7-hds.com/wp-content/uploads/2026/08/เมื่อพายุมาเยือน-Sesame-Street-2026-e1785884403158.png",
-"referer": "https://7-hds.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"embed": true
-},
-      ]
-    },
-    {
-      "name": "WEPLAYHLS Series",
-      "author": "🤜Akaraphisit🤛",
-      "image": "https://play-lh.googleusercontent.com/bbXycIKJOmmxquP0HQ7NT0-TPMif5Axc1CF0g3cPW6hFbwgRVM02RNLhvwRXlELBX3JpJPTD2Tx5zZaXMorwgA",
-      "groups": [
-{
 "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026)",
 "author": "🤜Akaraphisit🤛",
 "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
@@ -111,7 +84,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สไปเดอร์ นัวร์ ไอ้แมงมุมพันธุ์นรก Spider-Noir (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -182,7 +155,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "มนุษย์ก๊าซ Human Vapor (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -253,7 +226,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "อย่างนี้ต้องโดนสั่งสอน Teach You a Lesson (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -340,7 +313,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ทนายปีศาจ The Evil Lawyer (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -419,7 +392,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เบอร์ลินกับภาพเขียนของดาวินชี Berlin and the Lady with an Ermine (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -490,7 +463,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "คนมหัศจรรย์พลังรั่ว The WONDERfools 2026",
 "author": "🤜Akaraphisit🤛",
@@ -561,7 +534,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "คนจริงเผาแค้น Man on Fire 2026",
 "author": "🤜Akaraphisit🤛",
@@ -624,7 +597,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สายลับรถแห่ The Cop Spy On Stage (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -679,7 +652,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "กีรีโก แอปหลอน พรสั่งตาย If Wishes Could Kill 2026",
 "author": "🤜Akaraphisit🤛",
@@ -750,7 +723,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สเตรนเจอร์ ธิงส์ เรื่องเล่าจากปี 85 Stranger Things Tales From 85 (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -837,7 +810,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ทางโจร 2 Crooks Season 2 (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -892,7 +865,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "รักนี้มงลง Perfect Crown 2026",
 "author": "🤜Akaraphisit🤛",
@@ -923,7 +896,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะ บอย ซีซั่น 5 The Boys Season 5 2026",
 "author": "🤜Akaraphisit🤛",
@@ -946,7 +919,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ยอดนักสืบแฮร์รี โฮล Detective Hole 2026",
 "author": "🤜Akaraphisit🤛",
@@ -1025,7 +998,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "บลัดฮาวด์ 2 หมาล่าเนื้อ 2 Bloodhounds 2 2026",
 "author": "🤜Akaraphisit🤛",
@@ -1080,7 +1053,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สายลับฟ้าส่ง เอเจนท์ ฟอร์ม อะโบพ Agent from Above (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -1151,7 +1124,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดร์เดวิล บอร์น อะเกน 2 Daredevil born again season 2 2026",
 "author": "🤜Akaraphisit🤛",
@@ -1190,7 +1163,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "บริดเจอร์ตัน วังวนรัก เกมไฮโซ ซีซั่น 4 Bridgerton Season 4 (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -1261,7 +1234,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สังเวียนเซียนทำนาย Battle Of Fates 2026",
 "author": "🤜Akaraphisit🤛",
@@ -1348,7 +1321,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แผนพิพากษา ซีซั่น 4 The Lincoln Lawyer Season 4 (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -1435,7 +1408,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สุดจุดเดือด Climax 2026",
 "author": "🤜Akaraphisit🤛",
@@ -1474,7 +1447,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ล่าหยก 2026",
 "author": "🤜Akaraphisit🤛",
@@ -1801,7 +1774,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ฆาตกรติ๊กต๊อก The TikTok Killer (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -1824,7 +1797,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "วันพีช เน็ตฟลิกซ์ 2 One Piece Netflix 2 2026",
 "author": "🤜Akaraphisit🤛",
@@ -1895,7 +1868,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เชอร์ล็อกในวัยหนุ่ม Young Sherlock 2026",
 "author": "🤜Akaraphisit🤛",
@@ -1966,7 +1939,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะ ไดโนเสาร์ กำเนิดและดับสูญ The Dinosaurs (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -2005,7 +1978,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เด็กใหม่ 2026",
 "author": "🤜Akaraphisit🤛",
@@ -2036,7 +2009,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แฟนสมมติสะดุดรัก Boyfriend on Demand (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -2123,7 +2096,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "จุมพิตไซเรน Sirens Kiss (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -2218,7 +2191,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ฉันหลงรักเทวดาของฉัน บี มาย แองเจิ้ล Be My Angle",
 "author": "🤜Akaraphisit🤛",
@@ -2265,7 +2238,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "กลิ่นมาลี 2026",
 "author": "🤜Akaraphisit🤛",
@@ -2288,7 +2261,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "นักสืบขวัญใจมหาชน Million-Follower Detective 2026",
 "author": "🤜Akaraphisit🤛",
@@ -2359,7 +2332,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "บากิ จอมระห่ำ ซามูไรไร้เทียมทาน BAKI 2026",
 "author": "🤜Akaraphisit🤛",
@@ -2470,7 +2443,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Night Agent 3 เดอะไนท์ เอเย่น 3 2026",
 "author": "🤜Akaraphisit🤛",
@@ -2557,7 +2530,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "7 ประจัญบาน 2026",
 "author": "🤜Akaraphisit🤛",
@@ -2604,7 +2577,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "จอมขมังเวทย์ 2026",
 "author": "🤜Akaraphisit🤛",
@@ -2691,7 +2664,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ซาราห์ เริ่ดลวงโลก The Art of Sarah (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -2762,7 +2735,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "อัศวินแห่งเจ็ดอาณาจักร A Knight of the Seven Kingdoms (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -2817,7 +2790,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะบิวตี้ The Beauty (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -2848,7 +2821,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "หนี Run Away (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -2919,7 +2892,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แล้วเราจะพบกัน I Will Find You (2026)",
 "author": "🤜Akaraphisit🤛",
@@ -2990,7 +2963,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดร์เดวิล บอร์น อะเกน 1 Daredevil born again season 1 2025",
 "author": "🤜Akaraphisit🤛",
@@ -3069,7 +3042,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แม่มดเมย์แฟร์ 2 Mayfair Witches 2 (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -3140,7 +3113,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะ ไนท์ เอเย่น 2 The Night Agent season 2 2025",
 "author": "🤜Akaraphisit🤛",
@@ -3227,7 +3200,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เมด อิน คอเรีย Made in Korea 2025",
 "author": "🤜Akaraphisit🤛",
@@ -3282,7 +3255,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แคชฮีโร่ Cashero (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -3353,7 +3326,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Fallout 2 (2025) ฟอลล์เอาท์ ภารกิจฝ่าแดนฝุ่นมฤตยู 2",
 "author": "🤜Akaraphisit🤛",
@@ -3424,7 +3397,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ผู้ชายปะทะทารก 2025 Man vs Baby",
 "author": "🤜Akaraphisit🤛",
@@ -3463,7 +3436,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แท็กซี่จ้างแค้น 3 Taxi Driver 3 (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -3598,7 +3571,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Last Samurai Standing (2025) ศึกซามูไรผู้พิชิต",
 "author": "🤜Akaraphisit🤛",
@@ -3653,7 +3626,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "IT Welcome to Derry Season 1 อิท ยินดีต้อนรับสู่เดอร์รี่ ซีซั่น 1",
 "author": "🤜Akaraphisit🤛",
@@ -3724,7 +3697,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Zomvivor (2025) มหาลัยคลั่ง",
 "author": "🤜Akaraphisit🤛",
@@ -3787,7 +3760,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Resurrected (2025) ปลุกชีพคืนวิญญาณ",
 "author": "🤜Akaraphisit🤛",
@@ -3866,7 +3839,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Bon Appetit, Your Majesty (2025) เมนูรักพิชิตใจราชา",
 "author": "🤜Akaraphisit🤛",
@@ -3889,7 +3862,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เอเลี่ยน เอิร์ท Alien Earth (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -3912,7 +3885,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Echoes of Survivors (2025) เสียงสะท้อนจากโศกนาฏกรรมเกาหลี",
 "author": "🤜Akaraphisit🤛",
@@ -3967,7 +3940,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Trigger คนดุปืนเดือด 2025",
 "author": "🤜Akaraphisit🤛",
@@ -4054,7 +4027,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ปมใจในป่าลึก Untamed (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -4109,7 +4082,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "โนราโหงโรง Haunted Mansion (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -4132,7 +4105,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สงคราม ส่งด่วน Mad Unicorn (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -4195,7 +4168,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สควิดเกม เล่นลุ้นตาย (Squid Game 3) ซีซั่น 3 ซีรีส์เกาหลี ของ  Netflix เดินทางมาถึงภาคที่ 3",
 "author": "🤜Akaraphisit🤛",
@@ -4250,7 +4223,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "รีสเชอร์ซีซั่น 3 Reacher Season 3 (2025) Persuader",
 "author": "🤜Akaraphisit🤛",
@@ -4321,7 +4294,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Gardener เดอะ การ์เด้นเนอร์ 2025",
 "author": "🤜Akaraphisit🤛",
@@ -4376,7 +4349,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "อุบัติกรรม Karma (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -4431,7 +4404,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะไวต์โลตัส 3 The White Lotus Season 3 (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -4454,7 +4427,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ดาหลา บุปผา ฆาตกรรม 2025",
 "author": "🤜Akaraphisit🤛",
@@ -4509,7 +4482,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Good Heavens! I’m a Goose Not a Swan คุณพี่เจ้าขาดิฉันเป็นห่านไม่ใช่หงส์ 2025",
 "author": "🤜Akaraphisit🤛",
@@ -4612,7 +4585,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ออนคอล On Call (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -4683,7 +4656,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เอ็กซ์โอ คิตตี้ 2 XO Kitty Season 2 (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -4754,7 +4727,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "อเมริกันไพรม์วัล American Primeval 2025",
 "author": "🤜Akaraphisit🤛",
@@ -4809,7 +4782,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ซากาโมโตะ เดย์ วันสบายๆ ฉบับนักฆ่า Sakamoto Days (2025)",
 "author": "🤜Akaraphisit🤛",
@@ -4872,7 +4845,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Trauma Code (2025) ชั่วโมงโกงความตาย",
 "author": "🤜Akaraphisit🤛",
@@ -4943,7 +4916,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สควิดเกม 2 เล่นลุ้นตาย Squid Game 2 2024",
 "author": "🤜Akaraphisit🤛",
@@ -5006,7 +4979,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ล่าระห่ำ ฝ่าเมืองเดือด The Day of the Jackal (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -5093,7 +5066,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "รีสเชอร์ซีซั่น 2 Reacher Season 2 (2024) Bad Luck and Trouble",
 "author": "🤜Akaraphisit🤛",
@@ -5164,7 +5137,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "A Normal Family ลูกฉันเป็นคนดี (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -5219,7 +5192,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "อนาคต โทมอโร่ แอนด์ ไอ Tomorrow and I (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -5258,7 +5231,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Trunk เดอะ ทรังค์ (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -5329,7 +5302,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Helicopter Heist  ปล้นทะลุฮอ 2024",
 "author": "🤜Akaraphisit🤛",
@@ -5400,7 +5373,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะ เพน กวิ้น THE PENGUIN 2024",
 "author": "🤜Akaraphisit🤛",
@@ -5471,7 +5444,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "อากาทาร์ Agatha All Along 2024",
 "author": "🤜Akaraphisit🤛",
@@ -5550,7 +5523,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "อาร์เคน Arcane League of Legends 2021",
 "author": "🤜Akaraphisit🤛",
@@ -5629,7 +5602,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แจ็คและโจ๊กเกอร์ คุณขโมยหัวใจฉัน Jack & Joker U Steal My Heart (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -5732,7 +5705,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ทิชา THICHA (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -5803,7 +5776,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "โตเกียว โอเวอร์ไรด์ Tokyo Override (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -5858,7 +5831,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Jake Paul vs. Mike Tyson (2024) ศึกสะท้านโลก เจค พอล ปะทะ ไมค์ ไทสัน",
 "author": "🤜Akaraphisit🤛",
@@ -5889,7 +5862,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แม่หยัว 2024",
 "author": "🤜Akaraphisit🤛",
@@ -5976,7 +5949,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "อย่ากลับบ้าน Don’t Come Home 2024",
 "author": "🤜Akaraphisit🤛",
@@ -6031,7 +6004,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Outlast Season 2 เอาท์ลาสต์ 2 (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -6086,7 +6059,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Hellbound Season 2 ทันฑ์นรก ซีซั่น 2 (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -6141,7 +6114,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สัตว์สยองกยองซอง 2 Gyeongseong Creature 2 (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -6204,7 +6177,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Kaos (2024) เคออส",
 "author": "🤜Akaraphisit🤛",
@@ -6275,7 +6248,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะลอร์ดออฟเดอะริงส์ แหวนแห่งอำนาจ 2 The Rings of Power 2 2024",
 "author": "🤜Akaraphisit🤛",
@@ -6314,7 +6287,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะ ฟร้อก หากไม้ล้มในป่าลึก The Frog (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -6385,7 +6358,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Tongpragaisad ทองประกายแสด 2024",
 "author": "🤜Akaraphisit🤛",
@@ -6440,7 +6413,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Terror Tuesday Extreme อังคารคลุมโปงเอ็กซ์ตรีม(2024)",
 "author": "🤜Akaraphisit🤛",
@@ -6511,7 +6484,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ชาห์มารัน ซีซั่น 2 Shahmaran Season 2",
 "author": "🤜Akaraphisit🤛",
@@ -6566,7 +6539,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Umbrella Academy Season 4 ดิ อัมเบรลลา อคาเดมี่ 4 (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -6621,7 +6594,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะ ทรานแอนท์ The Tyrant  2024",
 "author": "🤜Akaraphisit🤛",
@@ -6660,7 +6633,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "โนเวย์ เอาท์ เดอะ รูเร็ท No Way Out The Roulette (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -6683,7 +6656,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "อะกู้ดเกิล ไกด์ ทู มูเดเรอ A Good Girl’s Guide to Murder (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -6738,7 +6711,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Red Swan เรด สวัน (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -6825,7 +6798,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Kleo Season 2 คลีโอ ซีซั่น 2 (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -6880,7 +6853,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Tokyo Swindlers สิบแปดมงกุฎโตเกียว (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -6943,7 +6916,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สวีท โฮม 3 Sweet Home 3",
 "author": "🤜Akaraphisit🤛",
@@ -7014,7 +6987,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สืบสันดาน Master of the House 2024",
 "author": "🤜Akaraphisit🤛",
@@ -7077,7 +7050,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Exploding Kittens เหมียวระเบิด  (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -7148,7 +7121,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ไวกิ้ง วัลฮัลลา 3 Vikings Valhalla Season 3 2024",
 "author": "🤜Akaraphisit🤛",
@@ -7219,7 +7192,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Whirlwind แผนพลิกอำนาจ (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -7322,7 +7295,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ศึกแห่งมังกร 2 House of the Dragon Season 2 (2024) ",
 "author": "🤜Akaraphisit🤛",
@@ -7369,7 +7342,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Supacell ยอดมนุษย์ซูปาเซลล์ (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -7416,7 +7389,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "มิส ไนท์ แอนด์ เดย์ Miss Night and Day 2024",
 "author": "🤜Akaraphisit🤛",
@@ -7519,7 +7492,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "บริดเจอร์ตัน 3 Bridgerton Season 3 2024",
 "author": "🤜Akaraphisit🤛",
@@ -7590,7 +7563,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "คลับฟรายเดย์ เดอะซีรีส์ Club Friday The Series ตอน รัก 7 ปี 2024",
 "author": "🤜Akaraphisit🤛",
@@ -7637,7 +7610,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "คลับฟรายเดย์ เดอะซีรีส์ ซึมเศร้าหรือรักเอาแต่ใจ Club Friday The Series (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -7676,7 +7649,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "คลับฟรายเดย์ เดอะซีรีส์ ความลับในแอปหาคู่ Club Friday The Series Secret of Dating Apps (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -7715,7 +7688,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Lovely Runner ข้ามเวลามาเซฟเมน  (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -7850,7 +7823,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Victims Game Season 2 เจาะจิต ปิดเกมล่าเหยื่อ 2 (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -7921,7 +7894,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Nothing Uncovered  ปมร้อนซ่อนเงื่อน  (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -8048,7 +8021,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Miss Night and Day มิส ไนท์ แอนด์ เดย์ 2024",
 "author": "🤜Akaraphisit🤛",
@@ -8087,7 +8060,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะบอย ซีซั่น 4 The Boys Season 4",
 "author": "🤜Akaraphisit🤛",
@@ -8158,7 +8131,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Eric เอริค (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -8213,7 +8186,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ดอกเตอร์ไคลแมกซ์ ปุจฉาพาเสียว Doctor Climax 2024",
 "author": "🤜Akaraphisit🤛",
@@ -8284,7 +8257,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เด็ม สแกร์ THEM The Scare (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -8299,7 +8272,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Secret Ingredient ส่วนผสมลับ 2024",
 "author": "🤜Akaraphisit🤛",
@@ -8354,7 +8327,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "วังวนสงครามชนชั้น Hierarchy (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -8417,7 +8390,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สวีททูท 3 Sweet Tooth 3 2024",
 "author": "🤜Akaraphisit🤛",
@@ -8488,7 +8461,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Geek Girl (2024) สาวเนิร์ดอยากจะชิค",
 "author": "🤜Akaraphisit🤛",
@@ -8575,7 +8548,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สตาวอร์ เดอะ อะคาลาย Star War The Acolyte 2024",
 "author": "🤜Akaraphisit🤛",
@@ -8646,7 +8619,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Double มรสุมชีวิต 2024",
 "author": "🤜Akaraphisit🤛",
@@ -8973,7 +8946,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "High School Return Of A Gangster นักเลงซ่าส์ท้าวัยเรียน 2024",
 "author": "🤜Akaraphisit🤛",
@@ -9028,7 +9001,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "จอยออฟไลฟ์ 2 Joy of Life 2 2024",
 "author": "🤜Akaraphisit🤛",
@@ -9323,7 +9296,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Midnight Studio ห้องถ่ายภาพแห่งรัตติกาล 2024",
 "author": "🤜Akaraphisit🤛",
@@ -9442,7 +9415,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Anti-Reset ล็อคหัวใจไม่ให้รีเซ็ต 2024",
 "author": "🤜Akaraphisit🤛",
@@ -9529,7 +9502,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ลุงซัมซิก Uncle Samsik (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -9664,7 +9637,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เกมโชว์เลือดแลกเงิน The 8 Show (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -9735,7 +9708,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "โลกสองใบ ใจดวงเดียว Two Worlds (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -9822,7 +9795,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เฮาส์ ออฟ เดอะ อาว House of the Owl (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -9909,7 +9882,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Tattooist of Auschwitz (2024) ช่างสักแห่งเอาชวิทซ์",
 "author": "🤜Akaraphisit🤛",
@@ -9964,7 +9937,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Bangkok Blossom (2024) บางกอกคณิกา UNCUT Version",
 "author": "🤜Akaraphisit🤛",
@@ -10035,7 +10008,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "A Man in Full (2024) ผู้ชายเต็มตัว",
 "author": "🤜Akaraphisit🤛",
@@ -10090,7 +10063,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "พูดตรงๆ คงต้องรัก Frankly Speaking (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -10201,7 +10174,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Chief Detective 1958 (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -10288,7 +10261,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ครอบครัวเหนือธรรมชาติ The Atypical Family (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -10391,7 +10364,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "นักเกิ้ลส์ Knuckles (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -10446,7 +10419,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เพชรงามเมือง จากผู้สร้างคังคุไบ Heeramandi The Diamond Bazaar 2024",
 "author": "🤜Akaraphisit🤛",
@@ -10517,7 +10490,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เกมรัก นักเดิมพัน Under the Gun (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -10572,7 +10545,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "My Undead Yokai Girlfriend (2024) แฟนสาวโยไคที่รักของผม",
 "author": "🤜Akaraphisit🤛",
@@ -10643,7 +10616,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ราชินีแห่งน้ำตา Queen of Tears (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -10778,7 +10751,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สัตย์เสือ Bromise (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -10929,7 +10902,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เถ้าความตาย Anthracite (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -10984,7 +10957,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "มาสเตอร์ ออฟ ดิ แอร์ Masters of the Air (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -11063,7 +11036,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แมน ฮันต์ Manhunt (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -11126,7 +11099,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดดบอยดีเทคทีฟส์  Dead Boy Detectives (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -11197,7 +11170,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ถึงเวลาต้องลาโลก Good Bye Earth Jongmalui Babo 2024",
 "author": "🤜Akaraphisit🤛",
@@ -11300,7 +11273,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "โตเกียว เมืองคนอันตราย ซีซั่น 2 Tokyo Vice Sesson 2 (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -11387,7 +11360,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Fallout 2024 ฟอลล์เอาท์ ภารกิจฝ่าแดนฝุ่นมฤตยู",
 "author": "🤜Akaraphisit🤛",
@@ -11458,7 +11431,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Hijacking of Flight 601 จี้เที่ยวบิน 601   (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -11521,7 +11494,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เอมิลี่ในปารีส 4 Emily in Paris 4",
 "author": "🤜Akaraphisit🤛",
@@ -11568,7 +11541,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Physical 100 Season 2  ร้อยแกร่งแข่งอึด (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -11639,7 +11612,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ตื่นมาก็เป็นแวมไพร์ I Woke Up A Vampire 2024",
 "author": "🤜Akaraphisit🤛",
@@ -11710,7 +11683,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Crooks ครุ้กส์ (2024) ทางโจร",
 "author": "🤜Akaraphisit🤛",
@@ -11781,7 +11754,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Parasyte The Grey (2024) ปรสิต เดอะ เกรย์",
 "author": "🤜Akaraphisit🤛",
@@ -11836,7 +11809,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "พีระมิดเกม Pyramid Game (2024) เกมพีระมิด",
 "author": "🤜Akaraphisit🤛",
@@ -11923,7 +11896,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สาธุ Sathu The Believers (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -12002,7 +11975,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Expats ต่างชาติ ต่างชั้น  (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -12041,7 +12014,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Chicken Nugget ไก่ทอดคลุกซอส  (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -12128,7 +12101,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Gentlemen สุภาพบุรุษมหากัญ 2024",
 "author": "🤜Akaraphisit🤛",
@@ -12199,7 +12172,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Bandidos  คนล่าสมบัติ (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -12262,7 +12235,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "โชกุน Shogun 2024",
 "author": "🤜Akaraphisit🤛",
@@ -12349,7 +12322,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Furies ฟิวรีส์ ชำระแค้นทรชน (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -12420,7 +12393,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Silent Service ยุทธการใต้สมุทร  (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -12491,7 +12464,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Avatar The Last Airbender เณรน้อยเจ้าอภินิหาร  (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -12562,7 +12535,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Marry My Husband แต่งงานกับสามีของฉัน 2024",
 "author": "🤜Akaraphisit🤛",
@@ -12681,7 +12654,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "House of Ninjas นินจาตระกูลสุดท้าย (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -12752,7 +12725,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Mr. & Mrs. Smith นายและนางสมิธ (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -12823,7 +12796,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Long Time No Sex  ลอง ไทม์ โนเซ็กส์ LTNS (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -12878,7 +12851,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "A Killer Paradox  หน้ากากความยุติธรรม (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -12949,7 +12922,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Blondie in an Ancient Time นางทาสหัวทอง  (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -13004,7 +12977,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "A Shop for Killers ร้านค้าสำหรับนักฆ่า (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -13027,7 +13000,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Griselda เจ้าแม่โคเคน กริเซลดา บลังโก 2024",
 "author": "🤜Akaraphisit🤛",
@@ -13082,7 +13055,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Frozen Surface โฟรเซ่นเซอร์เฟส (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -13185,7 +13158,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Bequeathed ยกมรดก 2024",
 "author": "🤜Akaraphisit🤛",
@@ -13240,7 +13213,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Echo เอคโค่ 2024",
 "author": "🤜Akaraphisit🤛",
@@ -13287,7 +13260,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Brothers Sun พี่น้องแสบตระกูลซัน  (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -13358,7 +13331,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Fool Me Once อย่าหลอกกัน  (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -13429,7 +13402,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แม่มดเมย์แฟร์ Mayfair Witches 2023",
 "author": "🤜Akaraphisit🤛",
@@ -13500,7 +13473,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะ ไนท์ เอเย่น 1 The Night Agent season 1 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -13587,7 +13560,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Outlast เอาท์ลาสท์ (2023) 1",
 "author": "🤜Akaraphisit🤛",
@@ -13658,7 +13631,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ชาห์มารัน Shahmaran 2023",
 "author": "🤜Akaraphisit🤛",
@@ -13729,7 +13702,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สมเด็จพระราชินีชาร์ล็อตต์ เรื่องราวของบริดเจอร์ตัน Queen Charlotte A Bridgerton Story 2023",
 "author": "🤜Akaraphisit🤛",
@@ -13784,7 +13757,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "คลับฟรายเดย์ เดอะซีรีส์ ลูกเทพ Club Friday Season 14 God Gift (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -13823,7 +13796,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "คลับ ฮูลิเกน Club Hooligans (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -13886,7 +13859,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "I Know I Love You ปล่อยใจไปกับรัก 2023",
 "author": "🤜Akaraphisit🤛",
@@ -14077,7 +14050,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Han River Police ตำรวจแม่น้ำฮัน  2023",
 "author": "🤜Akaraphisit🤛",
@@ -14132,7 +14105,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Hang Out  เปลือกรักปมลวง  (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -14267,7 +14240,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Money Heist Berlin มันนี่ ไฮสท์ เบอร์ลิน (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -14338,7 +14311,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Yu Yu Hakusho  กระดาษขาวน้ำมันน้ำร้อน (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -14385,7 +14358,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Gyeongseong Creature สิ่งมีชีวิตคยองซอง (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -14448,7 +14421,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Analog Squad ทีมรักนักหลอก (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -14519,7 +14492,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "007 Road to a Million 007 เส้นทางสู่เงินล้าน  (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -14582,7 +14555,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "A Nearly Normal Family ครอบครัวนี้เกือบธรรมดา(2023)",
 "author": "🤜Akaraphisit🤛",
@@ -14637,7 +14610,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Blood Coast บลัช โคสท์ (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -14692,7 +14665,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Coin Digger เกม สูญ เหรียญ  (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -14779,7 +14752,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Trillion Game เกมชีวิตพิชิตล้านล้าน (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -14866,7 +14839,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Sweet Home 2 สวีทโฮม 2 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -14929,7 +14902,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "My Demon ปีศาจของฉัน (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -15064,7 +15037,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Squid Game The Challenge สควิดเกม เดอะ ชาเลนจ์  (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -15143,7 +15116,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Happy Bad Year ชะนีปีชง (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -15190,7 +15163,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Untold Story Of Bhopal 1984 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -15229,7 +15202,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Thaibaan in Love ไทบ้านคึกคัก มนต์รักอบต. (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -15260,7 +15233,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "I Feel You Linger in the Air Uncut หอมกลิ่นความรัก  (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -15347,7 +15320,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Gen V สายดาร์กภาคแยกของ The Boys (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -15418,7 +15391,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Daily Dose of Sunshine ปริมาณแสงแดดรายวัน (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -15505,7 +15478,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Tore  กว่าจะข้ามความโศก 2023",
 "author": "🤜Akaraphisit🤛",
@@ -15560,7 +15533,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะ คอนทิเนทอล The Continental From the World of John Wick (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -15591,7 +15564,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Vigilante ศาลเตี้ย วิจิเลนท์ (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -15662,7 +15635,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Kidnapping Day วันลักพาตัวเด็ก 2023",
 "author": "🤜Akaraphisit🤛",
@@ -15757,7 +15730,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Cordial Companions พิชิตใจใต้เท้าจอมโหด  (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -15924,7 +15897,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Arthdal Chronicles 2 อาธดัล สงครามสยบบัลลังก์ 2 2023",
 "author": "🤜Akaraphisit🤛",
@@ -16011,7 +15984,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Bodies ศพ (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -16082,7 +16055,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Love Destiny พรหมลิขิต 2 2023",
 "author": "🤜Akaraphisit🤛",
@@ -16289,7 +16262,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Absolute Beginners รักแรกใส หัวใจซัมเมอร์   (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -16344,7 +16317,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ดูนา ไอดอลสาวข้างบ้าน Doona (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -16423,7 +16396,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Creature ตัวประหลาด (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -16494,7 +16467,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Beckham เรื่องเล่าจากแบคแฮม (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -16533,7 +16506,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Loki 2  Season 2 โลกิ เทพเจ้าแห่งกลลวง 2 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -16588,7 +16561,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Fall of the House of Usher บ้านปีศาจ (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -16659,7 +16632,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Lupin Season 3 จอมโจรลูแปง 3  (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -16722,7 +16695,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Strong Girl Namsoon สาวน้อยจอมพลังคังนัมซุน(2023)",
 "author": "🤜Akaraphisit🤛",
@@ -16857,7 +16830,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Devil Plan เดอะ เดวิล แพลน 2023",
 "author": "🤜Akaraphisit🤛",
@@ -16944,7 +16917,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Worst of Evil เดอะ วอท ออฟ อีวิว (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -17007,7 +16980,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "One Night Stand (2023) คืนเปลี่ยนชีวิต",
 "author": "🤜Akaraphisit🤛",
@@ -17118,7 +17091,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Harlan Cobens Shelter (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -17189,7 +17162,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Cold Blooded Intern (2023) ซับไทย",
 "author": "🤜Akaraphisit🤛",
@@ -17292,7 +17265,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "A Time Called You เวลาเพรียกหาเธอ 2023",
 "author": "🤜Akaraphisit🤛",
@@ -17395,7 +17368,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Sex Education season 4 (2023) หลักสูตรเร่งรัก 4",
 "author": "🤜Akaraphisit🤛",
@@ -17466,7 +17439,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Song of the Bandits (2023) ลำนำคนโฉด",
 "author": "🤜Akaraphisit🤛",
@@ -17545,7 +17518,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Bride of Naga (2023) พนมนาคา",
 "author": "🤜Akaraphisit🤛",
@@ -17600,7 +17573,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Class Act (2023) ชายเก้าชีวิต",
 "author": "🤜Akaraphisit🤛",
@@ -17663,7 +17636,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Kung Fu PandaThe Dragon Knight กังฟูแพนด้า อัศวินมังกร",
 "author": "🤜Akaraphisit🤛",
@@ -17758,7 +17731,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Jun & Jun (2023) รักนี้ จุนจุน ซับไทย",
 "author": "🤜Akaraphisit🤛",
@@ -17829,7 +17802,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Burning Body (2023) ร่างไหม้",
 "author": "🤜Akaraphisit🤛",
@@ -17900,7 +17873,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Dear Child (2023) ลูกรัก",
 "author": "🤜Akaraphisit🤛",
@@ -17955,7 +17928,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "กรู้ท 2 I Am Groot Season 2",
 "author": "🤜Akaraphisit🤛",
@@ -18002,7 +17975,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Baki Hanma Season 2 (2023) ฮันมะ บากิภาค 2",
 "author": "🤜Akaraphisit🤛",
@@ -18113,7 +18086,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Sonic 2 (2023) โซนิค 2",
 "author": "🤜Akaraphisit🤛",
@@ -18184,7 +18157,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สตาร์วอ อาโซกา Star War Ahsoka (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -18255,7 +18228,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "My Annoying Roommate (2023) เพื่อนร่วมห้องไม่รับเชิญ",
 "author": "🤜Akaraphisit🤛",
@@ -18358,7 +18331,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Ragnarok Season 3 2023 แร็กนาร็อก มหาศึกชี้ชะตา ซีซัน 3",
 "author": "🤜Akaraphisit🤛",
@@ -18413,7 +18386,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Depp V Heard จอร์นนี่เดป 2023",
 "author": "🤜Akaraphisit🤛",
@@ -18444,7 +18417,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เรื่องตลก 69 เดอะซีรีส์ 2023",
 "author": "🤜Akaraphisit🤛",
@@ -18499,7 +18472,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Who is Erin Carter ใครคือ เอริน คาร์เตอร์",
 "author": "🤜Akaraphisit🤛",
@@ -18562,7 +18535,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แมส เกิล Mask Girl 2023",
 "author": "🤜Akaraphisit🤛",
@@ -18625,7 +18598,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Chosen One (2023) ผู้ถูกเลือก",
 "author": "🤜Akaraphisit🤛",
@@ -18680,7 +18653,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Zombieverse ซอมบี้เวิร์ส (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -18751,7 +18724,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Pending Train รถไฟสายพิศวง (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -18838,7 +18811,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Empress ซีซี่ จักรพรรดินีแห่งรัก Season 1 (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -18893,7 +18866,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Lincoln Lawyer Season 2 (2023) แผนพิพากษา ซีซั่น 2",
 "author": "🤜Akaraphisit🤛",
@@ -18980,7 +18953,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "D.P. หน่วยล่าทหารหนีทัพ 2023 ภาค 2",
 "author": "🤜Akaraphisit🤛",
@@ -19035,7 +19008,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ผู้ใหญ่ลี ศรีบานเย็น Phuyai Li Sribanyen 2023",
 "author": "🤜Akaraphisit🤛",
@@ -19130,7 +19103,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "มาตาลดา To The Moon and Back (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -19289,7 +19262,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "คิง เดอะ แลนด์ King the Land (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -19376,7 +19349,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ไฟแค้น ไฟอดีต Burn the House Down (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -19447,7 +19420,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Days 2023 วันวิบัติ",
 "author": "🤜Akaraphisit🤛",
@@ -19518,7 +19491,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เซเลปบิตี้ Celebrity คนเด่น คนดัง คนดับ 2023",
 "author": "🤜Akaraphisit🤛",
@@ -19621,7 +19594,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Let’s Get Divorced หย่ากันดีกว่า (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -19692,7 +19665,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Sleeping Dogย้อนปมคดีเลือด (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -19747,7 +19720,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Skull Island (2023) มหาภัยเกาะกะโหลก",
 "author": "🤜Akaraphisit🤛",
@@ -19818,7 +19791,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Delete ลบคนทิ้งด้วยมือถือ 2023",
 "author": "🤜Akaraphisit🤛",
@@ -19889,7 +19862,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Titans Season 4 ไททันส์ 4 ซับไทย (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -19992,7 +19965,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "จันทราอัสดง Till the End of the Moon (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -20327,7 +20300,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "วันพีช เน็ตฟลิกซ์ One Piece Netflix 2023",
 "author": "🤜Akaraphisit🤛",
@@ -20398,7 +20371,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "บลัดฮาวด์ Bloodhounds หมาล่าเนื้อ (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -20469,7 +20442,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Arnold  อาร์โนลด์  (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -20500,7 +20473,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Flash Season 9 เดอะเเฟลช ปี 9 2023 บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -20683,7 +20656,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Stranger things 4 สเตรนเจอร์ ธิงส์ season 4 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -20762,7 +20735,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "XO Kitty ด้วยรัก จากคิตตี้ (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -20849,7 +20822,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Taxi Driver 2 แท็กซี่จ้างแค้น 2 (2023) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -20984,7 +20957,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Grandma’s New World โลกใบใหม่ของคุณยาย (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -21135,7 +21108,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Marriage Badge ผ่านภพมาพบรัก  (2023) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -21286,7 +21259,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ฉงจื่อ ลิขิตหวนรัก The Journey of Chong Zi (2023) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -21629,7 +21602,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Sweet Tooth 2 สวีททูธ ซีซั่น 2 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -21700,7 +21673,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "From Me to You จากฉันถึงคุณ (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -21803,7 +21776,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Rig เดอะริก มฤตยูปริศนา Season 1 (2023) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -21858,7 +21831,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Copenhagen Cowboy คาวบอยโคเปนฮาเกน Season 1 (2023) Netflix บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -21913,7 +21886,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Kaleidoscope คาไลโดสโคป: ส่องกล้องปล้น Season 1 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -21992,7 +21965,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Falling Before Fireworks ดอกไม้ไฟแห่งรัก (2023) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -22183,7 +22156,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Woman of the Dead ผู้หญิงของคนตาย Season 1 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -22238,7 +22211,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Hunters นักล่านาซี Season 2 (2023) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -22309,7 +22282,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Cooking for the Maiko House ทำอาหารสำหรับบ้าน Maiko (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -22388,7 +22361,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Lockwood & Co Season 1ล็อควูดแอนด์โค ซีซั่น 1 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -22459,7 +22432,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Freeridge ฟรีริดจ์ Season 1 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -22530,7 +22503,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Red Rose กุหลาบแดง Season 1 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -22601,7 +22574,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Carnival Row คาร์นิวัล โรว์ Season 2 (2023) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -22688,7 +22661,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Exchange Season 1 ดิ เอกซ์เชนจ์ ซีซั่น 1 2023) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -22743,7 +22716,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Love To Hate You รักที่จะเกลียดคุณ (2023) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -22830,7 +22803,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Triptych สามชีวิต Season 1 (2023) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -22901,7 +22874,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Shanty Town เมืองสลัม Season 1 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -22956,7 +22929,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Endless Night คืนไม่รู้จบ Season 1 (2023)  บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -23003,7 +22976,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Why Try to Change Me Now ทำไมต้องพยายามเปลี่ยนฉันตอนนี้ (2023) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -23058,7 +23031,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Copycat Killer ฆ่าเลียนแบบ (2023) Netflix",
 "author": "🤜Akaraphisit🤛",
@@ -23145,7 +23118,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Sanctuary สังเวียนศักดิ์สิทธิ์ (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -23216,7 +23189,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "คุณหมอชา Doctor Cha (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -23351,7 +23324,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ผีแซดกับแบดบอย Oh No Here Comes Trouble 2023",
 "author": "🤜Akaraphisit🤛",
@@ -23454,7 +23427,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Black Knight แบลค ไนท์ อัศวินส่งของในตำนาน (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -23509,7 +23482,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Oemojisangjuui (Lookism) 2023",
 "author": "🤜Akaraphisit🤛",
@@ -23580,7 +23553,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Nurse Season 1 พยาบาลมัจจุราช  (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -23619,7 +23592,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Florida Man ฟลอริดาแมน Season 1 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -23682,7 +23655,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Glory Season 2 เดอะกรอรี่ (2023) Netflix",
 "author": "🤜Akaraphisit🤛",
@@ -23753,7 +23726,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Beef คนหัวร้อน Season 1 (2023) พากย์ไทย",
 "author": "🤜Akaraphisit🤛",
@@ -23840,7 +23813,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Last of Us Season 1 (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -23919,7 +23892,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ไวกิ้ง วัลฮัลลา 2023 Vikings Valhalla  Season 2 2023",
 "author": "🤜Akaraphisit🤛",
@@ -23990,7 +23963,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "S Line เอส ไลน์ พันธการสัมพันธ์เส้นสีแดง 2025",
 "author": "🤜Akaraphisit🤛",
@@ -24013,7 +23986,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เคว้ง The Stranded 2019",
 "author": "🤜Akaraphisit🤛",
@@ -24076,7 +24049,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "School Tales The Series โรงเรียนผีมีอยู่ว่า 2022",
 "author": "🤜Akaraphisit🤛",
@@ -24147,7 +24120,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "F4 Thailand หัวใจรักสี่ดวงดาว Boys Over Flowers 2022",
 "author": "🤜Akaraphisit🤛",
@@ -24282,7 +24255,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Bad Guys ล่าล้างเมือง (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -24385,7 +24358,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Gifted Graduation นักเรียนพลังกิฟ 2018",
 "author": "🤜Akaraphisit🤛",
@@ -24496,7 +24469,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ผู้หญิงของคนตาย WOMEN OF THE DEAD 2022",
 "author": "🤜Akaraphisit🤛",
@@ -24551,7 +24524,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Flash Season 4 เดอะเเฟลช ปี 4 2017",
 "author": "🤜Akaraphisit🤛",
@@ -24742,7 +24715,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Flash Season 3 เดอะเเฟลช ปี 3 2016",
 "author": "🤜Akaraphisit🤛",
@@ -24933,7 +24906,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Prison Break Season 3 แผนลับแหกคุกนรก ปี3(2007)",
 "author": "🤜Akaraphisit🤛",
@@ -25044,7 +25017,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Stranger Things Season 1 สเตรนเจอร์ ธิงส์ (2016) Netflix พากย์ไทย",
 "author": "🤜Akaraphisit🤛",
@@ -25115,7 +25088,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Stranger Things Season 2 สเตรนเจอร์ ธิงส์ (2017) Netflix พากย์ไทย",
 "author": "🤜Akaraphisit🤛",
@@ -25194,7 +25167,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Stranger Things Season 3 สเตรนเจอร์ ธิงส์ (2019) Netflix พากย์ไทย",
 "author": "🤜Akaraphisit🤛",
@@ -25265,7 +25238,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "My ID is Gangnam Beauty กังนัมบิวตี้ รักนี้ไม่มีปลอม (2018)",
 "author": "🤜Akaraphisit🤛",
@@ -25400,7 +25373,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Victims Game เจาะจิต ปิดเกมล่าเหยื่อ 2020",
 "author": "🤜Akaraphisit🤛",
@@ -25471,7 +25444,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Substitute Princess’s Love (2024) รักจริงของเจ้าหญิงกำมะลอ",
 "author": "🤜Akaraphisit🤛",
@@ -25670,7 +25643,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Get on a Flat เก็ทออนอะแฟรท  (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -25837,7 +25810,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Alice in Borderland Season 1 อลิซในแดนมรณะ (2020) NETFLIX พากย์ไทย",
 "author": "🤜Akaraphisit🤛",
@@ -25908,7 +25881,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Alice in Borderland Season 2 อลิซในแดนมรณะ (2022) Netflix พากย์ไทย",
 "author": "🤜Akaraphisit🤛",
@@ -25979,7 +25952,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ขโมยเซนต์เดียว One Cent Thief (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -26050,7 +26023,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ซอมบี้เวิส 2 Zombieverse 2 (2024)",
 "author": "🤜Akaraphisit🤛",
@@ -26113,7 +26086,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Hellbound 1 ทันฑ์นรก 1 (2021)",
 "author": "🤜Akaraphisit🤛",
@@ -26168,7 +26141,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Umbrella Academy Season 1 ดิ อัมเบรลลา อคาเดมี่ 1",
 "author": "🤜Akaraphisit🤛",
@@ -26239,7 +26212,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Umbrella Academy Season 3 ดิ อัมเบรลลา อคาเดมี่  3 2022",
 "author": "🤜Akaraphisit🤛",
@@ -26326,7 +26299,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Umbrella Academy Season 2 ดิ อัมเบรลลา อคาเดมี่ 2 2020",
 "author": "🤜Akaraphisit🤛",
@@ -26413,7 +26386,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "บริดเจอร์ตัน 1 Bridgerton Season 1 2020",
 "author": "🤜Akaraphisit🤛",
@@ -26484,7 +26457,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "พีกี้ ไบลน์เดอร์ส 2 Peaky Blinders Season 2 2014",
 "author": "🤜Akaraphisit🤛",
@@ -26539,7 +26512,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "พีกี้ ไบลน์เดอร์ส 1 Peaky Blinders Season 1 2013",
 "author": "🤜Akaraphisit🤛",
@@ -26594,7 +26567,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "พีกี้ ไบลน์เดอร์ส 5 Peaky Blinders Season 5 2019",
 "author": "🤜Akaraphisit🤛",
@@ -26649,7 +26622,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "พีกี้ ไบลน์เดอร์ส 4 Peaky Blinders Season 4 2017",
 "author": "🤜Akaraphisit🤛",
@@ -26704,7 +26677,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "พีกี้ ไบลน์เดอร์ส 3 Peaky Blinders Season 3 2016",
 "author": "🤜Akaraphisit🤛",
@@ -26759,7 +26732,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "พีกี้ ไบลน์เดอร์ส 6 Peaky Blinders Season 6 2022",
 "author": "🤜Akaraphisit🤛",
@@ -26814,7 +26787,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เอมิลี่ในปารีส 3 Emily in Paris 3",
 "author": "🤜Akaraphisit🤛",
@@ -26885,7 +26858,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เอมิลี่ในปารีส 2 Emily in Paris 2",
 "author": "🤜Akaraphisit🤛",
@@ -26956,7 +26929,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เอมิลี่ในปารีส 1 Emily in Paris 1",
 "author": "🤜Akaraphisit🤛",
@@ -27043,7 +27016,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "3 Body Problem (2024) ดาวซานถี่ อุบัติการณ์สงครามล้างโลก",
 "author": "🤜Akaraphisit🤛",
@@ -27114,7 +27087,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Sweet Home 1 สวีทโฮม 1 (2020)",
 "author": "🤜Akaraphisit🤛",
@@ -27201,7 +27174,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Lupin Season 1  จอมโจรลูแปง 1  (2021)",
 "author": "🤜Akaraphisit🤛",
@@ -27248,7 +27221,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Lupin Season 2 จอมโจรลูแปง 2  (2021)",
 "author": "🤜Akaraphisit🤛",
@@ -27295,7 +27268,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Reporting for Duty (2023) สน.นี้มีแต่ป่วน",
 "author": "🤜Akaraphisit🤛",
@@ -27366,7 +27339,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "D.P. หน่วยล่าทหารหนีทัพ ภาค 1",
 "author": "🤜Akaraphisit🤛",
@@ -27421,7 +27394,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Walking Dead 2 วอคกิ้ง เดท 2 ฝ่าสยองทัพผีดิบ Season 2 (2011)",
 "author": "🤜Akaraphisit🤛",
@@ -27532,7 +27505,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Walking Dead 1 วอคกิ้ง เดท 1 ฝ่าสยองทัพผีดิบ Season 1 (2010)",
 "author": "🤜Akaraphisit🤛",
@@ -27587,7 +27560,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Record of Ragnarok Seson 2 มหาศึกคนชนเทพ 2022",
 "author": "🤜Akaraphisit🤛",
@@ -27722,7 +27695,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Witcher Season 3 เดอะ วิทเชอร์ นักล่าจอมอสูร (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -27769,7 +27742,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Witcher Season 1 เดอะ วิทเชอร์ นักล่าจอมอสูร (2019)",
 "author": "🤜Akaraphisit🤛",
@@ -27840,7 +27813,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Witcher Season 2 เดอะ วิทเชอร์ นักล่าจอมอสูร (2021)",
 "author": "🤜Akaraphisit🤛",
@@ -27911,7 +27884,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เอเจนซี่ Agency 2022",
 "author": "🤜Akaraphisit🤛",
@@ -28046,7 +28019,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สตาร์ทอัพ Start Up 스타트-업 2020",
 "author": "🤜Akaraphisit🤛",
@@ -28181,7 +28154,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Scams  18 มงกุฎ (2019)",
 "author": "🤜Akaraphisit🤛",
@@ -28260,7 +28233,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "You Are My Make Up Artist มัดหัวใจยัยซุปตาร์ (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -28395,7 +28368,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Taxi Driver 1 แท็กซี่จ้างแค้น 1 (2021)",
 "author": "🤜Akaraphisit🤛",
@@ -28642,7 +28615,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เชนซอว์แมน มนุษย์เลื่อยยนต์ Chainsaw Man (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -28745,7 +28718,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "รัก 100 วันของฉันและองค์ชาย 100 Days My Prince 2020",
 "author": "🤜Akaraphisit🤛",
@@ -28880,7 +28853,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "รอรักโรงแรมพันปี Hotel Del Luna (2019)",
 "author": "🤜Akaraphisit🤛",
@@ -29015,7 +28988,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "วินเชนโซ่ ทนายมาเฟีย Vincenzo (2021)",
 "author": "🤜Akaraphisit🤛",
@@ -29182,7 +29155,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "วุ่นนัก รักแรก ซีซั่น 2 My First First Love 2 (2019)",
 "author": "🤜Akaraphisit🤛",
@@ -29253,7 +29226,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "วิมานวาดฝัน Sky Castle (2018)",
 "author": "🤜Akaraphisit🤛",
@@ -29420,7 +29393,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "อุ่นรักละลายใจ Melting Me Softly (2019)",
 "author": "🤜Akaraphisit🤛",
@@ -29555,7 +29528,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Sweet Tooth 1 สวีททูธ ซีซั่น 1  (2021)",
 "author": "🤜Akaraphisit🤛",
@@ -29626,7 +29599,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "My Country The New Age พลิกชาติท้าปฐพี (2019)",
 "author": "🤜Akaraphisit🤛",
@@ -29761,7 +29734,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เพื่อความยุติธรรม Justice Served Season 1 (2022) บรรยายไทย",
 "author": "🤜Akaraphisit🤛",
@@ -29816,7 +29789,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เด็กใหม่ ภาค2 Girl from Nowhere 2021",
 "author": "🤜Akaraphisit🤛",
@@ -29887,7 +29860,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เด็กใหม่ ภาค1 Girl from Nowhere 2018",
 "author": "🤜Akaraphisit🤛",
@@ -29998,7 +29971,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Record Of Ragnarok มหาศึกคนชนเทพ  Netflix Season 1 2022",
 "author": "🤜Akaraphisit🤛",
@@ -30101,7 +30074,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "A Model Family ครอบครัวตัวอย่าง (2022) Netflix",
 "author": "🤜Akaraphisit🤛",
@@ -30188,7 +30161,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Demon Slayer Kimetsu no Yaiba Mugen Train Arc ดาบพิฆาตอสูร ศึกรถไฟสู่นิรันดร 2021",
 "author": "🤜Akaraphisit🤛",
@@ -30339,7 +30312,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Demon Slayer Kimetsu no Yaiba Entertainment District Arc ดาบพิฆาตอสูร ย่านเริงรมย์ 2021",
 "author": "🤜Akaraphisit🤛",
@@ -30434,7 +30407,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "All of Us Are Dead มัธยมซอมบี้ (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -30537,7 +30510,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Guillermo del Toro’s Cabinet of Curiosities กีเยร์โม เดล โตโร ตู้ลับสุดหลอน (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -30608,7 +30581,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ไวกิ้ง วัลฮัลลา 2022 Vikings Valhalla Season 1 2022 Netflix",
 "author": "🤜Akaraphisit🤛",
@@ -30679,7 +30652,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Percy Jackson and the Olympians เพอร์ซีย์ แจ็กสันกับนักกีฬาโอลิมปิก (2023)",
 "author": "🤜Akaraphisit🤛",
@@ -30750,7 +30723,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Loki 1 โลกิ เทพเจ้าแห่งกลลวง 1 (2021)",
 "author": "🤜Akaraphisit🤛",
@@ -30805,7 +30778,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Moon Knight มูนไนท์ (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -30860,7 +30833,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ข้าคือกรู้ท  I Am Groot (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -30907,7 +30880,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "รีสเชอร์ซีซั่น 1 Reacher Season 1 (2022) Killing Floor",
 "author": "🤜Akaraphisit🤛",
@@ -30978,7 +30951,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Terminal List เดอะเทอร์มินัลลิสท์ (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -31041,7 +31014,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Boys Season 2 เดอะบอยส์ ซีซั่น 2 (2020)",
 "author": "🤜Akaraphisit🤛",
@@ -31112,7 +31085,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Boys Season 3 เดอะบอยส์ ซีซั่น 3 (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -31183,7 +31156,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Boys Season 1 เดอะบอยส์ ซีซั่น 1 (2019)",
 "author": "🤜Akaraphisit🤛",
@@ -31254,7 +31227,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เชอร์โนบิล มหันตภัยนิวเคลียร์โลกไม่ลืม (2019) Chernobyl",
 "author": "🤜Akaraphisit🤛",
@@ -31301,7 +31274,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะไวต์โลตัส 2 The White Lotus Season 2 2022",
 "author": "🤜Akaraphisit🤛",
@@ -31324,7 +31297,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ศึกแห่งมังกร House of the Dragon Season 1 2022",
 "author": "🤜Akaraphisit🤛",
@@ -31403,7 +31376,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะไวต์โลตัส 1 The White Lotus Season 1 2021",
 "author": "🤜Akaraphisit🤛",
@@ -31458,7 +31431,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "โตเกียว เมืองคนอันตราย 1 Tokyo Vice 1 (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -31529,7 +31502,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Titans Season 1ไททันส์ 2018",
 "author": "🤜Akaraphisit🤛",
@@ -31624,7 +31597,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Titans Season 2 ไททันส์ 2 2019",
 "author": "🤜Akaraphisit🤛",
@@ -31735,7 +31708,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Titans Season 3 ไททันส์  2021",
 "author": "🤜Akaraphisit🤛",
@@ -31846,7 +31819,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "See Season 3 สายตาแห่งอนาคต ซีซั่น 3  (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -31917,7 +31890,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Hawkeye ฮอว์คอาย Season 1  (2021)",
 "author": "🤜Akaraphisit🤛",
@@ -31972,7 +31945,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Flash Season 3 วีรบุรุษเหนือแสง ปี 3 (2016)",
 "author": "🤜Akaraphisit🤛",
@@ -32123,7 +32096,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Kleo Season 1 คลีโอ ซีซั่น 1 (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -32194,7 +32167,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Kakegurui Twin  โคตรเซียนโรงเรียนพนัน  (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -32249,7 +32222,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Strong Woman Do Bong Soon (2017) สาวน้อยจอมพลัง โด บงซุน",
 "author": "🤜Akaraphisit🤛",
@@ -32360,7 +32333,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The King Eternal Monarch จอมราชัน บัลลังก์อมตะ (2020)",
 "author": "🤜Akaraphisit🤛",
@@ -32495,7 +32468,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "American Gods Season 2 (2019) อเมริกันก็อดส์ ซีซั่น 2 ซับไทย",
 "author": "🤜Akaraphisit🤛",
@@ -32566,7 +32539,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "American Gods (2017) อเมริกันก็อดส์ ซับไทย",
 "author": "🤜Akaraphisit🤛",
@@ -32637,7 +32610,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The 100 Season 7 ฝ่าโลกมฤตยู ปี 7 2020",
 "author": "🤜Akaraphisit🤛",
@@ -32772,7 +32745,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The 100 Season 6 ฝ่าโลกมฤตยู ปี 6 2019",
 "author": "🤜Akaraphisit🤛",
@@ -32883,7 +32856,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The 100 Season 5 ฝ่าโลกมฤตยู ปี 5 2018",
 "author": "🤜Akaraphisit🤛",
@@ -32994,7 +32967,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The 100 Season 4 ฝ่าโลกมฤตยู ปี 4 2017",
 "author": "🤜Akaraphisit🤛",
@@ -33105,7 +33078,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The 100 Season 1 ฝ่าโลกมฤตยู ปี 1",
 "author": "🤜Akaraphisit🤛",
@@ -33216,7 +33189,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The 100 Season 2 ฝ่าโลกมฤตยู ปี 2",
 "author": "🤜Akaraphisit🤛",
@@ -33351,7 +33324,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The 100 Season 3 ฝ่าโลกมฤตยู ปี 3 2016",
 "author": "🤜Akaraphisit🤛",
@@ -33486,7 +33459,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Blacklist Season 8 บัญชีดําอาชญากรรมซ่อนเงื่อน (2020)",
 "author": "🤜Akaraphisit🤛",
@@ -33669,7 +33642,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Blacklist Season 1 บัญชีดําอาชญากรรมซ่อนเงื่อน (2013)",
 "author": "🤜Akaraphisit🤛",
@@ -33852,7 +33825,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Walking Dead 10 ฝ่าสยองทัพผีดิบ Season 10 (2019)",
 "author": "🤜Akaraphisit🤛",
@@ -34035,7 +34008,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Walking Dead 9 ฝ่าสยองทัพผีดิบ Season 9 (2018)",
 "author": "🤜Akaraphisit🤛",
@@ -34170,7 +34143,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Walking Dead 11 ฝ่าสยองทัพผีดิบ Season 11 (2021)",
 "author": "🤜Akaraphisit🤛",
@@ -34337,7 +34310,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Walking Dead 8 ฝ่าสยองทัพผีดิบ Season 8 (2017)",
 "author": "🤜Akaraphisit🤛",
@@ -34472,7 +34445,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Walking Dead 7 ฝ่าสยองทัพผีดิบ Season 7 (2016)",
 "author": "🤜Akaraphisit🤛",
@@ -34607,7 +34580,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Walking Dead 6 ฝ่าสยองทัพผีดิบ Season 6 (2015)",
 "author": "🤜Akaraphisit🤛",
@@ -34742,7 +34715,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Walking Dead 3 วอคกิ้ง เดท 3 ฝ่าสยองทัพผีดิบ Season 3 (2012)",
 "author": "🤜Akaraphisit🤛",
@@ -34877,7 +34850,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Walking Dead 4 วอคกิ้ง เดท 4 ฝ่าสยองทัพผีดิบ Season 4 (2013)",
 "author": "🤜Akaraphisit🤛",
@@ -35012,7 +34985,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Walking Dead 5 วอคกิ้ง เดท 5 ฝ่าสยองทัพผีดิบ Season 5 (2014)",
 "author": "🤜Akaraphisit🤛",
@@ -35147,7 +35120,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Jack Ryan Season 2 (2019)",
 "author": "🤜Akaraphisit🤛",
@@ -35218,7 +35191,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "24 Hours ชั่วโมงอันตราย Season 9 (2014)",
 "author": "🤜Akaraphisit🤛",
@@ -35321,7 +35294,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "24 Hours ชั่วโมงอันตราย Season 6 (2006)",
 "author": "🤜Akaraphisit🤛",
@@ -35520,7 +35493,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Jack Ryan Season 1 (2018)",
 "author": "🤜Akaraphisit🤛",
@@ -35591,7 +35564,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "24 Hours ชั่วโมงอันตราย Season 7 (2009)",
 "author": "🤜Akaraphisit🤛",
@@ -35790,7 +35763,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "24 Hours ชั่วโมงอันตราย Season 8 (2010)",
 "author": "🤜Akaraphisit🤛",
@@ -35989,7 +35962,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "24 Hours ชั่วโมงอันตราย Season 5 (2005)",
 "author": "🤜Akaraphisit🤛",
@@ -36188,7 +36161,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "24 Hours ชั่วโมงอันตราย Season 3 (2003)",
 "author": "🤜Akaraphisit🤛",
@@ -36387,7 +36360,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "24 Hours ชั่วโมงอันตราย Season 4 (2004)",
 "author": "🤜Akaraphisit🤛",
@@ -36586,7 +36559,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "24 Hours ชั่วโมงอันตราย Season 2 (2002)",
 "author": "🤜Akaraphisit🤛",
@@ -36785,7 +36758,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "24 Hours ชั่วโมงอันตราย Season 1 (2001)",
 "author": "🤜Akaraphisit🤛",
@@ -36984,7 +36957,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Star Trek Strange New Worlds Season 1 (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -37071,7 +37044,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Flash Season 8 เดอะเเฟลช ปี 8 2022",
 "author": "🤜Akaraphisit🤛",
@@ -37238,7 +37211,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Flash Season 6 เดอะแฟรช ซีซั่น 6 2019",
 "author": "🤜Akaraphisit🤛",
@@ -37397,7 +37370,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Flash Season 2 เดอะเเฟลช ปี 2 2015",
 "author": "🤜Akaraphisit🤛",
@@ -37588,7 +37561,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Flash Season 1 เดอะเเฟลช ปี 1 2014",
 "author": "🤜Akaraphisit🤛",
@@ -37779,7 +37752,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "The Lord of the Rings The Rings of Power เดอะลอร์ดออฟเดอะริงส์ แหวนแห่งอำนาจ Season 1 (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -37850,7 +37823,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Prison Break Season 5 แผนลับแหกคุกนรก ปี5 ( 2017)",
 "author": "🤜Akaraphisit🤛",
@@ -37929,7 +37902,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Prison Break Season 4 แผนลับแหกคุกนรก ปี4 (2008)",
 "author": "🤜Akaraphisit🤛",
@@ -38096,7 +38069,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Prison Break Season 2 แผนลับแหกคุกนรก ปี2 (2006)",
 "author": "🤜Akaraphisit🤛",
@@ -38279,7 +38252,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "สุภาพบุรุษยอดองครักษ์ Faith (2014)",
 "author": "🤜Akaraphisit🤛",
@@ -38478,7 +38451,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Prison Break Season 1 แผนลับแหกคุกนรก ปี1(2005)",
 "author": "🤜Akaraphisit🤛",
@@ -38732,7 +38705,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "วุ่นนัก รักแรก ซีซั่น 1 My First First Love 1 (2019)",
 "author": "🤜Akaraphisit🤛",
@@ -38803,7 +38776,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "Last Light แสงสุดท้าย Season 1 (2022)",
 "author": "🤜Akaraphisit🤛",
@@ -38850,7 +38823,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "ดาห์เมอร์ สัตว์ประหลาด เรื่องราวของเจฟฟรีย์ ดาห์เมอร์ 2022  Dahmer  2022",
 "author": "🤜Akaraphisit🤛",
@@ -38937,7 +38910,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เดอะกลอรี่ The Glory   글로리 2022",
 "author": "🤜Akaraphisit🤛",
@@ -39008,7 +38981,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "เว้นส์เดย์ 2022 Wednesday Season 1 2022",
 "author": "🤜Akaraphisit🤛",
@@ -39079,7 +39052,7 @@
 "embed": true
 },
 ]
-}
+},
 {
 "name": "แร็กนาร็อก มหาศึกชี้ชะตา 2020 Ragnarok Season 1 2020",
 "author": "🤜Akaraphisit🤛",
@@ -39134,8 +39107,8 @@
 "embed": true
 },
 ]
-}
-
+},
+{
 "name": "แร็กนาร็อก มหาศึกชี้ชะตา 2021 Ragnarok Season 2 2021",
 "author": "🤜Akaraphisit🤛",
 "image": "https://7-hds.com/wp-content/uploads/2023/02/download-23.jpg",
@@ -39172,9 +39145,5 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "embed": true
 },
-      ]
-    }
-  ]
-}
 ]
-}
+},
