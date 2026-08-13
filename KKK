@@ -1,4 +1,9 @@
 {
+"name": "รวม Serie",
+"author": "🤜Akaraphisit🤛",
+"image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
+"groups": [
+{
 "name": "สายลับคิมกลับมาแล้ว Agent Kim Reactivated (2026)",
 "author": "🤜Akaraphisit🤛",
 "image": "https://7-hds.com/wp-content/uploads/2026/07/สายลับคิมกลับมาแล้ว-Agent-Kim-Reactivated-2026-e1785364886729.png",
@@ -39144,6 +39149,8 @@
 "referer": "https://7-hds.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "embed": true
+},
+]
 },
 ]
 },
