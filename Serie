@@ -1,46 +1,81 @@
 {
-"name": "Serie",
-"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-"author": "🤜Akaraphisit🤛",
-"url": "https://drive.google.com/uc?id=15054Zyjz2PK7EJ8d9xnBgrNS6VZwWh8L",
-"info": "2024-2026",
-"groups": [
-	
-  
-		{"name":" Disney+ ","image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM216ZmIzdzlvamppaG5jNWJzazlzaTEyZDI0dmxwdm4xanhyczNkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxwnBM8MkgAdqqng5S/giphy.gif",
-	"url": "https://drive.google.com/uc?id=14cxELGrgdEJbM8uIFJgzGoSq0leK0FHj","import": false},  
-
-		{"name":" HBO ","image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hiMDVvbnI5bTllMWh6cGd0cmtnZGg5NDBtYXgyYmZsMWkxc2lhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BCXvV3rWYTh4SpIsjk/giphy.gif",
-	"url": "https://drive.google.com/uc?id=14jVcifpg7h21B_evv5zt-YsiiqPGPTsI","import": false},  
-	
-		{"name":" iQiyi ","image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR1Ynd1eXJtamx2a3Bmc2hsM2RpcXdsbWNyYWRweWw4YTQ3ajM0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/aciWJYeAmICxD44FqQ/giphy.gif",
-	"url": "https://drive.google.com/uc?id=14on-tN7wzUtQ51T46dAAaax1YKoqLad0","import": false},  
-
-		{"name":" Netflix ","image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZzYnR6b3FpMzFyZDIza2ppaDB6bWFkZTM0bjFlaW54N2h3ajNvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ILY5hzY86Qjh5NW6KW/giphy.gif",
-	"url": "https://drive.google.com/uc?id=14u3UWKeW7hxq6zYBdK9CQ1C6oWxIn1eL","import": false},  
-			
-		{"name":" Viu ","image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVnaHU1ZTRyN2N3YTV5czZoc2dyeDFrcHBmNDh6aHYwOHd1b2YxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4Nkm0ANOEZOnbUzBZf/giphy.gif",
-	"url": "https://drive.google.com/uc?id=152Boe-XZU4fYhsZWjszU_bGTvVC6wUC1","import": false},  
-		
-		{"name":" WeTV ","https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp3OWlyem02NGM1eDRsMzI2ejJud3VzZ3l2aWg4Y2VzM2I2cHI0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TleE58FRFyQnN2aNOq/giphy.gif",
-	"url": "https://drive.google.com/uc?id=155jtYrs9BVXvDU9cLsZk8NFv6WtOcojK","import": false},  
-
-        {"name":" ซีรีย์เกาหลี ","image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E0aGh0aHZhdzkwb2JhN2pxOHFhcGVydnVqOGt6cnRicTUxb202YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Xb77C8ctxLQ5I4lSsu/giphy.gif",
-	"url": "https://drive.google.com/uc?id=10ELtfceZtPa6FfMIheel9tWtLBO3Y7Qw","import": false},  
-
-		{"name":" ซีรีย์จีน ","image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlkc3ZhYmVrYXEzdWdxcjd2aDg5emN6ejM0ZmlvdmdhOW1oM3ZwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kF6QAU7VTuX3Zoewnd/giphy.gif",
-	"url": "https://drive.google.com/uc?id=10AIo3TIgKn1srZrZ-Fu8IhdKLmJgzpk8","import": false},  
-	
-		{"name":" ซีรีย์ฝรั่ง ","image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhnNmgxOTJnZDI5d2xoMWNwcnl2cTBodmxnaXhycm9ha3h0bWViZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LqrAjDloJSuqxKdQfr/giphy.gif",
-	"url": "https://drive.google.com/uc?id=10KV3PoWmCNh2VWw92bNRadK4xGpwm2Ud","import": false},  
-
-		{"name":" ซีรีย์ญี่ปุ่น ","image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ozc3BldG93ZmVtbHFwcW5jcXFiY3djZXZvZzQwMjNuaHoxemkzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MC3kZMHJVryOUrlg83/giphy.gif",
-	"url": "https://drive.google.com/uc?id=10c8T6EMU20yyuByZHKDYgrjtk7zAm7I2","import": false},  
-			
-		{"name":" ซีรีย์พากย์ไทย ","https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZxaThuanR1NWdqcHAwaGNnNHdjMXltMWtiMGljczFxMGl0cTY5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEun9Zd9QULkJDiIxk/giphy.gif",
-	"url": "https://drive.google.com/uc?id=11nShaZODF5J0l6eHLxM9Qbwf7xAFNhQ8","import": false},  
-		
-		{"name":" ซีรีย์ซับไทย ","image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamR5d3phZ2xvZTdybGk4OGVodGp0cGQ0bWRzbHQ5N21jbmdzMGs4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/W3fq8NKQyoOrbRQEuY/giphy.gif",
-	"url": "https://drive.google.com/uc?id=104EW7rLDYJvqk5HDZorkCGr5NnyMJqHl","import": false},  
+  "name": "Serie",
+  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+  "author": "🤜Akaraphisit🤛",
+  "url": "https://drive.google.com/uc?id=15054Zyjz2PK7EJ8d9xnBgrNS6VZwWh8L",
+  "info": "2024-2026",
+  "groups": [
+{
+"name": " Disney+ ",
+"image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM216ZmIzdzlvamppaG5jNWJzazlzaTEyZDI0dmxwdm4xanhyczNkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxwnBM8MkgAdqqng5S/giphy.gif",
+"url": "https://drive.google.com/uc?id=14cxELGrgdEJbM8uIFJgzGoSq0leK0FHj",
+"import": false
+},  
+{
+"name": " HBO ",
+"image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hiMDVvbnI5bTllMWh6cGd0cmtnZGg5NDBtYXgyYmZsMWkxc2lhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BCXvV3rWYTh4SpIsjk/giphy.gif",
+"url": "https://drive.google.com/uc?id=14jVcifpg7h21B_evv5zt-YsiiqPGPTsI",
+"import": false
+},  
+{
+"name": " iQiyi ",
+"image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR1Ynd1eXJtamx2a3Bmc2hsM2RpcXdsbWNyYWRweWw4YTQ3ajM0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/aciWJYeAmICxD44FqQ/giphy.gif",
+"url": "https://drive.google.com/uc?id=14on-tN7wzUtQ51T46dAAaax1YKoqLad0",
+"import": false
+},  
+{
+"name": " Netflix ",
+"image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZzYnR6b3FpMzFyZDIza2ppaDB6bWFkZTM0bjFlaW54N2h3ajNvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ILY5hzY86Qjh5NW6KW/giphy.gif",
+"url": "https://drive.google.com/uc?id=14u3UWKeW7hxq6zYBdK9CQ1C6oWxIn1eL",
+"import": false
+},  
+{
+"name": " Viu ",
+"image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVnaHU1ZTRyN2N3YTV5czZoc2dyeDFrcHBmNDh6aHYwOHd1b2YxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4Nkm0ANOEZOnbUzBZf/giphy.gif",
+"url": "https://drive.google.com/uc?id=152Boe-XZU4fYhsZWjszU_bGTvVC6wUC1",
+"import": false
+},
+{
+"name": " WeTV ",
+"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp3OWlyem02NGM1eDRsMzI2ejJud3VzZ3l2aWg4Y2VzM2I2cHI0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TleE58FRFyQnN2aNOq/giphy.gif",
+"url": "https://drive.google.com/uc?id=155jtYrs9BVXvDU9cLsZk8NFv6WtOcojK",
+"import": false
+},
+{
+"name": " ซีรีย์เกาหลี ",
+"image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E0aGh0aHZhdzkwb2JhN2pxOHFhcGVydnVqOGt6cnRicTUxb202YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Xb77C8ctxLQ5I4lSsu/giphy.gif",
+"url": "https://drive.google.com/uc?id=10ELtfceZtPa6FfMIheel9tWtLBO3Y7Qw",
+"import": false
+},
+{
+"name": " ซีรีย์จีน ",
+"image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlkc3ZhYmVrYXEzdWdxcjd2aDg5emN6ejM0ZmlvdmdhOW1oM3ZwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kF6QAU7VTuX3Zoewnd/giphy.gif",
+"url": "https://drive.google.com/uc?id=10AIo3TIgKn1srZrZ-Fu8IhdKLmJgzpk8",
+"import": false
+},  
+{
+"name": " ซีรีย์ฝรั่ง ",
+"image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhnNmgxOTJnZDI5d2xoMWNwcnl2cTBodmxnaXhycm9ha3h0bWViZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LqrAjDloJSuqxKdQfr/giphy.gif",
+"url": "https://drive.google.com/uc?id=10KV3PoWmCNh2VWw92bNRadK4xGpwm2Ud",
+"import": false
+},  
+{
+"name": " ซีรีย์ญี่ปุ่น ",
+"image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ozc3BldG93ZmVtbHFwcW5jcXFiY3djZXZvZzQwMjNuaHoxemkzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MC3kZMHJVryOUrlg83/giphy.gif",
+"url": "https://drive.google.com/uc?id=10c8T6EMU20yyuByZHKDYgrjtk7zAm7I2",
+"import": false
+},  
+{
+"name": " ซีรีย์พากย์ไทย ",
+"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZxaThuanR1NWdqcHAwaGNnNHdjMXltMWtiMGljczFxMGl0cTY5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEun9Zd9QULkJDiIxk/giphy.gif",
+"url": "https://drive.google.com/uc?id=11nShaZODF5J0l6eHLxM9Qbwf7xAFNhQ8",
+"import": false
+},  
+{
+"name": " ซีรีย์ซับไทย ",
+"image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamR5d3phZ2xvZTdybGk4OGVodGp0cGQ0bWRzbHQ5N21jbmdzMGs4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/W3fq8NKQyoOrbRQEuY/giphy.gif",
+"url": "https://drive.google.com/uc?id=104EW7rLDYJvqk5HDZorkCGr5NnyMJqHl",
+"import": false
+},  
 ]
-}
+},
