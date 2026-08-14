@@ -36,7 +36,7 @@
 },
 {
 "name": "WeTV",
-"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp3OWlyem02NGM1eDRsMzI2ejJud3VzZ3l2aWg4Y2VzM2I2cHI0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TleE58FRFyQnN2aNOq/giphy.gif",
+"image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp3OWlyem02NGM1eDRsMzI2ejJud3VzZ3l2aWg4Y2VzM2I2cHI0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TleE58FRFyQnN2aNOq/giphy.gif",
 "url": "https://drive.google.com/uc?id=155jtYrs9BVXvDU9cLsZk8NFv6WtOcojK",
 "import": false
 },
@@ -66,7 +66,7 @@
 },
 {
 "name": "ซีรีย์พากย์ไทย",
-"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZxaThuanR1NWdqcHAwaGNnNHdjMXltMWtiMGljczFxMGl0cTY5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEun9Zd9QULkJDiIxk/giphy.gif",
+"image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZxaThuanR1NWdqcHAwaGNnNHdjMXltMWtiMGljczFxMGl0cTY5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEun9Zd9QULkJDiIxk/giphy.gif",
 "url": "https://drive.google.com/uc?id=11nShaZODF5J0l6eHLxM9Qbwf7xAFNhQ8",
 "import": false
 },
