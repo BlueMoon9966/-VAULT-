@@ -80,13 +80,19 @@
             {
             "name": "Serie (รวม)",
             "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1vams5c2V1Zm93ajM2ODkxbjJ5M2kyOTNtZ2N4dHF4cGllYThlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/av8tdApk5EsTtzo7vE/giphy.gif",
-            "url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtyZGx2dWNveWg0b3cxOTF3MzBpOHl1azV4bTV4azg2ZnF5YW8ydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37xfAWCFcwCkfQUU2p/giphy.gif",
+            "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/%E0%B8%A3%E0%B8%A7%E0%B8%A1%20Serie",
             "import": false
             },
             {
             "name": "Serie (แยกประเภท)",
-            "image": "https://www.buildernews.in.th/wp-content/uploads/2020/04/001-5.jpg",
-            "url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI0dGwyNHpmaGJtb2hjcm85dTV5dTRsaXR2bHlnZ3Vud2Y4ODk5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dnMlPLt3fg1wfViDBE/giphy.gif",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0GwbDWSve4wIkfpmur_ehis6CpOMOrvCzDbH222CHlfJuob6s7aTBI0&s=10",
+            "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Serie",
+            "import": false
+            },
+            {
+            "name": "Serie (แยกตามปี)",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-_l4fAiTrh5NBobaEtAY3TVkKtXRuejSOPFQHlmO8VD_PPdKY5UQKBxU&s=10",
+            "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Serie%20(%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%B5)",
             "import": false
             },
            ]
