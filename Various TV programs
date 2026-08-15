@@ -1588,7 +1588,7 @@
     {
       "name": "Friendlies Clubs",
       "url": "https://dov.streaming-api.xyz/kicksballcom/mutv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI2IDE6MzE6NTAgUE0maGFzaF92YWx1ZT1HN1BtcjVmYXBGcExiZlhaUzRJdklnPT0mdmFsaWRtaW51dGVzPTIw",
-      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1706112738.png&s=85c7a0704cab",
+      "image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=46c9e32a-292b-46df-83a9-b44f87d9a45f&quality=70",
       "referer": "https://kicksball.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "embed": "true"
