@@ -1589,7 +1589,7 @@
   "stations": [
     {
       "name": "Friendlies Clubs",
-      "url": "https://dov.streaming-api.xyz/kicksballcom/mutv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI2IDE6MzE6NTAgUE0maGFzaF92YWx1ZT1HN1BtcjVmYXBGcExiZlhaUzRJdklnPT0mdmFsaWRtaW51dGVzPTIw",
+      "url": "https://kicksball.com/match/%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A2%E0%B8%B9%E0%B9%84%E0%B8%99%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%94-vs-%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%99-631712",
       "image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=46c9e32a-292b-46df-83a9-b44f87d9a45f&quality=70",
       "referer": "https://kicksball.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
