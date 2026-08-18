@@ -95,9 +95,10 @@
 "import": false
 },
 {
- "name": "มะงึกๆ อุ๋งๆ",
- "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2tKkwkLlvBGebjZ_m_oR3DsPTpkeL9GIH1S0UgapnSyuvgVYl9x69mj7t&s=10",
- "url": "https://docs.google.com/uc?id=1ub0GqrnkqCJyJLnME-JaQReh3Kj7YEcE",
+"name": "มะงึกๆ อุ๋งๆ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2tKkwkLlvBGebjZ_m_oR3DsPTpkeL9GIH1S0UgapnSyuvgVYl9x69mj7t&s=10",
+"url": "https://docs.google.com/uc?id=1ub0GqrnkqCJyJLnME-JaQReh3Kj7YEcE",
+"import": false
 },
 ]
 }
