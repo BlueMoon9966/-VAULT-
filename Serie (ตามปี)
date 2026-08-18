@@ -1,10 +1,9 @@
 {
- "name": " 🎦ⓈⓅⒶⒸⒺ🎦",
- "author": "🤜Akaraphisit🤛",
- "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
- "day": "18-07-2026",
- "url": "https://drive.google.com/uc?id=11cQprpPMf4BvMxcWExRGUIloG-l-udtS",
- "groups": [
+"version": "1.0.0",
+"name": "Serie (ตามปี)",
+"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+"author": "🤜Akaraphisit🤛",
+"groups": [
 {
 "name": "กำลังฉาย",
 "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc2ZnRmajFsaXVjbDQ0Mzdzd2d6dXo3eTY3NzI0dzV1a25iNWI2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8AFFzsFO7aSLb395DF/giphy.gif",
