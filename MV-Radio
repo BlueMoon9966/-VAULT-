@@ -12,9 +12,11 @@
 "name": "Green Wave 105.5 FM LIVE",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTUOasjuvVBivxzBpqHIIN5g1CzC5iwaHWwzcMa3PmQ&s=10",
 "url": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"playInNatPlayer": "true"
+},
+{
+"name": "TRACE URBAN LIVE",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",
+"url": "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8",
 },
 ]
 },
