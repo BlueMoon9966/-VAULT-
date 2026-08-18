@@ -33,6 +33,7 @@
 "name": "Musichitz Inter LIVE",
 "image": "https://static.mytuner.mobi/media/tvos_radios/187/musichitz-radio-inter.1312996b.jpg",
 "url": "https://free.rcast.net/71036",
+"audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
 },
