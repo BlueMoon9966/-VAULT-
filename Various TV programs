@@ -1581,5 +1581,15 @@
     },
    ]
   },
-]
+    {
+      "name": "Digital TV",
+      "url": "https://drive.google.com/uc?id=1f_LQQ37QKOylQ1SCBYiJPCPP7G5xzVcR",
+      "image": "https://copytv.vercel.app/PK/DigitalTV3.png",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "author": "🤜Akaraphisit🤛",
+      "info": "",
+      "embed": "true"
+    },
+  ]
 },
