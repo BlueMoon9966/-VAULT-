@@ -30,6 +30,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "RITSA TV",
+"image": "https://yt3.googleusercontent.com/ytc/AIdro_l7EU-QKiy38qkLmNlbbqKTAKfsVahcQy8vicsv9-Ic0qA=s900-c-k-c0x00ffffff-no-rj",
+"url": "https://ritsatv.ru/movie-id900777-ritsa-tv",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
 "name": "TRACE URBAN LIVE",
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",
 "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8",
