@@ -355,54 +355,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "📻 ธรรมะหลวงตามหาบัว",
-"image": "https://www.tvjaa.com/storage/radio-channels/sbt.png",
-"url": "http://122.155.12.107/luangta/Siangdham-Radio-Live.html",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "📻 เพลงสตริง",
-"image": "https://www.tvjaa.com/storage/radio-channels/request.png",
-"url": "https://cast.requestradio.in.th:810/;stream",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "📻 เพลงลูกทุ่ง",
-"image": "https://www.tvjaa.com/storage/radio-channels/requestlooktung.png",
-"url": "https://cast.requestradio.in.th:820/;stream",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "📻 เพลงเพื่อชีวิต",
-"image": "https://www.tvjaa.com/storage/radio-channels/requestlife.png",
-"url": "https://cast.requestradio.in.th:830/;stream",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "📻 เพลงสากล",
-"image": "https://www.tvjaa.com/storage/radio-channels/requestinter.png",
-"url": "https://cast.requestradio.in.th:840/;stream",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "📻 เพลงแดนซ์",
-"image": "https://www.tvjaa.com/storage/radio-channels/requestdance.png",
-"url": "https://cast.requestradio.in.th:850/;stream",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"playInNatPlayer": "true"
-},
-{
 "name": "📻 SukSon เพลงไทยสากล",
 "image": "https://www.tvjaa.com/storage/radio-channels/sukson.png",
 "url": "https://stream.pjcdn.com:9000/SuksonRadio",
@@ -443,7 +395,7 @@
 {
 "name": "FM 89.5 RADIO THAILAND",
 "image": "https://onair.one/wp-content/uploads/2025/09/RADIOTH-895-560x560.jpg",
-"url": "https://radio-org-01-ott.prd.go.th/ska_fm89_50",
+"url": "https://www.radio-thai.com/swthsngkhlaa-fm-895-mhz-radiothailand",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -471,20 +423,13 @@
 {
 "name": "📻  FM 90.5 RADIO THAILAND",
 "image": "https://onair.one/wp-content/uploads/2025/09/RADIOTH-905-560x560.jpg",
-"url": "http://radio-org-01-ott.prd.go.th/ska_fm90_5/;",
+"url": "https://live1.smartbomb.co.th/live",
 "audio": "true"
 },
 {
 "name": "📻  FM 91 PATTAYA MUNDEE",
 "image": "https://onair.one/wp-content/uploads/2024/11/444489281_1018338006529927_3971246088966105095_n-560x560.jpg",
 "url": "https://link.cityradiopattaya.com/8100/OBdirect/;",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "📻  FM 92 WE LOVE",
-"image": "https://onair.one/wp-content/uploads/2024/11/LOGO1040x1040-border-560x560.jpg",
-"url": "https://plus.onair.network:8120/stream/2;",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -503,13 +448,6 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 {
-"name": "📻  FM 97 TOURIST STATION ยุติการออกอากาศ",
-"image": "https://onair.one/wp-content/uploads/2024/11/97jpeg.jpg",
-"url": "https://80.hostpleng.com/api.php?url=http://112.121.150.133:9006/live",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
 "name": "📻  FM 98 YALA",
 "image": "https://onair.one/wp-content/uploads/2024/11/FM98-YALA-560x560.jpg",
 "url": "https://a.hostpleng.cloud/9098/stream",
@@ -524,23 +462,9 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 {
-"name": "📻  FM 99.75 ฟ้าใสเรดิโอ",
-"image": "https://onair.one/wp-content/uploads/2024/11/fhasai-logo-560x560.png",
-"url": "https://media.onair.one/8030/9975/;",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
 "name": "📻  จส.100",
 "image": "https://onair.one/wp-content/uploads/2024/11/d26a29ccd8ab4c0c0e1590f4272ea9cb_full.png",
 "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8510",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "📻  FM 101 ลีลาลำปาง",
-"image": "https://onair.one/wp-content/uploads/2025/08/linerichmessage-101-560x560.jpg",
-"url": "https://uk20freenew.listen2myradio.com/live.mp3?typeportmount=s1_39041",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -573,20 +497,6 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 {
-"name": "📻  FM 107.75 MCOT",
-"image": "https://onair.one/wp-content/uploads/2024/11/348224348_251833727395701_7810294511084235077_n.png",
-"url": "http://rstream.mcot.net:9022",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "📻  VOA1 The Hits",
-"image": "https://onair.one/wp-content/uploads/2024/11/VOA1-560x560.png",
-"url": "https://stream.radiojar.com/zpd8p6fgq3quv",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
 "name": "📻  PASSION AM",
 "image": "https://onair.one/wp-content/uploads/2024/11/content_1_bg_sd_20240910_032824-560x540.jpg",
 "url": "https://media.onair.one:8170/am",
@@ -601,44 +511,9 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 {
-"name": "📻  VOA Thai ข่าวสดสายตรงจาก วีโอเอไทย",
-"image": "https://onair.one/wp-content/uploads/2024/11/tower-1.png",
-"url": "https://stream.radiojar.com/7vpdu5as92quv",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
 "name": "📻  FM 88 MHz วิทยุ มอ.หาดใหญ่",
 "image": "https://onair.one/wp-content/uploads/2025/08/488248582_1301952425041915_7441289878781400160_n-560x560.jpg",
 "url": "https://media.onair.one:8120/stream/1/",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "📻  FM 107.25 MHz วิทยุ มอ.ปัตตานี",
-"image": "https://onair.one/wp-content/uploads/2025/01/347848119_1439908946771482_2961914427424320825_n-560x560.jpg",
-"url": "https://plus.onair.network:8170/psup",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "📻  วิทยุ ม.ก. บางเขน",
-"image": "https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",
-"url": "http://radio.vpsthai.net:8042/",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "📻  วิทยุเพื่อการเกษตร",
-"image": "https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",
-"url": "https://cdn-th2.livestreaming.in.th/shoutcast/8145",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "📻  Surf Radio",
-"image": "https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",
-"url": "https://stream.surf.radio//surf1025",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -658,7 +533,7 @@
 },
 {
 "name": "📻  95 TheSPOT FM",
-"image": "https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",
+"image": "https://www.audacy.com/media-library/95-7-the-spot.png?id=67604141&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
 "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/ce7b352b-a993-4451-8c9c-9c6e615402f8",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
