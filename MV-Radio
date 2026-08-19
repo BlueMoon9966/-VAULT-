@@ -23,6 +23,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "VIVA TV HITS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJdh8mez5Vsus4WMnVT_zvJB7J-tpZQYXZkH0HMSZ1w&s",
+"url": "https://ritsatv.ru/movie-id901046-viva-tv-hits",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
 "name": "TRACE URBAN LIVE",
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",
 "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8",
