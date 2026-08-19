@@ -540,136 +540,17 @@
 },
 {
 "name": "📻  FM 91 TRAFFIC PRO",
-"image": "https://onair.one/wp-content/uploads/2024/11/on-air-1-1.png",
+"image": "https://s.isanook.com/ns/0/ud/344/1721249/588192-01.jpg",
 "url": "https://www.fm91bkk.com:8900/;stream.mp3",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
 {
-"name": "📻  FM 104 ตำรวจตระเวนชายแดน",
-"image": "https://onair.one/wp-content/uploads/2025/09/ตชด-560x560.jpg",
-"url": "https://cdn-th2.livestreaming.in.th/shoutcast/8650",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
 "name": "📻  AM 1098 kHz",
-"image": "https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",
+"image": "https://static2.mytuner.mobi/media/tvos_radios/sy4yxmzajuhv.jpg",
 "url": "https://www.fm91bkk.com:9170/stream.mp3",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "📻  KU RADIO+ วิทยุ ม.ก. สงขลา",
-"image": "https://onair.one/wp-content/uploads/2025/10/images-1.jpg",
-"url": "",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "📻  Voice of Navy 1",
-"image": "https://www.voiceofnavy.com/imgs/radio1-1.gif",
-"url": "https://radio12.plathong.net/7346/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 2",
-"image": "https://www.voiceofnavy.com/imgs/radio1-2.gif",
-"url": "https://radio12.plathong.net/8660/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 3",
-"image": "https://www.voiceofnavy.com/imgs/radio1-3.gif",
-"url": "https://radio12.plathong.net/8648/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 4",
-"image": "https://www.voiceofnavy.com/imgs/radio2.gif",
-"url": "https://radio12.plathong.net/9912/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 5",
-"image": "https://www.voiceofnavy.com/imgs/radio3.gif",
-"url": "https://radio12.plathong.net/9924/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 6",
-"image": "https://www.voiceofnavy.com/imgs/radio3-1.gif",
-"url": "https://radio12.plathong.net/7354/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 7",
-"image": "https://www.voiceofnavy.com/imgs/radio4.gif",
-"url": "https://radio12.plathong.net/7356/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 8",
-"image": "https://www.voiceofnavy.com/imgs/radio4-1.gif",
-"url": "https://radio12.plathong.net/7358/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 9",
-"image": "https://www.voiceofnavy.com/imgs/radio5.gif",
-"url": "https://radio12.plathong.net/8704/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 10",
-"image": "https://www.voiceofnavy.com/imgs/radio5-1.gif",
-"url": "https://radio12.plathong.net/9918/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 11",
-"image": "https://www.voiceofnavy.com/imgs/radio6.gif",
-"url": "https://radio12.plathong.net/7350/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 12",
-"image": "https://www.voiceofnavy.com/imgs/radio6-1.gif",
-"url": "https://radio12.plathong.net/7352/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 13",
-"image": "https://www.voiceofnavy.com/imgs/radio7.gif",
-"url": "https://radio12.plathong.net/9914/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 14",
-"image": "https://www.voiceofnavy.com/imgs/radio8.gif",
-"url": "https://radio12.plathong.net/9916/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 15",
-"image": "https://www.voiceofnavy.com/imgs/radio9.gif",
-"url": "https://radio12.plathong.net/9936/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 16",
-"image": "https://www.voiceofnavy.com/imgs/radio9-1.gif",
-"url": "https://radio12.plathong.net/7348/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 17",
-"image": "https://www.voiceofnavy.com/imgs/radio10.gif",
-"url": "https://radio12.plathong.net/9920/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 18",
-"image": "https://www.voiceofnavy.com/imgs/radio11.gif",
-"url": "https://radio12.plathong.net/9922/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 19",
-"image": "https://www.voiceofnavy.com/imgs/radio12.gif",
-"url": "https://radio12.plathong.net/9926/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 20",
-"image": "https://www.voiceofnavy.com/imgs/radio14.gif",
-"url": "https://radio12.plathong.net/9932/;stream.mp3"
-},
-{
-"name": "📻  Voice of Navy 21",
-"image": "https://www.voiceofnavy.com/imgs/radio15.gif",
-"url": "https://radio12.plathong.net/9934/;stream.mp3"
 },
 ]
 },
