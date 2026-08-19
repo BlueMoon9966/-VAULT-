@@ -9,6 +9,13 @@
 "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVnb2x2cng3MHA5dXJrNm1idjN4dzMwaHdvc25zbnBncmNodnQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/5N3qXsEjoq8ewKOUdA/giphy.gif",
 "stations": [
 {
+"name": "VEVO",
+"image": "https://ritsatv.ru/files/poster/medium/900780.webp",
+"url": "https://ritsatv.ru/movie-id900780-vevo",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
 "name": "MTV CLUB",
 "image": "https://www.google.com/search?sca_esv=cf5c3a640caff83a&sxsrf=APpeQnsYZiuq6HfqKZwm3DNtQfGjXJ5nFQ:1787132610920&udm=2&fbs=ABfTbFVkyDUjCfwCB9ISJfkKUSCKrKfBRLs4ApEVUt55-vjs0oVSGIsktlnu_QJ5QRaPb9dcUmFGiaXy8D4AAg-73bVD-zH0mNj1NWpGd4pxnMAItOjaChzFC_huDLTr_Zn-Xtcn8oiU5Eq4zewcL1aqGzAV--FRKUdCQFwTb0GoFsaCHgHKSpAtV3nEUsgZbHrldO8F03gDRBkDq8fFsa0XVojtf4I0JfpKXdSzXzYTfc3jjUPw906I_EN-RLi_wfTBeUCEprbQxbRvla4k1it_YpaW0V1oEozI5YiVroxoHvWLEqLtoOw&q=MTV+CLUB&sa=X&ved=2ahUKEwi0z8Ljs6yWAxWrzzkIHYqzIl8QtKgLegQIIhAB&biw=1592&bih=742&dpr=1",
 "url": "https://ritsatv.ru/movie-id901135-mtv-club",
@@ -96,20 +103,6 @@
 "name": "THAT'S 90S & 00S LIVE",
 "image": "https://ritsatv.ru/files/poster/original/901635.webp",
 "url": "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb543d1c7e6c678884cb3f67cef341a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59641c1dd1cbfd28208834b837ef1099c93a68ace4180d3c57efb02ba675e0a74289bd82991fb40dca8f29ad99e0b4a7236178e979bff47308749472e9795a99e568fd84a1447fb0416a8099935f558769ba87bccd146a9b9a8de4c5435abcf19144f5b15a2f8996366c70dcbaae0c9607d97e318774c830ab2477d6dc0ad9b46c7ab81f5c76d1af5f48b8d90b13c7bb56d9e92c0b46ad649ebd4fd9972604f6d03098956983d0cb134f077b2c71f2d5d0211e3ca158cb1d050346d5895c070e0534ae995dbd89f3932c4364f01a8788f0f4c2ced247c70e01afc9817659d695fd66273a80e75c869d48c01d9eb9be90f30b09ee047fc64e0fc4af1fe10a660391653e6a2620f0b1c3380ae550c3678d14cab8699b6395a56acd2c9f98f026d5777471c5cc5b29505f1e4f7201312ce443520254065f12ae2298e500750548674ba81007797093222e0b34d34776595dabe9288d0de3edb5ad7c8f879627b6e6ab3370a317d91d1a95cee335f716a57e1578422489cbaf18c365b0e82a45fed4d909f3c10e63e7298/8/1920x1080_4716800/index.m3u8",
-"embed": "true",
-"playInNatPlayer": "true"
-},
-{
-"name": "VEVO",
-"image": "https://ritsatv.ru/files/poster/medium/900780.webp",
-"url": "https://amg00056-vevotv-vevopopau-samsungau-6lt65.amagi.tv/ts-us-w2-n2/playlist/amg00056-vevotv-vevopopau-samsungau/cb563d1e7a6c648e92d43878d1f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5cad6852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c40d872a1af1c56953d51b1854bcadc14bcd3c9539b4ad76bf015cb93ed828510d39b9061ae50b631595a2325c0824b87a32fde297a6b43fe4500047661eea29af24f3282352c369adef8cfae7b8eacf341a0733eba7af52762cd8819cd2ba6ef49aba2b09d3329dd59c6290376f09fc7a8fa3b34b669f0e88eb7162dc9a54728158b05b253740fab2c14f8cfe36c3a388a26962824188afd648894b3cccdb1834d972ac1fd53f9575f636c1e0b8a51a3d53895799d309fc71d25535a57edb46184d7891060390fb18950824740f9c3ddd7964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebae54482b852e73d7c6a03b5f33e560a192e87a0355b705cc742ab829fb139594ebcb99d8cb5395230301956039cf1a721cbfca7072956900368300e5f7dff29df6acd0f5a0f28dd6cba81007797093222e0b345337f6891cdf1ccc7e1c34ab170c4dcbf5e0b3e4a68a93c152c0d82e7dfb99cadff9fc93b42963c3dc9b4761917dc37e5d6874459/112/1920x1080_7333040/index.m3u8",
-"embed": "true",
-"playInNatPlayer": "true"
-},
-{
-"name": "VEVO-POP UK",
-"image": "https://ritsatv.ru/files/poster/medium/900780.webp",
-"url": "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/1080p/index.m3u8",
 "embed": "true",
 "playInNatPlayer": "true"
 },
