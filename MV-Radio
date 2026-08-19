@@ -115,7 +115,7 @@
 "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDg2djk4bGNtMG8zb3gyZHphaWFzdHFjNmFiczdkN2JndnptNjhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhU4Foe4yMMYJzO/giphy.gif",
 "stations": [
 {
-"name": "Musichitz Inter LIVE",
+"name": "📻 Musichitz Inter LIVE",
 "image": "https://static.mytuner.mobi/media/tvos_radios/187/musichitz-radio-inter.1312996b.jpg",
 "url": "https://free.rcast.net/71036",
 "audio": "true",
@@ -126,6 +126,7 @@
 "name": "📻 MUNforward Xtra Music",
 "image": "https://static.mytuner.mobi/media/tvos_radios/fANqGSV3WH.png",
 "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8795",
+"audio": "true",
 "embed": "true",
 "playInNatPlayer": "true"
 },
@@ -133,6 +134,7 @@
 "name": "📻 Top Viewpoint Radio 93.75 Music",
 "image": "https://static.mytuner.mobi/media/tvos_radios/168/top-view-point-radio.7c74e932.png",
 "url": "https://radio9.plathong.net/7146/;stream.mp3",
+"audio": "true",
 "embed": "true",
 "playInNatPlayer": "true"
 },
@@ -140,6 +142,7 @@
 "name": "📻 Bangkok FM Music",
 "image": "https://bangkok.fm/assets/logo-bangkokfm-white-dp3-G7l2.png",
 "url": "https://audio-edge-fvq45.ams.d.radiomast.io/b4328177-eee1-4fb1-8b28-94009a331613",
+"audio": "true",
 "embed": "true",
 "playInNatPlayer": "true"
 },
@@ -178,7 +181,7 @@
 {
 "name": "📻 Active FM99",
 "image": "https://www.tvjaa.com/storage/radio-channels/active99fm.png",
-"url": "https://uiu6f1j7.mcot.net/FM99/fm99.stream_aac/playlist.m3u8",
+"url": "https://northernlive.mcot.net/fm99/voice.m3u8",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -266,7 +269,7 @@
 {
 "name": "📻 มิติข่าว 90.5",
 "image": "https://www.tvjaa.com/storage/radio-channels/smartnews905.png",
-"url": "http://www.smartbomb.co.th/streaming/audio_player.php?channel=ODYyNA==",
+"url": "https://live1.smartbomb.co.th/live",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -338,7 +341,7 @@
 {
 "name": "📻 WOW RADIO ONLINE",
 "image": "https://www.tvjaa.com/storage/radio-channels/wowradio.png",
-"url": "https://inter.wowradiohit.com/radio/8000/stream.mp3",
+"url": "https://radio14.plathong.net/7072/;stream.mp3",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
