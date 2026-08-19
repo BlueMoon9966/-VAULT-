@@ -9,6 +9,13 @@
 "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVnb2x2cng3MHA5dXJrNm1idjN4dzMwaHdvc25zbnBncmNodnQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/5N3qXsEjoq8ewKOUdA/giphy.gif",
 "stations": [
 {
+"name": "DANCESTAR TV",
+"image": "https://ritsatv.ru/files/poster/original/901036.jpg",
+"url": "https://ritsatv.ru/movie-id901036-dancestar-tv",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
 "name": "DTR MUSIC 1",
 "image": "https://ritsatv.ru/files/poster/medium/901532.webp",
 "url": "https://ritsatv.ru/movie-id901532-dtr-music-1",
