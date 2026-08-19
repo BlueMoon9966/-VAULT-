@@ -9,6 +9,13 @@
 "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVnb2x2cng3MHA5dXJrNm1idjN4dzMwaHdvc25zbnBncmNodnQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/5N3qXsEjoq8ewKOUdA/giphy.gif",
 "stations": [
 {
+"name": "VIVA GEORGIA",
+"image": "https://yt3.googleusercontent.com/ytc/AIdro_meW7fsLqzr2drvYt6DfHmQMPVsZh82hwI7J40kUlq7Z4Q=s900-c-k-c0x00ffffff-no-rj",
+"url": "https://ritsatv.ru/movie-id901715-viva-georgia",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
 "name": "VEVO",
 "image": "https://ritsatv.ru/files/poster/medium/900780.webp",
 "url": "https://ritsatv.ru/movie-id900780-vevo",
