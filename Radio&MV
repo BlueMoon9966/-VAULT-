@@ -173,6 +173,7 @@
 "name": "📻 Musichitz Inter LIVE",
 "image": "https://static.mytuner.mobi/media/tvos_radios/187/musichitz-radio-inter.1312996b.jpg",
 "url": "https://free.rcast.net/71036",
+"info": "EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -181,6 +182,7 @@
 "name": "📻 MUNforward Xtra Music",
 "image": "https://static.mytuner.mobi/media/tvos_radios/fANqGSV3WH.png",
 "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8795",
+"info": "EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -189,6 +191,7 @@
 "name": "📻 Top Viewpoint Radio 93.75 Music",
 "image": "https://static.mytuner.mobi/media/tvos_radios/168/top-view-point-radio.7c74e932.png",
 "url": "https://radio9.plathong.net/7146/;stream.mp3",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -197,6 +200,7 @@
 "name": "📻 Bangkok FM Music",
 "image": "https://bangkok.fm/assets/logo-bangkokfm-white-dp3-G7l2.png",
 "url": "https://audio-edge-fvq45.ams.d.radiomast.io/b4328177-eee1-4fb1-8b28-94009a331613",
+"info": "EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -205,6 +209,7 @@
 "name": "📻 COOL fahrenheit",
 "image": "https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png",
 "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -213,6 +218,7 @@
 "name": "📻 EFM",
 "image": "https://www.tvjaa.com/storage/radio-channels/efm.png",
 "url": "https://atimehd.smartclick.co.th/efm/hls/efm.m3u8",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -221,6 +227,7 @@
 "name": "📻 GREEN WAVE",
 "image": "https://www.tvjaa.com/storage/radio-channels/greenwave.png",
 "url": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -229,6 +236,7 @@
 "name": "📻 MET 107",
 "image": "https://www.tvjaa.com/storage/radio-channels/met107.png",
 "url": "https://eb27a17z.mcot.net/FM107/fm107.stream_aac/chunklist_w103872406.m3u8",
+"info": "EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -237,6 +245,7 @@
 "name": "📻 Active FM99",
 "image": "https://www.tvjaa.com/storage/radio-channels/active99fm.png",
 "url": "https://northernlive.mcot.net/fm99/voice.m3u8",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -245,6 +254,7 @@
 "name": "📻 คลื่นความคิด FM96.5",
 "image": "https://www.tvjaa.com/storage/radio-channels/965fm.png",
 "url": "https://e4hq2o44.mcot.net/FM965/fm965.stream_aac/chunklist_w1982010370.m3u8",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -253,6 +263,7 @@
 "name": "📻 News Network",
 "image": "https://www.tvjaa.com/storage/radio-channels/mcotnewsnetwork.png",
 "url": "https://ymqaf8yp.mcot.net/FM1005/fm1005.stream_aac/playlist.m3u8",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -261,6 +272,7 @@
 "name": "📻 Mellow 97.5",
 "image": "https://www.tvjaa.com/storage/radio-channels/mellow975.png",
 "url": "https://tkx5l99p.mcot.net/Mellow/fm975.stream_aac/chunklist_w488259280.m3u8",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -269,6 +281,7 @@
 "name": "📻 ลูกทุ่งมหานคร FM95",
 "image": "https://www.tvjaa.com/storage/radio-channels/fm95.png",
 "url": "https://t24d2ljc.mcot.net/FM95/fm95.stream_aac/chunklist_w1826020205.m3u8",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -277,6 +290,7 @@
 "name": "📻 Flex 104.5",
 "image": "https://www.tvjaa.com/storage/radio-channels/flex10452.png",
 "url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -284,6 +298,7 @@
 {
 "name": "📻 City Radio 90.25",
 "image": "https://www.tvjaa.com/storage/radio-channels/cityradio9025.png",
+"info": "TH-Music",
 "url": "https://media.onair.one:8200/1/;",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -293,6 +308,7 @@
 "name": "📻 จส.100",
 "image": "https://www.tvjaa.com/storage/radio-channels/js100.png",
 "url": "https://djstreamsv1.hostpleng.cloud/4BsH",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -301,6 +317,7 @@
 "name": "📻 วิทยุครอบครัวข่าว",
 "image": "https://www.tvjaa.com/storage/radio-channels/fm106family.png",
 "url": "https://radio11.plathong.net/7138/;stream.mp3",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -309,6 +326,7 @@
 "name": "📻 สวพ. FM91",
 "image": "https://www.tvjaa.com/storage/radio-channels/fm91.png",
 "url": "https://www.fm91bkk.com:8900/;stream.mp3",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -317,14 +335,7 @@
 "name": "📻 สวท.FM 97 MHz",
 "image": "https://www.tvjaa.com/storage/radio-channels/qualitynewsstation.png",
 "url": "https://cdn-th2.login.in.th/shoutcast/8610",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "📻 มิติข่าว 90.5",
-"image": "https://www.tvjaa.com/storage/radio-channels/smartnews905.png",
-"url": "https://live1.smartbomb.co.th/live",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -333,6 +344,7 @@
 "name": "📻 Sunshine Radio",
 "image": "https://www.tvjaa.com/storage/radio-channels/sunshine.png",
 "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8030",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -341,14 +353,7 @@
 "name": "📻 94FMCLUB",
 "image": "https://www.tvjaa.com/storage/radio-channels/94fmclubradio.png",
 "url": "https://plus.onair.network:8130/94fmclub2",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "📻 XFM Chiangmai",
-"image": "https://www.tvjaa.com/storage/radio-channels/xfmnetwork.png",
-"url": "https://radio12.plathong.net/7360/;stream.mp3",
+"info": "TH_EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -357,6 +362,7 @@
 "name": "📻 LIVE 89.5",
 "image": "https://www.tvjaa.com/storage/radio-channels/895pattaya.png",
 "url": "https://4118.radio4.thzhost.com/;stream.mp3",
+"info": "EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -365,6 +371,7 @@
 "name": "📻 Yesterday FM106.5",
 "image": "https://www.tvjaa.com/storage/radio-channels/yesterday.png",
 "url": "https://4122.radio4.thzhost.com/;stream",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -373,6 +380,7 @@
 "name": "📻 MAZZ Radio FM97",
 "image": "https://www.tvjaa.com/storage/radio-channels/mazzradio.png",
 "url": "https://4096.radio2.thzhost.com/;stream",
+"info": "TH_-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -381,6 +389,7 @@
 "name": "📻 Smile FM95.25",
 "image": "https://www.tvjaa.com/storage/radio-channels/smile9525.png",
 "url": "https://radio12.plathong.net/8846/;stream.mp3",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -389,6 +398,7 @@
 "name": "📻 สไมล์ลูกทุ่ง FM101",
 "image": "https://www.tvjaa.com/storage/radio-channels/smile101.png",
 "url": "https://radio12.plathong.net/8612/;stream.mp3",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -397,6 +407,7 @@
 "name": "📻 WOW RADIO ONLINE",
 "image": "https://www.tvjaa.com/storage/radio-channels/wowradio.png",
 "url": "https://radio14.plathong.net/7072/;stream.mp3",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -405,6 +416,7 @@
 "name": "📻 รักไทยลูกทุ่ง",
 "image": "https://www.tvjaa.com/storage/radio-channels/rukthailooktung.png",
 "url": "https://radio11.plathong.net/8896/;stream.mp3",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -413,6 +425,7 @@
 "name": "📻 SukSon เพลงไทยสากล",
 "image": "https://www.tvjaa.com/storage/radio-channels/sukson.png",
 "url": "https://stream.pjcdn.com:9000/SuksonRadio",
+"info": "TH_EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -421,6 +434,7 @@
 "name": "📻 SukSon เพลงสากล",
 "image": "https://www.tvjaa.com/storage/radio-channels/sukson.png",
 "url": "https://stream.pjcdn.com:8000/1;&amp;type=mp3",
+"info": "EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -429,6 +443,7 @@
 "name": "📻 SukSon เพลงลูกทุ่ง",
 "image": "https://www.tvjaa.com/storage/radio-channels/sukson.png",
 "url": "https://stream.pjcdn.com:8200/1;&amp;type=mp3",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
 "playInNatPlayer": "true"
@@ -437,6 +452,7 @@
 "name": "PASSION FM",
 "image": "https://onair.one/wp-content/uploads/2025/08/47rrdQ6k9B-560x560.jpg",
 "url": "https://media.onair.one/8170/my/;",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -444,13 +460,7 @@
 "name": "FM 89 I AM RADIO",
 "image": "https://onair.one/wp-content/uploads/2024/11/FM89LOPBURI-560x560.jpg",
 "url": "https://media.onair.one:8030/fm89",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "FM 89.5 RADIO THAILAND",
-"image": "https://onair.one/wp-content/uploads/2025/09/RADIOTH-895-560x560.jpg",
-"url": "https://www.radio-thai.com/swthsngkhlaa-fm-895-mhz-radiothailand",
+"info": "EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -458,13 +468,7 @@
 "name": "FM 89.5 , FM 92 ดนตรีสีสัน",
 "image": "https://onair.one/wp-content/uploads/2025/09/linerichmessage-onair-media-g-560x560.jpg",
 "url": "https://media.onair.one:8170/radio.mp3",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "FM 89.75",
-"image": "https://onair.one/wp-content/uploads/2024/11/8975-10625-8975-560x560.jpg",
-"url": "https://media.onair.one/8010/8975/;",
+"info": "EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -472,19 +476,15 @@
 "name": "FM 90.25 CITY RADIO",
 "image": "https://onair.one/wp-content/uploads/2025/02/linerichmessage-492-560x560.jpg",
 "url": "https://link.cityradiopattaya.com/8200/1/;",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "📻  FM 90.5 RADIO THAILAND",
-"image": "https://onair.one/wp-content/uploads/2025/09/RADIOTH-905-560x560.jpg",
-"url": "https://live1.smartbomb.co.th/live",
-"audio": "true"
 },
 {
 "name": "📻  FM 91 PATTAYA MUNDEE",
 "image": "https://onair.one/wp-content/uploads/2024/11/444489281_1018338006529927_3971246088966105095_n-560x560.jpg",
 "url": "https://link.cityradiopattaya.com/8100/OBdirect/;",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -492,6 +492,7 @@
 "name": "📻  FM 93 LOVE RADIO",
 "image": "https://onair.one/wp-content/uploads/2024/11/274166638_4842453472489815_8662340256238586135_n-560x560.jpg",
 "url": "https://media.onair.one:8090/onair",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -499,6 +500,7 @@
 "name": "📻  FM 94 FMCLUB",
 "image": "https://onair.one/wp-content/uploads/2024/11/linerichmessage-560x560.jpg",
 "url": "https://media.onair.one:8130/94fmclub",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -506,6 +508,7 @@
 "name": "📻  FM 98 YALA",
 "image": "https://onair.one/wp-content/uploads/2024/11/FM98-YALA-560x560.jpg",
 "url": "https://a.hostpleng.cloud/9098/stream",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -513,6 +516,7 @@
 "name": "📻  FM 98 Dongtan Beach",
 "image": "https://onair.one/wp-content/uploads/2026/01/10225-560x560.jpg",
 "url": "https://media.onair.one:8030/98",
+"info": "TH_EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -520,6 +524,7 @@
 "name": "📻  จส.100",
 "image": "https://onair.one/wp-content/uploads/2024/11/d26a29ccd8ab4c0c0e1590f4272ea9cb_full.png",
 "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8510",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -527,13 +532,7 @@
 "name": "📻  FM 106 วิทยุครอบครัวข่าว",
 "image": "https://onair.one/wp-content/uploads/2024/11/363359382_1024167925604080_901920639986926123_n-560x560.jpg",
 "url": "https://radio11.plathong.net/7138/;stream.mp3",
-"audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-},
-{
-"name": "📻  FM 106 APPLE RADIO",
-"image": "https://onair.one/wp-content/uploads/2025/03/AppleRadio-106-560x560.jpg",
-"url": "https://80.hostpleng.com/api.php?url=http://112.121.150.133:8340/;",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -541,6 +540,7 @@
 "name": "📻  FM 106.25",
 "image": "https://onair.one/wp-content/uploads/2024/11/8975-10625-10625-560x560.jpg",
 "url": "https://media.onair.one/8010/10625/;",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -548,6 +548,7 @@
 "name": "📻  FM 107.75 INDY FM",
 "image": "https://onair.one/wp-content/uploads/2024/11/420954825_895023462631325_2047824488494027012_n.jpg",
 "url": "https://media.onair.one:8010/STUINDY.mp3",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -555,6 +556,7 @@
 "name": "📻  PASSION AM",
 "image": "https://onair.one/wp-content/uploads/2024/11/content_1_bg_sd_20240910_032824-560x540.jpg",
 "url": "https://media.onair.one:8170/am",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -562,6 +564,7 @@
 "name": "📻  SUNSHINE RADIO THAILAND",
 "image": "https://onair.one/wp-content/uploads/2024/11/sunshine-logo.jpg",
 "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8030",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -569,6 +572,7 @@
 "name": "📻  FM 88 MHz วิทยุ มอ.หาดใหญ่",
 "image": "https://onair.one/wp-content/uploads/2025/08/488248582_1301952425041915_7441289878781400160_n-560x560.jpg",
 "url": "https://media.onair.one:8120/stream/1/",
+"info": "TH_EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -576,6 +580,7 @@
 "name": "📻  Thai Weather Radio",
 "image": "https://onair.one/wp-content/uploads/2025/04/ThaiWeatherRadio-560x560.jpg",
 "url": "http://www.radio.tmd.go.th:8014/;stream.mp3",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -583,6 +588,7 @@
 "name": "📻  ดนตรีสีสัน",
 "image": "https://onair.one/wp-content/uploads/2025/02/305561011_754459848848515_1540767025656647185_n-1-560x560.jpg",
 "url": "https://80.hostpleng.com/api.php?url=http://112.121.150.133:9102/;",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -590,6 +596,7 @@
 "name": "📻  95 TheSPOT FM",
 "image": "https://www.audacy.com/media-library/95-7-the-spot.png?id=67604141&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
 "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/ce7b352b-a993-4451-8c9c-9c6e615402f8",
+"info": "EN-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -597,6 +604,7 @@
 "name": "📻  FM 91 TRAFFIC PRO",
 "image": "https://s.isanook.com/ns/0/ud/344/1721249/588192-01.jpg",
 "url": "https://www.fm91bkk.com:8900/;stream.mp3",
+"info": "TH-NEWS",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
@@ -604,6 +612,7 @@
 "name": "📻  AM 1098 kHz",
 "image": "https://static2.mytuner.mobi/media/tvos_radios/sy4yxmzajuhv.jpg",
 "url": "https://www.fm91bkk.com:9170/stream.mp3",
+"info": "TH-Music",
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
