@@ -1165,87 +1165,989 @@
     },
    ]
   },
-    {
+{
   "name": "🖕Free🖕 TV",
   "author": "🤜Akaraphisit🤛",
   "image": "file:///C:/Users/DELL/Downloads/Copilot_20260820_104909.png",
-  "info": "Updated: 2026-08-09 13:29:01",
+  "info": "20/08/2569",
+  "groups": [
+{
+  "name": "Thai Channels",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://kicksball.com/assets/img/logo.png",
+  "info": "",
   "stations": [
 {
-name:"ดิจิตอล ทีวี",
-"image": "https://i.pinimg.com/originals/4c/71/07/4c7107675eece5e59e1b199bd986ea96.gif",
-"url": "https://pastebin.com/edit/Dv6peBhT",
-"import": false
+"name": "7 HD",
+"image": "https://madoball.com/upload/7161.jpg",
+"url": "https://godlivetv.io/madoball/7161/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
 },
 {
-"name": "สารคดี",
-"image": "https://media.tenor.com/EjRV8J7h9AwAAAAC/screaming-yelling.gif",
-"url": "https://pastebin.com/NGtb9bQv",
-"import": false
+"name": "Amarin TV",
+"image": "https://madoball.com/upload/6328.jpg",
+"url": "https://godlivetv.io/madoball/6328/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
 },
 {
-"name": "สำหรับเด็ก",
-"image": "https://i.pinimg.com/originals/a5/98/d4/a598d4fc4118f5ea0cb49e2c9a34524d.gif",
-"url": "https://pastebin.com/uN1iCwdY",
-"import": false
+"name": "CH 8",
+"image": "https://madoball.com/upload/497.jpg",
+"url": "https://godlivetv.io/madoball/497/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
 },
 {
-"name": "ความบันเทิง",
-"image": "https://media.tenor.com/9ZWjmQ2HKt0AAAAM/uncapped-speed-unlimited-internet.gif",
-"url": "https://pastebin.com/Dm4gvQbK",
-"import": false
+"name": "MCOT HD",
+"image": "https://madoball.com/upload/6332.jpg",
+"url": "https://godlivetv.io/madoball/6332/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
 },
 {
-"name": "ช่องกีฬา",
-"image": "https://i.pinimg.com/originals/c7/ae/06/c7ae0615b9d39b2837dddfd98e63e42c.gif",
-"url": "https://pastebin.com/EzLtaJQL",
-"import": false
+"name": "Nation",
+"image": "https://madoball.com/upload/6339.jpg",
+"url": "https://godlivetv.io/madoball/6339/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
 },
 {
-"name": "ช่องหนังสด",
-"image": "https://media.giphy.com/avatars/entertainment/Poc7fb6dD9q5.gif",
-"url": "https://pastebin.com/1FAkWAwh",
-"import": false
+"name": "NBT Channel",
+"image": "https://madoball.com/upload/1450.jpg",
+"url": "https://godlivetv.io/madoball/1450/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
 },
 {
-"name": "ช่องหนังสด2",
-"image": "https://media.giphy.com/avatars/entertainment/Poc7fb6dD9q5.gif",
-"url": "https://pastebin.com/RFmHHceA",
-"import": false
+"name": "PPTV HD",
+"image": "https://madoball.com/upload/1664.jpg",
+"url": "https://godlivetv.io/madoball/1664/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
 },
 {
-"name": "♥ 🇹🇭 PLAYIDTV 🇹🇭♥",
-"image": "https://www.dropbox.com/scl/fi/xvw2bqbzujchf29d7rx25/playidtv.png?rlkey=heovtlesb3cjb7br7rp28a7em&dl=1",
-"url": "http://tiny.cc/playidtv",
-"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
-"import": false
+"name": "Thai PBS",
+"image": "https://madoball.com/upload/1698.jpg",
+"url": "https://godlivetv.io/madoball/1698/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
 },
 {
-"name": "G U F L I X",
-"image":"https://i.giphy.com/media/h3p1BVGKePaxmiAKjp/giphy.webp",
-"url": "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8",
-"import": false
+"name": "TNN 16",
+"image": "https://madoball.com/upload/6345.jpg",
+"url": "https://godlivetv.io/madoball/6345/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
 },
 {
-"name": "ห้องอัพเดทรวมมิตร",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/800px-Netflix_logo.svg.png",
-"url": "https://drive.google.com/uc?id=1LQGJ00xgViERZ1puobKD0JsWZR1mfoqG",
-"import": "false"
+"name": "TPTV",
+"image": "https://madoball.com/upload/430.jpg",
+"url": "https://godlivetv.io/madoball/430/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
 },
 {
-"name":"ขอมา",
-"image":"https://f.ptcdn.info/120/018/000/1398244037-1398094626-o.gif",
-"url":"https://drive.google.com/uc?export=download&id=10Iq7rcSByGdJKM8eaN4xZaTHvX1EGI6k",
-"import":"false"
+"name": "True4U",
+"image": "https://madoball.com/upload/6337.jpg",
+"url": "https://godlivetv.io/madoball/6337/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
 },
 {
-"name": "หนังที่อื่นๆ",
-"image":"https://media0.giphy.com/media/SqqUPmYQswWBA7712R/200w.gif?cid=6c09b952n9rgqcgfgub5oda98953v3kobd2u43xajw5scaw7&ep=v1_gifs_search&rid=200w.gif&ct=g",
-"url": "https://pastebin.com/1KSUukK0",
-"import": false
-    },
-   ]
-  },
+"name": "Workpoint TV",
+"image": "https://madoball.com/upload/6335.jpg",
+"url": "https://godlivetv.io/madoball/6335/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ของดีประเทศไทย",
+"image": "https://madoball.com/upload/716.jpg",
+"url": "https://godlivetv.io/madoball/716/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ช่อง 3 HD",
+"image": "https://madoball.com/upload/7348.jpg",
+"url": "https://godlivetv.io/madoball/7348/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ช่อง 5 HD",
+"image": "https://madoball.com/upload/7347.jpg",
+"url": "https://godlivetv.io/madoball/7347/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ไทยรัฐ TV HD",
+"image": "https://madoball.com/upload/6330.jpg",
+"url": "https://godlivetv.io/madoball/6330/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "สำรวจโลก",
+"image": "https://madoball.com/upload/563.jpg",
+"url": "https://godlivetv.io/madoball/563/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "สุวรรณภูมิทีวี",
+"image": "https://madoball.com/upload/1243.jpg",
+"url": "https://godlivetv.io/madoball/1243/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM 25",
+"image": "https://madoball.com/upload/6336.jpg",
+"url": "https://godlivetv.io/madoball/6336/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "One Channel",
+"image": "https://madoball.com/upload/461.jpg",
+"url": "https://godlivetv.io/madoball/461/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+{
+  "name": "ข่าวสาร (News)",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://kicksball.com/assets/img/logo.png",
+  "info": "",
+  "stations": [
+{
+"name": "BBC World News",
+"image": "https://madoball.com/upload/6638.jpg",
+"url": "https://godlivetv.io/madoball/6638/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bloomberg",
+"image": "https://madoball.com/upload/2814.jpg",
+"url": "https://godlivetv.io/madoball/2814/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "CBS News",
+"image": "https://madoball.com/upload/3026.jpg",
+"url": "https://godlivetv.io/madoball/3026/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Channel NewsAsia",
+"image": "https://madoball.com/upload/433.jpg",
+"url": "https://godlivetv.io/madoball/433/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "CNN",
+"image": "https://madoball.com/upload/6639.jpg",
+"url": "https://godlivetv.io/madoball/6639/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "DW News",
+"image": "https://madoball.com/upload/2145.jpg",
+"url": "https://godlivetv.io/madoball/2145/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX Business",
+"image": "https://madoball.com/upload/7839.jpg",
+"url": "https://godlivetv.io/madoball/7839/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX NEWS",
+"image": "https://madoball.com/upload/9196.jpg",
+"url": "https://godlivetv.io/madoball/9196/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "France 24",
+"image": "https://madoball.com/upload/394.jpg",
+"url": "https://godlivetv.io/madoball/394/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEWS1",
+"image": "https://madoball.com/upload/408.jpg",
+"url": "https://godlivetv.io/madoball/408/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "RT News",
+"image": "https://madoball.com/upload/1497.jpg",
+"url": "https://godlivetv.io/madoball/1497/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Top News",
+"image": "https://madoball.com/upload/1730.jpg",
+"url": "https://godlivetv.io/madoball/1730/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TV5MONDE",
+"image": "https://madoball.com/upload/1404.jpg",
+"url": "https://godlivetv.io/madoball/1404/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TV5MONDE",
+"image": "https://madoball.com/upload/1404.jpg",
+"url": "https://godlivetv.io/madoball/1404/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+{
+  "name": "ภาพยนตร์ (Movies)",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://kicksball.com/assets/img/logo.png",
+  "info": "",
+  "stations": [
+{
+"name": "3BB Asian",
+"image": "https://madoball.com/upload/2821.jpg",
+"url": "https://godlivetv.io/madoball/2821/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Rama Channel",
+"image": "https://madoball.com/upload/1642.jpg",
+"url": "https://godlivetv.io/madoball/1642/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Rama Channel",
+"image": "https://madoball.com/upload/1873.jpg",
+"url": "https://godlivetv.io/madoball/1873/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": " True Asian More",
+"image": "https://madoball.com/upload/1873.jpg",
+"url": "https://godlivetv.io/madoball/1873/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Celestial Classic Movies",
+"image": "https://madoball.com/upload/1913.jpg",
+"url": "https://godlivetv.io/madoball/1913/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "CINEMAX",
+"image": "https://madoball.com/upload/2815.jpg",
+"url": "https://godlivetv.io/madoball/2815/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO",
+"image": "https://madoball.com/upload/2820.jpg",
+"url": "https://godlivetv.io/madoball/2820/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO Family",
+"image": "https://madoball.com/upload/2816.jpg",
+"url": "https://godlivetv.io/madoball/2816/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO Hits",
+"image": "https://madoball.com/upload/2819.jpg",
+"url": "https://godlivetv.io/madoball/2819/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO Signature",
+"image": "https://madoball.com/upload/2818.jpg",
+"url": "https://godlivetv.io/madoball/2818/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": " True Film 1",
+"image": "https://madoball.com/upload/1877.jpg",
+"url": "https://godlivetv.io/madoball/1877/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Film Asia",
+"image": "https://madoball.com/upload/1915.jpg",
+"url": "https://godlivetv.io/madoball/1915/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Movie Hits",
+"image": "https://madoball.com/upload/1875.jpg",
+"url": "https://godlivetv.io/madoball/1875/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Thai Film",
+"image": "https://madoball.com/upload/1874.jpg",
+"url": "https://godlivetv.io/madoball/1874/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "AXN HD",
+"image": "https://madoball.com/upload/2650.jpg",
+"url": "https://godlivetv.io/madoball/2650/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cool Channel",
+"image": "https://madoball.com/upload/1416.jpg",
+"url": "https://godlivetv.io/madoball/1416/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Rock Entertainment",
+"image": "https://madoball.com/upload/2929.jpg",
+"url": "https://godlivetv.io/madoball/2929/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ROCK X Stream",
+"image": "https://madoball.com/upload/261622.jpg",
+"url": "https://godlivetv.io/madoball/261622/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Series",
+"image": "https://madoball.com/upload/1916.jpg",
+"url": "https://godlivetv.io/madoball/1916/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True X-Zyte",
+"image": "https://madoball.com/upload/2056.jpg",
+"url": "https://godlivetv.io/madoball/2056/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Warner TV",
+"image": "https://madoball.com/upload/2739.jpg",
+"url": "https://godlivetv.io/madoball/2739/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Warner TV",
+"image": "https://madoball.com/upload/2739.jpg",
+"url": "https://godlivetv.io/madoball/2739/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+{
+  "name": "การ์ตูน (Cartoon)",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://kicksball.com/assets/img/logo.png",
+  "info": "",
+  "stations": [
+{
+"name": "ช่อง Boom",
+"image": "https://cdn.madoball.com/upload/8999.jpg",
+"url": "https://godlivetv.io/madoball/8999/chunks.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ช่อง CN",
+"image": "https://cdn.madoball.com/upload/8007.jpg",
+"url": "https://godlivetv.io/madoball/8007/chunks.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoonito",
+"image": "https://cdn.madoball.com/upload/477.jpg",
+"url": "https://godlivetv.io/madoball/477/chunks.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoonito",
+"image": "https://cdn.madoball.com/upload/477.jpg",
+"url": "https://godlivetv.io/madoball/477/chunks.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+{
+  "name": "บันเทิง (Entertainment)",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://kicksball.com/assets/img/logo.png",
+  "info": "",
+  "stations": [
+{
+"name": "Fashion TV",
+"image": "https://madoball.com/upload/1418.jpg",
+"url": "https://godlivetv.io/madoball/1418/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ITV1",
+"image": "https://madoball.com/upload/8738.jpg",
+"url": "https://godlivetv.io/madoball/8738/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ITV2",
+"image": "https://madoball.com/upload/8737.jpg",
+"url": "https://godlivetv.io/madoball/8737/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ITV3",
+"image": "https://madoball.com/upload/8736.jpg",
+"url": "https://godlivetv.io/madoball/8736/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ITV4",
+"image": "https://madoball.com/upload/8735.jpg",
+"url": "https://godlivetv.io/madoball/715/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+{
+  "name": "สารคดี (Documentary)",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://kicksball.com/assets/img/logo.png",
+  "info": "",
+  "stations": [
+{
+"name": "Thainess TV",
+"image": "https://madoball.com/upload/715.jpg",
+"url": "https://godlivetv.io/madoball/715/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Animal Show",
+"image": "https://madoball.com/upload/710.jpg",
+"url": "https://godlivetv.io/madoball/710/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Asian Food Network",
+"image": "https://madoball.com/upload/1854.jpg",
+"url": "https://godlivetv.io/madoball/1854/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "BBC Lifestyle",
+"image": "https://madoball.com/upload/1689.jpg",
+"url": "https://godlivetv.io/madoball/1689/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Asia",
+"image": "https://madoball.com/upload/1606.jpg",
+"url": "https://godlivetv.io/madoball/1606/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Discovery Channel",
+"image": "https://madoball.com/upload/1546.jpg",
+"url": "https://godlivetv.io/madoball/1546/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "DreamWorks",
+"image": "https://madoball.com/upload/2347.jpg",
+"url": "https://godlivetv.io/madoball/2347/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Food Network",
+"image": "https://madoball.com/upload/1845.jpg",
+"url": "https://godlivetv.io/madoball/1845/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "History Channel",
+"image": "https://madoball.com/upload/1667.jpg",
+"url": "https://godlivetv.io/madoball/1667/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mysci",
+"image": "https://madoball.com/upload/555.jpg",
+"url": "https://godlivetv.io/madoball/555/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TLC",
+"image": "https://madoball.com/upload/1496.jpg",
+"url": "https://godlivetv.io/madoball/1496/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Explore SCI",
+"image": "https://madoball.com/upload/722.jpg",
+"url": "https://godlivetv.io/madoball/722/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Explore WILD",
+"image": "https://madoball.com/upload/740.jpg",
+"url": "https://godlivetv.io/madoball/740/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+{
+  "name": "อื่นๆ (Others)",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://kicksball.com/assets/img/logo.png",
+  "info": "",
+  "stations": [
+{
+"name": "ABC Australia",
+"image": "https://madoball.com/upload/1600.jpg",
+"url": "https://godlivetv.io/madoball/1600/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Boomerang",
+"image": "https://madoball.com/upload/8999.jpg",
+"url": "https://godlivetv.io/madoball/8999/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Network",
+"image": "https://madoball.com/upload/8007.jpg",
+"url": "https://godlivetv.io/madoball/8007/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoonito",
+"image": "https://madoball.com/upload/477.jpg",
+"url": "https://godlivetv.io/madoball/477/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "CCTV-4",
+"image": "https://madoball.com/upload/402.jpg",
+"url": "https://godlivetv.io/madoball/402/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nick Jr.",
+"image": "https://madoball.com/upload/2875.jpg",
+"url": "https://godlivetv.io/madoball/2875/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nickelodeon",
+"image": "https://madoball.com/upload/2029.jpg",
+"url": "https://godlivetv.io/madoball/2029/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+{
+  "name": "กีฬา (Sports)",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://kicksball.com/assets/img/logo.png",
+  "info": "",
+  "stations": [
+{
+"name": "beIN SPORTS 1",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_PyrctBzJXoHDlq5jdlXFnTct1d_JS4hsee6EZRI8Ag&s=10",
+"url": "https://godlivetv.io/madoball/7424/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 2",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url": "https://godlivetv.io/madoball/7423/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"url": "https://godlivetv.io/madoball/7422/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqwQfDeq2f0Bsohz1AVrmqdSRJdhSCIbe0jXjapAMWZg&s",
+"url": "https://godlivetv.io/madoball/1368/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "MUTV",
+"image": "https://play-lh.googleusercontent.com/rBIE5pQPXoPDXackrRYt82mFKcrwx5adsj8yb9vb9YvrGymtEy6AgREL3M8n3swxzyc1SyEJLzNB-BJmznt6lw",
+"url": "https://godlivetv.io/madoball/1239/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 41",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1485/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 55",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1484/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 57",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1441/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 61",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1482/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 62",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1481/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 64",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1438/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 66",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1479/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 67",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1437/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 69",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1478/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 71",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1477/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 73",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1475/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 74",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1433/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Play Sports 90",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlZdUx7HawvA0saHYji2Zu0euftq6ZOf5saUToSkkYxl0Pt3Dap6aFLg&s=10",
+"url": "https://godlivetv.io/madoball/1436/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Realmadrid TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ez6zkPIvS_jwbYnADjh6rnLvWP5k9ABnx6xkKqHILG2yE_8EjijLuF8D&s=10",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "RED BULL",
+"image": "https://img.redbull.com/images/c_limit,w_4000/e_trim:1:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_900,h_600/bo_5px_solid_rgb:00000000/q_auto:best,f_auto/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv",
+"url": "https://godlivetv.io/madoball/1373/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "T Sport Channel",
+"image": "https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",
+"url": "https://godlivetv.io/madoball/435/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 1",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png",
+"url": "https://godlivetv.io/madoball/2892/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 2",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+"url": "https://godlivetv.io/madoball/2891/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 3",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",
+"url": "https://godlivetv.io/madoball/2890/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 4",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.png",
+"url": "https://godlivetv.io/madoball/2889/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 5",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png",
+"url": "https://godlivetv.io/madoball/2888/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 7",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",
+"url": "https://godlivetv.io/madoball/2829/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Tennis",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
+"url": "https://godlivetv.io/madoball/2101/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Tennis",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png",
+"url": "https://godlivetv.io/madoball/2101/playlist.m3u8",
+"referer": "https://madoball.com",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+]
+},
     {
       "name": "Digital TV",
       "url": "https://drive.google.com/uc?id=1f_LQQ37QKOylQ1SCBYiJPCPP7G5xzVcR",
