@@ -1,85 +1,606 @@
-#EXTM3U
-
-# ==================================================
-#                       MV
-# ==================================================
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTUOasjuvVBivxzBpqHIIN5g1CzC5iwaHWwzcMa3PmQ&s=10" group-title="MV" duration="-1",Green Wave 105.5 FM LIVE
-https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Ck8sVEmWdv.jpeg" group-title="MV" duration="-1",EFM 94 LIVE
-https://atimehd.smartclick.co.th/efm/hls/efm.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="MV" duration="-1",TRACE URBAN LIVE
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/901573.webp" group-title="MV" duration="-1",TRACE LATINA LIVE
-https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/901235.webp" group-title="MV" duration="-1",TRACE UK LIVE
-https://amg01131-tracetv-amg01131c5-plex-us-4388.playouts.now.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://www.juicetv.live/assets/global-assets/juicetv-social-v3.png" group-title="MV" duration="-1",About Juice TV LIVE
-https://juicex.nz/hls/mystream.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l7EU-QKiy38qkLmNlbbqKTAKfsVahcQy8vicsv9-Ic0qA=s900-c-k-c0x00ffffff-no-rj" group-title="MV" duration="-1",RITSA TV LIVE
-https://vsd68.okcdn.ru/hls/16435944098518.m3u8/sig/dzc83YSceK8/expires/1784774200944/srcIp/104.23.172.95/urls/185.226.55.87/clientType/0/srcAg/CHROME/mid/15065312337622/16435944098518_medium/index.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/original/901635.webp" group-title="MV" duration="-1",THAT'S 90S & 00S LIVE
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb543d1c7e6c678884cb3f67cef341a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59641c1dd1cbfd28208834b837ef1099c93a68ace4180d3c57efb02ba675e0a74289bd82991fb40dca8f29ad99e0b4a7236178e979bff47308749472e9795a99e568fd84a1447fb0416a8099935f558769ba87bccd146a9b9a8de4c5435abcf19144f5b15a2f8996366c70dcbaae0c9607d97e318774c830ab2477d6dc0ad9b46c7ab81f5c76d1af5f48b8d90b13c7bb56d9e92c0b46ad649ebd4fd9972604f6d03098956983d0cb134f077b2c71f2d5d0211e3ca158cb1d050346d5895c070e0534ae995dbd89f3932c4364f01a8788f0f4c2ced247c70e01afc9817659d695fd66273a80e75c869d48c01d9eb9be90f30b09ee047fc64e0fc4af1fe10a660391653e6a2620f0b1c3380ae550c3678d14cab8699b6395a56acd2c9f98f026d5777471c5cc5b29505f1e4f7201312ce443520254065f12ae2298e500750548674ba81007797093222e0b34d34776595dabe9288d0de3edb5ad7c8f879627b6e6ab3370a317d91d1a95cee335f716a57e1578422489cbaf18c365b0e82a45fed4d909f3c10e63e7298/8/1920x1080_4716800/index.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/901479.jpg" group-title="MV" duration="-1",EDM MAINSTAGE DANCE TV LIVE
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/original/900991.jpg" group-title="MV" duration="-1",CITY TV LIVE
-https://tv.city.bg/play/tshls/citytv/1.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/900857.webp" group-title="MV" duration="-1",MTV LIVE USA LIVE
-https://mtv.hach.workers.dev/?url=http%3A%2F%2F23-237-104-106.nip.io%3A8080%2FUSA_MTV_LIVE%2Ftracks-v1a1%2Fmono.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/600611.webp" group-title="MV" duration="-1",MCM TOP LIVE
-https://edge08-alm.beetv.kz/bpk-token/4an@1biq0terbbkpcgtefxlj0qavhroacu4e1dgabqba/bpk-tv/000000327/tve/000000327-audio_82882_rus=82400-video=2137600.m3u8
-i
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/900780.webp" group-title="MV" duration="-1",VEVO
-https://amg00056-vevotv-vevopopau-samsungau-6lt65.amagi.tv/ts-us-w2-n2/playlist/amg00056-vevotv-vevopopau-samsungau/cb563d1e7a6c648e92d43878d1f062eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5cad6852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c40d872a1af1c56953d51b1854bcadc14bcd3c9539b4ad76bf015cb93ed828510d39b9061ae50b631595a2325c0824b87a32fde297a6b43fe4500047661eea29af24f3282352c369adef8cfae7b8eacf341a0733eba7af52762cd8819cd2ba6ef49aba2b09d3329dd59c6290376f09fc7a8fa3b34b669f0e88eb7162dc9a54728158b05b253740fab2c14f8cfe36c3a388a26962824188afd648894b3cccdb1834d972ac1fd53f9575f636c1e0b8a51a3d53895799d309fc71d25535a57edb46184d7891060390fb18950824740f9c3ddd7964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebae54482b852e73d7c6a03b5f33e560a192e87a0355b705cc742ab829fb139594ebcb99d8cb5395230301956039cf1a721cbfca7072956900368300e5f7dff29df6acd0f5a0f28dd6cba81007797093222e0b345337f6891cdf1ccc7e1c34ab170c4dcbf5e0b3e4a68a93c152c0d82e7dfb99cadff9fc93b42963c3dc9b4761917dc37e5d6874459/112/1920x1080_7333040/index.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/900780.webp" group-title="MV" duration="-1",VEVO-R&B
-https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/900780.webp" group-title="MV" duration="-1",VEVO-POP UK
-https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/1080p/index.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/original/901135.webp" group-title="MV" duration="-1",MTV CLUB
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=51040&token=360ceb551637d3d62e7a955ee04ac686&server=v2.catcast.tv
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/medium/900491.webp" group-title="MV" duration="-1",IMPACT TV Dance
-https://online.tvimpact.live/hls/dancetv.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://ritsatv.ru/files/poster/original/901515.webp" group-title="MV" duration="-1",MUSIC BOX HITS
-https://vkvsd62.okcdn.ru/cmaf/6083717368449/sig/g4ytyKdWnSw/srcIp/223.24.201.213/urls/185.180.203.107/expires/1785173034394/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/6800584223617/id/6083717368449/get/dash_6800584223617.xiRWvUrv8tM.mpd
-
-# ==================================================
-#                      Radio
-# ==================================================
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/187/musichitz-radio-inter.1312996b.jpg" group-title="Radio" duration="-1",Musichitz Inter LIVE
-https://free.rcast.net/71036
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/369/met-107-fm.e754f3fd.jpg" tvg-info="Sound Track" group-title="Radio" duration="-1",Met 107 FM Music
-https://eb27a17z.mcot.net/FM107/fm107.stream_aac/playlist.m3u8
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fANqGSV3WH.png" group-title="Radio" duration="-1",MUNforward Xtra Music
-https://cdn-th2.livestreaming.in.th/shoutcast/8795
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/radios-150px/yevk8f78cyqr.jpeg" group-title="Radio" duration="-1",FLEX 104.5 FM Music
-https://radio10.plathong.net/7228/;stream.mp3
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7t8tsnDj3V.png"Radio" duration="-1",104 Green FM Music
-https://radio14.plathong.net/7072/;stream.mp3
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/168/top-view-point-radio.7c74e932.png" group-title="Radio" duration="-1",Top Viewpoint Radio 93.75 Music
-https://radio9.plathong.net/7146/;stream.mp3
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://bangkok.fm/assets/logo-bangkokfm-white-dp3-G7l2.png" group-title="Radio" duration="-1",Bangkok FM Music
-https://audio-edge-fvq45.ams.d.radiomast.io/b4328177-eee1-4fb1-8b28-94009a331613
-
-#EXTINF:-1 tvg-id="🎦ⓈⓅⒶⒸⒺ🎦" tvg-name="🤜Akaraphisit🤛" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png" tvg-info="Thai" group-title="Radio" duration="-1",COOL fahrenheit FM 93 Music
-https://coolism-web.cdn.byteark.com/;stream/1
+{
+"name": "MV-Radio",
+"author": "🤜Akaraphisit🤛",
+"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+"groups": [
+{
+"name": "MV OFFICIAL",
+"author": "🤜Akaraphisit🤛",
+"image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVnb2x2cng3MHA5dXJrNm1idjN4dzMwaHdvc25zbnBncmNodnQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/5N3qXsEjoq8ewKOUdA/giphy.gif",
+"stations": [
+{
+"name": "NOW 90s & 00s",
+"image": "https://ritsatv.ru/files/poster/medium/901391.webp",
+"url": "https://ritsatv.ru/movie-id901391-now-90s-and-00s",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "MUVI TV",
+"image": "https://ritsatv.ru/files/poster/original/901221.webp",
+"url": "https://ritsatv.ru/movie-id901221-muvi-tv",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "DLX FLASHBACK",
+"image": "https://ritsatv.ru/files/poster/medium/900882.webp",
+"url": "https://ritsatv.ru/movie-id900882-dlx-flashback",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "AIVA TV",
+"image": "https://ritsatv.ru/files/poster/medium/900227.webp",
+"url": "https://ritsatv.ru/movie-id900227-aiva-tv",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "DANCESTAR TV",
+"image": "https://ritsatv.ru/files/poster/original/901036.jpg",
+"url": "https://ritsatv.ru/movie-id901036-dancestar-tv",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "DTR MUSIC 1",
+"image": "https://ritsatv.ru/files/poster/medium/901532.webp",
+"url": "https://ritsatv.ru/movie-id901532-dtr-music-1",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "DEEJAY TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqetQA1nC9PFOrLoycenVEMnU10UfSp17K98MB-V-IPVSMMHlRxzJsUgt&s=10",
+"url": "https://ritsatv.ru/movie-id900177-deejay-tv",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "VEVO",
+"image": "https://ritsatv.ru/files/poster/medium/900780.webp",
+"url": "https://ritsatv.ru/movie-id900780-vevo",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "MTV CLUB",
+"image": "https://www.google.com/search?sca_esv=cf5c3a640caff83a&sxsrf=APpeQnsYZiuq6HfqKZwm3DNtQfGjXJ5nFQ:1787132610920&udm=2&fbs=ABfTbFVkyDUjCfwCB9ISJfkKUSCKrKfBRLs4ApEVUt55-vjs0oVSGIsktlnu_QJ5QRaPb9dcUmFGiaXy8D4AAg-73bVD-zH0mNj1NWpGd4pxnMAItOjaChzFC_huDLTr_Zn-Xtcn8oiU5Eq4zewcL1aqGzAV--FRKUdCQFwTb0GoFsaCHgHKSpAtV3nEUsgZbHrldO8F03gDRBkDq8fFsa0XVojtf4I0JfpKXdSzXzYTfc3jjUPw906I_EN-RLi_wfTBeUCEprbQxbRvla4k1it_YpaW0V1oEozI5YiVroxoHvWLEqLtoOw&q=MTV+CLUB&sa=X&ved=2ahUKEwi0z8Ljs6yWAxWrzzkIHYqzIl8QtKgLegQIIhAB&biw=1592&bih=742&dpr=1",
+"url": "https://ritsatv.ru/movie-id901135-mtv-club",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "MTV 90",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcK6XMIekrG8fYEm3Gxng7BmsY7lEs6KnI7QZYLJgcNQ&s=10",
+"url": "https://ritsatv.ru/movie-id900284-mtv-90",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "MTV 00'S",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIyHGv6YIgs2aINhQqIqY4zL-7NkEYzubzgJRD0UhcgQ&s",
+"url": "https://ritsatv.ru/movie-id900857-mtv-live-usa",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "MTV USA",
+"image": "https://ritsatv.ru/files/poster/medium/900857.webp",
+"url": "https://ritsatv.ru/movie-id900123-mtv-00s",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "MTV LIVE USA LIVE",
+"image": "https://ritsatv.ru/files/poster/original/901212.webp",
+"url": "https://ritsatv.ru/movie-id901212-mtv-usa",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "CITY TV",
+"image": "https://upload.wikimedia.org/wikipedia/en/b/b4/City_tv_bulgaria.gif",
+"url": "https://ritsatv.ru/movie-id900991-city-tv",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRACE LATINA",
+"image": "https://upload.wikimedia.org/wikipedia/fr/0/06/Tracelatina2022.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+"url": "https://ritsatv.ru/movie-id901573-trace-latina",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRACE URBAN LIVE",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",
+"url": "https://ritsatv.ru/movie-id901233-trace-urban",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRACE UK LIVE",
+"image": "https://ritsatv.ru/files/poster/medium/901235.webp",
+"url": "https://ritsatv.ru/movie-id901235-trace-uk",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "MUSIC BOX CLASSIC",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPH3sBavQXQOkGfq8Vt0UrTLvN2TLVWUY6ZiURc5wFwQ&s=10",
+"url": "https://ritsatv.ru/movie-id901514-music-box-classic",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "VIVA TV HITS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJdh8mez5Vsus4WMnVT_zvJB7J-tpZQYXZkH0HMSZ1w&s",
+"url": "https://ritsatv.ru/movie-id901046-viva-tv-hits",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "RITSA TV",
+"image": "https://yt3.googleusercontent.com/ytc/AIdro_l7EU-QKiy38qkLmNlbbqKTAKfsVahcQy8vicsv9-Ic0qA=s900-c-k-c0x00ffffff-no-rj",
+"url": "https://ritsatv.ru/movie-id900777-ritsa-tv",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "THAT'S 90S & 00S LIVE",
+"image": "https://ritsatv.ru/files/poster/original/901635.webp",
+"url": "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb543d1c7e6c678884cb3f67cef341a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59641c1dd1cbfd28208834b837ef1099c93a68ace4180d3c57efb02ba675e0a74289bd82991fb40dca8f29ad99e0b4a7236178e979bff47308749472e9795a99e568fd84a1447fb0416a8099935f558769ba87bccd146a9b9a8de4c5435abcf19144f5b15a2f8996366c70dcbaae0c9607d97e318774c830ab2477d6dc0ad9b46c7ab81f5c76d1af5f48b8d90b13c7bb56d9e92c0b46ad649ebd4fd9972604f6d03098956983d0cb134f077b2c71f2d5d0211e3ca158cb1d050346d5895c070e0534ae995dbd89f3932c4364f01a8788f0f4c2ced247c70e01afc9817659d695fd66273a80e75c869d48c01d9eb9be90f30b09ee047fc64e0fc4af1fe10a660391653e6a2620f0b1c3380ae550c3678d14cab8699b6395a56acd2c9f98f026d5777471c5cc5b29505f1e4f7201312ce443520254065f12ae2298e500750548674ba81007797093222e0b34d34776595dabe9288d0de3edb5ad7c8f879627b6e6ab3370a317d91d1a95cee335f716a57e1578422489cbaf18c365b0e82a45fed4d909f3c10e63e7298/8/1920x1080_4716800/index.m3u8",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+{
+"name": "Radio",
+"author": "🤜Akaraphisit🤛",
+"image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDg2djk4bGNtMG8zb3gyZHphaWFzdHFjNmFiczdkN2JndnptNjhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhU4Foe4yMMYJzO/giphy.gif",
+"stations": [
+{
+"name": "📻 Musichitz Inter LIVE",
+"image": "https://static.mytuner.mobi/media/tvos_radios/187/musichitz-radio-inter.1312996b.jpg",
+"url": "https://free.rcast.net/71036",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 MUNforward Xtra Music",
+"image": "https://static.mytuner.mobi/media/tvos_radios/fANqGSV3WH.png",
+"url": "https://cdn-th2.livestreaming.in.th/shoutcast/8795",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 Top Viewpoint Radio 93.75 Music",
+"image": "https://static.mytuner.mobi/media/tvos_radios/168/top-view-point-radio.7c74e932.png",
+"url": "https://radio9.plathong.net/7146/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 Bangkok FM Music",
+"image": "https://bangkok.fm/assets/logo-bangkokfm-white-dp3-G7l2.png",
+"url": "https://audio-edge-fvq45.ams.d.radiomast.io/b4328177-eee1-4fb1-8b28-94009a331613",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 COOL fahrenheit",
+"image": "https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png",
+"url": "https://coolism-web.cdn.byteark.com/;stream/1",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 EFM",
+"image": "https://www.tvjaa.com/storage/radio-channels/efm.png",
+"url": "https://atimehd.smartclick.co.th/efm/hls/efm.m3u8",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 GREEN WAVE",
+"image": "https://www.tvjaa.com/storage/radio-channels/greenwave.png",
+"url": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 MET 107",
+"image": "https://www.tvjaa.com/storage/radio-channels/met107.png",
+"url": "https://eb27a17z.mcot.net/FM107/fm107.stream_aac/chunklist_w103872406.m3u8",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 Active FM99",
+"image": "https://www.tvjaa.com/storage/radio-channels/active99fm.png",
+"url": "https://northernlive.mcot.net/fm99/voice.m3u8",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 คลื่นความคิด FM96.5",
+"image": "https://www.tvjaa.com/storage/radio-channels/965fm.png",
+"url": "https://e4hq2o44.mcot.net/FM965/fm965.stream_aac/chunklist_w1982010370.m3u8",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 News Network",
+"image": "https://www.tvjaa.com/storage/radio-channels/mcotnewsnetwork.png",
+"url": "https://ymqaf8yp.mcot.net/FM1005/fm1005.stream_aac/playlist.m3u8",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 Mellow 97.5",
+"image": "https://www.tvjaa.com/storage/radio-channels/mellow975.png",
+"url": "https://tkx5l99p.mcot.net/Mellow/fm975.stream_aac/chunklist_w488259280.m3u8",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 ลูกทุ่งมหานคร FM95",
+"image": "https://www.tvjaa.com/storage/radio-channels/fm95.png",
+"url": "https://t24d2ljc.mcot.net/FM95/fm95.stream_aac/chunklist_w1826020205.m3u8",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 Flex 104.5",
+"image": "https://www.tvjaa.com/storage/radio-channels/flex10452.png",
+"url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 City Radio 90.25",
+"image": "https://www.tvjaa.com/storage/radio-channels/cityradio9025.png",
+"url": "https://media.onair.one:8200/1/;",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 จส.100",
+"image": "https://www.tvjaa.com/storage/radio-channels/js100.png",
+"url": "https://djstreamsv1.hostpleng.cloud/4BsH",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 วิทยุครอบครัวข่าว",
+"image": "https://www.tvjaa.com/storage/radio-channels/fm106family.png",
+"url": "https://radio11.plathong.net/7138/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 สวพ. FM91",
+"image": "https://www.tvjaa.com/storage/radio-channels/fm91.png",
+"url": "https://www.fm91bkk.com:8900/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 สวท.FM 97 MHz",
+"image": "https://www.tvjaa.com/storage/radio-channels/qualitynewsstation.png",
+"url": "https://cdn-th2.login.in.th/shoutcast/8610",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 มิติข่าว 90.5",
+"image": "https://www.tvjaa.com/storage/radio-channels/smartnews905.png",
+"url": "https://live1.smartbomb.co.th/live",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 Sunshine Radio",
+"image": "https://www.tvjaa.com/storage/radio-channels/sunshine.png",
+"url": "https://cdn-th2.livestreaming.in.th/shoutcast/8030",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 94FMCLUB",
+"image": "https://www.tvjaa.com/storage/radio-channels/94fmclubradio.png",
+"url": "https://plus.onair.network:8130/94fmclub2",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 XFM Chiangmai",
+"image": "https://www.tvjaa.com/storage/radio-channels/xfmnetwork.png",
+"url": "https://radio12.plathong.net/7360/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 LIVE 89.5",
+"image": "https://www.tvjaa.com/storage/radio-channels/895pattaya.png",
+"url": "https://4118.radio4.thzhost.com/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 Yesterday FM106.5",
+"image": "https://www.tvjaa.com/storage/radio-channels/yesterday.png",
+"url": "https://4122.radio4.thzhost.com/;stream",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 MAZZ Radio FM97",
+"image": "https://www.tvjaa.com/storage/radio-channels/mazzradio.png",
+"url": "https://4096.radio2.thzhost.com/;stream",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 Smile FM95.25",
+"image": "https://www.tvjaa.com/storage/radio-channels/smile9525.png",
+"url": "https://radio12.plathong.net/8846/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 สไมล์ลูกทุ่ง FM101",
+"image": "https://www.tvjaa.com/storage/radio-channels/smile101.png",
+"url": "https://radio12.plathong.net/8612/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 WOW RADIO ONLINE",
+"image": "https://www.tvjaa.com/storage/radio-channels/wowradio.png",
+"url": "https://radio14.plathong.net/7072/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 รักไทยลูกทุ่ง",
+"image": "https://www.tvjaa.com/storage/radio-channels/rukthailooktung.png",
+"url": "https://radio11.plathong.net/8896/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 SukSon เพลงไทยสากล",
+"image": "https://www.tvjaa.com/storage/radio-channels/sukson.png",
+"url": "https://stream.pjcdn.com:9000/SuksonRadio",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 SukSon เพลงสากล",
+"image": "https://www.tvjaa.com/storage/radio-channels/sukson.png",
+"url": "https://stream.pjcdn.com:8000/1;&amp;type=mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "📻 SukSon เพลงลูกทุ่ง",
+"image": "https://www.tvjaa.com/storage/radio-channels/sukson.png",
+"url": "https://stream.pjcdn.com:8200/1;&amp;type=mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "PASSION FM",
+"image": "https://onair.one/wp-content/uploads/2025/08/47rrdQ6k9B-560x560.jpg",
+"url": "https://media.onair.one/8170/my/;",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "FM 89 I AM RADIO",
+"image": "https://onair.one/wp-content/uploads/2024/11/FM89LOPBURI-560x560.jpg",
+"url": "https://media.onair.one:8030/fm89",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "FM 89.5 RADIO THAILAND",
+"image": "https://onair.one/wp-content/uploads/2025/09/RADIOTH-895-560x560.jpg",
+"url": "https://www.radio-thai.com/swthsngkhlaa-fm-895-mhz-radiothailand",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "FM 89.5 , FM 92 ดนตรีสีสัน",
+"image": "https://onair.one/wp-content/uploads/2025/09/linerichmessage-onair-media-g-560x560.jpg",
+"url": "https://media.onair.one:8170/radio.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "FM 89.75",
+"image": "https://onair.one/wp-content/uploads/2024/11/8975-10625-8975-560x560.jpg",
+"url": "https://media.onair.one/8010/8975/;",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "FM 90.25 CITY RADIO",
+"image": "https://onair.one/wp-content/uploads/2025/02/linerichmessage-492-560x560.jpg",
+"url": "https://link.cityradiopattaya.com/8200/1/;",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  FM 90.5 RADIO THAILAND",
+"image": "https://onair.one/wp-content/uploads/2025/09/RADIOTH-905-560x560.jpg",
+"url": "https://live1.smartbomb.co.th/live",
+"audio": "true"
+},
+{
+"name": "📻  FM 91 PATTAYA MUNDEE",
+"image": "https://onair.one/wp-content/uploads/2024/11/444489281_1018338006529927_3971246088966105095_n-560x560.jpg",
+"url": "https://link.cityradiopattaya.com/8100/OBdirect/;",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  FM 93 LOVE RADIO",
+"image": "https://onair.one/wp-content/uploads/2024/11/274166638_4842453472489815_8662340256238586135_n-560x560.jpg",
+"url": "https://media.onair.one:8090/onair",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  FM 94 FMCLUB",
+"image": "https://onair.one/wp-content/uploads/2024/11/linerichmessage-560x560.jpg",
+"url": "https://media.onair.one:8130/94fmclub",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  FM 98 YALA",
+"image": "https://onair.one/wp-content/uploads/2024/11/FM98-YALA-560x560.jpg",
+"url": "https://a.hostpleng.cloud/9098/stream",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  FM 98 Dongtan Beach",
+"image": "https://onair.one/wp-content/uploads/2026/01/10225-560x560.jpg",
+"url": "https://media.onair.one:8030/98",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  จส.100",
+"image": "https://onair.one/wp-content/uploads/2024/11/d26a29ccd8ab4c0c0e1590f4272ea9cb_full.png",
+"url": "https://cdn-th2.livestreaming.in.th/shoutcast/8510",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  FM 106 วิทยุครอบครัวข่าว",
+"image": "https://onair.one/wp-content/uploads/2024/11/363359382_1024167925604080_901920639986926123_n-560x560.jpg",
+"url": "https://radio11.plathong.net/7138/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  FM 106 APPLE RADIO",
+"image": "https://onair.one/wp-content/uploads/2025/03/AppleRadio-106-560x560.jpg",
+"url": "https://80.hostpleng.com/api.php?url=http://112.121.150.133:8340/;",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  FM 106.25",
+"image": "https://onair.one/wp-content/uploads/2024/11/8975-10625-10625-560x560.jpg",
+"url": "https://media.onair.one/8010/10625/;",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  FM 107.75 INDY FM",
+"image": "https://onair.one/wp-content/uploads/2024/11/420954825_895023462631325_2047824488494027012_n.jpg",
+"url": "https://media.onair.one:8010/STUINDY.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  PASSION AM",
+"image": "https://onair.one/wp-content/uploads/2024/11/content_1_bg_sd_20240910_032824-560x540.jpg",
+"url": "https://media.onair.one:8170/am",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  SUNSHINE RADIO THAILAND",
+"image": "https://onair.one/wp-content/uploads/2024/11/sunshine-logo.jpg",
+"url": "https://cdn-th2.livestreaming.in.th/shoutcast/8030",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  FM 88 MHz วิทยุ มอ.หาดใหญ่",
+"image": "https://onair.one/wp-content/uploads/2025/08/488248582_1301952425041915_7441289878781400160_n-560x560.jpg",
+"url": "https://media.onair.one:8120/stream/1/",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  Thai Weather Radio",
+"image": "https://onair.one/wp-content/uploads/2025/04/ThaiWeatherRadio-560x560.jpg",
+"url": "http://www.radio.tmd.go.th:8014/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  ดนตรีสีสัน",
+"image": "https://onair.one/wp-content/uploads/2025/02/305561011_754459848848515_1540767025656647185_n-1-560x560.jpg",
+"url": "https://80.hostpleng.com/api.php?url=http://112.121.150.133:9102/;",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  95 TheSPOT FM",
+"image": "https://www.audacy.com/media-library/95-7-the-spot.png?id=67604141&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+"url": "https://audio-edge-jfbmv.sin.d.radiomast.io/ce7b352b-a993-4451-8c9c-9c6e615402f8",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  FM 91 TRAFFIC PRO",
+"image": "https://s.isanook.com/ns/0/ud/344/1721249/588192-01.jpg",
+"url": "https://www.fm91bkk.com:8900/;stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+{
+"name": "📻  AM 1098 kHz",
+"image": "https://static2.mytuner.mobi/media/tvos_radios/sy4yxmzajuhv.jpg",
+"url": "https://www.fm91bkk.com:9170/stream.mp3",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+},
+]
+},
+]
+},
