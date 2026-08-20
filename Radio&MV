@@ -9,6 +9,13 @@
 "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVnb2x2cng3MHA5dXJrNm1idjN4dzMwaHdvc25zbnBncmNodnQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/5N3qXsEjoq8ewKOUdA/giphy.gif",
 "stations": [
 {
+"name": "EDM MAINSTAGE DANCE TV",
+"image": "https://ritsatv.ru/files/poster/medium/901479.jpg",
+"url": "https://ritsatv.ru/movie-id901479-edm-mainstage-dance-tv",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
 "name": "NOW 90s & 00s",
 "image": "https://ritsatv.ru/files/poster/medium/901391.webp",
 "url": "https://ritsatv.ru/movie-id901391-now-90s-and-00s",
@@ -66,7 +73,7 @@
 },
 {
 "name": "MTV CLUB",
-"image": "https://www.google.com/search?sca_esv=cf5c3a640caff83a&sxsrf=APpeQnsYZiuq6HfqKZwm3DNtQfGjXJ5nFQ:1787132610920&udm=2&fbs=ABfTbFVkyDUjCfwCB9ISJfkKUSCKrKfBRLs4ApEVUt55-vjs0oVSGIsktlnu_QJ5QRaPb9dcUmFGiaXy8D4AAg-73bVD-zH0mNj1NWpGd4pxnMAItOjaChzFC_huDLTr_Zn-Xtcn8oiU5Eq4zewcL1aqGzAV--FRKUdCQFwTb0GoFsaCHgHKSpAtV3nEUsgZbHrldO8F03gDRBkDq8fFsa0XVojtf4I0JfpKXdSzXzYTfc3jjUPw906I_EN-RLi_wfTBeUCEprbQxbRvla4k1it_YpaW0V1oEozI5YiVroxoHvWLEqLtoOw&q=MTV+CLUB&sa=X&ved=2ahUKEwi0z8Ljs6yWAxWrzzkIHYqzIl8QtKgLegQIIhAB&biw=1592&bih=742&dpr=1",
+"image": "https://ritsatv.ru/files/poster/original/901135.webp",
 "url": "https://ritsatv.ru/movie-id901135-mtv-club",
 "embed": "true",
 "playInNatPlayer": "true"
