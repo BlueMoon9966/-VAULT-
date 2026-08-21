@@ -1,35 +1,30 @@
-   {
-   "name": "Various TV programs",
-   "author": "🤜Akaraphisit🤛",
-   "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-   "info": "09-08-2026",
-   "groups": [
 {
-"id": "free-tv",
+"version": "1.0",
+"name": "ⓈⓅⒶⒸⒺ",
+"author": "🤜Akaraphisit🤛",
+"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT",
+"groups": [
+{
 "name": "🖕Free🖕 TV",
 "author": "🤜Akaraphisit🤛",
 "image": "https://img2.pic.in.th/Copilot_20260820_104909.md.png",
 "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/SUM",
-"description": "",
-"info": "",
+"import": false
 },
 {
-"id": "digital-tv",
 "name": "Digital TV",
 "author": "🤜Akaraphisit🤛",
 "image": "https://copytv.vercel.app/PK/DigitalTV3.png",
 "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/Digital%20TV",
-"description": "",
-"info": "",
+"import": false
 },
 {
-"id": "kicksball-tv",
 "name": "KicksBall TV",
 "author": "🤜Akaraphisit🤛",
 "image": "https://copytv.vercel.app/PK/DigitalTV3.png",
 "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/KicksBall%20TV",
-"description": "",
-"info": "",
+"import": false
 },
 ]
 },
