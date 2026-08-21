@@ -1,0 +1,19 @@
+#EXTM3U
+# =============================================
+# 🎭 หมวดหมู่: บันเทิง (Entertainment)
+# =============================================
+#EXTINF:-1 tvg-chno="54" group-title="🎭 บันเทิง" tvg-logo="https://madoball.com/upload/1418.jpg",🟢 Fashion TV
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1418/playlist.m3u8
+#EXTINF:-1 tvg-chno="56" group-title="🎭 บันเทิง" tvg-logo="https://madoball.com/upload/8738.jpg",🔴 ITV1
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/8738/playlist.m3u8
+#EXTINF:-1 tvg-chno="57" group-title="🎭 บันเทิง" tvg-logo="https://madoball.com/upload/8737.jpg",🔵 ITV2
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/8737/playlist.m3u8
+#EXTINF:-1 tvg-chno="58" group-title="🎭 บันเทิง" tvg-logo="https://madoball.com/upload/8736.jpg",🟠 ITV3
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/8736/playlist.m3u8
+#EXTINF:-1 tvg-chno="59" group-title="🎭 บันเทิง" tvg-logo="https://madoball.com/upload/8735.jpg",🟡 ITV4
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/8735/playlist.m3u8
