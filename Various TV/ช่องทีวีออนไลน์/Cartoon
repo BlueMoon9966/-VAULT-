@@ -1,0 +1,13 @@
+#EXTM3U
+# =============================================
+# 📺 หมวดหมู่: การ์ตูน (Cartoon)
+# =============================================
+#EXTINF:-1 tvg-chno="" group-title="🎨 การ์ตูน" tvg-logo="https://cdn.madoball.com/upload/8999.jpg",🟠 ช่อง Boom
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/8999/chunks.m3u8
+#EXTINF:-1 tvg-chno="" group-title="🎨 การ์ตูน" tvg-logo="https://cdn.madoball.com/upload/8007.jpg",🟡 ช่อง CN
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/8007/chunks.m3u8
+#EXTINF:-1 tvg-chno="" group-title="🎨 การ์ตูน" tvg-logo="https://cdn.madoball.com/upload/477.jpg",🟣 Cartoonito
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/477/chunks.m3u8
