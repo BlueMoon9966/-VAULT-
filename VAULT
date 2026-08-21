@@ -105,12 +105,89 @@
       },
      ]
     },
-      {
-      "name": "Various_TV_programs",
-      "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFlZjllNXQ2aGZ1anNxbG1ieG9yM3lqbnkxa3N0OThlZW85empiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyEo8EE0MThPq/giphy.gif",
-      "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/Various%20TV%20programs",
-      "import": false
-      },
+   {
+   "name": "Various TV programs",
+   "author": "🤜Akaraphisit🤛",
+   "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+   "day": "09-08-2026",
+   "info": "",
+   "groups": [
+{
+"name": "KicksBall TV",
+"author": "🤜Akaraphisit🤛",
+"image": "https://copytv.vercel.app/PK/DigitalTV3.png",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/KicksBall%20TV",
+"info": "",
+},
+   {
+   "name": "🖕Free🖕 TV",
+   "author": "🤜Akaraphisit🤛",
+   "image": "https://img2.pic.in.th/Copilot_20260820_104909.md.png",
+   "info": "20/08/2569",
+   "groups": [
+{
+"name": "ช่องไทย",
+"author": "🤜Akaraphisit🤛",
+"image": "https://play-lh.googleusercontent.com/334vag7ndo7uoUcVLLXe65GyJcgha6vY3LK8SS3aDHsglLcO0cguUPv8i3zUSrqjbC4jmWERGTcqhznxTbEL5Q",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/Thai%20Channels",
+"info": "",
+},
+{
+"name": "การ์ตูน",
+"author": "🤜Akaraphisit🤛",
+"image": "https://play-lh.googleusercontent.com/334vag7ndo7uoUcVLLXe65GyJcgha6vY3LK8SS3aDHsglLcO0cguUPv8i3zUSrqjbC4jmWERGTcqhznxTbEL5Q",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/Cartoon",
+"info": "",
+},
+{
+"name": "สารคดี",
+"author": "🤜Akaraphisit🤛",
+"image": "https://play-lh.googleusercontent.com/334vag7ndo7uoUcVLLXe65GyJcgha6vY3LK8SS3aDHsglLcO0cguUPv8i3zUSrqjbC4jmWERGTcqhznxTbEL5Q",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/Documentary",
+"info": "",
+},
+{
+"name": "บันเทิง",
+"author": "🤜Akaraphisit🤛",
+"image": "https://play-lh.googleusercontent.com/334vag7ndo7uoUcVLLXe65GyJcgha6vY3LK8SS3aDHsglLcO0cguUPv8i3zUSrqjbC4jmWERGTcqhznxTbEL5Q",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/Entertainment",
+"info": "",
+},
+{
+"name": "ภาพยนตร์",
+"author": "🤜Akaraphisit🤛",
+"image": "https://play-lh.googleusercontent.com/334vag7ndo7uoUcVLLXe65GyJcgha6vY3LK8SS3aDHsglLcO0cguUPv8i3zUSrqjbC4jmWERGTcqhznxTbEL5Q",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/Movies",
+"info": "",
+},
+{
+"name": "อื่นๆ",
+"author": "🤜Akaraphisit🤛",
+"image": "https://play-lh.googleusercontent.com/334vag7ndo7uoUcVLLXe65GyJcgha6vY3LK8SS3aDHsglLcO0cguUPv8i3zUSrqjbC4jmWERGTcqhznxTbEL5Q",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/Others",
+"info": "",
+},
+{
+"name": "กีฬา",
+"author": "🤜Akaraphisit🤛",
+"image": "https://play-lh.googleusercontent.com/334vag7ndo7uoUcVLLXe65GyJcgha6vY3LK8SS3aDHsglLcO0cguUPv8i3zUSrqjbC4jmWERGTcqhznxTbEL5Q",
+"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Various%20TV/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/Others",
+"info": "",
+},
+]
+},
+{
+"name": "Digital TV",
+"url": "https://drive.google.com/uc?id=1f_LQQ37QKOylQ1SCBYiJPCPP7G5xzVcR",
+"image": "https://copytv.vercel.app/PK/DigitalTV3.png",
+"referer": "https://kicksball.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+"author": "🤜Akaraphisit🤛",
+"info": "",
+"embed": "true"
+},
+]
+},
       {
       "name": "Flowing water",
       "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3huc2ZpZm91bWhvbm1rdmRnOHVxeWtsdjA0MmhiMjh2dWZvd3dtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif",
