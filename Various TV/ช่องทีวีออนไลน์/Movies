@@ -1,0 +1,64 @@
+#EXTM3U
+# =============================================
+# 🎬 หมวดหมู่: ภาพยนตร์ (Movies)
+# =============================================
+#EXTINF:-1 tvg-chno="1" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2821.jpg",🔴 3BB Asian
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2821/playlist.m3u8
+#EXTINF:-1 tvg-chno="10" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1642.jpg",🔵 Rama Channel
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1642/playlist.m3u8
+#EXTINF:-1 tvg-chno="17" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1873.jpg",🟠 True Asian More
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1873/playlist.m3u8
+#EXTINF:-1 tvg-chno="42" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1913.jpg",🟡 Celestial Classic Movies
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1913/playlist.m3u8
+#EXTINF:-1 tvg-chno="43" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2815.jpg",🟣 CINEMAX
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2815/playlist.m3u8
+#EXTINF:-1 tvg-chno="44" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2820.jpg",🟢 HBO
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2820/playlist.m3u8
+#EXTINF:-1 tvg-chno="45" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2816.jpg",🔴 HBO Family
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2816/playlist.m3u8
+#EXTINF:-1 tvg-chno="46" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2819.jpg",🔵 HBO Hits
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2819/playlist.m3u8
+#EXTINF:-1 tvg-chno="47" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2818.jpg",🟠 HBO Signature
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2818/playlist.m3u8
+#EXTINF:-1 tvg-chno="48" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1877.jpg",🟡 True Film 1
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1877/playlist.m3u8
+#EXTINF:-1 tvg-chno="49" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1915.jpg",🟣 True Film Asia
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1915/playlist.m3u8
+#EXTINF:-1 tvg-chno="50" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1875.jpg",🟢 True Movie Hits
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1875/playlist.m3u8
+#EXTINF:-1 tvg-chno="51" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1874.jpg",🔴 True Thai Film
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1874/playlist.m3u8
+#EXTINF:-1 tvg-chno="52" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2650.jpg",🔵 AXN HD
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2650/playlist.m3u8
+#EXTINF:-1 tvg-chno="53" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1416.jpg",🟠 Cool Channel
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1416/playlist.m3u8
+#EXTINF:-1 tvg-chno="62" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2929.jpg",🟡 Rock Entertainment
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2929/playlist.m3u8
+#EXTINF:-1 tvg-chno="63" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/261622.jpg",🟣 ROCK X Stream
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/261622/playlist.m3u8
+#EXTINF:-1 tvg-chno="64" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1916.jpg",🟢 True Series
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1916/playlist.m3u8
+#EXTINF:-1 tvg-chno="65" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2056.jpg",🔴 True X-Zyte
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2056/playlist.m3u8
+#EXTINF:-1 tvg-chno="66" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2739.jpg",🔵 Warner TV
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2739/playlist.m3u8
