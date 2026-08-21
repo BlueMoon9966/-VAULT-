@@ -1,0 +1,34 @@
+#EXTM3U
+# =============================================
+# 🎲 หมวดหมู่: อื่นๆ (Others)
+# =============================================
+#EXTINF:-1 tvg-chno="79" group-title="🎲 อื่นๆ" tvg-logo="https://madoball.com/upload/1600.jpg",🟢 ABC Australia
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1600/playlist.m3u8
+#EXTINF:-1 tvg-chno="80" group-title="🎲 อื่นๆ" tvg-logo="https://madoball.com/upload/61286.jpg",🔴 Bein France 1
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/61286/playlist.m3u8
+#EXTINF:-1 tvg-chno="81" group-title="🎲 อื่นๆ" tvg-logo="https://madoball.com/upload/61283.jpg",🔵 Bein France 2
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/61283/playlist.m3u8
+#EXTINF:-1 tvg-chno="82" group-title="🎲 อื่นๆ" tvg-logo="https://madoball.com/upload/61281.jpg",🟠 Bein France 3
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/61281/playlist.m3u8
+#EXTINF:-1 tvg-chno="83" group-title="🎲 อื่นๆ" tvg-logo="https://madoball.com/upload/8999.jpg",🟡 Boomerang
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/8999/playlist.m3u8
+#EXTINF:-1 tvg-chno="84" group-title="🎲 อื่นๆ" tvg-logo="https://madoball.com/upload/8007.jpg",🟣 Cartoon Network
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/8007/playlist.m3u8
+#EXTINF:-1 tvg-chno="85" group-title="🎲 อื่นๆ" tvg-logo="https://madoball.com/upload/477.jpg",🟢 Cartoonito
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/477/playlist.m3u8
+#EXTINF:-1 tvg-chno="86" group-title="🎲 อื่นๆ" tvg-logo="https://madoball.com/upload/402.jpg",🔴 CCTV-4
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/402/playlist.m3u8
+#EXTINF:-1 tvg-chno="87" group-title="🎲 อื่นๆ" tvg-logo="https://madoball.com/upload/2875.jpg",🔵 Nick Jr.
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2875/playlist.m3u8
+#EXTINF:-1 tvg-chno="88" group-title="🎲 อื่นๆ" tvg-logo="https://madoball.com/upload/2029.jpg",🟠 Nickelodeon
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2029/playlist.m3u8
