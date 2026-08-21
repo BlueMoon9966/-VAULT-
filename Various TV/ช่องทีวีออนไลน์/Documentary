@@ -1,0 +1,43 @@
+#EXTM3U
+# =============================================
+# 🌍 หมวดหมู่: สารคดี (Documentary)
+# =============================================
+#EXTINF:-1 tvg-chno="12" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/715.jpg",🟣 Thainess TV
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/715/playlist.m3u8
+#EXTINF:-1 tvg-chno="67" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/710.jpg",🟢 Animal Show
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/710/playlist.m3u8
+#EXTINF:-1 tvg-chno="68" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/1854.jpg",🔴 Asian Food Network
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1854/playlist.m3u8
+#EXTINF:-1 tvg-chno="69" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/1689.jpg",🔵 BBC Lifestyle
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1689/playlist.m3u8
+#EXTINF:-1 tvg-chno="70" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/1606.jpg",🟠 Discovery Asia
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1606/playlist.m3u8
+#EXTINF:-1 tvg-chno="71" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/1546.jpg",🟡 Discovery Channel
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1546/playlist.m3u8
+#EXTINF:-1 tvg-chno="72" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/2347.jpg",🟣 DreamWorks
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/2347/playlist.m3u8
+#EXTINF:-1 tvg-chno="73" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/1845.jpg",🟢 Food Network
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1845/playlist.m3u8
+#EXTINF:-1 tvg-chno="74" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/1667.jpg",🔴 History Channel
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1667/playlist.m3u8
+#EXTINF:-1 tvg-chno="75" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/555.jpg",🔵 Mysci
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/555/playlist.m3u8
+#EXTINF:-1 tvg-chno="76" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/1496.jpg",🟠 TLC
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1496/playlist.m3u8
+#EXTINF:-1 tvg-chno="77" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/722.jpg",🟡 True Explore SCI
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/722/playlist.m3u8
+#EXTINF:-1 tvg-chno="78" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/740.jpg",🟣 True Explore WILD
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/740/playlist.m3u8
