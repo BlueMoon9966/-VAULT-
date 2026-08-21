@@ -5,13 +5,6 @@
 "groups": [
 
 {
-"name": "Digital TV",
-"author": "Update 02/5/69",
-"image": "https://copytv.vercel.app/PK/DigitalTV3.png",
-"info": "",
-"groups": [
-
-{
 "name": "TV 1",
 "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JxZTR6c204ejR6enZtd2Zra2I5Y2Y4ODAwMmRlY2JnNmViMm51ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26xBIU23YI2sywtqw/giphy.gif",
 "stations": [
