@@ -1,0 +1,1160 @@
+    {
+  "name": "Working Channels TV",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://kicksball.com/assets/img/logo.png",
+  "info": "Updated: 2026-08-09 13:29:01",
+  "stations": [
+    {
+      "name": "ABC News Live",
+      "url": "https://kicksball.com/tv/abc-news-live-740",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1774368084.png&s=5ba84965fc3d",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Al Jazeera English HD",
+      "url": "https://kicksball.com/tv/al-jazeera-english-hd-552",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1730731551.png&s=72a02b24c24e",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Arirang",
+      "url": "https://kicksball.com/tv/arirang-584",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1739186052.png&s=9aac423de774",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://kicksball.com/tv/bbc-news-296",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1705785324.png&s=1b3a2a1b3bb8",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Bloomberg Television",
+      "url": "https://kicksball.com/tv/bloomberg-television-297",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1705785346.png&s=ac85127f4ffe",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "CCTV4",
+      "url": "https://kicksball.com/tv/cctv4-299",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1705785371.png&s=ac74bb426955",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "CGTN",
+      "url": "https://kicksball.com/tv/cgtn-550",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1730731019.png&s=f1a62e288efd",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "CNA",
+      "url": "https://kicksball.com/tv/cna-551",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1730731242.png&s=9e8b8c0264bb",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://kicksball.com/tv/cnbc-410",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719802797.png&s=d7364dccf165",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "CNN",
+      "url": "https://kicksball.com/tv/cnn-298",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1705785357.png&s=aff9ff11bfb1",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "DW English",
+      "url": "https://kicksball.com/tv/dw-english-589",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1741548645.png&s=98fc71ec49d0",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Euro News",
+      "url": "https://kicksball.com/tv/euro-news-561",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1731890666.png&s=e2d307eef7cb",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "France 24",
+      "url": "https://kicksball.com/tv/france-24-558",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1731889662.png&s=aca2bebd521c",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "NHK WORLD-JAPAN",
+      "url": "https://kicksball.com/tv/nhk-world-japan-559",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1731890206.png&s=bfe3592cd141",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "TOP NEWS",
+      "url": "https://kicksball.com/tv/top-news-592",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1742428070.png&s=7e43b67039d4",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "AF Reality",
+      "url": "https://kicksball.com/tv/af-reality-742",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1775838457.png&s=775d57586832",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "AMC | USA",
+      "url": "https://kicksball.com/tv/amc-usa-386",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1716339097.png&s=b5126894cafb",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "AXN HD",
+      "url": "https://kicksball.com/tv/axn-hd-413",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719897010.png&s=7b9f55401ea3",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Alure Channel",
+      "url": "https://kicksball.com/tv/alure-channel-554",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1731057748.png&s=d3bac0c7bd61",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "AmarinTV HD",
+      "url": "https://kicksball.com/tv/amarintv-hd-287",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1704117706.png&s=d280fa117afc",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Asian Food Network",
+      "url": "https://kicksball.com/tv/asian-food-network-398",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1717696078.png&s=43c9be1b8acb",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Asian Hits",
+      "url": "https://kicksball.com/tv/asian-hits-281",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703829940.png&s=402fe16ffd3a",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "BBC Lifestyle",
+      "url": "https://kicksball.com/tv/bbc-lifestyle-527",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1727766790.png&s=3a45ba6cf3ef",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "CCM",
+      "url": "https://kicksball.com/tv/ccm-411",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719803240.png&s=45ebc44dbe19",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "CH8",
+      "url": "https://kicksball.com/tv/ch8-286",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1704117313.png&s=62481165a845",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "CINEMAX",
+      "url": "https://kicksball.com/tv/cinemax-278",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703786799.png&s=c2dad8497db4",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Fashion TV",
+      "url": "https://kicksball.com/tv/fashion-tv-557",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1731888593.png&s=c16744b891f8",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Food Network",
+      "url": "https://kicksball.com/tv/food-network-397",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1717696062.png&s=7e972cc51c24",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "GMM25",
+      "url": "https://kicksball.com/tv/gmm25-521",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1725896937.png&s=d314596f6810",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "HBO",
+      "url": "https://kicksball.com/tv/hbo-274",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703686191.png&s=721f082f1ad7",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "HBO Family",
+      "url": "https://kicksball.com/tv/hbo-family-277",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703786776.png&s=b5aadc3f5c85",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "HBO Hits",
+      "url": "https://kicksball.com/tv/hbo-hits-276",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703786599.png&s=71d5887cf197",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "HBO Signature",
+      "url": "https://kicksball.com/tv/hbo-signature-275",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703786305.png&s=02005c29a161",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "HITS",
+      "url": "https://kicksball.com/tv/hits-304",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1706112791.png&s=b505a9481e66",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "HITS MOVIES",
+      "url": "https://kicksball.com/tv/hits-movies-356",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1714100677.png&s=f80f852156c3",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "HITS NOW",
+      "url": "https://kicksball.com/tv/hits-now-569",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1733772007.png&s=bfb4dcd13db3",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Hunan TV HD",
+      "url": "https://kicksball.com/tv/hunan-tv-hd-587",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1741273908.png&s=8f1a46a0b86c",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "KBS Korea",
+      "url": "https://kicksball.com/tv/kbs-korea-522",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1725961079.png&s=77e4495b531b",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "KBS World HD",
+      "url": "https://kicksball.com/tv/kbs-world-hd-414",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719897483.png&s=b2533d09b40c",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "MONO29 Plus",
+      "url": "https://kicksball.com/tv/mono29-plus-280",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703787733.png&s=d8d69d5d37ea",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "MTV",
+      "url": "https://kicksball.com/tv/mtv-426",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1721687257.png&s=52f3b514d998",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Mono 29 Music station",
+      "url": "https://kicksball.com/tv/mono-29-music-station-593",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1742428538.png&s=59def1189bbd",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "NBT 2 HD",
+      "url": "https://kicksball.com/tv/nbt-2-hd-513",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1725895790.png&s=9a65bdc26a5c",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Nation TV",
+      "url": "https://kicksball.com/tv/nation-tv-518",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1725896561.png&s=6678bae5a0b6",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "ROCK Action",
+      "url": "https://kicksball.com/tv/rock-action-402",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1718690264.png&s=528c02e1b7c3",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "ROCK ENTERTAINMENT",
+      "url": "https://kicksball.com/tv/rock-entertainment-403",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1718690283.png&s=49a8f1c892ae",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "RUSH Stories",
+      "url": "https://kicksball.com/tv/rush-stories-586",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1741273735.png&s=62e6e0a6a867",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Rock X Stream",
+      "url": "https://kicksball.com/tv/rock-x-stream-738",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1772989735.png&s=8cc8b1c924d1",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Showtime",
+      "url": "https://kicksball.com/tv/showtime-731",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1770674151.png&s=700917b66879",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "TLC",
+      "url": "https://kicksball.com/tv/tlc-396",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1717696038.png&s=b63aaa1c236e",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "TNN",
+      "url": "https://kicksball.com/tv/tnn-516",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1725896332.png&s=a75c732718a4",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "TVB CLASSIC HD",
+      "url": "https://kicksball.com/tv/tvb-classic-hd-415",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719898154.png&s=8eba4c422b3c",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Thai PBS",
+      "url": "https://kicksball.com/tv/thai-pbs-514",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1725895931.png&s=1a9dab42497b",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Thainess",
+      "url": "https://kicksball.com/tv/thainess-594",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1742428803.png&s=3c5f43ed4131",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "True 4 U",
+      "url": "https://kicksball.com/tv/true-4-u-520",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1725896844.png&s=c4ce1725320a",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "True Asian More",
+      "url": "https://kicksball.com/tv/true-asian-more-405",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719205850.png&s=ece64c48ceb0",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "True Film 1",
+      "url": "https://kicksball.com/tv/true-film-1-418",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1720380229.png&s=e60df788188f",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "True Film 2",
+      "url": "https://kicksball.com/tv/true-film-2-420",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1720723122.png&s=5711fcf77486",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "True Film Asia",
+      "url": "https://kicksball.com/tv/true-film-asia-404",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719205705.png&s=3e3dcfae8cfd",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "True Movie Hits",
+      "url": "https://kicksball.com/tv/true-movie-hits-412",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719803882.png&s=0378d413c819",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "True Series",
+      "url": "https://kicksball.com/tv/true-series-406",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719205991.png&s=c3b9d52e979f",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "True Thai Film",
+      "url": "https://kicksball.com/tv/true-thai-film-307",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1706539896.png&s=98e0178383f0",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "True X-Zyte",
+      "url": "https://kicksball.com/tv/true-x-zyte-407",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719206155.png&s=c644427ed2d6",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Warner TV",
+      "url": "https://kicksball.com/tv/warner-tv-282",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703832225.png&s=46bc37a2d45d",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Workpoint TV",
+      "url": "https://kicksball.com/tv/workpoint-tv-519",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1725896683.png&s=9ffbfe037ee8",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Yunnan International",
+      "url": "https://kicksball.com/tv/yunnan-international-588",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1741274034.png&s=610318e4ca90",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "iQIYI",
+      "url": "https://kicksball.com/tv/iqiyi-306",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1706405008.png&s=3f3d28ae4ae4",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "tvN",
+      "url": "https://kicksball.com/tv/tvn-283",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703833429.png&s=609683e8708a",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "tvN MOVIES",
+      "url": "https://kicksball.com/tv/tvn-movies-357",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1714100840.png&s=e3d81166e082",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "ทรูไอดีเอเชียนซีรีส์",
+      "url": "https://kicksball.com/tv/ทรูไอดีเอเชียนซีรีส์-590",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1741551484.png&s=e1312bcdbb2f",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "มังกร",
+      "url": "https://kicksball.com/tv/มังกร-289",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1705503765.png&s=322b0cfcdd49",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "ANIPLUS Channel",
+      "url": "https://kicksball.com/tv/aniplus-channel-600",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1749743199.png&s=7a6d2ed3c984",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Animax | Singapore",
+      "url": "https://kicksball.com/tv/animax-singapore-284",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1704038567.png&s=63bff6336d5c",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Boomerang",
+      "url": "https://kicksball.com/tv/boomerang-291",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1705504202.png&s=944e4faf7a6a",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "CBeebies",
+      "url": "https://kicksball.com/tv/cbeebies-324",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1709573298.png&s=1736625707dd",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Cartoon Network",
+      "url": "https://kicksball.com/tv/cartoon-network-314",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1708344243.png&s=c6f802eee100",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Disney Channel",
+      "url": "https://kicksball.com/tv/disney-channel-387",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1716361978.png&s=2a8542897020",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Disney Junior",
+      "url": "https://kicksball.com/tv/disney-junior-388",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1716362497.png&s=2bc607241a28",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Disney XD",
+      "url": "https://kicksball.com/tv/disney-xd-389",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1716362753.png&s=7453d12f32cc",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "DreamWorks",
+      "url": "https://kicksball.com/tv/dreamworks-460",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1723200736.png&s=c25e6cc243c5",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Moonbug",
+      "url": "https://kicksball.com/tv/moonbug-427",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1721687729.png&s=7f2357715469",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Nick Jr.",
+      "url": "https://kicksball.com/tv/nick-jr-316",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1708344362.png&s=f1e80889ef6f",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Nickelodeon",
+      "url": "https://kicksball.com/tv/nickelodeon-315",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1708344306.png&s=1129058d6e14",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "True Spark Play",
+      "url": "https://kicksball.com/tv/true-spark-play-421",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1720723541.png&s=9ab980c8ec9e",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "cartoonito",
+      "url": "https://kicksball.com/tv/cartoonito-285",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1704039063.png&s=c12f8498c3c3",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "nicktoons | Germany",
+      "url": "https://kicksball.com/tv/nicktoons-germany-351",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1713282303.png&s=d76f5c8d291e",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "ASTRO CRICKET HD | Malaysia",
+      "url": "https://kicksball.com/tv/astro-cricket-hd-malaysia-416",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1720166377.png&s=cd8e7c0a38bc",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Astro Arena",
+      "url": "https://kicksball.com/tv/astro-arena-257",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1697812603.png&s=428ce938b4b4",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Astro Arena 2",
+      "url": "https://kicksball.com/tv/astro-arena-2-409",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719768111.png&s=1486d4f70e19",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Astro Arena Bola",
+      "url": "https://kicksball.com/tv/astro-arena-bola-273",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1700012376.png&s=05a336b1c685",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Astro Arena Bola 2",
+      "url": "https://kicksball.com/tv/astro-arena-bola-2-265",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1698351468.png&s=db3dad4e5344",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Astro Badminton",
+      "url": "https://kicksball.com/tv/astro-badminton-538",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1729385788.png&s=df88f522cacf",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Astro Football",
+      "url": "https://kicksball.com/tv/astro-football-534",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1729384406.png&s=2d28eb720db4",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Astro Grandstand",
+      "url": "https://kicksball.com/tv/astro-grandstand-535",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1729384448.png&s=e547f4718a3b",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Astro Premier League",
+      "url": "https://kicksball.com/tv/astro-premier-league-537",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1729384542.png&s=9e1405c3de2a",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Astro Premier League 2",
+      "url": "https://kicksball.com/tv/astro-premier-league-2-536",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1729384502.png&s=6682330e66ed",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Astro Sports Plus",
+      "url": "https://kicksball.com/tv/astro-sports-plus-539",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1729385809.png&s=02249e9b0426",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Astro Sports Plus 2",
+      "url": "https://kicksball.com/tv/astro-sports-plus-2-568",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1733771622.png&s=56287a7a46f9",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Channel 5",
+      "url": "https://kicksball.com/tv/channel-5-760",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1784591189.png&s=53e6542faab9",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Eleven Pro League 1",
+      "url": "https://kicksball.com/tv/eleven-pro-league-1-455",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1722089133.png&s=0629a101add8",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Eurosport",
+      "url": "https://kicksball.com/tv/eurosport-604",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1753040524.png&s=2c4d512a554e",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Eurosport 1 | Spain",
+      "url": "https://kicksball.com/tv/eurosport-1-spain-332",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1711566124.png&s=70dd2b0dc057",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Eurosport 2 | Spain",
+      "url": "https://kicksball.com/tv/eurosport-2-spain-333",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1711566136.png&s=d17ea12e758d",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "F1TV",
+      "url": "https://kicksball.com/tv/f1tv-741",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1774759298.png&s=2a750f9e4905",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "FIFA Plus",
+      "url": "https://kicksball.com/tv/fifa-plus-583",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1739094315.png&s=1c6cd1c773aa",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "LFCTV",
+      "url": "https://kicksball.com/tv/lfctv-130",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1669940282.png&s=6970d76693a1",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "MCOT HD",
+      "url": "https://kicksball.com/tv/mcot-hd-133",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1671966260.png&s=91d77c086d04",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "MLB",
+      "url": "https://kicksball.com/tv/mlb-232",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1695548172.png&s=849086ebcfb3",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "MONO29 (โมโน 29)",
+      "url": "https://kicksball.com/tv/mono29-โมโน-29-279",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703787713.png&s=f6a6efbcc76d",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "MUTV",
+      "url": "https://kicksball.com/tv/mutv-84",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1665106261.png&s=190d3542a96e",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "NBA TV",
+      "url": "https://kicksball.com/tv/nba-tv-61",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1664532126.png&s=d83e2f76d5f8",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "NFL Network",
+      "url": "https://kicksball.com/tv/nfl-network-219",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1694909293.png&s=8813067fccdb",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "ONE Championship",
+      "url": "https://kicksball.com/tv/one-championship-739",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1774002787.png&s=44717cece142",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "PPTV",
+      "url": "https://kicksball.com/tv/pptv-37",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1664499074.png&s=9109a2dc5eda",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "PREMIER SPORTS 1 | UK",
+      "url": "https://kicksball.com/tv/premier-sports-1-uk-365",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1715565710.png&s=eb8e114693ca",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Prima TV",
+      "url": "https://kicksball.com/tv/prima-tv-253",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1697334593.png&s=aa7b6b193ce8",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Real Madrid TV",
+      "url": "https://kicksball.com/tv/real-madrid-tv-632",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1755295527.png&s=0bac54095076",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Red Bull TV",
+      "url": "https://kicksball.com/tv/red-bull-tv-334",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1711566263.png&s=6931818b3ab0",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "SPOTV",
+      "url": "https://kicksball.com/tv/spotv-59",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1664529562.png&s=294a043936c7",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "SPOTV 2",
+      "url": "https://kicksball.com/tv/spotv-2-60",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1664529575.png&s=39c374e0c75f",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "TNT USA",
+      "url": "https://kicksball.com/tv/tnt-usa-205",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1694456079.png&s=5dc641baa5c8",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "TV OKEY | Malaysia",
+      "url": "https://kicksball.com/tv/tv-okey-malaysia-408",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1719438426.png&s=95a5a1df9439",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "UFC Fight Pass",
+      "url": "https://kicksball.com/tv/ufc-fight-pass-556",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1731847474.png&s=8d4007d6be5e",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "VBTV 4",
+      "url": "https://kicksball.com/tv/vbtv-4-779",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1785969703.png&s=5287bbd6183b",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "W-Sport",
+      "url": "https://kicksball.com/tv/w-sport-605",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1753040687.png&s=74d3232b7dde",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "WWE Network",
+      "url": "https://kicksball.com/tv/wwe-network-240",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1696317392.png&s=910a84f0dae4",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "one31",
+      "url": "https://kicksball.com/tv/one31-170",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1683394005.png&s=c963ae902108",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "sportdigital",
+      "url": "https://kicksball.com/tv/sportdigital-18",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1664202734.png&s=94481845e6da",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "ช่อง 3",
+      "url": "https://kicksball.com/tv/ช่อง-3-177",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1685812254.png&s=45b7d20948a3",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "ช่อง 5",
+      "url": "https://kicksball.com/tv/ช่อง-5-63",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1664574997.png&s=7fb41c932bc3",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "ช่อง 7",
+      "url": "https://kicksball.com/tv/ช่อง-7-181",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1688059473.png&s=f4aa2b0520a3",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "ไทยรัฐทีวี",
+      "url": "https://kicksball.com/tv/ไทยรัฐทีวี-179",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1686800227.png&s=6a7ffd506364",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Animal Show",
+      "url": "https://kicksball.com/tv/animal-show-294",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1705537126.png&s=6daf1abf1c46",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "BBC Earth",
+      "url": "https://kicksball.com/tv/bbc-earth-572",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1736064117.png&s=d7d9b8d2057d",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Crime + Investigation",
+      "url": "https://kicksball.com/tv/crime-investigation-359",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1714101661.png&s=51cd1e926062",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "DMAX",
+      "url": "https://kicksball.com/tv/dmax-360",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1714101765.png&s=d36ac00fa470",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Discovery",
+      "url": "https://kicksball.com/tv/discovery-301",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1706112738.png&s=85c7a0704cab",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Discovery Asia",
+      "url": "https://kicksball.com/tv/discovery-asia-302",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1706112755.png&s=17e1a15a66fa",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Foodiez Channel",
+      "url": "https://kicksball.com/tv/foodiez-channel-736",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1772460739.png&s=7a743fd2a9f5",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "History",
+      "url": "https://kicksball.com/tv/history-350",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1713231372.png&s=736680785235",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "Love Nature 4K",
+      "url": "https://kicksball.com/tv/love-nature-4k-533",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1729286214.png&s=87420059a887",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "National Geographic",
+      "url": "https://kicksball.com/tv/national-geographic-391",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1716366217.png&s=2d61497697ca",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "RT Documentary",
+      "url": "https://kicksball.com/tv/rt-documentary-560",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1731890461.png&s=03e09d0f8172",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "สำรวจโลก",
+      "url": "https://kicksball.com/tv/สำรวจโลก-292",
+      "image": "https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1705536821.png&s=1d246d53008b",
+      "referer": "https://kicksball.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+   ]
+  },
