@@ -3,7 +3,7 @@
   "author": "Akaraphisit",
   "image": "https://img2.pic.in.th/Copilot_20260820_104909.md.png",
   "version": "1.0.0",
-  "stations": [
+  "groups": [
     {
       "name": "ช่องไทย",
       "author": "Akaraphisit",
