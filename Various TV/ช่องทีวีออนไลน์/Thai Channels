@@ -1,0 +1,64 @@
+#EXTM3U url="https://pastebin.com/raw/N9WcPiMR"
+# =============================================
+# 📺 หมวดหมู่: ช่องไทย (Thai Channels)
+# =============================================
+#EXTINF:-1 tvg-chno="2" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/7161.jpg",🟣 7 HD
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/7161/playlist.m3u8
+#EXTINF:-1 tvg-chno="3" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/6328.jpg",🟢 Amarin TV
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/6328/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/497.jpg",🔴 CH 8
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/497/playlist.m3u8
+#EXTINF:-1 tvg-chno="6" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/6332.jpg",🔵 MCOT HD
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/6332/playlist.m3u8
+#EXTINF:-1 tvg-chno="7" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/6339.jpg",🟠 Nation
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/6339/playlist.m3u8
+#EXTINF:-1 tvg-chno="8" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/1450.jpg",🟡 NBT Channel
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1450/playlist.m3u8
+#EXTINF:-1 tvg-chno="9" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/1664.jpg",🟣 PPTV HD
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1664/playlist.m3u8
+#EXTINF:-1 tvg-chno="11" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/1698.jpg",🟢 Thai PBS
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1698/playlist.m3u8
+#EXTINF:-1 tvg-chno="13" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/6345.jpg",🔴 TNN 16
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/6345/playlist.m3u8
+#EXTINF:-1 tvg-chno="14" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/430.jpg",🔵 TPTV
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/430/playlist.m3u8
+#EXTINF:-1 tvg-chno="18" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/6337.jpg",🟠 True4U
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/6337/playlist.m3u8
+#EXTINF:-1 tvg-chno="19" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/6335.jpg",🟡 Workpoint TV
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/6335/playlist.m3u8
+#EXTINF:-1 tvg-chno="20" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/716.jpg",🟣 ของดีประเทศไทย
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/716/playlist.m3u8
+#EXTINF:-1 tvg-chno="21" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/7348.jpg",🟢 ช่อง 3 HD
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/7348/playlist.m3u8
+#EXTINF:-1 tvg-chno="22" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/7347.jpg",🔴 ช่อง 5 HD
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/7347/playlist.m3u8
+#EXTINF:-1 tvg-chno="24" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/6330.jpg",🔵 ไทยรัฐ TV HD
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/6330/playlist.m3u8
+#EXTINF:-1 tvg-chno="25" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/563.jpg",🟠 สำรวจโลก
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/563/playlist.m3u8
+#EXTINF:-1 tvg-chno="26" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/1243.jpg",🟡 สุวรรณภูมิทีวี
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/1243/playlist.m3u8
+#EXTINF:-1 tvg-chno="55" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/6336.jpg",🟣 GMM 25
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/6336/playlist.m3u8
+#EXTINF:-1 tvg-chno="60" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/461.jpg",🟢 One Channel
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/461/playlist.m3u8
