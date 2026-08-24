@@ -3,7 +3,13 @@
 "name": "ⓈⓅⒶⒸⒺ",
 "author": "🤜Akaraphisit🤛",
 "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-"stations": [
+"groups": [
+{
+      "name": "หนังสั้นออนไลน์",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+      "info":"ผ่านเว็บ",
+      "stations": [
 {
 "name": "ซีรีส์แนวตั้ง",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
@@ -31,12 +37,8 @@
 "embed": "true",
 "playInNatPlayer": "true"
 },
-{
-      "name": "หนังสั้นออนไลน์",
-      "author": "🤜Akaraphisit🤛",
-      "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-      "info":"ไฟล์สตรีม",
-      "groups": [
+]
+},
 {
 "name": "หนังสั้นออนไลน์",
 "image": "https://www.xn--72c9ab1ec1bc6q.online/assets/images/icon_shortflim.webp",
@@ -45,7 +47,5 @@
 "referer": "",
 "playInNatPlayer": "true"
 },
-]
-}
 ]
 },
