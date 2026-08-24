@@ -3,7 +3,7 @@
 "name": "ⓈⓅⒶⒸⒺ",
 "author": "🤜Akaraphisit🤛",
 "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-"groups": [
+"stations": [
 {
 "name": "ซีรีส์แนวตั้ง",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
@@ -33,7 +33,7 @@
 },
 {
 "name": "หนังสั้นออนไลน์",
-"image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZubG4wYTU2bWs5dzFzeDhzeXc5dm5hZHgwbWFhZjJ3NG8wdTZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mA7fEN41GcZNK04oRI/giphy.gif",
+"image": "https://www.xn--72c9ab1ec1bc6q.online/assets/images/icon_shortflim.webp",
 "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Movies%26Serie/AI%20%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B1%E0%B9%89%E0%B8%99%20%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%88%E0%B8%B5%E0%B8%99/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C", 
 "info":"ไฟล์สตรีม",
 "referer": "",
