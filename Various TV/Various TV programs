@@ -6,14 +6,23 @@
 "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT",
 "groups": [
 {
-"name": "ผ่านเว็บ",
+"name": "ถ่ายทอดสด",
 "author": "🤜Akaraphisit🤛",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuHqgp5MfnoKjhat7jxHQxO8ncgzs7JGo-XSMA7qol9Nt5upqk3e46Qe9&s=10",
+"image": "https://png.pngtree.com/png-clipart/20220726/original/pngtree-live-streaming-live-box-signal-png-image_8409519.png",
 "stations": [
 {
 "name": "ถ่ายทอดกีฬาสด",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIwuwyJ6tNJ4ybiEIoRqCdXRiC7Lblg8LIEyx3nboow&s=10",
 "url": "https://www.otp24hr.com/sport/all", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ถ่ายทอดทีวีสด",
+"image": "https://kicksball.com/assets/img/logo.png",
+"url": "https://kicksball.com/tv", 
 "referer": "",
 "info":"ผ่านเว็บ",
 "embed": "true",
