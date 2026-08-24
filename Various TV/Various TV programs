@@ -6,6 +6,22 @@
 "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT",
 "groups": [
 {
+"name": "ผ่านเว็บ",
+"author": "🤜Akaraphisit🤛",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuHqgp5MfnoKjhat7jxHQxO8ncgzs7JGo-XSMA7qol9Nt5upqk3e46Qe9&s=10",
+"stations": [
+{
+"name": "ถ่ายทอดกีฬาสด",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIwuwyJ6tNJ4ybiEIoRqCdXRiC7Lblg8LIEyx3nboow&s=10",
+"url": "https://www.otp24hr.com/sport/all", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+{
 "name": "🖕Free🖕 TV",
 "author": "🤜Akaraphisit🤛",
 "image": "https://img2.pic.in.th/Copilot_20260820_104909.md.png",
