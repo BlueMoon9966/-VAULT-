@@ -7,7 +7,7 @@
 {
 "name": "ผ่านเว็บ",
 "author": "🤜Akaraphisit🤛",
-"image": "https://www.xn--72c9ab1ec1bc6q.online/assets/images/icon_shortflim.webp",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuHqgp5MfnoKjhat7jxHQxO8ncgzs7JGo-XSMA7qol9Nt5upqk3e46Qe9&s=10",
 "stations": [
 {
 "name": "Serie BiliBili",
@@ -40,6 +40,285 @@
 "name": "DramaBox",
 "image": "https://www.otp24hr.com/views/assets/image/ico_drama/dramabox.webp?=3",
 "url": "https://www.otp24hr.com/dramas/dramabox", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Melolo",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/melolo.webp?=3",
+"url": "https://www.otp24hr.com/dramas/melolo", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "WeTV",
+"image": "https://www.otp24hr.com/views/assets/image/favicon.ico",
+"url": "https://www.otp24hr.com/dramas/wetv", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "FreeReels",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/FreeReels.webp?=3",
+"url": "https://www.otp24hr.com/dramas/freereels", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Meloshhort",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/MeloShort.webp?=3",
+"url": "https://www.otp24hr.com/dramas/meloshort", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ReelShort",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/reelshort.webp?=3",
+"url": "https://www.otp24hr.com/dramas/reelshort", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "StardustTV",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/stardusttv.webp?=3",
+"url": "https://www.otp24hr.com/dramas/stardusttv", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "NetShort",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/netshort.webp?=3",
+"url": "https://www.otp24hr.com/dramas/netshort", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ShortMax",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/shortmax.webp?=3",
+"url": "https://www.otp24hr.com/dramas/shortmax", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "FlickReels",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/flickreels.webp?=3",
+"url": "https://www.otp24hr.com/dramas/flickreels", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "FlexTV",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/FlexTV.webp?=3",
+"url": "https://www.otp24hr.com/dramas/flextv", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "DramaRush",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/DramaRush.webp?=3",
+"url": "https://www.otp24hr.com/dramas/dramarush", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "RapidTV",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/RapidTV.webp?=3",
+"url": "https://www.otp24hr.com/dramas/rapidtv", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "DramaNova",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/dramanova.webp?=3",
+"url": "https://www.otp24hr.com/dramas/dramanova", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Starshort",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/StarShort.webp?=3",
+"url": "https://www.otp24hr.com/dramas/starshort", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "DramaPops",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/dramapops.webp?=3",
+"url": "https://www.otp24hr.com/dramas/dramapops", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "SnackShort",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/SnackShort.webp?=3",
+"url": "https://www.otp24hr.com/dramas/snackshort", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Dramabite",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/DramaBite.webp?=3",
+"url": "https://www.otp24hr.com/dramas/dramabite", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Soda Reels",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/SodaReels.webp?=3",
+"url": "https://www.otp24hr.com/dramas/sodareels", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "BiliBili",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/bilitv-logo.webp?=3",
+"url": "https://www.otp24hr.com/dramas/bilitv", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "iDrama",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/idrama.webp?=3",
+"url": "https://www.otp24hr.com/dramas/idrama", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "CubeTV",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/cubetv.webp?=3",
+"url": "https://www.otp24hr.com/dramas/cubetv", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Shortwave",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/shortwave.webp?=3",
+"url": "https://www.otp24hr.com/dramas/shortwave", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "ShotShort",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/Shotshort.webp?=3",
+"url": "https://www.otp24hr.com/dramas/shotshort", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "MicroDrama",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/MicroDrama.webp?=3",
+"url": "https://www.otp24hr.com/dramas/microdrama", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "RadReels",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/RadReels.webp?=3",
+"url": "https://www.otp24hr.com/dramas/radreels", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sereal",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/sereal.webp?=3",
+"url": "https://www.otp24hr.com/dramas/sereal", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "CashDrama",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/cashdrama.webp?=3",
+"url": "https://www.otp24hr.com/dramas/cashdrama", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "DotDrama",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/dotdrama.webp?=3",
+"url": "https://www.otp24hr.com/dramas/dotdrama", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "MoboReels",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/Moboreels.png?=3",
+"url": "https://www.otp24hr.com/dramas/moboreels", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Vigloo",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/viglo.webp?=3",
+"url": "https://www.otp24hr.com/dramas/vigloo", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Shortbox",
+"image": "https://www.otp24hr.com/views/assets/image/ico_drama/Shortbox.png?=3",
+"url": "https://www.otp24hr.com/dramas/shortbox", 
 "referer": "",
 "info":"ผ่านเว็บ",
 "embed": "true",
