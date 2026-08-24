@@ -1,69 +1,66 @@
 {
-"version": "1.0",
-"name": "ⓈⓅⒶⒸⒺ",
-"author": "🤜Akaraphisit🤛",
-"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-"groups": [
-      {
+  "version": "1.0",
+  "name": "ⓈⓅⒶⒸⒺ",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+  "groups": [
+    {
       "name": "bilibili",
       "author": "🤜Akaraphisit🤛",
       "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
       "groups": [
-{
-"name": "ช่องของ มินิซีรีส์จีนแนวตั้ง",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
-"url": "https://www.bilibili.tv/th/space/1967559152", 
-"referer": "",
-"info":"ผ่านเว็บ",
-"embed": "true",
-"playInNatPlayer": "true"
-},
-{
-"name": "ช่องของ ติดซีรีย์แนวตั้ง",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
-"url": "https://www.bilibili.tv/th/space/1002761341", 
-"referer": "",
-"info":"ผ่านเว็บ",
-"embed": "true",
-"playInNatPlayer": "true"
-},
-{
-"name": "ช่องของ ละครสั้นจีน",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
-"url": "https://www.bilibili.tv/th/space/1877661680", 
-"referer": "",
-"info":"ผ่านเว็บ",
-"embed": "true",
-"playInNatPlayer": "true"
-},
-{
-"name": "ภารกิจปราบเด็กแสบ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
-"url": "https://www.bilibili.tv/th/video/4800190094645760", 
-"referer": "",
-"info":"ผ่านเว็บ",
-"embed": "true",
-"playInNatPlayer": "true"
-},
-]
-}
-{
-"name": "หนังสั้นออนไลน์",
-"image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZubG4wYTU2bWs5dzFzeDhzeXc5dm5hZHgwbWFhZjJ3NG8wdTZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mA7fEN41GcZNK04oRI/giphy.gif",
-"url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/Movies%26Serie/AI%20%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B1%E0%B9%89%E0%B8%99%20%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%88%E0%B8%B5%E0%B8%99/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C", 
-"referer": "",
-"info":"ไฟล์สตรีม",
-"embed": "true",
-"playInNatPlayer": "true"
-},
-{
-"name": "dramabox",
-"image": "https://www.otp24hr.com/views/assets/image/ico_drama/dramabox.webp?=3",
-"url": "https://www.otp24hr.com/dramas/dramabox", 
-"referer": "",
-"info":"ผ่านเว็บ",
-"embed": "true",
-"playInNatPlayer": "true"
-},
-]
+        {
+          "name": "ช่องของ มินิซีรีส์จีนแนวตั้ง",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
+          "url": "https://www.bilibili.tv/th/space/1967559152",
+          "referer": "",
+          "info": "ผ่านเว็บ",
+          "embed": "true",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ช่องของ ติดซีรีย์แนวตั้ง",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
+          "url": "https://www.bilibili.tv/th/space/1002761341",
+          "referer": "",
+          "info": "ผ่านเว็บ",
+          "embed": "true",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ช่องของ ละครสั้นจีน",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
+          "url": "https://www.bilibili.tv/th/space/1877661680",
+          "referer": "",
+          "info": "ผ่านเว็บ",
+          "embed": "true",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ภารกิจปราบเด็กแสบ",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
+          "url": "https://www.bilibili.tv/th/video/4800190094645760",
+          "referer": "",
+          "info": "ผ่านเว็บ",
+          "embed": "true",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "หนังสั้นออนไลน์",
+      "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZubG4wYTU2bWs5dzFzeDhzeXc5dm5hZHgwbWFhZjJ3NG8wdTZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mA7fEN41GcZNK04oRI/giphy.gif",
+      "groups": [
+        {
+          "name": "dramabox",
+          "image": "https://www.otp24hr.com/views/assets/image/ico_drama/dramabox.webp?=3",
+          "url": "https://www.otp24hr.com/dramas/dramabox",
+          "referer": "",
+          "info": "ผ่านเว็บ",
+          "embed": "true",
+          "playInNatPlayer": "true"
+        }
+      ]
+    }
+  ]
 }
