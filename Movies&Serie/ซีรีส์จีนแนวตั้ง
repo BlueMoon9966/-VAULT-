@@ -5,6 +5,11 @@
 "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
 "groups": [
 {
+"name": "หนังสั้นออนไลน์",
+"author": "🤜Akaraphisit🤛",
+"image": "https://www.xn--72c9ab1ec1bc6q.online/assets/images/icon_shortflim.webp",
+"stations": [
+{
 "name": "ซีรีส์แนวตั้ง bilibili",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQX7GtSkXF2wmRPezqh8qqlVEGEgiy9bjf19sxV1bnA&s=10",
 "url": "https://www.bilibili.tv/th/short-drama", 
@@ -30,6 +35,8 @@
 "info":"ผ่านเว็บ",
 "embed": "true",
 "playInNatPlayer": "true"
+},
+]
 },
 {
 "name": "หนังสั้นออนไลน์",
