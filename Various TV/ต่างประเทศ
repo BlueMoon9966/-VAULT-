@@ -21,6 +21,24 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "CNBC Live",
+"image": "http://www.freeintertv.com/modules/Main/image_1/cnbc_live.jpg",
+"url": "https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-4-86X4McEAF4SL_live.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBC Live",
+"image": "http://www.freeintertv.com/modules/Main/image_1/nbc-live.jpg",
+"url": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_4.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
 "name": "Sky News",
 "image": "http://www.freeintertv.com/modules/Main/image/skynews.jpg",
 "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8",
@@ -58,7 +76,7 @@
 },
 {
 "name": "CNN International",
-"image": "http://www.freeintertv.com/modules/Main/image_1/rtde.jpg",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIY1rIVR07_ukdoV37eC2i0gBup-PPmT3vs5KtyNIa7JagxUDNwxuHfE&s=10",
 "url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8",
 "info": "สหรัฐอเมริกา",
 "referer": "",
@@ -111,15 +129,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CNBC Live",
-"image": "http://www.freeintertv.com/modules/Main/image_1/cnbc_live.jpg",
-"url": "https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-4-86X4McEAF4SL_live.m3u8",
-"info": "สหรัฐอเมริกา",
-"referer": "",
-"embed": "true",
-"playInNatPlayer": "true"
-},
-{
 "name": "i24 News",
 "image": "http://www.freeintertv.com/modules/Main/image_1/i24_news.jpg",
 "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
@@ -132,15 +141,6 @@
 "name": "Bloomberg U.S.",
 "image": "http://www.freeintertv.com/modules/Main/image_1/bloomberg_us.jpg",
 "url": "https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8",
-"info": "สหรัฐอเมริกา",
-"referer": "",
-"embed": "true",
-"playInNatPlayer": "true"
-},
-{
-"name": "NBC Live",
-"image": "http://www.freeintertv.com/modules/Main/image_1/nbc-live.jpg",
-"url": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_4.m3u8",
 "info": "สหรัฐอเมริกา",
 "referer": "",
 "embed": "true",
