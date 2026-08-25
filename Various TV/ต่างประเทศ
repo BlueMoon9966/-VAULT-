@@ -1,0 +1,275 @@
+      {
+      "version": "1.0",
+      "name": "ช่องต่างประเทศ",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://png.pngtree.com/png-clipart/20220726/original/pngtree-live-streaming-live-box-signal-png-image_8409519.png",
+      "info": "freeintertv",
+      "groups": [
+   {
+   "name": "ข่าวสาร",
+   "author": "🤜Akaraphisit🤛",
+   "image": "https://png.pngtree.com/png-clipart/20220726/original/pngtree-live-streaming-live-box-signal-png-image_8409519.png",
+   "info": "freeintertv",
+   "stations": [
+{
+"name": "NBC Live",
+"image": "http://www.freeintertv.com/modules/Main/image_1/nbc-live.jpg",
+"url": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky News",
+"image": "http://www.freeintertv.com/modules/Main/image/skynews.jpg",
+"url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8",
+"info": "สหราชอาณาจักร",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "CityNews HD",
+"image": "http://www.freeintertv.com/modules/Main/image_1/250px-CityNews_Channel.jpg",
+"url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-3MBPS.m3u8",
+"info": "แคนาดา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "India News",
+"image": "http://www.freeintertv.com/modules/Main/image_1/200px-INDIA_NEWS_12000.jpg",
+"url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_180p/chunks.m3u8",
+"info": "อินเดีย",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "RT DE",
+"image": "http://www.freeintertv.com/modules/Main/image_1/rtde.jpg",
+"url": "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_2500Kb.m3u8",
+"info": "เยอรมนี",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "CNN International",
+"image": "http://www.freeintertv.com/modules/Main/image_1/rtde.jpg",
+"url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "BBC NEWS24",
+"image": "http://www.freeintertv.com/modules/Main/image_1/bbc_news_uk.jpg",
+"url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8",
+"info": "สหราชอาณาจักร",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Yahoo Finance Live",
+"image": "https://img.haystack.tv/v1/128x128/haystack-channel-thumbnails/large/yahoofinance_512x512.png",
+"url": "https://ef4ea95e975c485c95caa803fd970bd3.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/yahooLive/b38725f5-6694-443a-85db-ad8f4357571a/2.m3u8",
+"info": "",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Newsmax",
+"image": "https://img.haystack.tv/v1/128x128/haystack-channel-thumbnails/large/newsmaxtv_512x512.jpg",
+"url": "https://7520e16e3d344337afc4c88f01c838bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/6733b0c1-c177-40a6-adda-aaff45cbbc8c/0.m3u8",
+"info": "",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "CBS News",
+"image": "https://img.haystack.tv/v1/128x128/haystack-channel-thumbnails/large/cbsnewsonline_512x512.jpg",
+"url": "https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/22ab02de-52c6-4dbd-90da-95a6df8d6cf6:TPE/variant/df15b3d87264e51b4858655d95765b18/bandwidth/1549000.m3u8",
+"info": "",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Euronews",
+"image": "https://img.haystack.tv/v1/128x128/haystack-channel-thumbnails/large/euronews_512x512.jpg",
+"url": "https://cd118647c4c94788b6395c6d81966c17.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/TemporalLive/cea0eec5-fd2e-4236-8d14-03f09d176c0f/2.m3u8",
+"info": "",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "CNBC Live",
+"image": "http://www.freeintertv.com/modules/Main/image_1/cnbc_live.jpg",
+"url": "https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-4-86X4McEAF4SL_live.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "i24 News",
+"image": "http://www.freeintertv.com/modules/Main/image_1/i24_news.jpg",
+"url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
+"info": "สหราชอาณาจักร",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Bloomberg U.S.",
+"image": "http://www.freeintertv.com/modules/Main/image_1/bloomberg_us.jpg",
+"url": "https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBC Live",
+"image": "http://www.freeintertv.com/modules/Main/image_1/nbc-live.jpg",
+"url": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_4.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+   {
+   "name": "เพลง",
+   "author": "🤜Akaraphisit🤛",
+   "image": "https://png.pngtree.com/png-clipart/20220726/original/pngtree-live-streaming-live-box-signal-png-image_8409519.png",
+   "info": "freeintertv",
+   "stations": [
+{
+"name": "Kiss TV",
+"image": "http://www.freeintertv.com/modules/Main/image/skynews.jpg",
+"url": "https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8",
+"info": "สเปน",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "E-Music Television",
+"image": "http://www.freeintertv.com/modules/Main/image/emusic.gif",
+"url": "https://d726x48n2pd5h.cloudfront.net/1080p-vtt/index.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hot Music",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2O5AknGz0Ox76QlB5FjmeR4Zmv4LOXFXOja1F7m2QWg&s=10",
+"url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "California Music Channel",
+"image": "http://www.freeintertv.com/modules/Main/image_1/calimc.jpg",
+"url": "https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3273329.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Miami TV DJ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6iR4eQoyJuZCwsJxM5sjKMERCEzBps3w7dTzWUtRLJA&s=10",
+"url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "E-Music",
+"image": "http://www.freeintertv.com/modules/Main/image_1/e-music.jpg",
+"url": "https://d726x48n2pd5h.cloudfront.net/1080p-vtt/index.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Word on Da Streets",
+"image": "http://www.freeintertv.com/modules/Main/image/wodsbanner.jpg",
+"url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+   {
+   "name": "กีฬา",
+   "author": "🤜Akaraphisit🤛",
+   "image": "https://png.pngtree.com/png-clipart/20220726/original/pngtree-live-streaming-live-box-signal-png-image_8409519.png",
+   "info": "freeintertv",
+   "stations": [
+{
+"name": "Football",
+"image": "http://www.freeintertv.com/modules/Main/image_1/ukr_foot.jpg",
+"url": "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
+"info": "รัสเซีย",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Football",
+"image": "http://www.freeintertv.com/modules/Main/image_1/ukr_foot.jpg",
+"url": "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+   {
+   "name": "ภาพยนตร์",
+   "author": "🤜Akaraphisit🤛",
+   "image": "https://png.pngtree.com/png-clipart/20220726/original/pngtree-live-streaming-live-box-signal-png-image_8409519.png",
+   "info": "freeintertv",
+   "stations": [
+{
+"name": "Best Movies HD",
+"image": "http://www.freeintertv.com/modules/Main/image_1/best_movies_2010.jpg",
+"url": "https://30a-tv.com/feeds/720p/52.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "Best Movies HD",
+"image": "http://www.freeintertv.com/modules/Main/image_1/best_movies_2010.jpg",
+"url": "https://30a-tv.com/feeds/720p/52.m3u8",
+"info": "สหรัฐอเมริกา",
+"referer": "",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+]
+},
+]
+},
