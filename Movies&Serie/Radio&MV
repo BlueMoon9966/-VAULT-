@@ -13,7 +13,6 @@
 "image": "https://ritsatv.ru/files/poster/medium/901479.jpg",
 "url": "https://ritsatv.ru/movie-id901479-edm-mainstage-dance-tv",
 "embed": "true",
-"playInNatPlayer": "true"
 },
 {
 "name": "NOW 90s & 00s",
@@ -175,8 +174,6 @@
 "url": "https://free.rcast.net/71036",
 "info": "EN-Music",
 "audio": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-"playInNatPlayer": "true"
 },
 {
 "name": "📻 MUNforward Xtra Music",
