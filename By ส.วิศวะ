@@ -13,11 +13,6 @@
       "import": false
       },
       {
-      "name": "รายการทั้วไป",
-      "author": "🤜Akaraphisit🤛",
-      "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
-      "groups": [
-      {
       "name": "Digital TV",
       "image": "https://www.dropbox.com/scl/fi/ex4q5yhmyoicotlddury4/.gif?rlkey=c5vrjtakupp6utdfibclfsezb&dl=1",
       "url": "https://docs.google.com/uc?export=download&id=11ZocU_q36HwsTwuT-dGuZm2hc6Gjzarc",
@@ -29,152 +24,113 @@
       "url": "https://docs.google.com/uc?export=download&id=1nQAAcuX3dEWdBB1CWeY8s5uqo_xj69ue",
       "import": false
       },
-      {
-      "name": "ช่องหนัง ออนไลน์",
-      "image": "https://www.dropbox.com/scl/fi/brq3rl8en04uinpiywvks/.gif?rlkey=hn4yqqy2tlg8pwhdg2r6sh7ll&st=n8ob61cf&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1rWtTykWRu_SGQcCbOY_vvSQjFlkqzMey",
-      "import": true,
-      },
-      {
-      "name": "Cartoons",
-      "image": "https://www.dropbox.com/scl/fi/wekkf6bsthgw2tupjg2fq/.gif?rlkey=f0sd0zp9jmzfc4pgt3n5qmfhr&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1oZCHdnBJat53eg0XZRIP6YKxmeJmm5VB",
-      "import": true
-      },
-      {
-      "name": "🎵 ช่องเพลง",
-      "image": "https://www.dropbox.com/scl/fi/k8izoyljhbvmq35mqpcvj/.gif?rlkey=jmzvgfqq9h0d1ckek03rc8d3t&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1aeIYj2VU7qe7j0RbSC2fWNJhqf5F9ZZ-",
-      "import": false
-      },
-      {
-      "name": "วิทยุออนไลน์",
-      "image": "https://www.dropbox.com/scl/fi/o4p8rv7chcq5zmby167wb/.gif?rlkey=7o4g6ngvid1j9vvi110sqyatv&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=15zoaOTufm9ef9J9BOzQ0C_BEQ1sYMWbz",
-      "import": false
-      },
-      {
-      "name": "คอนเสิร์ต รวม",
-      "image": "https://www.dropbox.com/scl/fi/lwsgs0wu8pgql8kwsaw1g/.gif?rlkey=wbc10qd0l3t5ebeefxq8h6d2z&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1hZjgsLveq1lkBH-hu5gZYdSqR5bdlZkD",
-      "import": false
-      },
-      {
-      "name": "บันเทิง",
-      "image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1rWIH5vxOfzuQbBaoUV24rlLSdYqWIaTY",
-      "import": false
-      },
-      {
-      "name": "รายการตลก",
-      "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1AySDN2us97OJ1RNqxE40sKI7bXjrsZXh",
-      "import": false
-      },
-      {
-      "name": "เรื่องหลอนๆ",
-      "image": "https://www.dropbox.com/scl/fi/khw4blgir3yhubvalvpp8/.gif?rlkey=81ckqotmhfvyv8obata8fouhp&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
-      "import": false
-      },
-      {
-      "name": "ช่องการศึกษา",
-      "image": "https://www.dropbox.com/scl/fi/xwtan5qi6ch4in5ok9lse/.gif?rlkey=0q7vl42pryt2d3ilsfk33r8t4&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1MkVazTWUdZB2L5apQmi37Vxjz9ri3QyU",
-      "import": false
-      },
-      {
-      "name": "ดูกล้องวงจรปิด",
-      "image": "https://www.dropbox.com/scl/fi/f1syiljnd7e43jzoqc672/.gif?rlkey=62zerl5so0icd8pwpowndnmil&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=19KGCFGHm5D4D-Wcuc4z7rH2uUAqfPq9W",
-      "import": true
-      },
-      {
-      "name": "ธรรมะ บทสวด",
-      "image": "https://www.dropbox.com/scl/fi/mo1fii9ktkzw883xeg0uk/.gif?rlkey=2viya5m48c29rsor7csg2o9rz&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1WhBud7rahVPGKRH7ng4kRwlrzE4prwC8",
-      "import": false
-      },
-      {
-      "name": "หนัง ผู้ใหญ่",
-      "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1jKMRubxcwldyPVb4MzL3YFZd-hMh326A",
-      "import": true
-      },
-      {
-      "name": "ตลก",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_6-comedy.w3u",
-      "import": false
-      },
-      {
-      "name": "อาชญกรรม",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_7-crime.w3u",
-      "import": false
-      },
-      {
-      "name": "สารคดี",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_8-documentary.w3u",
-      "import": false
-      },
-      {
-      "name": "ดราม่า",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_9-drama.w3u",
-      "import": false
-      },
-      {
-      "name": "อีโรติก",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_9-erotic.w3u",
-      "import": false
-      },
-      {
-      "name": "ครอบครัว",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_10-family.w3u",
-      "import": false
-      },
-      {
-      "name": "แฟนตาซี",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_11-fantasy.w3u",
-      "import": false
-      },
-      {
-      "name": "ผี สยองขวัญ",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_12-horror.w3u",
-      "import": false
-      },
-      {
-      "name": "โรแมนติก",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_13-romance.w3u",
-      "import": false
-      },
-      {
-      "name": "ไซไฟ",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_14-sci-fi.w3u",
-      "import": false
-      },
-      {
-      "name": "กีฬา",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_15-sports.w3u",
-      "import": false
-      },
-      {
-      "name": "ระทึกขวัญ",
-      "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-      "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_16-Thriller.w3u",
-      "import": false
-      }
-    ]
-  },
+{
+"name": "ช่องหนัง ออนไลน์",
+"image": "https://www.dropbox.com/scl/fi/brq3rl8en04uinpiywvks/.gif?rlkey=hn4yqqy2tlg8pwhdg2r6sh7ll&st=n8ob61cf&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1rWtTykWRu_SGQcCbOY_vvSQjFlkqzMey",
+"import": "true"
+},
+{
+"name": "สารคดี",
+"image": "https://www.dropbox.com/scl/fi/d3gevzanax9jbcj0rcelq/.gif?rlkey=m0b6wv8svpf0knelqoih3g1gl&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=16hjYsagqOAdabMTdvJRbfT-ekUxgqcy4",
+"import": false
+},
+{
+"name": "Cartoons",
+"image": "https://www.dropbox.com/scl/fi/wekkf6bsthgw2tupjg2fq/.gif?rlkey=f0sd0zp9jmzfc4pgt3n5qmfhr&dl=1", 
+"url": "https://docs.google.com/uc?export=download&id=1oZCHdnBJat53eg0XZRIP6YKxmeJmm5VB",
+"import": "true"
+},
+{
+"name": "การตูนย์อนิเมชั่น",
+"image": "https://www.dropbox.com/scl/fi/d2jyj6vrchrriaqtr5ybq/.gif?rlkey=k6dwmznxmovr8gla7tvak9msu&dl=1",
+"url" : "https://docs.google.com/uc?export=download&id=1iSJvaDOCiEXb7w2-1aU2RrMs_oh5h3I4",
+"import": "true"
+},
+{
+"name": "ละคร ทีวี",
+"image": "https://www.dropbox.com/scl/fi/n8gwdjyiauqtno9m4rqq0/.gif?rlkey=55ubyfvvellnv54j1p43y6so5&dl=1", 
+"url": "https://docs.google.com/uc?export=download&id=1eXV4F7VPT16ryEdOcJU3X-C_GQGucFSl",
+"import": false
+},
+{
+"name": "🎵 ช่องเพลง",
+"image": "https://www.dropbox.com/scl/fi/k8izoyljhbvmq35mqpcvj/.gif?rlkey=jmzvgfqq9h0d1ckek03rc8d3t&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1aeIYj2VU7qe7j0RbSC2fWNJhqf5F9ZZ-",
+"import": false
+},
+{
+"name": "วิทยุออนไลน์", 
+"image": "https://www.dropbox.com/scl/fi/o4p8rv7chcq5zmby167wb/.gif?rlkey=7o4g6ngvid1j9vvi110sqyatv&dl=1", 
+"url": "https://docs.google.com/uc?export=download&id=15zoaOTufm9ef9J9BOzQ0C_BEQ1sYMWbz",
+"import": false
+},
+{
+"name": "คอนเสิร์ต รวม  ",
+"image": "https://www.dropbox.com/scl/fi/lwsgs0wu8pgql8kwsaw1g/.gif?rlkey=wbc10qd0l3t5ebeefxq8h6d2z&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1hZjgsLveq1lkBH-hu5gZYdSqR5bdlZkD",
+"import": false
+},
+{"name": "บันเทิง ",
+"image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1rWIH5vxOfzuQbBaoUV24rlLSdYqWIaTY",
+"import": false
+},
+{
+"name": "รายการตลก",
+"image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1AySDN2us97OJ1RNqxE40sKI7bXjrsZXh",
+"import": false
+},
+{
+"name":"เรื่องหลอนๆ",
+"image":"https://www.dropbox.com/scl/fi/khw4blgir3yhubvalvpp8/.gif?rlkey=81ckqotmhfvyv8obata8fouhp&dl=1",
+"url":"https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
+"import": false
+},	
+{
+"name":"ช่องการศึกษา",
+"image":"https://www.dropbox.com/scl/fi/xwtan5qi6ch4in5ok9lse/.gif?rlkey=0q7vl42pryt2d3ilsfk33r8t4&dl=1",
+"url":"https://docs.google.com/uc?export=download&id=1MkVazTWUdZB2L5apQmi37Vxjz9ri3QyU",
+"import": false
+},	
+{
+"name": "ช่อง TV ทั่วโลก",
+"image": "https://www.dropbox.com/scl/fi/q34hf26tmy2o9lxrh30ll/.gif?rlkey=2sgaow2bxct0tc83tneseautc&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1GzFJL42pc2POBxZXtzByK-z-CBWCXz_q",
+"import": "false"
+}, 
+{
+"name": "News ข่าวทั่วโลก",
+image:"https://www.dropbox.com/scl/fi/29v9hv1ik64dil139r9y9/news.gif?rlkey=nh45bh26ccsxezsycnb7712af&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1wvYVGTnk-Z-4W21r_Io4JSPQC0Adp5Ns",
+"import": "true"
+},
+{
+"name": "ดูกล้องวงจรปิด ",
+"image": "https://www.dropbox.com/scl/fi/f1syiljnd7e43jzoqc672/.gif?rlkey=62zerl5so0icd8pwpowndnmil&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=19KGCFGHm5D4D-Wcuc4z7rH2uUAqfPq9W",
+"import": "true"
+},
+{
+"name": "ธรรมะ บทสวด",
+"image": "https://www.dropbox.com/scl/fi/mo1fii9ktkzw883xeg0uk/.gif?rlkey=2viya5m48c29rsor7csg2o9rz&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1WhBud7rahVPGKRH7ng4kRwlrzE4prwC8",
+"import": false
+},
+{
+"name": "หนัง ผู้ใหญ่",
+"image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1jKMRubxcwldyPVb4MzL3YFZd-hMh326A",
+"import": "true"
+},      
+{
+"name": "Link เพื่อนบ้าน",
+"image": "https://www.dropbox.com/scl/fi/180b667g5js6r46zcel5o/.gif?rlkey=hgd7j9xkq5frx4hhbhb744ou2&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1JJO9jJX0aERPdFItLLMa4kiU14gV6H_j",
+"import": false 
+},
       {
       "name": "Movies&Serie",
       "author": "🤜Akaraphisit🤛",
