@@ -1,511 +1,518 @@
-     {
-     "version": "1.0",
-     "name": "ⓈⓅⒶⒸⒺ",
-     "author": "🤜Akaraphisit🤛",
-     "info": "By ส.วิศวะ",   
-     "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-     "url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
-     "groups": [
-   {
-   "name": "Refresh",
-   "image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
-   "url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
-   "import": false 
-   },
-   {
-   "name": "Digital TV",
-   "image": "https://www.dropbox.com/scl/fi/ex4q5yhmyoicotlddury4/.gif?rlkey=c5vrjtakupp6utdfibclfsezb&dl=1",
-   "url": "https://docs.google.com/uc?export=download&id=11ZocU_q36HwsTwuT-dGuZm2hc6Gjzarc",
-   "import": false
-   },
-   { 
-   "name": "รวมกีฬา", 
-   "image": "https://www.dropbox.com/scl/fi/apdnpdz9pj2rlyla7i06d/.gif?rlkey=bltkcd9p9rleh0vzutxfkufu7&dl=1",
-   "url": "https://docs.google.com/uc?export=download&id=1nQAAcuX3dEWdBB1CWeY8s5uqo_xj69ue",
-   "import": false
-   },
-      {
+{
+  "version": "1.0",
+  "name": "ⓈⓅⒶⒸⒺ",
+  "author": "🤜Akaraphisit🤛",
+  "info": "By ส.วิศวะ",
+  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+  "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/By%20%E0%B8%AA.%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%B0",
+  "groups": [
+    {
+      "name": "Refresh",
+      "image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
+      "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/By%20%E0%B8%AA.%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%B0",
+      "import": false
+    },
+    {
+      "name": "Digital TV",
+      "image": "https://www.dropbox.com/scl/fi/ex4q5yhmyoicotlddury4/.gif?rlkey=c5vrjtakupp6utdfibclfsezb&dl=1",
+      "url": "https://docs.google.com/uc?export=download&id=11ZocU_q36HwsTwuT-dGuZm2hc6Gjzarc",
+      "import": false
+    },
+    {
+      "name": "รวมกีฬา",
+      "image": "https://www.dropbox.com/scl/fi/apdnpdz9pj2rlyla7i06d/.gif?rlkey=bltkcd9p9rleh0vzutxfkufu7&dl=1",
+      "url": "https://docs.google.com/uc?export=download&id=1nQAAcuX3dEWdBB1CWeY8s5uqo_xj69ue",
+      "import": false
+    },
+    {
       "name": "Movies&Serie",
       "author": "🤜Akaraphisit🤛",
       "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
       "groups": [
-{
-"name": "As requested",
-"image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBtaXo2eW14N2Z2d3YyanZxNWVuNTltd2hib2Z2eWFkc3EyMmJyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C92pAehGkpddElWRod/giphy.gif",
-"url": "https://docs.google.com/uc?export=download&id=10LO9qsxg8s7QNfvlHRjHkTD3RMSmpyrU",
-"import": false
-},
-{ 
- "name": "123-hdx", 
- "image": "https://static.thairath.co.th/media/00_A5B2768342C3E480.webp",
- "url": "https://docs.google.com/uc?export=download&id=1dWadgR3Ll6iZK1ULOizR7PV2ZnvH4lbc",
- "import": false 
-},
-{
-"name": "New.M2(moviesdoofree)",
-"image": "https://imgdownload.juxia.com/upload/202410/05/0ca544hXRP7GtYe.jpg",
-"url": "https://drive.google.com/uc?id=1qj_lTHgEQvLerFbvNhUKUJN79SX5T6fX",
-"import": false
-},
-{
- "name": "หนัง_ซีรี่ต่างประเทศ",
- "image": "https://www.thestreetratchada.com/upload/contents/1701319268TSR%20-%20Nov%20%209%20(%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87)-06.jpg",
- "url": "https://docs.google.com/uc?export=download&id=1g5CanrJ47FVHSxBPWwNopXMIWSNThkC9",
- "import": false 
-},
-{
-"name": "037 ฝรั่ง",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3cfQIPteRur1ptzCxuePuf6t9xTNJGFWow&s",
-"url": "https://www.dropbox.com/scl/fi/gsutyxep4sul1mam10wgp/037hddmovie_.w3u?rlkey=74yiymjd97iu3njimhoyco7xo&st=e4c618b2&dl=1",
-"import": false
-},
-{
-"name": "🍀MOVIES_2026_2025🍀",
-"image": "https://images.esquiremag.ph/esquiremagph/images/2023/05/03/10-movies-may-2023-main.jpg",
-"url": "https://drive.google.com/uc?id=17kqEgpuFowoiJjxV3MBF0s9aU_1yGLBM",
-"import": false
-},
-{
-"name": "🍀MOVIES_2024🍀",
-"image": "https://images.esquiremag.ph/esquiremagph/images/2023/05/03/10-movies-may-2023-main.jpg",
-"url": "https://drive.google.com/uc?id=11K1WselN_CWDWq2HcTorlzOFaVOFWx_U",
-"import": false
-}
-]
-},
-{
-      "name": "MOVIES1",
+        {
+          "name": "As requested",
+          "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBtaXo2eW14N2Z2d3YyanZxNWVuNTltd2hib2Z2eWFkc3EyMmJyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C92pAehGkpddElWRod/giphy.gif",
+          "url": "https://docs.google.com/uc?export=download&id=10LO9qsxg8s7QNfvlHRjHkTD3RMSmpyrU",
+          "import": false
+        },
+        {
+          "name": "123-hdx",
+          "image": "https://static.thairath.co.th/media/00_A5B2768342C3E480.webp",
+          "url": "https://docs.google.com/uc?export=download&id=1dWadgR3Ll6iZK1ULOizR7PV2ZnvH4lbc",
+          "import": false
+        },
+        {
+          "name": "New.M2(moviesdoofree)",
+          "image": "https://imgdownload.juxia.com/upload/202410/05/0ca544hXRP7GtYe.jpg",
+          "url": "https://drive.google.com/uc?id=1qj_lTHgEQvLerFbvNhUKUJN79SX5T6fX",
+          "import": true
+        },
+        {
+          "name": "หนัง_ซีรี่ต่างประเทศ",
+          "image": "https://www.thestreetratchada.com/upload/contents/1701319268TSR%20-%20Nov%20%209%20(%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87).png",
+          "url": "https://docs.google.com/uc?export=download&id=1g5CanrJ47FVHSxBPWwNopXMIWSNThkC9",
+          "import": false
+        },
+        {
+          "name": "037 ฝรั่ง",
+          "author": "บันเทิงส่วนตัว",
+          "info": "Update 16/12/68",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3cfQIPteRur1ptzCxuePuf6t9xTNJGFWow&s",
+          "url": "https://www.dropbox.com/scl/fi/gsutyxep4sul1mam10wgp/037hddmovie_.w3u?rlkey=74yiymjd97iu3njimhoyco7xo&st=e4c618b2&dl=1",
+          "import": true
+        },
+        {
+          "name": "🍀MOVIES_2026_2025🍀",
+          "author": "🍁PL4YOU🍁",
+          "image": "https://images.esquiremag.ph/esquiremagph/images/2023/05/03/10-movies-may-2023-main.jpg",
+          "url": "https://drive.google.com/uc?id=17kqEgpuFowoiJjxV3MBF0s9aU_1yGLBM",
+          "import": false
+        },
+        {
+          "name": "🍀MOVIES_2024🍀",
+          "author": "🍁PL4YOU🍁",
+          "image": "https://images.esquiremag.ph/esquiremagph/images/2023/05/03/10-movies-may-2023-main.jpg",
+          "url": "https://drive.google.com/uc?id=11K1WselN_CWDWq2HcTorlzOFaVOFWx_U",
+          "import": false
+        }
+      ]
+    },
+    {
+      "name": "MOVIES 1",
       "author": "🤜Akaraphisit🤛",
       "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
       "groups": [
-{
-"name": "ALL ENTERTRAINMENT",
-"url": "https://drive.google.com/uc?export=download&id=10Iq7rcSByGdJKM8eaN4xZaTHvX1EGI6k",
-"image": "https://cdn-icons-png.flaticon.com/512/3081/3081700.png",
-"import": false
-},
-{
-   "name": "หนังมาใหม่", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_new-movie.w3u",
-   "import": false
-},
-{
-   "name": "2024", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_2024.w3u",
-   "import": false
-},
-{
-   "name": "2023",
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_2023.w3u",
-   "import": false
-},
-{
-   "name": "2022-1966", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_2022-1966.w3u",
-   "import": false
-},
-{
-   "name": "ไทย", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_3-thai-movie.w3u",
-   "import": false
-},
-{
-   "name": "ฝรั่ง",
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_6-eng-movie.w3u",
-   "import": false
-},
-{
-   "name": "เกาหลี", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_2-korea-movie.w3u",
-   "import": false
-},
-{
-   "name": "จีน", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_7-chinese-movie.w3u",
-   "import": false
-},
-{
-   "name": "ญี่ปุ่น", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_8-japan-movie.w3u",
-   "import": false
-},
-{
-   "name": "หนังฮ่องกง-ไต้หวัน", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_10-HongKong-Taiwan-movie.w3u",
-   "import": false
-},
-{
-   "name": "หนังเอเชีย",
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_26-หนังเอเชีย.w3u",
-   "import": false
-},
-{
-   "name": "อินเดีย",
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_4-india-movie.w3u",
-   "import": false
-},
-{
-   "name": "หนังชนโรง",
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_1-new-movie.w3u",
-   "import": false
-},
-{
-   "name": "ซีรี่ย์",
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_13-Series.w3u",
-   "import": false
-},
-{
-   "name": "ซีรีย์ วาย", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_25-series_Y.w3u",
-   "import": false
-},
-{
-   "name": "หนังการ์ตูน-อนิเมชั่น", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_11-Animation.w3u",
-   "import": false
-},
-{
-   "name": "Netflix", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_5-netflix.w3u",
-   "import": false
-},
-{
-   "name": "Disney plus+", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_15-disney_plus.w3u",
-   "import": false
-},
-{
-   "name": "Amazon prime", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_18-amazon_prime.w3u",
-   "import": false
-},
-{
-   "name": "Viu", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_19-viu.w3u",
-   "import": false
-},
-{
-   "name": "Apple+", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_20-apple+.w3u",
-   "import": false
-},
-{
-   "name": "iQiY", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_21-iQiY.w3u",
-   "import": false
-},
-{
-   "name": "True id", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_22-true_id.w3u",
-   "import": false
-},
-{
-   "name": "HBO GO", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_23-HBO_GO.w3u",
-   "import": false
-},
-{
-   "name": "Big Cinima", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_24-Big_Cinima.w3u",
-   "import": false
-},
-{
-   "name": "Monomax", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_25-Monomax.w3u",
-   "import": false
-},
-{
-   "name": "Paramount+", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_27-paramount+.w3u",
-   "import": false
-},
-{
-   "name": "WeTV", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_28-WeTV.w3u",
-   "import": false
-},
-{
-   "name": "จักรวาล Conjuring", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_19-จักรวาล_Conjuring.w3u",
-   "import": false
-},
-{
-   "name": "จักรวาล DC", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_23-จักรวาล_DC.w3u",
-   "import": false
-},
-{
-   "name": "จักรวาล fast and furious เร็วแรงทะลุนรก", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_20-จักรวาล_fast_and_furious.w3u",
-   "import": false
-},
-{
-   "name": "จักรวาล Marvel", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_18-จักรวาล_Marvel.w3u",
-   "import": false
-},
-{
-   "name": "หนัง GTH/GDH", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_GDH.w3u",
-   "import": false
-},
-{
-   "name": "คอนเสิร์ต", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_24-_Concerts.w3u",
-   "import": false
-},
-{
-   "name": "แอคชั่น", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_1-action.w3u",
-   "import": false
-},
-{
-   "name": "ผจญภัย", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_2-adventure.w3u",
-   "import": false
-},
-{
-   "name": "อนิเมชั่น", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_3-animation.w3u",
-   "import": false
-},
-{
-   "name": "ชีวประวัติ", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_4-biography.w3u",
-   "import": false
-},
-{
-   "name": "การ์ตูน", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_5-cartoon.w3u",
-   "import": false
-}
-]
-},
-{
-      "name": "MOVIES2",
+        {
+          "name": "ALL ENTERTRAINMENT",
+          "url": "https://drive.google.com/uc?export=download&id=10Iq7rcSByGdJKM8eaN4xZaTHvX1EGI6k",
+          "image": "https://cdn-icons-png.flaticon.com/512/3081/3081700.png",
+          "import": true
+        },
+        {
+          "name": "หนังมาใหม่",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_new-movie.w3u",
+          "import": false
+        },
+        {
+          "name": "2024",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_2024.w3u",
+          "import": false
+        },
+        {
+          "name": "2023",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_2023.w3u",
+          "import": false
+        },
+        {
+          "name": "2022-1966",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_2022-1966.w3u",
+          "import": false
+        },
+        {
+          "name": "ไทย",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_3-thai-movie.w3u",
+          "import": false
+        },
+        {
+          "name": "ฝรั่ง",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_6-eng-movie.w3u",
+          "import": false
+        },
+        {
+          "name": "เกาหลี",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_2-korea-movie.w3u",
+          "import": false
+        },
+        {
+          "name": "จีน",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_7-chinese-movie.w3u",
+          "import": false
+        },
+        {
+          "name": "ญี่ปุ่น",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_8-japan-movie.w3u",
+          "import": false
+        },
+        {
+          "name": "หนังฮ่องกง-ไต้หวัน",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_10-HongKong-Taiwan-movie.w3u",
+          "import": false
+        },
+        {
+          "name": "หนังเอเชีย",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_26-หนังเอเชีย.w3u",
+          "import": false
+        },
+        {
+          "name": "อินเดีย",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_4-india-movie.w3u",
+          "import": false
+        },
+        {
+          "name": "หนังชนโรง",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_1-new-movie.w3u",
+          "import": false
+        },
+        {
+          "name": "ซีรี่ย์",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_13-Series.w3u",
+          "import": false
+        },
+        {
+          "name": "ซีรีย์ วาย",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_25-series_Y.w3u",
+          "import": false
+        },
+        {
+          "name": "หนังการ์ตูน-อนิเมชั่น",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_11-Animation.w3u",
+          "import": false
+        },
+        {
+          "name": "Netflix",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_5-netflix.w3u",
+          "import": false
+        },
+        {
+          "name": "Disney plus+",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_15-disney_plus.w3u",
+          "import": false
+        },
+        {
+          "name": "Amazon prime",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_18-amazon_prime.w3u",
+          "import": false
+        },
+        {
+          "name": "Viu",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_19-viu.w3u",
+          "import": false
+        },
+        {
+          "name": "Apple+",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_20-apple+.w3u",
+          "import": false
+        },
+        {
+          "name": "iQiY",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_21-iQiY.w3u",
+          "import": false
+        },
+        {
+          "name": "True id",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_22-true_id.w3u",
+          "import": false
+        },
+        {
+          "name": "HBO GO",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_23-HBO_GO.w3u",
+          "import": false
+        },
+        {
+          "name": "Big Cinima",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_24-Big_Cinima.w3u",
+          "import": false
+        },
+        {
+          "name": "Monomax",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_25-Monomax.w3u",
+          "import": false
+        },
+        {
+          "name": "Paramount+",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_27-paramount+.w3u",
+          "import": false
+        },
+        {
+          "name": "WeTV",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_28-WeTV.w3u",
+          "import": false
+        },
+        {
+          "name": "จักรวาล Conjuring",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_19-จักรวาล_Conjuring.w3u",
+          "import": false
+        },
+        {
+          "name": "จักรวาล DC",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_23-จักรวาล_DC.w3u",
+          "import": false
+        },
+        {
+          "name": "จักรวาล fast and furious เร็วแรงทะลุนรก",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_20-จักรวาล_fast_and_furious.w3u",
+          "import": false
+        },
+        {
+          "name": "จักรวาล Marvel",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_18-จักรวาล_Marvel.w3u",
+          "import": false
+        },
+        {
+          "name": "หนัง GTH/GDH",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_GDH.w3u",
+          "import": false
+        },
+        {
+          "name": "คอนเสิร์ต",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_24-_Concerts.w3u",
+          "import": false
+        },
+        {
+          "name": "แอคชั่น",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_1-action.w3u",
+          "import": false
+        },
+        {
+          "name": "ผจญภัย",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_2-adventure.w3u",
+          "import": false
+        },
+        {
+          "name": "อนิเมชั่น",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_3-animation.w3u",
+          "import": false
+        },
+        {
+          "name": "ชีวประวัติ",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_4-biography.w3u",
+          "import": false
+        },
+        {
+          "name": "การ์ตูน",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_5-cartoon.w3u",
+          "import": false
+        }
+      ]
+    },
+    {
+      "name": "MOVIES 2",
       "author": "🤜Akaraphisit🤛",
       "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
       "groups": [
-{
-"name": "Home",
-"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
-"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/dooseries4k_.w3u",
-	"import": false
-},
-{
-"name": "ดูซีรีย์ออนไลน์",
-"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
-"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/dooseries4k_ดูซีรีย์ออนไลน์.w3u",
-"import": false
-},
-{
-"name": "ซีรีย์ซับไทย",
-"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
-"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/dooseries4k_ซีรีย์ซับไทย.w3u",
-"import": false
-},
-{
-"name": "ซีรีย์พากย์ไทย",
-"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
-"url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/dooseries4k_ซีรีย์พากย์ไทย.w3u",
-"import": false
-},
-{
-"name": "ซี่รี่ย์แนวตั้ง",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMy4NuKYsV6tkT7_eqIC6H_fBSFXfTjeTxc3Lp65qVVg&s=10",
-"url": "https://drive.google.com/uc?id=16H_bSlRM3Xm0fj5STx7Gth7NzcPRID3N",
-"import": false
-},
-{
-"name": "ซี่รี่ย์ ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7QVWfDb206MD_UHaIiMCJ39t1HFYrLv3k6_V_wmlGgg&s=10",
-"url": "https://drive.google.com/uc?id=1hz5BUN08uYSjTFbm0MSb054tyo2Kmg0h",
-"import": false
+        {
+          "name": "Home",
+          "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/dooseries4k_.w3u",
+          "import": true
+        },
+        {
+          "name": "ดูซีรีย์ออนไลน์",
+          "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/dooseries4k_ดูซีรีย์ออนไลน์.w3u",
+          "import": true
+        },
+        {
+          "name": "ซีรีย์ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/dooseries4k_ซีรีย์ซับไทย.w3u",
+          "import": true
+        },
+        {
+          "name": "ซีรีย์พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/dooseries4k_ซีรีย์พากย์ไทย.w3u",
+          "import": true
+        },
+        {
+          "name": "ซี่รี่ย์แนวตั้ง",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMy4NuKYsV6tkT7_eqIC6H_fBSFXfTjeTxc3Lp65qVVg&s=10",
+          "url": "https://drive.google.com/uc?id=16H_bSlRM3Xm0fj5STx7Gth7NzcPRID3N",
+          "import": false
+        },
+        {
+          "name": "ซี่รี่ย์",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7QVWfDb206MD_UHaIiMCJ39t1HFYrLv3k6_V_wmlGgg&s=10",
+          "url": "https://drive.google.com/uc?id=1hz5BUN08uYSjTFbm0MSb054tyo2Kmg0h",
+          "import": false
+        }
+      ]
+    },
+    {
+      "name": "ช่องหนัง ออนไลน์",
+      "author": "Yantech",
+      "image": "https://www.dropbox.com/scl/fi/brq3rl8en04uinpiywvks/.gif?rlkey=hn4yqqy2tlg8pwhdg2r6sh7ll&st=n8ob61cf&dl=1",
+      "url": "https://docs.google.com/uc?export=download&id=1rWtTykWRu_SGQcCbOY_vvSQjFlkqzMey",
+      "import": true,
+      "groups": [
+        {
+          "name": "Cartoons",
+          "image": "https://www.dropbox.com/scl/fi/wekkf6bsthgw2tupjg2fq/.gif?rlkey=f0sd0zp9jmzfc4pgt3n5qmfhr&dl=1",
+          "url": "https://docs.google.com/uc?export=download&id=1oZCHdnBJat53eg0XZRIP6YKxmeJmm5VB",
+          "import": true
+        },
+        {
+          "name": "🎵 ช่องเพลง",
+          "image": "https://www.dropbox.com/scl/fi/k8izoyljhbvmq35mqpcvj/.gif?rlkey=jmzvgfqq9h0d1ckek03rc8d3t&dl=1",
+          "url": "https://docs.google.com/uc?export=download&id=1aeIYj2VU7qe7j0RbSC2fWNJhqf5F9ZZ-",
+          "import": false
+        },
+        {
+          "name": "วิทยุออนไลน์",
+          "image": "https://www.dropbox.com/scl/fi/o4p8rv7chcq5zmby167wb/.gif?rlkey=7o4g6ngvid1j9vvi110sqyatv&dl=1",
+          "url": "https://docs.google.com/uc?export=download&id=15zoaOTufm9ef9J9BOzQ0C_BEQ1sYMWbz",
+          "import": false
+        },
+        {
+          "name": "คอนเสิร์ต รวม",
+          "image": "https://www.dropbox.com/scl/fi/lwsgs0wu8pgql8kwsaw1g/.gif?rlkey=wbc10qd0l3t5ebeefxq8h6d2z&dl=1",
+          "url": "https://docs.google.com/uc?export=download&id=1hZjgsLveq1lkBH-hu5gZYdSqR5bdlZkD",
+          "import": false
+        },
+        {
+          "name": "บันเทิง",
+          "image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
+          "url": "https://docs.google.com/uc?export=download&id=1rWIH5vxOfzuQbBaoUV24rlLSdYqWIaTY",
+          "import": false
+        },
+        {
+          "name": "รายการตลก",
+          "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
+          "url": "https://docs.google.com/uc?export=download&id=1AySDN2us97OJ1RNqxE40sKI7bXjrsZXh",
+          "import": false
+        },
+        {
+          "name": "เรื่องหลอนๆ",
+          "image": "https://www.dropbox.com/scl/fi/khw4blgir3yhubvalvpp8/.gif?rlkey=81ckqotmhfvyv8obata8fouhp&dl=1",
+          "url": "https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
+          "import": false
+        },
+        {
+          "name": "ช่องการศึกษา",
+          "image": "https://www.dropbox.com/scl/fi/xwtan5qi6ch4in5ok9lse/.gif?rlkey=0q7vl42pryt2d3ilsfk33r8t4&dl=1",
+          "url": "https://docs.google.com/uc?export=download&id=1MkVazTWUdZB2L5apQmi37Vxjz9ri3QyU",
+          "import": false
+        },
+        {
+          "name": "ดูกล้องวงจรปิด",
+          "image": "https://www.dropbox.com/scl/fi/f1syiljnd7e43jzoqc672/.gif?rlkey=62zerl5so0icd8pwpowndnmil&dl=1",
+          "url": "https://docs.google.com/uc?export=download&id=19KGCFGHm5D4D-Wcuc4z7rH2uUAqfPq9W",
+          "import": true
+        },
+        {
+          "name": "ธรรมะ บทสวด",
+          "image": "https://www.dropbox.com/scl/fi/mo1fii9ktkzw883xeg0uk/.gif?rlkey=2viya5m48c29rsor7csg2o9rz&dl=1",
+          "url": "https://docs.google.com/uc?export=download&id=1WhBud7rahVPGKRH7ng4kRwlrzE4prwC8",
+          "import": false
+        },
+        {
+          "name": "หนัง ผู้ใหญ่",
+          "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
+          "url": "https://docs.google.com/uc?export=download&id=1jKMRubxcwldyPVb4MzL3YFZd-hMh326A",
+          "import": true
+        },
+        {
+          "name": "ตลก",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_6-comedy.w3u",
+          "import": false
+        },
+        {
+          "name": "อาชญกรรม",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_7-crime.w3u",
+          "import": false
+        },
+        {
+          "name": "สารคดี",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_8-documentary.w3u",
+          "import": false
+        },
+        {
+          "name": "ดราม่า",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_9-drama.w3u",
+          "import": false
+        },
+        {
+          "name": "อีโรติก",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_9-erotic.w3u",
+          "import": false
+        },
+        {
+          "name": "ครอบครัว",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_10-family.w3u",
+          "import": false
+        },
+        {
+          "name": "แฟนตาซี",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_11-fantasy.w3u",
+          "import": false
+        },
+        {
+          "name": "ผี สยองขวัญ",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_12-horror.w3u",
+          "import": false
+        },
+        {
+          "name": "โรแมนติก",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_13-romance.w3u",
+          "import": false
+        },
+        {
+          "name": "ไซไฟ",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_14-sci-fi.w3u",
+          "import": false
+        },
+        {
+          "name": "กีฬา",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_15-sports.w3u",
+          "import": false
+        },
+        {
+          "name": "ระทึกขวัญ",
+          "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+          "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_16-Thriller.w3u",
+          "import": false
+        }
+      ]
+    }
+  ]
 }
-]
-}
-{
-"name": "ช่องหนัง ออนไลน์",
-"image": "https://www.dropbox.com/scl/fi/brq3rl8en04uinpiywvks/.gif?rlkey=hn4yqqy2tlg8pwhdg2r6sh7ll&st=n8ob61cf&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1rWtTykWRu_SGQcCbOY_vvSQjFlkqzMey",
-"import": false
-},
-{
-"name": "Cartoons", 
-"image": "https://www.dropbox.com/scl/fi/wekkf6bsthgw2tupjg2fq/.gif?rlkey=f0sd0zp9jmzfc4pgt3n5qmfhr&dl=1", 
-"url": "https://docs.google.com/uc?export=download&id=1oZCHdnBJat53eg0XZRIP6YKxmeJmm5VB",
-"import": false
-},
-{
-"name": "🎵 ช่องเพลง",
-"image": "https://www.dropbox.com/scl/fi/k8izoyljhbvmq35mqpcvj/.gif?rlkey=jmzvgfqq9h0d1ckek03rc8d3t&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1aeIYj2VU7qe7j0RbSC2fWNJhqf5F9ZZ-",
-"import": false
-},
-{
-"name": "วิทยุออนไลน์", 
-"image": "https://www.dropbox.com/scl/fi/o4p8rv7chcq5zmby167wb/.gif?rlkey=7o4g6ngvid1j9vvi110sqyatv&dl=1", 
-"url": "https://docs.google.com/uc?export=download&id=15zoaOTufm9ef9J9BOzQ0C_BEQ1sYMWbz",
-"import": false
-},
-{
-"name": "คอนเสิร์ต รวม  ",
-"image": "https://www.dropbox.com/scl/fi/lwsgs0wu8pgql8kwsaw1g/.gif?rlkey=wbc10qd0l3t5ebeefxq8h6d2z&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1hZjgsLveq1lkBH-hu5gZYdSqR5bdlZkD",
-"import": false
-},
-{
-"name": "บันเทิง ",
-"image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1rWIH5vxOfzuQbBaoUV24rlLSdYqWIaTY",
-"import": false
-},
-{
-"name": "รายการตลก",
-"image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1AySDN2us97OJ1RNqxE40sKI7bXjrsZXh",
-"import": false
-},
-{
-"name": "เรื่องหลอนๆ",
-"image": "https://www.dropbox.com/scl/fi/khw4blgir3yhubvalvpp8/.gif?rlkey=81ckqotmhfvyv8obata8fouhp&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
-"import": false
-},
-{
-"name": "ช่องการศึกษา",
-"image": "https://www.dropbox.com/scl/fi/xwtan5qi6ch4in5ok9lse/.gif?rlkey=0q7vl42pryt2d3ilsfk33r8t4&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1MkVazTWUdZB2L5apQmi37Vxjz9ri3QyU",
-"import": false
-},
-{
-"name": "ดูกล้องวงจรปิด ",
-"image": "https://www.dropbox.com/scl/fi/f1syiljnd7e43jzoqc672/.gif?rlkey=62zerl5so0icd8pwpowndnmil&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=19KGCFGHm5D4D-Wcuc4z7rH2uUAqfPq9W",
-"import": false
-},
-{
-"name": "ธรรมะ บทสวด",
-"image": "https://www.dropbox.com/scl/fi/mo1fii9ktkzw883xeg0uk/.gif?rlkey=2viya5m48c29rsor7csg2o9rz&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1WhBud7rahVPGKRH7ng4kRwlrzE4prwC8",
-"import": false
-},
-{
-"name": "หนัง ผู้ใหญ่",
-"image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1jKMRubxcwldyPVb4MzL3YFZd-hMh326A",
-"import": false
-},
-{
-   "name": "ตลก", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_6-comedy.w3u",
-   "import": false
-},
-{
-   "name": "อาชญกรรม", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_7-crime.w3u",
-   "import": false
-},
-{
-   "name": "สารคดี", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_8-documentary.w3u",
-   "import": false
-},
-{
-   "name": "ดราม่า", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_9-drama.w3u",
-   "import": false
-},
-{
-   "name": "อีโรติก", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_9-erotic.w3u",
-   "import": false
-},
-{
-   "name": "ครอบครัว", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_10-family.w3u",
-   "import": false
-},
-{
-   "name": "แฟนตาซี", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_11-fantasy.w3u",
-   "import": false
-},
-{
-   "name": "ผี สยองขวัญ", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_12-horror.w3u",
-   "import": false
-},
-{
-   "name": "โรแมนติก", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_13-romance.w3u",
-   "import": false
-},
-{
-   "name": "ไซไฟ", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_14-sci-fi.w3u",
-   "import": false
-},
-{
-   "name": "กีฬา", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_15-sports.w3u",
-   "import": false
-},
-{
-   "name": "ระทึกขวัญ", 
-   "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
-   "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_16-Thriller.w3u",
-   "import": false
-}
-]
-},
