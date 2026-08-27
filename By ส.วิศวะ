@@ -40,25 +40,7 @@
 "name": "Cartoons",
 "image": "https://www.dropbox.com/scl/fi/wekkf6bsthgw2tupjg2fq/.gif?rlkey=f0sd0zp9jmzfc4pgt3n5qmfhr&dl=1", 
 "url": "https://docs.google.com/uc?export=download&id=1oZCHdnBJat53eg0XZRIP6YKxmeJmm5VB",
-"import": "true"
-},
-{
-"name": "การตูนย์อนิเมชั่น",
-"image": "https://www.dropbox.com/scl/fi/d2jyj6vrchrriaqtr5ybq/.gif?rlkey=k6dwmznxmovr8gla7tvak9msu&dl=1",
-"url" : "https://docs.google.com/uc?export=download&id=1iSJvaDOCiEXb7w2-1aU2RrMs_oh5h3I4",
-"import": "true"
-},
-{
-"name": "ละคร ทีวี",
-"image": "https://www.dropbox.com/scl/fi/n8gwdjyiauqtno9m4rqq0/.gif?rlkey=55ubyfvvellnv54j1p43y6so5&dl=1", 
-"url": "https://docs.google.com/uc?export=download&id=1eXV4F7VPT16ryEdOcJU3X-C_GQGucFSl",
-"import": false
-},
-{
-"name": "🎵 ช่องเพลง",
-"image": "https://www.dropbox.com/scl/fi/k8izoyljhbvmq35mqpcvj/.gif?rlkey=jmzvgfqq9h0d1ckek03rc8d3t&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1aeIYj2VU7qe7j0RbSC2fWNJhqf5F9ZZ-",
-"import": false
+"import": true
 },
 {
 "name": "วิทยุออนไลน์", 
@@ -84,34 +66,22 @@
 "import": false
 },
 {
-"name":"เรื่องหลอนๆ",
-"image":"https://www.dropbox.com/scl/fi/khw4blgir3yhubvalvpp8/.gif?rlkey=81ckqotmhfvyv8obata8fouhp&dl=1",
-"url":"https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
+"name": "เรื่องหลอนๆ",
+"image": "https://www.dropbox.com/scl/fi/khw4blgir3yhubvalvpp8/.gif?rlkey=81ckqotmhfvyv8obata8fouhp&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
 "import": false
-},	
+},
 {
-"name":"ช่องการศึกษา",
-"image":"https://www.dropbox.com/scl/fi/xwtan5qi6ch4in5ok9lse/.gif?rlkey=0q7vl42pryt2d3ilsfk33r8t4&dl=1",
-"url":"https://docs.google.com/uc?export=download&id=1MkVazTWUdZB2L5apQmi37Vxjz9ri3QyU",
+"name": "ช่องการศึกษา",
+"image": "https://www.dropbox.com/scl/fi/xwtan5qi6ch4in5ok9lse/.gif?rlkey=0q7vl42pryt2d3ilsfk33r8t4&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1MkVazTWUdZB2L5apQmi37Vxjz9ri3QyU",
 "import": false
-},	
-{
-"name": "ช่อง TV ทั่วโลก",
-"image": "https://www.dropbox.com/scl/fi/q34hf26tmy2o9lxrh30ll/.gif?rlkey=2sgaow2bxct0tc83tneseautc&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1GzFJL42pc2POBxZXtzByK-z-CBWCXz_q",
-"import": "false"
-}, 
-{
-"name": "News ข่าวทั่วโลก",
-image:"https://www.dropbox.com/scl/fi/29v9hv1ik64dil139r9y9/news.gif?rlkey=nh45bh26ccsxezsycnb7712af&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1wvYVGTnk-Z-4W21r_Io4JSPQC0Adp5Ns",
-"import": "true"
 },
 {
 "name": "ดูกล้องวงจรปิด ",
 "image": "https://www.dropbox.com/scl/fi/f1syiljnd7e43jzoqc672/.gif?rlkey=62zerl5so0icd8pwpowndnmil&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=19KGCFGHm5D4D-Wcuc4z7rH2uUAqfPq9W",
-"import": "true"
+"import": true
 },
 {
 "name": "ธรรมะ บทสวด",
@@ -123,16 +93,10 @@ image:"https://www.dropbox.com/scl/fi/29v9hv1ik64dil139r9y9/news.gif?rlkey=nh45b
 "name": "หนัง ผู้ใหญ่",
 "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
 "url": "https://docs.google.com/uc?export=download&id=1jKMRubxcwldyPVb4MzL3YFZd-hMh326A",
-"import": "true"
-},      
-{
-"name": "Link เพื่อนบ้าน",
-"image": "https://www.dropbox.com/scl/fi/180b667g5js6r46zcel5o/.gif?rlkey=hgd7j9xkq5frx4hhbhb744ou2&dl=1",
-"url": "https://docs.google.com/uc?export=download&id=1JJO9jJX0aERPdFItLLMa4kiU14gV6H_j",
-"import": false 
+"import": true
 },
       {
-      "name": "Movies&Serie",
+      "name": "MOVIES 1",
       "author": "🤜Akaraphisit🤛",
       "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
       "groups": [
@@ -185,7 +149,7 @@ image:"https://www.dropbox.com/scl/fi/29v9hv1ik64dil139r9y9/news.gif?rlkey=nh45b
       ]
     },
     {
-      "name": "MOVIES 1",
+      "name": "MOVIES 2",
       "author": "🤜Akaraphisit🤛",
       "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
       "groups": [
@@ -218,7 +182,14 @@ image:"https://www.dropbox.com/scl/fi/29v9hv1ik64dil139r9y9/news.gif?rlkey=nh45b
           "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
           "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_2022-1966.w3u",
           "import": false
-        },
+        }
+      ]
+    },
+    {
+      "name": "MOVIES 3",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
+      "groups": [
         {
           "name": "ไทย",
           "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
@@ -290,7 +261,14 @@ image:"https://www.dropbox.com/scl/fi/29v9hv1ik64dil139r9y9/news.gif?rlkey=nh45b
           "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
           "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_11-Animation.w3u",
           "import": false
-        },
+        }
+      ]
+    },
+    {
+      "name": "MOVIES 4",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
+      "groups": [
         {
           "name": "Netflix",
           "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
@@ -362,7 +340,14 @@ image:"https://www.dropbox.com/scl/fi/29v9hv1ik64dil139r9y9/news.gif?rlkey=nh45b
           "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
           "url": "https://raw.githubusercontent.com/provides1/new/refs/heads/main/tongha-movie_28-WeTV.w3u",
           "import": false
-        },
+        }
+      ]
+    },
+    {
+      "name": "MOVIES 5",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
+      "groups": [
         {
           "name": "จักรวาล Conjuring",
           "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
@@ -432,7 +417,7 @@ image:"https://www.dropbox.com/scl/fi/29v9hv1ik64dil139r9y9/news.gif?rlkey=nh45b
       ]
     },
     {
-      "name": "MOVIES 2",
+      "name": "MOVIES 6",
       "author": "🤜Akaraphisit🤛",
       "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw1MXdxaWxpODZtcXZkZzJmb3FhcjJ5MTNweGVyYW5tdGlqdjAzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwt3pNlv5WvHha257j/giphy.gif",
       "groups": [
