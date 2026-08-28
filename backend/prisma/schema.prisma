@@ -1,0 +1,60 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id          String   @id @default(uuid())
+  username    String   @unique
+  email       String   @unique
+  password    String
+  role        String   @default("user")
+  suspended   Boolean  @default(false)
+  expiresAt   DateTime?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  refreshTokens RefreshToken[]
+  favorites   Favorite[]
+  history     History[]
+}
+
+model RefreshToken {
+  id        String   @id @default(uuid())
+  tokenHash String
+  user      User     @relation(fields: [userId], references: [id])
+  userId    String
+  revoked   Boolean  @default(false)
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+}
+
+model Favorite {
+  id        String   @id @default(uuid())
+  user      User     @relation(fields: [userId], references: [id])
+  userId    String
+  contentPath String
+  snapshot  Json
+  createdAt DateTime @default(now())
+}
+
+model History {
+  id         String   @id @default(uuid())
+  user       User     @relation(fields: [userId], references: [id])
+  userId     String
+  contentPath String
+  watchedAt  DateTime @default(now())
+  position   Int      @default(0)
+  deviceInfo Json?
+}
+
+model VaultCache {
+  id        String   @id @default(uuid())
+  source    String
+  raw       Json
+  index     Json
+  updatedAt DateTime @updatedAt
+}
