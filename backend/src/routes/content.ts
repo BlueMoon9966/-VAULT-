@@ -1,6 +1,7 @@
 import { Router } from 'express';
 import { PrismaClient } from '@prisma/client';
 import { parseAndIndex } from '../services/vaultParser';
+import { adminMiddleware } from '../middlewares/authMiddleware';
 
 export default function contentRouter(prisma: PrismaClient) {
   const router = Router();
@@ -20,8 +21,8 @@ export default function contentRouter(prisma: PrismaClient) {
     }
   });
 
-  // POST /api/content/import -> parse VAULT and create/update vault_cache
-  router.post('/import', async (req, res) => {
+  // POST /api/content/import -> parse VAULT and create/update vault_cache (admin-only)
+  router.post('/import', adminMiddleware, async (req, res) => {
     try {
       const result = await parseAndIndex(prisma);
       res.json({ ok: true, count: result.count });
@@ -35,6 +36,35 @@ export default function contentRouter(prisma: PrismaClient) {
     const cache = await prisma.vaultCache.findFirst();
     const idx = (cache && cache.index) || [];
     res.json({ count: idx.length, index: idx });
+  });
+
+  // GET /api/content/list?category=...&year=...
+  router.get('/list', async (req, res) => {
+    const category = req.query.category ? String(req.query.category).toLowerCase() : null;
+    const year = req.query.year ? String(req.query.year) : null;
+    const cache = await prisma.vaultCache.findFirst();
+    const idx = (cache && cache.index) || [];
+    let results = idx;
+    if (category) {
+      results = results.filter((item: any) => (item.path || '').toLowerCase().includes(category));
+    }
+    if (year) {
+      results = results.filter((item: any) => {
+        return (item.name && item.name.includes(year)) || ((item.path || '').includes(year));
+      });
+    }
+    res.json({ count: results.length, results });
+  });
+
+  // GET /api/content/item?path=... (exact match)
+  router.get('/item', async (req, res) => {
+    const p = req.query.path ? String(req.query.path) : null;
+    if (!p) return res.status(400).json({ error: 'path query required' });
+    const cache = await prisma.vaultCache.findFirst();
+    const idx = (cache && cache.index) || [];
+    const found = idx.find((item: any) => item.path === p || decodeURIComponent(item.path || '') === p || item.path === decodeURIComponent(p));
+    if (!found) return res.status(404).json({ error: 'Not found' });
+    res.json({ item: found });
   });
 
   // simple search: search in cached index
