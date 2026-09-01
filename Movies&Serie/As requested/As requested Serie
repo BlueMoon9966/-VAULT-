@@ -9,8 +9,7 @@
    "name": "Brothers (2026) สองหัวใจ",
    "author": "🤜Akaraphisit🤛",
    "image": "https://www.123-hdx.com/wp-content/uploads/2026/08/Brothers-2026-%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88-300x450.jpg",
-   "info": "พากย์ไทย"
-   "groups": [
+   "stations": [
      {
      "name": "EP 1/6",
      "image": "https://www.123-hdx.com/wp-content/uploads/2026/08/Brothers-2026-%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88-300x450.jpg",
@@ -54,7 +53,7 @@
    "author": "🤜Akaraphisit🤛",
    "image": "https://www.123-hdx.com/wp-content/uploads/2026/07/The-Running-of-Love-and-Money-2026-%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.jpg",
    "info": "พากย์ไทย"
-   "groups": [
+   "stations": [
      {
      "name": "EP 1/19",
      "image": "https://www.123-hdx.com/wp-content/uploads/2026/07/The-Running-of-Love-and-Money-2026-%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.jpg",
@@ -173,14 +172,15 @@
    },
   {
    "name": " High Potential 1-2",
-   "info": "04/05/2026 17:53",
    "image": "https://nanamovies.org/wp-content/uploads/2025/01/High-Potential-Season-1.jpg",
    "url": "https://docs.google.com/uc?id=1ZmmwTxsaMGWRcmyZCBtRlzln9Ic3cIDK"
+   "info": "ภาพ HD | พากย์ไทย"
   },
   {
    "name": "Shin's Project (2025) มิสเตอร์ชินรับจบ",
    "image": "https://www.serie-days.com/wp-content/uploads/2025/09/Shins-Project-2025.jpg",
    "url": "https://drive.google.com/uc?id=13jQpKYVSb8V5dMfRe8AdSJ4lmLTMA1BE"
+   "info": "ภาพ HD | พากย์ไทย"
   },
  ]
 },
