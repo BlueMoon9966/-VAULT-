@@ -127,7 +127,7 @@
         "import": false
         }
        ]
-      },
+      }
      ]
     },
       {
@@ -308,15 +308,8 @@
         "info": "HD | TH",
         "import": false
         },
-        {
-        "name": "EP 8/8",
-        "image": "https://www.123-hdx.com/wp-content/uploads/2026/08/Flex-X-Cop-Season-2-2026-300x450.jpg",
-        "url": "https://main.123hd-serie.com/newplaylist/c518a4bce32360bce299b39e/c518a4bce32360bce299b39e.m3u8",
-        "info": "HD | TH",
-        "import": false
-        }
        ]
-      },
+      }
      ]
     },
       {
