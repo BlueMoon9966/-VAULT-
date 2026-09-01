@@ -5,7 +5,26 @@
   "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
   "groups": [
       {
-      "name": "Flex X Cop Season 2 (2026)",
+      "name": "คุณชายสายสืบ Flex X Cop Season 1-2",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://www.123-hdx.com/wp-content/uploads/2026/08/Flex-X-Cop-Season-2-2026-300x450.jpg",
+      "groups": [
+      {
+      "name": "คุณชายสายสืบ Flex X Cop (Season 1)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://upde.cc/storage/title-posters/db09deb2-64a2-481c-aa2f-bc1028407daa.webp",
+      "stations": [
+        {
+        "name": "EP 1/16",
+        "image": "https://upde.cc/storage/title-posters/db09deb2-64a2-481c-aa2f-bc1028407daa.webp",
+        "url": "https://s25-wyl5.97bf1.com/hls/qKwiNayJonrIMMnvbAIpKINXefnvGYj3/master.m3u8?token=4ed1c14c9b2ca1aeb1a869644575c8cf-1788280597-2a06%3A98c0%3A3600%3A%3A103-a6e7dd0ce99cd4539ea91a927f613815330788be90e54210252ff4c007be9d47",
+        "info": "ภาพ HD | พากย์ไทย",
+        "import": false
+        }
+       ]
+      },
+      {
+      "name": "คุณชายสายสืบ Flex X Cop (Season 2)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://www.123-hdx.com/wp-content/uploads/2026/08/Flex-X-Cop-Season-2-2026-300x450.jpg",
       "stations": [
@@ -67,6 +86,8 @@
         }
        ]
       },
+     ]
+    },
       {
       "name": "Brothers (2026) สองหัวใจ",
       "author": "🤜Akaraphisit🤛",
