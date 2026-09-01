@@ -1,15 +1,16 @@
 {
-"version": "1.0",
-"name": "ซีรี่ย์ 2026",
-"author": "🤜Akaraphisit🤛",
-"image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-"groups": [
+  "version": "1.0",
+  "name": "ซีรี่ย์ 2026",
+  "author": "🤜Akaraphisit🤛",
+  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
+  "last_updated": "2026-08-XXT00:00:00Z",
+  "groups": [
    {
    "name": "Brothers (2026) สองหัวใจ",
    "author": "🤜Akaraphisit🤛",
    "image": "https://www.123-hdx.com/wp-content/uploads/2026/08/Brothers-2026-%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88-300x450.jpg",
-   "info": "พากย์ไทย"
-   "groups": [
+   "info": "TH"
+   "episodes": [
      {
      "name": "EP 1/6",
      "image": "https://www.123-hdx.com/wp-content/uploads/2026/08/Brothers-2026-%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88-300x450.jpg",
@@ -52,8 +53,8 @@
    "name": "The Running of Love and Money (2026) เงิน งาน ความรัก",
    "author": "🤜Akaraphisit🤛",
    "image": "https://www.123-hdx.com/wp-content/uploads/2026/07/The-Running-of-Love-and-Money-2026-%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.jpg",
-   "info": "พากย์ไทย"
-   "groups": [
+   "info": "TH"
+   "episodes": [
      {
      "name": "EP 1/19",
      "image": "https://www.123-hdx.com/wp-content/uploads/2026/07/The-Running-of-Love-and-Money-2026-%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.jpg",
@@ -163,7 +164,7 @@
      "info": "ภาพ HD | พากย์ไทย"
      },
      {
-     "name": "EP 18/19",
+     "name": "EP 19/19",
      "image": "https://www.123-hdx.com/wp-content/uploads/2026/07/The-Running-of-Love-and-Money-2026-%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.jpg",
      "url": "https://main.123hd-serie.com/m3u8/2e487029e6df4d1b948f4bac/2e487029e6df4d1b948f4bac438.m3u8",
      "info": "ภาพ HD | พากย์ไทย"
