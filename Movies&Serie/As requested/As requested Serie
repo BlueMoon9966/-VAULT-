@@ -12,11 +12,61 @@
       "stations": [
         {
         "name": "Harry Potter and the Sorcerer’s Stone (2001) แฮร์รี่ พอตเตอร์กับศิลาอาถรรพ์ ภาค 1",
-        "image": "https://www.123-hdx.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-300x450.jpg",
+        "image": "https://moviebase.app/images/resources/posters/harrypotter/hp-philosophers-stone.webp",
         "url": "https://master.streamhls.com/hls/f8cb5688b4482ccf358b3706a70ffaf5/master",
         "info": "HD | TH",
         "import": false
-        }
+        },
+        {
+        "name": "Harry Potter and the Chamber of Secrets (2002) แฮร์รี่ พอตเตอร์กับห้องแห่งความลับ ภาค 2",
+        "image": "https://moviebase.app/images/resources/posters/harrypotter/hp-chamber-of-secrets.webp",
+        "url": "https://master.streamhls.com/hls/28a2551036fca4f1a945b37f55e7ac01/master",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Harry Potter and the Prisoner of Azkaban (2004) แฮร์รี่ พอตเตอร์กับนักโทษแห่งอัซคาบัน ภาค 3",
+        "image": "https://moviebase.app/images/resources/posters/harrypotter/hp-prisoner-of-azkaban.webp",
+        "url": "https://master.streamhls.com/hls/8c4e912116de43a2aeea1debfd9393cd/master",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Harry Potter and the Goblet of Fire (2005) แฮร์รี่ พอตเตอร์กับถ้วยอัคนี ภาค 4",
+        "image": "https://moviebase.app/images/resources/posters/harrypotter/hp-goblet-of-fire.webp",
+        "url": "https://master.streamhls.com/hls/adfcff7d5d5188c80fff792f7915650c/master",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Harry Potter and the Order of the Phoenix (2007) แฮร์รี่ พอตเตอร์กับภาคีนกฟีนิกซ์ ภาค 5",
+        "image": "https://moviebase.app/images/resources/posters/harrypotter/hp-order-of-phoenix.webp",
+        "url": "https://master.streamhls.com/hls/e23ae7d1e07ebb04e474c7f4a72cd4b7/mast",
+        "info": "HD | TH",
+        "import": false
+        },
+.....
+        {
+        "name": "Harry Potter and the Half-Blood Prince (2009) แฮร์รี่ พอตเตอร์กับเจ้าชายเลือดผสม ภาค 6",
+        "image": "https://moviebase.app/images/resources/posters/harrypotter/hp-half-blood-prince.webp",
+        "url": "https://master.streamhls.com/hls/e23ae7d1e07ebb04e474c7f4a72cd4b7/mast",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Harry Potter and the Deathly Hallows: Part 1 (2010) แฮร์รี่ พอตเตอร์กับเครื่องรางยมทูต ภาค 7",
+        "image": "https://moviebase.app/images/resources/posters/harrypotter/hp-deathly-hallows-1.webp",
+        "url": "https://master.streamhls.com/hls/8b67fa80c600ae3a4e606b12163c6605/maste",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Harry Potter and the Deathly Hallows: Part 2 (2011) แฮร์รี่ พอตเตอร์กับเครื่องรางยมทูต ภาค 8",
+        "image": "https://moviebase.app/images/resources/posters/harrypotter/hp-deathly-hallows-2.webp",
+        "url": "https://master.streamhls.com/hls/bd5edf55f2af6ccf27e87c9f7ce5a7c7/master",
+        "info": "HD | TH",
+        "import": false
+        },
        ]
       },
       {
