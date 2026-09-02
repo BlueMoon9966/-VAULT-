@@ -4,7 +4,7 @@
  "day": "18-07-2026",
  "info": "จัดให้ตามคำขอ",
  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
- "stations": [
+ "groups": [
   {
    "name": "Play Dirty (2025) หักหลังต้องหักเหลี่ยม",
    "image": "https://www.123-hdx.com/wp-content/uploads/2025/10/Play-Dirty-2025-%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1-300x450.png",
@@ -272,6 +272,6 @@
    "image": "https://cms.dmpcdn.com/dara/2026/05/02/88b3c370-4601-11f1-a7a4-371548f2e07e_webp_original.webp",
    "url": "https://master.steamhls88.com/hlsr2/bd9ca67bf9fd4ae2df03220da17fc291/master.m3u8",
    "info": "ภาพ HD | พากย์ไทย"
-  },
+  }
  ]
 },
