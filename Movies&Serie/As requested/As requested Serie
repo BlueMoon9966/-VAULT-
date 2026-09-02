@@ -6,7 +6,7 @@
  "info": "จัดให้ตามคำขอ",
  "groups": [
       {
-      "name": "Harry Potter แฮร์รี่ พอตเตอร์ HD 1-8 ครบทุกภาค",
+      "name": "Harry Potter แฮร์รี่ พอตเตอร์ HD 1-8 ทุกภาค และ ครบรอบ 20 ปีแฮร์รี่",
       "author": "🤜Akaraphisit🤛",
       "image": "https://www.037hddmovies.com/wp-content/uploads/2018/09/harry_potter_praesentation.jpg",
       "stations": [
@@ -45,11 +45,10 @@
         "info": "HD | TH",
         "import": false
         },
-.....
         {
         "name": "Harry Potter and the Half-Blood Prince (2009) แฮร์รี่ พอตเตอร์กับเจ้าชายเลือดผสม ภาค 6",
         "image": "https://moviebase.app/images/resources/posters/harrypotter/hp-half-blood-prince.webp",
-        "url": "https://master.streamhls.com/hls/e23ae7d1e07ebb04e474c7f4a72cd4b7/mast",
+        "url": "https://master.streamhls.com/hls/9dd8613ebe29f3c2ece2d9e55f8e294f/master",
         "info": "HD | TH",
         "import": false
         },
@@ -64,6 +63,13 @@
         "name": "Harry Potter and the Deathly Hallows: Part 2 (2011) แฮร์รี่ พอตเตอร์กับเครื่องรางยมทูต ภาค 8",
         "image": "https://moviebase.app/images/resources/posters/harrypotter/hp-deathly-hallows-2.webp",
         "url": "https://master.streamhls.com/hls/bd5edf55f2af6ccf27e87c9f7ce5a7c7/master",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Harry Potter 20Th Anniversary Return To Hogwarts (2022) ครบรอบ 20 ปีแฮร์รี่ พอตเตอร์ คืนสู่เหย้าฮอกวอตส์",
+        "image": "https://www.v8-hdmovie.com/wp-content/uploads/2022/01/cBc8kP23xdEW64htQGhCqBtZdkE.jpg",
+        "url": "https://master.streamhls.com/hls/298ba0da5a4d4271bc683119ca821554/master",
         "info": "HD | TH",
         "import": false
         },
