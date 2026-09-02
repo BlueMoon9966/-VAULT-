@@ -4,7 +4,7 @@
  "day": "18-07-2026",
  "info": "จัดให้ตามคำขอ",
  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
- "groups": [
+ "stations": [
   {
    "name": "Play Dirty (2025) หักหลังต้องหักเหลี่ยม",
    "image": "https://www.123-hdx.com/wp-content/uploads/2025/10/Play-Dirty-2025-%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1-300x450.png",
@@ -23,12 +23,6 @@
  "info": "พากย์ไทย",
  "image": "https://www.123-hdx.com/wp-content/uploads/2026/06/Your-Fault-London-2026-%E0%B8%84%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B9%82%E0%B8%97%E0%B8%A9-%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B8%AD%E0%B8%99-2-300x450.png",
  "groups": [
-{
- "name": "Your Fault London (2026) คำขอโทษ ลอนดอน 1-2",
- "author": "🤜Akaraphisit🤛",
- "info": "พากย์ไทย",
- "image": "https://www.123-hdx.com/wp-content/uploads/2026/06/Your-Fault-London-2026-%E0%B8%84%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B9%82%E0%B8%97%E0%B8%A9-%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B8%AD%E0%B8%99-2-300x450.png",
- "stations": [
   {
    "name": "Your Fault London (2026) คำขอโทษ ลอนดอน 2",
    "image": "https://www.123-hdx.com/wp-content/uploads/2026/06/Your-Fault-London-2026-%E0%B8%84%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B9%82%E0%B8%97%E0%B8%A9-%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B8%AD%E0%B8%99-2-300x450.png",
