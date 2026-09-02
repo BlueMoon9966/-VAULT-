@@ -6,6 +6,20 @@
  "info": "จัดให้ตามคำขอ",
  "groups": [
       {
+      "name": "Harry Potter แฮร์รี่ พอตเตอร์ HD 1-8 ครบทุกภาค",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://www.037hddmovies.com/wp-content/uploads/2018/09/harry_potter_praesentation.jpg",
+      "stations": [
+        {
+        "name": "Harry Potter and the Sorcerer’s Stone (2001) แฮร์รี่ พอตเตอร์กับศิลาอาถรรพ์ ภาค 1",
+        "image": "https://www.123-hdx.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-300x450.jpg",
+        "url": "https://master.streamhls.com/hls/f8cb5688b4482ccf358b3706a70ffaf5/master",
+        "info": "HD | TH",
+        "import": false
+        }
+       ]
+      },
+      {
       "name": "Avatar The Last Airbender เณรน้อยเจ้าอภินิหาร (2026) (Season 1-2)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://www.123-hdx.com/wp-content/uploads/2026/06/Avatar-The-Last-Airbender-Season-2-2026-%E0%B9%80%E0%B8%93%E0%B8%A3%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-2-300x450.jpg",
