@@ -6,6 +6,118 @@
  "info": "จัดให้ตามคำขอ",
  "groups": [
       {
+      "name": "The Early Spring (2026) ฤดูใหม่นี้มีเพียงสองเรา",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+      "stations": [
+        {
+        "name": "EP 1/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/eb0ef7d86b3ced5142d406ee/eb0ef7d86b3ced5142d406ee.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 2/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/d007cb2180f635fc05477991/d007cb2180f635fc05477991.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 3/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/4a3147db57954e8ef32f7bc0/4a3147db57954e8ef32f7bc0.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 4/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/af5754c87df5080a0e7a5250/af5754c87df5080a0e7a5250.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 5/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/bcd6ff22dd9c7750d9371254/bcd6ff22dd9c7750d9371254.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 6/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/50bf2a7cbeded13b4a0fba6d/50bf2a7cbeded13b4a0fba6d.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 7/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/8cde1a8cecc6131d690681b9/8cde1a8cecc6131d690681b9.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 8/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/13211f9b3587c6f423965536/13211f9b3587c6f423965536.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 9/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/f95c93bfc3be3d1d7745003f/f95c93bfc3be3d1d7745003f.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 10/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/b5b6c01673aafc572d4aa5e8/b5b6c01673aafc572d4aa5e8.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 11/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/b2dfd9e8380939884c3e18ad/b2dfd9e8380939884c3e18ad.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 12/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/f973ba5605f9f14da7d2996d/f973ba5605f9f14da7d2996d.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 13/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/f77688ac10f2790fd8f154b3/f77688ac10f2790fd8f154b3.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 14/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/e39068d2c50cc2b879a3ed63/e39068d2c50cc2b879a3ed63.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 15/15",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/21dffc2d9df432aff4c47c66/21dffc2d9df432aff4c47c66.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+       ]
+      },
+      {
       "name": "Harry Potter แฮร์รี่ พอตเตอร์ HD 1-8 ทุกภาค และ ครบรอบ 20 ปีแฮร์รี่",
       "author": "🤜Akaraphisit🤛",
       "image": "https://www.037hddmovies.com/wp-content/uploads/2018/09/harry_potter_praesentation.jpg",
