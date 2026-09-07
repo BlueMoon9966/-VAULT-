@@ -11,9 +11,72 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tP3U5EV8gZW338jP5rMx8ClYfQoSiBlWSI_0kuQRZIbUyBf1eebvQLup&s=10",
       "stations": [
         {
-        "name": "Fast 7 Furious Seven (2015) เร็ว..แรงทะลุนรก 7",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwjd6drxQ8y191-c4eo_nYp1_rx8mwNBzo9HEgM1hUaQ&s=10",
-        "url": "https://master.streamhls.com/hlsr2/9ef430b33392258efc8d09dadf0b1fe2/master.m3u8",
+        "name": "The Fast And Furious 1 (2001) เร็วแรงทะลุนรก 1",
+        "image": "https://www.posterman2000.com/wp-content/uploads/2025/08/Fast-and-the-Furious-%E0%B9%84%E0%B8%97%E0%B8%A2.jpg",
+        "url": "https://main.24playerhd.com/m3u8/2e3fdd3dd8f096b28e063bb1/2e3fdd3dd8f096b28e063bb1438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "2 Fast 2 Furious (2003) เร็วคูณ 2 ดับเบิ้ลแรงท้านรก",
+        "image": "https://www.posterman2000.com/wp-content/uploads/2023/05/fast2-02.jpg",
+        "url": "https://main.24playerhd.com/m3u8/ced10f69377538772f4c403d/ced10f69377538772f4c403d438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Fast 3 Tokyo Drift (2006) เร็วแรงทะลุนรก ซิ่งแหกพิกัดโตเกียว",
+        "image": "https://kodungmovie.com/wp-content/uploads/2021/05/664d7400fd67b8ca49c15e8ba357228e.jpg",
+        "url": "https://main.24playerhd.com/m3u8/59a3cd492d91ad9cf4df8c47/59a3cd492d91ad9cf4df8c47438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Fast and Furious 4 (2009) เร็วแรงทะลุนรก 4 ยกทีมซิ่ง แรงทะลุไมล์",
+        "image": "https://m.media-amazon.com/images/I/61W2vTLOvdL.jpg",
+        "url": "https://main.24playerhd.com/m3u8/62b542f46adbd35db0d1046f/62b542f46adbd35db0d1046f438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Fast and Furious 5 (2011) เร็วแรงทะลุนรก 5",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJl3e3uMAkZ_E5araLUY0cRAuMSzGvOiwGbWEn-jZsCZXMabG1oVozDyak&s=10",
+        "url": "https://main.24playerhd.com/m3u8/cbb100f696bb1685a386a148/cbb100f696bb1685a386a148438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Fast and Furious 6 (2013) เร็วแรงทะลุนรก 6",
+        "image": "https://s.isanook.com/mv/0/ud/6/33727/ff6_1.jpg",
+        "url": "https://main.24playerhd.com/m3u8/1f4b50617d8efe2938306aea/1f4b50617d8efe2938306aea438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Fast And Furious 7 (2015) เร็วแรงทะลุนรก 7",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhsoha8-AOL-M4aDjC-E_-SrfU98yhsNdV-nBmr0vK15wL9RV8hzqkp0&s=10",
+        "url": "https://main.24playerhd.com/m3u8/94b795426bc052ae450dd8c3/94b795426bc052ae450dd8c3438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Fast And Furious 8 (2017) เร็วแรงทะลุนรก 8",
+        "image": "https://www.boomerangshop.com/web/files/product/201906/01585772-20190620152052-0.jpg",
+        "url": "https://main.24playerhd.com/m3u8/c0a245a0d69a4472ba5cbea2/c0a245a0d69a4472ba5cbea2438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Fast and Furious 9 (2021) เร็วแรงทะลุนรก 9",
+        "image": "https://image.tmdb.org/t/p/original/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+        "url": "https://main.24playerhd.com/m3u8/d42ffcba70b2c7672cb7f501/d42ffcba70b2c7672cb7f501438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "Fast and Furious X (2023) เร็วแรงทะลุนรก 10",
+        "image": "https://upload.wikimedia.org/wikipedia/th/thumb/3/39/%E0%B9%83%E0%B8%9A%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81_10.jpg/250px-%E0%B9%83%E0%B8%9A%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81_10.jpg?utm_source=th.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "url": "https://main.24playerhd.com/m3u8/b1112ea8c6ebf9ab0050ff4e/b1112ea8c6ebf9ab0050ff4e438.m3u8",
         "info": "HD | TH",
         "import": false
         },
