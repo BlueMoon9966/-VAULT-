@@ -6,6 +6,19 @@
  "info": "จัดให้ตามคำขอ",
  "groups": [
       {
+      "name": "The Fast and the Furious (EP 1-10)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tP3U5EV8gZW338jP5rMx8ClYfQoSiBlWSI_0kuQRZIbUyBf1eebvQLup&s=10",
+      "stations": [
+         {
+          "name": "Fast 7 Furious Seven (2015) เร็ว..แรงทะลุนรก 7",
+          "info": "พากย์ไทย",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwjd6drxQ8y191-c4eo_nYp1_rx8mwNBzo9HEgM1hUaQ&s=10",
+          "url": "https://master.streamhls.com/hlsr2/9ef430b33392258efc8d09dadf0b1fe2/master.m3u8",
+         },
+       ]
+      },
+      {
       "name": "The Early Spring (2026) ฤดูใหม่นี้มีเพียงสองเรา",
       "author": "🤜Akaraphisit🤛",
       "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
