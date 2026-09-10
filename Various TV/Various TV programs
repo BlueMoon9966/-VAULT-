@@ -11,6 +11,15 @@
 "image": "https://png.pngtree.com/png-clipart/20220726/original/pngtree-live-streaming-live-box-signal-png-image_8409519.png",
 "stations": [
 {
+"name": "The Early Spring (2026)",
+"image": "https://i.mydramalist.com/zBZyW7_4c.jpg?v=1",
+"url": "https://www.bilibili.tv/th/video/4800872086641664?bstar_from=bstar-web.ugc-video-detail.related-recommend.all", 
+"referer": "",
+"info":"ผ่านเว็บ",
+"embed": "true",
+"playInNatPlayer": "true"
+},
+{
 "name": "ถ่ายทอดกีฬาสด",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIwuwyJ6tNJ4ybiEIoRqCdXRiC7Lblg8LIEyx3nboow&s=10",
 "url": "https://www.otp24hr.com/sport/all", 
