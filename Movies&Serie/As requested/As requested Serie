@@ -237,7 +237,21 @@
         {
         "name": "EP 22",
         "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
-        "url": "https://kisscloud.online/cdn/hls/bfffb62ff72f81f4a9a80586cbb1e7f5/master.txt",
+        "url": "https://www.bilibili.tv/th/video/4800872086641664?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 23",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://www.bilibili.tv/th/video/4800871902223360?bstar_from=bstar-web.ugc-video-detail.playlist.all",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 24",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://www.bilibili.tv/th/video/4800871850973696?bstar_from=bstar-web.ugc-video-detail.playlist.all",
         "info": "HD | TH",
         "import": false
         },
