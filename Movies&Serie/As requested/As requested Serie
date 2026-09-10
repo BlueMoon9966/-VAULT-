@@ -55,20 +55,6 @@
         {
         "name": "Fast And Furious 7 (2015) เร็วแรงทะลุนรก 7",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhsoha8-AOL-M4aDjC-E_-SrfU98yhsNdV-nBmr0vK15wL9RV8hzqkp0&s=10",
-        "url": "https://main.24playerhd.com/m3u8/94b795426bc052ae450dd8c3/94b795426bc052ae450dd8c3438.m3u8",
-        "info": "HD | TH",
-        "import": false
-        },
-        {
-        "name": "Fast And Furious 7 (2015) เร็วแรงทะลุนรก 7",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhsoha8-AOL-M4aDjC-E_-SrfU98yhsNdV-nBmr0vK15wL9RV8hzqkp0&s=10",
-        "url": "https://main.24playerhd.com/newplaylist/94b795426bc052ae450dd8c3/94b795426bc052ae450dd8c3.m3u8",
-        "info": "HD | TH",
-        "import": false
-        },
-        {
-        "name": "Fast And Furious 7 (2015) เร็วแรงทะลุนรก 7",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhsoha8-AOL-M4aDjC-E_-SrfU98yhsNdV-nBmr0vK15wL9RV8hzqkp0&s=10",
         "url": "https://master.streamhls.com/hls/9ef430b33392258efc8d09dadf0b1fe2/master",
         "info": "HD | TH",
         "import": false
@@ -231,6 +217,20 @@
         "name": "EP 19",
         "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
         "url": "https://main.24playerhd.com/m3u8/c44da740b55f9ad1db333bab/c44da740b55f9ad1db333bab438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 20",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/m3u8/279ecbdda52f80ce7ac7478e/279ecbdda52f80ce7ac7478e438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 21",
+        "image": "https://s.isanook.com/mv/0/ui/37/189502/s_008KJvHXgy1ighnqefuulj31n22wzhdw.jpg",
+        "url": "https://main.24playerhd.com/m3u8/532ef352f7ede6e8da352bbd/532ef352f7ede6e8da352bbd438.m3u8",
         "info": "HD | TH",
         "import": false
         },
