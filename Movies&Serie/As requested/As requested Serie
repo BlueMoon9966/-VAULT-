@@ -21,7 +21,48 @@
         "url": "https://vdohls.com/5_JftQSp-czRq/playlist.m3u8",
         "info": "HD | TH",
         "import": false
-        }
+        },
+        {
+        "name": "EP 2",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/63d137a51de7066d29d9c605/63d137a51de7066d29d9c605438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        "name": "EP 3",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/d73edfaeff4739be88d07531/d73edfaeff4739be88d07531438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 4",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+        "url": "https://vdohls.com/F_jC-WlxXbHFw/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 5",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/0c9147ec843ae81f03c2d761/0c9147ec843ae81f03c2d761438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 6",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/ec7f576e66c2a9adb78166ee/ec7f576e66c2a9adb78166ee438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 7",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+        "url": "https://vdohls.com/J_32xlJ-4h53o/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
        ]
       }
      ]
