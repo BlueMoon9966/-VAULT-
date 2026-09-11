@@ -6,6 +6,76 @@
  "info": "จัดให้ตามคำขอ",
  "groups": [
       {
+      "name": "Crossroad (2026) ทีมฉุกเฉิน…หัวใจไม่ยอมแพ้ EP.1-9",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://www.24hd.media/wp-content/uploads/2026/09/Crossroad-2026.webp",
+      "stations": [
+        {
+        "name": "EP 1",
+        "image": "https://www.24hd.media/wp-content/uploads/2026/09/Crossroad-2026.webp",
+        "url": "https://vdohls.com/G-M_LTCqZkKBW/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 2",
+        "image": "https://www.24hd.media/wp-content/uploads/2026/09/Crossroad-2026.webp",
+        "url": "https://vdohls.com/1LW5U-H5_tfaJ/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 3",
+        "image": "https://www.24hd.media/wp-content/uploads/2026/09/Crossroad-2026.webp",
+        "url": "https://vdohls.com/Qt5M0gQ-NJ_PC/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 4",
+        "image": "https://www.24hd.media/wp-content/uploads/2026/09/Crossroad-2026.webp",
+        "url": "https://vdohls.com/gGesX2_S0-lbS/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 5",
+        "image": "https://www.24hd.media/wp-content/uploads/2026/09/Crossroad-2026.webp",
+        "url": "https://vdohls.com/kNoN-R_YnEVJL/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 6",
+        "image": "https://www.24hd.media/wp-content/uploads/2026/09/Crossroad-2026.webp",
+        "url": "https://vdohls.com/JZ_gbRK-tW4et/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 7",
+        "image": "https://www.24hd.media/wp-content/uploads/2026/09/Crossroad-2026.webp",
+        "url": "https://vdohls.com/Yflvn5-xQ_rG7/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 8",
+        "image": "https://www.24hd.media/wp-content/uploads/2026/09/Crossroad-2026.webp",
+        "url": "https://vdohls.com/o-y2M_NdPblR0/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 9",
+        "image": "https://www.24hd.media/wp-content/uploads/2026/09/Crossroad-2026.webp",
+        "url": "https://vdohls.com/3-zjUg2Uj2_L4/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        }
+       ]
+      },
+      {
       "name": "The Fast and the Furious (EP 1-10)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tP3U5EV8gZW338jP5rMx8ClYfQoSiBlWSI_0kuQRZIbUyBf1eebvQLup&s=10",
