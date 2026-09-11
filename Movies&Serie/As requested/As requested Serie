@@ -11,9 +11,10 @@
       "image": "https://deadline.com/wp-content/uploads/2020/02/152740_group_v1-900x0-1.jpg",
       "groups": [
       {
-      "name": "The Good Doctor (2017) (Season 1 - EP 1-18)",
+      "name": "The Good Doctor (2017)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+      "info": " (Season 1 - EP 1-18)",
       "stations": [
         {
         "name": "EP 1",
@@ -147,6 +148,7 @@
       "name": "The Good Doctor (2018) (Season 2 - EP 1-18)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://www.24hd.media/wp-content/uploads/2021/07/The-Good-Doctor-Season-2-2018.jpg.webp",
+      "info": " (Season 2 - EP 1-18)",
       "stations": [
         {
         "name": "EP 1",
