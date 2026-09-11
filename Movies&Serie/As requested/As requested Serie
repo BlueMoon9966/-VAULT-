@@ -6,6 +6,27 @@
  "info": "จัดให้ตามคำขอ",
  "groups": [
       {
+      "name": "The Good Doctor แพทย์อัจฉริยะ คุณหมอฟ้าประทาน (Season 1-6)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://deadline.com/wp-content/uploads/2020/02/152740_group_v1-900x0-1.jpg",
+      "groups": [
+      {
+      "name": "The Good Doctor (2017) แพทย์อัจฉริยะ คุณหมอฟ้าประทาน (Season 1)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+      "stations": [
+        {
+        "name": "EP 1",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+        "url": "https://vdohls.com/5_JftQSp-czRq/playlist.m3u8",
+        "info": "HD | TH",
+        "import": false
+        }
+       ]
+      }
+     ]
+    },
+      {
       "name": "The Fast and the Furious (EP 1-10)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tP3U5EV8gZW338jP5rMx8ClYfQoSiBlWSI_0kuQRZIbUyBf1eebvQLup&s=10",
