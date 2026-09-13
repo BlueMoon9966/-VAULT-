@@ -8,12 +8,61 @@
       {
       "name": "A Shop for Killers (2026) ร้านลับนักฆ่า (Season 2 - EP 1-8)",
       "author": "🤜Akaraphisit🤛",
-      "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+      "image": "https://www.seriedayz.com/wp-content/uploads/2026/07/A-Shop-for-Killers-Season-2-2026-240x300.jpg",
       "stations": [
         {
         "name": "EP 1",
-        "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
-        "url": "https://vdohls.com/f-mDPRVb_9lxR/video.m3u8",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2026/07/A-Shop-for-Killers-Season-2-2026-240x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/f7cc0c60ab7b0b528fb8251f/f7cc0c60ab7b0b528fb8251f438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 2",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2026/07/A-Shop-for-Killers-Season-2-2026-240x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/2a90782a4df05d157c73fb2c/2a90782a4df05d157c73fb2c438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 3",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2026/07/A-Shop-for-Killers-Season-2-2026-240x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/91f04d5887a8abfd3dba8ee8/91f04d5887a8abfd3dba8ee8438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 4",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2026/07/A-Shop-for-Killers-Season-2-2026-240x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/f3cb8858a2f14f74ad0ce4a0/f3cb8858a2f14f74ad0ce4a0438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 5",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2026/07/A-Shop-for-Killers-Season-2-2026-240x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/f1ab5441406ec17237bf25eb/f1ab5441406ec17237bf25eb438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 6",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2026/07/A-Shop-for-Killers-Season-2-2026-240x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/5794de9309e56d97485c6d2d/5794de9309e56d97485c6d2d438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 7",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2026/07/A-Shop-for-Killers-Season-2-2026-240x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/39c38cb18a707aac99547e1d/39c38cb18a707aac99547e1d438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 8",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2026/07/A-Shop-for-Killers-Season-2-2026-240x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/f30b44831a6124ab5a71e8a0/f30b44831a6124ab5a71e8a0168.m3u8",
         "info": "HD | TH",
         "import": false
         }
