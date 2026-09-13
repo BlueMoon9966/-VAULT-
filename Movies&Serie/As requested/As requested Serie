@@ -6,6 +6,20 @@
  "info": "จัดให้ตามคำขอ",
  "groups": [
       {
+      "name": "A Shop for Killers (2026) ร้านลับนักฆ่า (Season 2 - EP 1-8)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+      "stations": [
+        {
+        "name": "EP 1",
+        "image": "https://www.seriedayz.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-203x300.jpg",
+        "url": "https://vdohls.com/f-mDPRVb_9lxR/video.m3u8",
+        "info": "HD | TH",
+        "import": false
+        }
+       ]
+      },
+      {
       "name": "The Good Doctor แพทย์อัจฉริยะ คุณหมอฟ้าประทาน (Season 1-6)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://deadline.com/wp-content/uploads/2020/02/152740_group_v1-900x0-1.jpg",
