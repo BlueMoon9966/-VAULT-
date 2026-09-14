@@ -201,9 +201,9 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "TRUTH TV 75",
-      "url": "https://lb-live-m.sky-cdn.com/mv/mvtv75.m3u8?expires=1789456699&uta=qlmXpPTZpscDAiL3_846CA",
-      "image": "https://www.mvtv.co.th/assets/LOGO/01_truth-tv-75_logo.png",
+      "name": "Channel8",
+      "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1791766440.m3u8",
+      "image": "https://www.tvjaa.com/storage/tv-channels/channel8thailand.png",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
