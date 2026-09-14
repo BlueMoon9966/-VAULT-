@@ -125,7 +125,7 @@
     },
     {
       "name": "Mono 29",
-      "url": "https://p1.cdn.vet/live/ch38/i/ch38i.m3u8?sid=bjeYTE4YzBjN2NmZmNhZGE5M2IzOQNzc0YzllOTMzYTg1NjZj",
+      "url": "https://p1.cdn.vet/live/ch38/i/ch38i.m3u8?sid=b5yZjg1N2M4NGI2MWE5ZWI5NzEzNwNzVjYzg3MTMzMDkxYzc3",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSRcpKa2qTCHtmhmhL5k_mCanpWkUMzsY5kJvTt4urw&s=10",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
@@ -201,7 +201,7 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "TRUTH TV 75า",
+      "name": "TRUTH TV 75",
       "url": "https://lb-live-m.sky-cdn.com/mv/mvtv75.m3u8?expires=1789456699&uta=qlmXpPTZpscDAiL3_846CA",
       "image": "https://www.mvtv.co.th/assets/LOGO/01_truth-tv-75_logo.png",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
