@@ -187,9 +187,23 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "ไทไชโย",
-      "url": "https://cdn726.stm.trueid.net/p402aes/t528_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=0c82798778&did=QVA3RjlSbjhUcVdjT3JwTnVOdkZ3VHk4dkF5SkxwZi0&mpass=XQR5-mJf2aNgWZ1ttE4N2zfhFJwUKmEjTzCOr-JnYMCxK8Wl7wn-LO47GUnIO_A60WswMlo-7c_pLUDgbichTCv-pSELrn_URVrPEsp3478DVLccFerY0G_g27f_bH1tICAzRI3icXgSvjMHJ7_fNrNP&sid=71792df02f&rt=1789369723&ds=25200&tk=wgxH5bRolNxKOWhwMn5Ka_gJ_xEdrvoMeJ3deuzFsR4",
-      "image": "https://cms.dmpcdn.com/livetv/2025/04/22/3fd05bf0-1f5b-11f0-998a-5bc77a7ebf21_webp_original.webp",
+      "name": "ท็อปทีวี",
+      "url": "https://cdn141.stm.trueid.net/p301aes/i008_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=96b180f27a&did=QXlrM3BWU1pYUVR2MFdrdXlESC1PN2JCQ0ZXZ1FhelU&mpass=oTOHrS5E3im-ScEq4ck4WTlRoz7Yb23z4nZq062r7ccMwVmct6GqyQt2mrpuYi7kH9dwFnmECvp_8fDAUWHWnq4-lzxS8yOU4fWzT-bFaft_PKAHFyEyXMh2X7fazv2aICBotsLZs_oggdftsQ5CrqxQ&sid=87d395e0c8&rt=1789370031&ds=25200&tk=fPqq1AlqVX669fLxXwZoRzVeBzRinnbrhFllogwiXs4",
+      "image": "https://cms.dmpcdn.com/livetv/2025/12/25/c1ce2130-e145-11f0-9745-e1abaece5066_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "โทรทัศน์รัฐสภา",
+      "url": "https://cdn733.stm.trueid.net/p401aes/d31_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=9d98c9b34f&did=QXlrM3BWU1pYUVR2MFdrdXlESC1PN2JCQ0ZXZ1FhelU&mpass=kZF-hjRzvA7hnkx_G38e5422RxmnU4Q_fzo-I-vniMi1MKoptZe60TuKotJE6elAnHNwHCg5gVqOTz11v9EJNqZk9tcL3R0gKTL1qoj1RgWQvGt0_cZmcfRQLAmCZEiIICDnIZMGdPau1VTA1GMnW-Wv&sid=26edaffb1c&rt=1789370131&ds=25200&tk=wzhRkHqa8jQyrwrmGHY49lmv3_uC2gcrP9AwJm5uaBg",
+      "image": "https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "โทรทัศน์รัฐสภา",
+      "url": "https://cdn733.stm.trueid.net/p401aes/d31_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=9d98c9b34f&did=QXlrM3BWU1pYUVR2MFdrdXlESC1PN2JCQ0ZXZ1FhelU&mpass=kZF-hjRzvA7hnkx_G38e5422RxmnU4Q_fzo-I-vniMi1MKoptZe60TuKotJE6elAnHNwHCg5gVqOTz11v9EJNqZk9tcL3R0gKTL1qoj1RgWQvGt0_cZmcfRQLAmCZEiIICDnIZMGdPau1VTA1GMnW-Wv&sid=26edaffb1c&rt=1789370131&ds=25200&tk=wzhRkHqa8jQyrwrmGHY49lmv3_uC2gcrP9AwJm5uaBg",
+      "image": "https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
