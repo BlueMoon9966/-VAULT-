@@ -47,18 +47,88 @@
       "playInNatPlayer": "true"
     },
     {
-      "ช่องวัน 31",
+      "name": "ช่องวัน 31",
       "url": "https://cdn141.stm.trueid.net/p101dai/d56_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=3a9b6d4007&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=-UACLieCyMi6tzJGfv6uObBKNyf1vtsYX4u0WNUMEPZBpTsFtwSSRAHkSQJp8SKhN1OsYclmT04ee2BCxHB6ad773eApGqvmXDUaxAEOQ1qDJNRmAR9GrSVbqRebXWtQICCIE1QBNgFwVMNqf_3itWwS&sid=1207e4712c&rt=1789358827&ds=25200&tk=mbv4icxz7GlJJA7celUTh5V2TGf0YYdr7i97kQYNuMU",
       "image": "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
-      "เอ็นบีที - NBT",
+      "name": "เอ็นบีที - NBT",
       "url": "https://cdn733.stm.trueid.net/p302aes/c11_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=ebb81d242b&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=MfZYaF1y9_hnEPmVvLddo94ffsqJp6zu0OLYYBoi_QfnKmTw3uUlvYULB4egEWrRs1QwPv4XYmWmWByfZPYXyezgs5Y3BMpgUFq0eNKDvvhm_9h41twq5TXDKrsP9O-CICBJYndO6cBYK7Tf2neHjpHT&sid=d18c767101&rt=1789358901&ds=25200&tk=KeOX7Ygvc5PMnvirN6gVzAdsWgicLLV-J2I-9375R5k",
       "image": "https://cms.dmpcdn.com/livetv/2023/10/02/4a2afc60-60f1-11ee-a78e-f70ba0052fab_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
-    }
+    },
+    {
+      "name": "พีพีทีวี",
+      "url": "https://cdn733.stm.trueid.net/p302aes/c11_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=ebb81d242b&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=MfZYaF1y9_hnEPmVvLddo94ffsqJp6zu0OLYYBoi_QfnKmTw3uUlvYULB4egEWrRs1QwPv4XYmWmWByfZPYXyezgs5Y3BMpgUFq0eNKDvvhm_9h41twq5TXDKrsP9O-CICBJYndO6cBYK7Tf2neHjpHT&sid=d18c767101&rt=1789358901&ds=25200&tk=KeOX7Ygvc5PMnvirN6gVzAdsWgicLLV-J2I-9375R5k",
+      "image": "https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "เนชั่นทีวี",
+      "url": "https://cdn727.stm.trueid.net/p102aes/d78_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=41aeee84be&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=MYi2o7RrZvxE8Epw_kQqSHsaQE-5RnSijNoUX9Rg7j2JNYhcD4JgTDOiqtwojztOySFAnjoZSy-tc4FvunvGwvjRHu9BW3s-5NS8fIVFbVNErIQWIy-Gdgmp3wap-M-sICAPHUNVUCVKp1__xK-6cOgq&sid=bf4dc6f41f&rt=1789359092&ds=25200&tk=S-HOuKZc6h_yBK_a8Cmy1tZwt7_PARAoMSHnOiMvtNQ",
+      "image": "https://cms.dmpcdn.com/livetv/2023/09/09/9c6f59c0-4ebe-11ee-99a7-832609069236_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ทีเอ็นเอ็น 16",
+      "url": "https://cdn702.stm.trueid.net/p201aes/135_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=d5f2471a4f&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=Es1iqSuUemle4OHZSNDjYSI9TTyUGzcM5PkgHFuhGE6CvR3qk4QdhrDpRJNyNyO2TvUb_c91-0vZqranHlM6Re8BTim5lrCOJhBd8OAVH1jh5apT1hfbxJ6Thg4WdR0sICBBzgIH0GP-seZUGVwrTStB&sid=1863f9f544&rt=1789359171&ds=25200&tk=ATfe6Sn7Ju7svTLe6wwwYxhmISpdZdpi01JFnonPw68",
+      "image": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "อมรินทร์ทีวี",
+      "url": "https://cdn146.stm.trueid.net/p101dai/da0_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=56d461437b&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=DSXcxII4Q3TyONtJrzWL0zXPRfif691crJ5O1MDxmKb7U85ckmtbzbmKAph_k9DA9e0kB8IwOhTBxj2L0y2t_LS4OIHmE5neZD_JGn7LEc4tdrZumuJB5OtkeTGS-rzoICD5D2pYTZkzuRhud8rwdH8L&sid=8cb3ccd4a4&rt=1789359216&ds=25200&tk=7rF7KyUgLyciYgWbImfZiESsDa5_wfvhFt_JvgvX7ts",
+      "image": "https://cms.dmpcdn.com/livetv/2024/07/23/5e86fbc0-48c0-11ef-9fca-d9696b8af2b7_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "จีเอ็มเอ็ม 25",
+      "url": "https://cdn141.stm.trueid.net/p202aes/d76_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=35da3d3a74&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=hPO5cG2N41ub_Pg-bWtrFPn-cgRovEKGTsQ6XpbyfblbPjzYl3ROvRkyDyoERekc1_kwRgRqRE96TF685Zmoqq06H-Xoq9HSed4ypmZn5xjRYJlWAz_rzaehNzGpWoe2ICD7rIaVJRzsqPNUaXHtJqdM&sid=2e52921d46&rt=1789359267&ds=25200&tk=m60A1abGA9VfxB2ilhFnaMtsh50qkvkfLEFrgdxLc6A",
+      "image": "https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_original.png",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ไทยพีบีเอส",
+      "url": "https://cdn729.stm.trueid.net/p401aes/c12_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=369b7dff5b&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=QZ43IORWJjTDIvgwTbiXt9z19xkHznR4eNlvsI789kZTLEboDLZTY4AUOzv_w6RxS6kKoCztOu1jXkdeZDMeb03oxf_Ep04kkQDJDzZF-GPSaDIeDmCwHund1M-6ke7GICAPkzeF-sBKfVA81fu-Wcnz&sid=8d0ef6a1ca&rt=1789359389&ds=25200&tk=UgNadWJfLNJ5-QHV54-ICmyXhCajCeH0-109tdPmgVc",
+      "image": "https://cms.dmpcdn.com/livetv/2023/09/15/ab170410-5377-11ee-8e1b-194edbb69638_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ช่อง 9",
+      "url": "https://cdn146.stm.trueid.net/p201aes/c09_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=8f214864c0&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=9r7yoFXzcXhp_7qPKpujesmuJZtAAMk9wbturkPQnAf5Bt8M0El-W4r6NrFChPWxuNOxctnZLGScxQYUN2WK_JG0AtMcGzjOAHtGIdK_WkhmLs_LumccodCOzVI4y_jPICAdiPcb1-j9Os6890jWiTq4&sid=55f93c5792&rt=1789359444&ds=25200&tk=mYyWMnUme6W5iQfKWufkeH6W5wFfkSw9IAL_t-6iF7w",
+      "image": "https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ช่อง 5",
+      "url": "https://cdn141.stm.trueid.net/p301aes/c05_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=ea0713c073&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=SfdefEG4vfHA4wZnwd5XDi43_3YzHEywoNWyRZojl9Iu8vH2lOhbLkrK0PPaksJVg1W8Db5p8dajZcDIIPDbliMrWf8eD6HHCQc0-ANVlVWtT771Ks5VnMOb0MkfeFGWICCpNrPwuA7psziIUmHqKHxl&sid=569c25111d&rt=1789359502&ds=25200&tk=yq5kRfbBVrsfsuX0vZ8ck8zvUoxdcPd3eC4wZuXukmA",
+      "image": "https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "โทรทัศน์รัฐสภา",
+      "url": "https://cdn146.stm.trueid.net/p401aes/d31_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=3f1fc03d4b&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=qXzJqRh0Oa5UhROeq9Wt-63aHuKHaodNLWyJSs8CNAL0To9AojD4JvpqrHZE5uCyoxjKiEafj1bgDMlrvy3M1v6fgvAq6xCAOXDjX7_3r5T2sndadvWbylNRvPCjRWxmICAhNB-iFjbvm_CxG1PT13jW&sid=c9926545ef&rt=1789359549&ds=25200&tk=aIv15tCcXgKt6L2Fvn1KNFKAAzICUApygaDMPm6dD_E",
+      "image": "https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "โมโนแมกซ์ สปอร์ตส์",
+      "url": "https://cdn146.stm.trueid.net/p401aes/d31_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=3f1fc03d4b&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=qXzJqRh0Oa5UhROeq9Wt-63aHuKHaodNLWyJSs8CNAL0To9AojD4JvpqrHZE5uCyoxjKiEafj1bgDMlrvy3M1v6fgvAq6xCAOXDjX7_3r5T2sndadvWbylNRvPCjRWxmICAhNB-iFjbvm_CxG1PT13jW&sid=c9926545ef&rt=1789359549&ds=25200&tk=aIv15tCcXgKt6L2Fvn1KNFKAAzICUApygaDMPm6dD_E",
+      "image": "https://cms.dmpcdn.com/livetv/2026/05/27/63d2e530-5999-11f1-9eae-09fe801bd2a9_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
    ]
   },
