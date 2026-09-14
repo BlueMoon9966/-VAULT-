@@ -8,8 +8,18 @@
       "name": "ช่อง 3",
       "url": "https://cdn733.stm.trueid.net/p101aes/c03_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=ca4c54af83&did=dWhfcGhYaXlTVE8xZ0xBZnRpV3JVNG1WOGt6SjhDZzE&mpass=HyTSrEaTDrh0pcZxDfMF_wKjqesPSn3bWpz7lvE122Yy3kZFbnzX7WDCYfXP49vF7OP0FEOoJNwC1aZq3CeJaEP4dW2q0YGW5XNPY8vXQrdXlb-lcX9IwCiz218qgynPICAyGsJvsMipcZ7sNmn06Qc5&sid=21c97edd44&rt=1789355543&ds=25200&tk=XsPnt9wAnaqfy2I3oHl1lo2ByxKGsfNAICV1aXN8VOM",
       "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-      "referer": "https://kicksball.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "embed": "true"
+    },
+    {
+      "name": "ไทยรัฐทีวี",
+      "url": "https://cdn146.stm.trueid.net/p201dai/d05_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=cf6eb1bbe3&did=aGdSRW1WWEJYRjZsd1VQcFpDNmZ4U2tRU29hQzZ2QW8&mpass=t1hx4djOjf6CVvCuFiOLNOwnyA8yyPZ_K8nLOWkLVxF9Qv8HaVCYE6GvH60SV3WQnsEFL6s_sUOCyy_O7PyEGIl2PCbsCPzrk3enjl3WuqZzcT5DLsJsNIw3ZcTuwk8XICCNEFKzCFVJc9YzeL5Zdc0b&sid=4a673ed28c&rt=1789356253&ds=25200&tk=2tZTzxo7BXaGiI2v9wnV4qkC8g4S-kbmtqfTQ_2WeVg",
+      "image": "https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp",
+      "embed": "true"
+    },
+    {
+      "name": "ช่อง 7HD",
+      "url": "https://cdn138.stm.trueid.net/p301aes/c07_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=3677ed4a4d&did=aGdSRW1WWEJYRjZsd1VQcFpDNmZ4U2tRU29hQzZ2QW8&mpass=ecVTvHItnJDIKcYgbSCmBvvO112a2NXfPl83Y5eFggOgSi0imhRgA70e_uYSKe5liOEIQ2fJAt_NGkGrGrz8QpCS1AhZ9uRyfE2rmUvpJR9rQHvloMPUiB_2_bjyLU5RICBMmB-0i3ZZ5pbd5t6Er9is&sid=10adf34f24&rt=1789356156&ds=25200&tk=aP7LrZ82Rg1VgOZVbOzxGzub3JrOC6GjXU1IXlTaKT8",
+      "image": "https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp",
       "embed": "true"
     },
    ]
