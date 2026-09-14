@@ -25,5 +25,40 @@
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
+    {
+      "name": "ทรูโฟร์ยู",
+      "url": "https://cdn138.stm.trueid.net/p301aes/c07_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=3677ed4a4d&did=aGdSRW1WWEJYRjZsd1VQcFpDNmZ4U2tRU29hQzZ2QW8&mpass=ecVTvHItnJDIKcYgbSCmBvvO112a2NXfPl83Y5eFggOgSi0imhRgA70e_uYSKe5liOEIQ2fJAt_NGkGrGrz8QpCS1AhZ9uRyfE2rmUvpJR9rQHvloMPUiB_2_bjyLU5RICBMmB-0i3ZZ5pbd5t6Er9is&sid=10adf34f24&rt=1789356156&ds=25200&tk=aP7LrZ82Rg1VgOZVbOzxGzub3JrOC6GjXU1IXlTaKT8",
+      "image": "https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "เวิร์คพอยท์ ทีวี",
+      "url": "https://cdn730.stm.trueid.net/p202aes/d83_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=7952a5f19a&did=TDY5TnpYSE5UUm1FNXZSUk5sVnh6S0dIX2IwMzVJUkU&mpass=OgZNCvO84DxHyt4CxG5uUR4mq9tGBwT3UVNbuftoLywm5LGvRwHpV1INfMQe3mGvsICPeB9mK8Fvqsa2wN8naK4G7Xs8oejI5j5WscoZQE_1llJzvINqWAPW3OrXwPX5ICC6YN8YxkLS7Tn_Uy7jb5Ke&sid=8d53a4ba10&rt=1789358685&ds=25200&tk=1Z35IXdty2MRFdq3Si_MkeWFWkwHAsPoNAXHRduQ_08",
+      "image": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ช่อง 8",
+      "url": "https://cdn728.stm.trueid.net/p301aes/d62_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=865573d23d&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=mzEq0l71oj89WHkIx_fO420pXwBL13zRPuY8p6OFf2X_2exsHGFANoHcSU3rgrf8LdoVOPU4fVsAoEqHH8Ha_SLorZ7QVA30Hhtlye__78_jcNLDxpxI1SgEj1_o4RMdICAMa75Eln9Ysv0PtppbX7-X&sid=5c4c72843c&rt=1789358752&ds=25200&tk=8rEVQCCgxHGxwBdaxpfljkb4PBB_aXMpUOXNLoebUDI",
+      "image": "https://cms.dmpcdn.com/livetv/2026/02/27/27350760-13ae-11f1-b8cb-95cb418dab77_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "ช่องวัน 31",
+      "url": "https://cdn141.stm.trueid.net/p101dai/d56_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=3a9b6d4007&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=-UACLieCyMi6tzJGfv6uObBKNyf1vtsYX4u0WNUMEPZBpTsFtwSSRAHkSQJp8SKhN1OsYclmT04ee2BCxHB6ad773eApGqvmXDUaxAEOQ1qDJNRmAR9GrSVbqRebXWtQICCIE1QBNgFwVMNqf_3itWwS&sid=1207e4712c&rt=1789358827&ds=25200&tk=mbv4icxz7GlJJA7celUTh5V2TGf0YYdr7i97kQYNuMU",
+      "image": "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "เอ็นบีที - NBT",
+      "url": "https://cdn733.stm.trueid.net/p302aes/c11_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=ebb81d242b&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=MfZYaF1y9_hnEPmVvLddo94ffsqJp6zu0OLYYBoi_QfnKmTw3uUlvYULB4egEWrRs1QwPv4XYmWmWByfZPYXyezgs5Y3BMpgUFq0eNKDvvhm_9h41twq5TXDKrsP9O-CICBJYndO6cBYK7Tf2neHjpHT&sid=d18c767101&rt=1789358901&ds=25200&tk=KeOX7Ygvc5PMnvirN6gVzAdsWgicLLV-J2I-9375R5k",
+      "image": "https://cms.dmpcdn.com/livetv/2023/10/02/4a2afc60-60f1-11ee-a78e-f70ba0052fab_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    }
    ]
   },
