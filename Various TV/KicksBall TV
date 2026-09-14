@@ -201,9 +201,9 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "โทรทัศน์รัฐสภา",
-      "url": "https://cdn733.stm.trueid.net/p401aes/d31_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=9d98c9b34f&did=QXlrM3BWU1pYUVR2MFdrdXlESC1PN2JCQ0ZXZ1FhelU&mpass=kZF-hjRzvA7hnkx_G38e5422RxmnU4Q_fzo-I-vniMi1MKoptZe60TuKotJE6elAnHNwHCg5gVqOTz11v9EJNqZk9tcL3R0gKTL1qoj1RgWQvGt0_cZmcfRQLAmCZEiIICDnIZMGdPau1VTA1GMnW-Wv&sid=26edaffb1c&rt=1789370131&ds=25200&tk=wzhRkHqa8jQyrwrmGHY49lmv3_uC2gcrP9AwJm5uaBg",
-      "image": "https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp",
+      "name": "TRUTH TV 75า",
+      "url": "https://lb-live-m.sky-cdn.com/mv/mvtv75.m3u8?expires=1789456699&uta=qlmXpPTZpscDAiL3_846CA",
+      "image": "https://www.mvtv.co.th/assets/LOGO/01_truth-tv-75_logo.png",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
