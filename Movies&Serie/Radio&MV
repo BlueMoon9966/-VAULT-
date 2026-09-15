@@ -616,6 +616,14 @@
 "audio": "true",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 },
+{
+"name": "📻  93KHJ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTwgXx2n3Xey_nUIHattULG8AK3lsdTH4Xy5j_isvwg&s",
+"url": "https://ice25.securenetsystems.net/KKHJ",
+"info": "EN-Music",
+"audio": "true",
+"userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+},
 ]
 },
 ]
