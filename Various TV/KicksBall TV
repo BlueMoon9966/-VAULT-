@@ -97,7 +97,7 @@
     },
     {
       "name": "ไทยพีบีเอส",
-      "url": "https://cdn729.stm.trueid.net/p401aes/c12_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=369b7dff5b&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=QZ43IORWJjTDIvgwTbiXt9z19xkHznR4eNlvsI789kZTLEboDLZTY4AUOzv_w6RxS6kKoCztOu1jXkdeZDMeb03oxf_Ep04kkQDJDzZF-GPSaDIeDmCwHund1M-6ke7GICAPkzeF-sBKfVA81fu-Wcnz&sid=8d0ef6a1ca&rt=1789359389&ds=25200&tk=UgNadWJfLNJ5-QHV54-ICmyXhCajCeH0-109tdPmgVc",
+      "url": "https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2023/09/15/ab170410-5377-11ee-8e1b-194edbb69638_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
