@@ -131,8 +131,8 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "ท็อปนิวส์",
-      "url": "https://cdn139.stm.trueid.net/p401aes/t530_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=4f0ff044cc&did=QVA3RjlSbjhUcVdjT3JwTnVOdkZ3VHk4dkF5SkxwZi0&mpass=coLZmR6_ABAW4LQlE7bZ0SzoICeXvtJdcCargEKYRtbbTwex2_hOROmrfVDnTIjCLgFxQBnCCiTetwwMlqF5VCa7o9HWKs-dN11mAYyv2IXV0I3uhsZDkBUg8MAicxh2ICBrhdjLPq-8nhpPj1qEOR-O&sid=bc71ed16fe&rt=1789369272&ds=25200&tk=gFKmHRiZaheQK_H0Qs5UOqPrS8BbIdi8yYcCkWBTpCY",
+      "name": "TOP NEWS",
+      "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2025/06/19/cab7bcc0-4cc6-11f0-b437-536ba535ba63_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
@@ -205,6 +205,31 @@
       "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1230998118.m3u8",
       "image": "https://www.tvjaa.com/storage/tv-channels/channel8thailand.png",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CHIANGRAI CHANNEL",
+      "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
+      "image": "https://thaitvstream.com/streaming/chiangrai/chiangrai.png",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "เสียงมวลชน",
+      "url": "https://live2.thaitvstream.com/play/mounchontv/index.m3u8",
+      "image": "https://thaitvstream.com/streaming/mounchontv/mounchontv.png",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ThaiNews",
+      "url": "https://live.thaitvstream.com/play/thainews/index.m3u8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ874CckdZoX4VI8dFe6zsJudBaqzMgeg_PgO6O94ZQg&s=10",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Siam News",
+      "url": "https://live1.thaitvstream.com/play/siamnewstv/index.m3u8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2x11bXvu2WrVBzdX9xh2J9J6C5-AWol3Guvt8Yx1GSg&s",
       "playInNatPlayer": "true"
     },
    ]
