@@ -89,8 +89,8 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "จีเอ็มเอ็ม 25",
-      "url": "https://cdn141.stm.trueid.net/p202aes/d76_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=35da3d3a74&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=hPO5cG2N41ub_Pg-bWtrFPn-cgRovEKGTsQ6XpbyfblbPjzYl3ROvRkyDyoERekc1_kwRgRqRE96TF685Zmoqq06H-Xoq9HSed4ypmZn5xjRYJlWAz_rzaehNzGpWoe2ICD7rIaVJRzsqPNUaXHtJqdM&sid=2e52921d46&rt=1789359267&ds=25200&tk=m60A1abGA9VfxB2ilhFnaMtsh50qkvkfLEFrgdxLc6A",
+      "name": "GMM25",
+      "url": "https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_original.png",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
