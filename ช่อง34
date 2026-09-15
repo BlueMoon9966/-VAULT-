@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:4575
+#EXTINF:6.016000,
+Thai_HD_2689617_4584.ts?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1789516387&x_ark_path_prefix=%2Flive%2F&x_ark_signature=imCZHCpMQXsgwfwO3DLnww
+#EXTINF:6.000000,
+1080p_2689617_4585.ts?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1789516387&x_ark_path_prefix=%2Flive%2F&x_ark_signature=imCZHCpMQXsgwfwO3DLnww
