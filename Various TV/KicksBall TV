@@ -232,5 +232,11 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2x11bXvu2WrVBzdX9xh2J9J6C5-AWol3Guvt8Yx1GSg&s",
       "playInNatPlayer": "true"
     },
+    {
+      "name": "13livetv",
+      "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzJg-H4vVHuQuHl-KfC2xht_B-HbZsWtCZDy_QqmGpqgVYJ7EnOaRrEij&s=10",
+      "playInNatPlayer": "true"
+    },
    ]
   },
