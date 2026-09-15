@@ -27,7 +27,7 @@
     },
     {
       "name": "TRUE4U",
-      "url": "https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1789462512&x_ark_path_prefix=%2Flive%2F&x_ark_signature=JNjEPLrzK8-6XWCvtpDDgg",
+      "url": "https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
