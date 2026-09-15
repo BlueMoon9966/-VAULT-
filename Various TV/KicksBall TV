@@ -6,7 +6,7 @@
   "stations": [
     {
       "name": "ช่อง 3",
-      "url": "https://cdn733.stm.trueid.net/p101aes/c03_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=ca4c54af83&did=dWhfcGhYaXlTVE8xZ0xBZnRpV3JVNG1WOGt6SjhDZzE&mpass=HyTSrEaTDrh0pcZxDfMF_wKjqesPSn3bWpz7lvE122Yy3kZFbnzX7WDCYfXP49vF7OP0FEOoJNwC1aZq3CeJaEP4dW2q0YGW5XNPY8vXQrdXlb-lcX9IwCiz218qgynPICAyGsJvsMipcZ7sNmn06Qc5&sid=21c97edd44&rt=1789355543&ds=25200&tk=XsPnt9wAnaqfy2I3oHl1lo2ByxKGsfNAICV1aXN8VOM",
+      "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1789482901&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=P075xS0s5osMcHBmpKJ7pQ",
       "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
@@ -20,7 +20,7 @@
     },
     {
       "name": "ช่อง 7HD",
-      "url": "https://cdn138.stm.trueid.net/p301aes/c07_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=3677ed4a4d&did=aGdSRW1WWEJYRjZsd1VQcFpDNmZ4U2tRU29hQzZ2QW8&mpass=ecVTvHItnJDIKcYgbSCmBvvO112a2NXfPl83Y5eFggOgSi0imhRgA70e_uYSKe5liOEIQ2fJAt_NGkGrGrz8QpCS1AhZ9uRyfE2rmUvpJR9rQHvloMPUiB_2_bjyLU5RICBMmB-0i3ZZ5pbd5t6Er9is&sid=10adf34f24&rt=1789356156&ds=25200&tk=aP7LrZ82Rg1VgOZVbOzxGzub3JrOC6GjXU1IXlTaKT8",
+      "url": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_11.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
@@ -55,7 +55,7 @@
     },
     {
       "name": "เอ็นบีที - NBT",
-      "url": "https://cdn733.stm.trueid.net/p302aes/c11_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=ebb81d242b&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=MfZYaF1y9_hnEPmVvLddo94ffsqJp6zu0OLYYBoi_QfnKmTw3uUlvYULB4egEWrRs1QwPv4XYmWmWByfZPYXyezgs5Y3BMpgUFq0eNKDvvhm_9h41twq5TXDKrsP9O-CICBJYndO6cBYK7Tf2neHjpHT&sid=d18c767101&rt=1789358901&ds=25200&tk=KeOX7Ygvc5PMnvirN6gVzAdsWgicLLV-J2I-9375R5k",
+      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w2031140874_b3128000.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2023/10/02/4a2afc60-60f1-11ee-a78e-f70ba0052fab_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
@@ -104,14 +104,14 @@
     },
     {
       "name": "ช่อง 9",
-      "url": "https://cdn146.stm.trueid.net/p201aes/c09_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=8f214864c0&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=9r7yoFXzcXhp_7qPKpujesmuJZtAAMk9wbturkPQnAf5Bt8M0El-W4r6NrFChPWxuNOxctnZLGScxQYUN2WK_JG0AtMcGzjOAHtGIdK_WkhmLs_LumccodCOzVI4y_jPICAdiPcb1-j9Os6890jWiTq4&sid=55f93c5792&rt=1789359444&ds=25200&tk=mYyWMnUme6W5iQfKWufkeH6W5wFfkSw9IAL_t-6iF7w",
+      "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "ช่อง 5",
-      "url": "https://cdn141.stm.trueid.net/p301aes/c05_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=ea0713c073&did=R2JkUFVRem9LakJfNm56WWllTXFfQXF2WUhTdmFIclA&mpass=SfdefEG4vfHA4wZnwd5XDi43_3YzHEywoNWyRZojl9Iu8vH2lOhbLkrK0PPaksJVg1W8Db5p8dajZcDIIPDbliMrWf8eD6HHCQc0-ANVlVWtT771Ks5VnMOb0MkfeFGWICCpNrPwuA7psziIUmHqKHxl&sid=569c25111d&rt=1789359502&ds=25200&tk=yq5kRfbBVrsfsuX0vZ8ck8zvUoxdcPd3eC4wZuXukmA",
+      "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
