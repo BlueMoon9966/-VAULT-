@@ -160,85 +160,99 @@
       "name": "เสียงมวลชน",
       "url": "https://live2.thaitvstream.com/play/mounchontv/index.m3u8",
       "image": "https://thaitvstream.com/streaming/mounchontv/mounchontv.png",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "ThaiNews",
       "url": "https://live.thaitvstream.com/play/thainews/index.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ874CckdZoX4VI8dFe6zsJudBaqzMgeg_PgO6O94ZQg&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "Siam News",
       "url": "https://live1.thaitvstream.com/play/siamnewstv/index.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2x11bXvu2WrVBzdX9xh2J9J6C5-AWol3Guvt8Yx1GSg&s",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "13livetv",
       "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzJg-H4vVHuQuHl-KfC2xht_B-HbZsWtCZDy_QqmGpqgVYJ7EnOaRrEij&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "BAAN BAAN TV",
       "url": "https://vdo.plathong.net/live8794/live8794/playlist.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwNi9XvVv507fJJUz04_oGvooAUxO4LVrmmV-i1_Peg&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "Boonniyom TV",
       "url": "https://live.x2.co.th/live/bntv.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1wQ8BK0EGqRx2a3rP9v_F3NHGFFyjHXK5nxsNlGLznQ&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "DLTV 1",
       "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlqnNnaeJfmh0B_J1ZAmQBKGwOox-8kQMuYpQkd91Q&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "DLTV 2",
       "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGPxQWKwl0su5qTTlp1VmJ3oLwJgX2GpilWnjMdEI&s",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "ลั่นทุ่งทีวี",
       "url": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0bJjxJcmFcUrZQIhA6DoewiEI4zb3Ev4A4rGLR4lLg&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "POLICE TV",
       "url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsxSZdx29FND5mwojBXInilPhQ94Uwa0U-P4-LPpD5w&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "RAMA Channel",
       "url": "https://ramach.ddns.net/live/ramalive/index.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpM7EkdOBZVBiYhd7Oh_g1SBXhQItxhHwt770wwGJSdw&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "T Sports 7",
       "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4dKJ7kJmqOxT2NKBrmdlvpFUdTzf4bQX7CZ-Rh_Qvg&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "T Sports 7",
       "url": "https://live.thaichaiyo.tv/tcy/live-transmux.m3u8",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqzA3WuOdjhGlFf5JsnMaE1LU0YKvoxQuaRXltuGGUg&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
       "name": "T Sports 7",
       "url": "https://live.thaichaiyo.tv/tcy/live-transmux.m3u8",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqzA3WuOdjhGlFf5JsnMaE1LU0YKvoxQuaRXltuGGUg&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
-    },
+    }
    ]
   },
