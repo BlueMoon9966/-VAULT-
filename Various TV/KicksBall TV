@@ -26,8 +26,8 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "ทรูโฟร์ยู",
-      "url": "https://cdn138.stm.trueid.net/p301aes/c07_multi_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=3677ed4a4d&did=aGdSRW1WWEJYRjZsd1VQcFpDNmZ4U2tRU29hQzZ2QW8&mpass=ecVTvHItnJDIKcYgbSCmBvvO112a2NXfPl83Y5eFggOgSi0imhRgA70e_uYSKe5liOEIQ2fJAt_NGkGrGrz8QpCS1AhZ9uRyfE2rmUvpJR9rQHvloMPUiB_2_bjyLU5RICBMmB-0i3ZZ5pbd5t6Er9is&sid=10adf34f24&rt=1789356156&ds=25200&tk=aP7LrZ82Rg1VgOZVbOzxGzub3JrOC6GjXU1IXlTaKT8",
+      "name": "TRUE4U",
+      "url": "https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1789462512&x_ark_path_prefix=%2Flive%2F&x_ark_signature=JNjEPLrzK8-6XWCvtpDDgg",
       "image": "https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
