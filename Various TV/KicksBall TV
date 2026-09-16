@@ -1,9 +1,16 @@
     {
-  "name": "tv.trueid",
+  "name": "TV Garden",
   "author": "🤜Akaraphisit🤛",
   "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
-  "info": "Updated: 2026-08-09 13:29:01",
+  "info": "Updated : 2026-09-16 09:29:00",
   "stations": [
+    {
+      "name": "13livetv",
+      "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzJg-H4vVHuQuHl-KfC2xht_B-HbZsWtCZDy_QqmGpqgVYJ7EnOaRrEij&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
     {
       "name": "ช่อง 3",
       "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
@@ -12,16 +19,51 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "ไทยรัฐทีวี",
-      "url": "https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8",
-      "image": "https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp",
+      "name": "ช่อง 5",
+      "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+      "image": "https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
     {
-      "name": "ช่อง 7HD",
+      "name": "ช่อง 7",
       "url": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_11.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ช่อง 8",
+      "url": "https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8",
+      "image": "https://cms.dmpcdn.com/livetv/2026/02/27/27350760-13ae-11f1-b8cb-95cb418dab77_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ช่อง 9",
+      "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
+      "image": "https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "GMM25",
+      "url": "https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8",
+      "image": "https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_original.png",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Mono 29",
+      "url": "https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSRcpKa2qTCHtmhmhL5k_mCanpWkUMzsY5kJvTt4urw&s=10",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ไทยรัฐทีวี",
+      "url": "https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8",
+      "image": "https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
@@ -40,36 +82,10 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "ช่อง 8",
-      "url": "https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8",
-      "image": "https://cms.dmpcdn.com/livetv/2026/02/27/27350760-13ae-11f1-b8cb-95cb418dab77_webp_original.webp",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-      "playInNatPlayer": "true"
-    },
-    {
       "name": "ช่องวัน 31",
       "url": "https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "NBT2HD",
-      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w2031140874_b3128000.m3u8",
-      "image": "https://cms.dmpcdn.com/livetv/2023/10/02/4a2afc60-60f1-11ee-a78e-f70ba0052fab_webp_original.webp",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "NBT North 11",
-      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0-7ogTy0-H9j_B56y8uEMSBwQTs4TeW0rzhvDdsrKQ&s=10",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "NBT WORLD",
-      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPyaEyBK0z6IrDl_VrYz5LDae9nT7dKCpRq8Atidscw&s=10",
       "playInNatPlayer": "true"
     },
     {
@@ -94,37 +110,9 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "GMM25",
-      "url": "https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8",
-      "image": "https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_original.png",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-      "playInNatPlayer": "true"
-    },
-    {
       "name": "ไทยพีบีเอส",
       "url": "https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2023/09/15/ab170410-5377-11ee-8e1b-194edbb69638_webp_original.webp",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "ช่อง 9",
-      "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
-      "image": "https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "ช่อง 5",
-      "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
-      "image": "https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.webp",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "Mono 29",
-      "url": "https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSRcpKa2qTCHtmhmhL5k_mCanpWkUMzsY5kJvTt4urw&s=10",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
@@ -174,13 +162,6 @@
       "name": "Siam News",
       "url": "https://live1.thaitvstream.com/play/siamnewstv/index.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2x11bXvu2WrVBzdX9xh2J9J6C5-AWol3Guvt8Yx1GSg&s",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "13livetv",
-      "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzJg-H4vVHuQuHl-KfC2xht_B-HbZsWtCZDy_QqmGpqgVYJ7EnOaRrEij&s=10",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
     },
@@ -241,7 +222,7 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "T Sports 7",
+      "name": "ไทยไชโย",
       "url": "https://live.thaichaiyo.tv/tcy/live-transmux.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqzA3WuOdjhGlFf5JsnMaE1LU0YKvoxQuaRXltuGGUg&s=10",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
