@@ -179,7 +179,7 @@
     },
     {
       "name": "13livetv",
-      "url": "https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8",
+      "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzJg-H4vVHuQuHl-KfC2xht_B-HbZsWtCZDy_QqmGpqgVYJ7EnOaRrEij&s=10",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
