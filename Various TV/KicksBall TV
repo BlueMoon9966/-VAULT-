@@ -6,7 +6,7 @@
   "stations": [
     {
       "name": "ช่อง 3",
-      "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1789482901&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=P075xS0s5osMcHBmpKJ7pQ",
+      "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
       "image": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
       "playInNatPlayer": "true"
