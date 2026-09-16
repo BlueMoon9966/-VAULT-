@@ -61,13 +61,14 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
 "playInNatPlayer": "true"
 },
-    {
-      "name": "ไทยรัฐทีวี",
-      "url": "https://tse3.mm.bing.net/th/id/OIP.9thgi4cZ5JxivjnvnTBbZgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
-      "image": "https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-      "playInNatPlayer": "true"
-    },
+{
+"name": "ไทยรัฐทีวี",
+"image": "https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp",
+"url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
+"referer": "https://www.thairath.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
     {
       "name": "TRUE4U",
       "url": "https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8",
