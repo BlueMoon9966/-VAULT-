@@ -13,14 +13,14 @@
         {
         "name": "EP 1",
         "image": "https://www.123-hda.com/wp-content/uploads/2026/05/Zhan-Zhao-Adventures-2026-%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A0%E0%B8%9E-300x450.jpg",
-        "url": "https://main.24playerhd.com/m3u8/78cf0a76018a322902932cfc/78cf0a76018a322902932cfc438.m3u8",
+        "url": "https://s11-t.97bf1.com/hls/mPGGSSKgGkkM8oMiDn8xQLXe3aEM691c/master.m3u8?token=9d5630660267ca95eb1abbd141768423-1789654428-2a06%3A98c0%3A3600%3A%3A103-67e4d4087bbd67f08fa06e27361f86d8e1928586ad0cf436942edf5cdf71fbce",
         "info": "HD | TH",
         "import": false
         },
         {
         "name": "EP 2",
         "image": "https://www.123-hda.com/wp-content/uploads/2026/05/Zhan-Zhao-Adventures-2026-%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A0%E0%B8%9E-300x450.jpg",
-        "url": "https://main.24playerhd.com/m3u8/2b050b66c8b5585971f93db4/2b050b66c8b5585971f93db4438.m3u8",
+        "url": "https://s11-t.97bf1.com/hls/eeXsiYlHmnHKQHLQMZO3EkId7x7AXPLb/index_1280x720.m3u8?token=63b3bc8b3f5b0685bf3da2f9c690ec1e-1789654517-2a06%3A98c0%3A3600%3A%3A103-b1f42cc4c1dc376a5c928fd981620c53375b4643343dc3bdd27e5113f85be140",
         "info": "HD | TH",
         "import": false
         },
@@ -101,7 +101,29 @@
         "info": "HD | TH",
         "import": false
         },
-....................
+        {
+        "name": "EP 14",
+        "image": "https://www.123-hda.com/wp-content/uploads/2026/05/Zhan-Zhao-Adventures-2026-%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A0%E0%B8%9E-300x450.jpg",
+        "url": "https://main.24playerhd.com/m3u8/6994da9d9cf181a71b837530/6994da9d9cf181a71b837530438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 15",
+        "image": "https://www.123-hda.com/wp-content/uploads/2026/05/Zhan-Zhao-Adventures-2026-%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A0%E0%B8%9E-300x450.jpg",
+        "url": "https://main.24playerhd.com/m3u8/9f46f88a7c6a7b955d118d84/9f46f88a7c6a7b955d118d84438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 16",
+        "image": "https://www.123-hda.com/wp-content/uploads/2026/05/Zhan-Zhao-Adventures-2026-%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A0%E0%B8%9E-300x450.jpg",
+        "url": "https://main.24playerhd.com/m3u8/9f46f88a7c6a7b955d118d84/9f46f88a7c6a7b955d118d84438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        }
+       ]
+      },
       {
       "name": "A Shop for Killers (2026) ร้านลับนักฆ่า (Season 1-2)",
       "author": "🤜Akaraphisit🤛",
