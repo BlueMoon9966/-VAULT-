@@ -13,12 +13,75 @@
         {
         "name": "EP 1",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_NqwXfsEYgi38Z3OACdbcz5awskBbtQmJbfDMckKxg&s=10",
-        "url": "https://hls1.goodstream.one/hls2/03/00082/o6z4kmeg068d_o/master.m3u8?t=l_1oQtWo2mXj0QMVkXE-UZsgOZyhf80vUa4GLsax4gE&s=1789713591&e=43200&v=390735494&srv=s4&i=0.0&sp=0",
+        "url": "https://zmpu6aruq0oi.tnmr.org/hls2/02/03146/7ixm8pg74e83_h/master.m3u8?t=zEJUGgNG1V3rn7mlhXjI5fiFw9n1Z_q2T-8SuuBqczY&s=1789714786&e=28800&f=15734412&i=0.3&sp=0",
         "info": "HD | TH",
         "isLive": false,
         "referer": "https://hls1.goodstream.one/",
         "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
-        }
+        },
+        {
+        "name": "EP 2",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_NqwXfsEYgi38Z3OACdbcz5awskBbtQmJbfDMckKxg&s=10",
+        "url": "https://enc6.goodstream.one/hls2/03/00082/o6z4kmeg068d_o/master.m3u8?t=oabh5buB__85q0ZkziG6XJtaVjNUgBq7nxFAtlCfOw8&s=1789714829&e=43200&v=390741268&srv=s4&i=0.0&sp=0",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://hls1.goodstream.one/",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_NqwXfsEYgi38Z3OACdbcz5awskBbtQmJbfDMckKxg&s=10",
+        "url": "https://cdn1018.cdn-tnmr.org/hls2/01/03146/ui0tguwk6w3y_h/master.m3u8?t=03Q8XFfH6K2d_eKdn7ZTpi4dBhlZszMuEZrHeER_c4I&s=1789714866&e=28800&f=15734417&i=0.3&sp=0",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://hls1.goodstream.one/",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 4",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_NqwXfsEYgi38Z3OACdbcz5awskBbtQmJbfDMckKxg&s=10",
+        "url": "https://kjiijhmbhkje.tnmr.org/hls2/02/03152/jyzx8f886xnq_h/master.m3u8?t=bW1x7d5GGaL3fFjXzB1q11p1A3PkAmMiDbHD3wtDnBk&s=1789714909&e=28800&f=15763596&i=0.3&sp=0",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://hls1.goodstream.one/",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 5",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_NqwXfsEYgi38Z3OACdbcz5awskBbtQmJbfDMckKxg&s=10",
+        "url": "https://9crtn2vez61il.tnmr.org/hls2/03/03146/vwp4tow0iw0w_h/master.m3u8?t=8cMqe8bj9Kvm6NXo6AJTJNMyzhb9urcCt69jaoGNu-E&s=1789714948&e=28800&f=15734420&i=0.3&sp=0",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://hls1.goodstream.one/",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 6",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_NqwXfsEYgi38Z3OACdbcz5awskBbtQmJbfDMckKxg&s=10",
+        "url": "https://cdn1010.cdn-tnmr.org/hls2/03/03146/gwyk2txccufm_h/master.m3u8?t=mar7yxZuPzjUfl6FYIY7tLYRvoht2tv3gA7bJeBnyZ4&s=1789714993&e=28800&f=15734424&i=0.3&sp=0",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://hls1.goodstream.one/",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 7",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_NqwXfsEYgi38Z3OACdbcz5awskBbtQmJbfDMckKxg&s=10",
+        "url": "https://0pukd9a3ay5y.tnmr.org/hls2/03/03146/bp44osjfhm0d_h/master.m3u8?t=_QVS-IysxL7NyPa5YStq2FPopTUCv80_bR_Vdr4WMM8&s=1789715033&e=28800&f=15734425&i=0.3&sp=0",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://hls1.goodstream.one/",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_NqwXfsEYgi38Z3OACdbcz5awskBbtQmJbfDMckKxg&s=10",
+        "url": "https://x8qn4fwls2fb.tnmr.org/hls2/02/03146/8vdig5wke1xk_h/master.m3u8?t=p5LdJV0jpHA4tq6Jrx27xMoRwYhjrDzYMygU3yGMiS0&s=1789715070&e=28800&f=15734426&i=0.3&sp=0",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://hls1.goodstream.one/",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
        ]
       },
       {
