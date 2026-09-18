@@ -6,6 +6,22 @@
  "info": "จัดให้ตามคำขอ",
  "groups": [
       {
+      "name": "The Art of Sarah (2026) ซาร่าห์ เริ่ดลวงโลก (EP1-8)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_NqwXfsEYgi38Z3OACdbcz5awskBbtQmJbfDMckKxg&s=10",
+      "stations": [
+        {
+        "name": "EP 1",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_NqwXfsEYgi38Z3OACdbcz5awskBbtQmJbfDMckKxg&s=10",
+        "url": "https://hls1.goodstream.one/hls2/03/00082/o6z4kmeg068d_o/master.m3u8?t=l_1oQtWo2mXj0QMVkXE-UZsgOZyhf80vUa4GLsax4gE&s=1789713591&e=43200&v=390735494&srv=s4&i=0.0&sp=0",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://hls1.goodstream.one/",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        }
+       ]
+      },
+      {
       "name": "Zhan Zhao Adventures (2026) จั่นเจาตะลุยยุทธภพ (EP1-37)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://www.123-hda.com/wp-content/uploads/2026/05/Zhan-Zhao-Adventures-2026-%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A0%E0%B8%9E-300x450.jpg",
