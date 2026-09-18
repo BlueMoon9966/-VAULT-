@@ -15,9 +15,7 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_NqwXfsEYgi38Z3OACdbcz5awskBbtQmJbfDMckKxg&s=10",
         "url": "https://storage.googleapis.com/mediastorage/1789721674916/8ur33yj2ta4/1192028856.mp4",
         "info": "HD | TH",
-        "isLive": false,
-        "referer": "https://abysscdn.com/",
-        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        "import": false
         },
         {
         "name": "EP 2",
