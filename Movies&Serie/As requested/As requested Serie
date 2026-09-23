@@ -5,8 +5,29 @@
  "day": "1-09-2026",
  "info": "จัดให้ตามคำขอ",
  "groups": [
+      {
+      "name": "คุณชายสายสืบ (2024) Flex X Cop (Season 1-2)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+      "groups": [
         {
-      "name": "คุณชายสายสืบ Flex X Cop (2024) (Season 2 - EP 1-8)",
+      "name": "คุณชายสายสืบ (2024) Flex X Cop (Season 1 - EP 1-16)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+      "stations": [
+        {
+        "name": "EP 1",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://myserieshd.co/play-torbo-m3u8?hash=8137130edc23c3794743cf6464dfec62&domain=torbo007.com=",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        }
+       ]
+      },
+        {
+      "name": "คุณชายสายสืบ (2026) Flex X Cop (Season 2 - EP 1-8)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
       "stations": [
@@ -18,9 +39,74 @@
         "isLive": false,
         "referer": "https://dumoviefree.com",
         "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 2",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://dumoviefree.com/cdn/hls/d45cd8f45956916fc9d3cb22bbe80a8f/master.m3u8?s=1&d=",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://dumoviefree.com/cdn/hls/5fc3055756f7e3a912dd854a69a0f529/master.m3u8?s=1&d=",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 4",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://dumoviefree.com/cdn/hls/a544b603b842d9de7e0cf526bd17357c/master.m3u8?s=1&d=",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 5",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://dumoviefree.com/cdn/hls/71c3babcbd73ffafeff62142a62c1864/master.m3u8?s=1&d=",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 6",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://dumoviefree.com/cdn/hls/ea44b5e31a6c28ffc7947f827e0b680c/master.m3u8?s=1&d=",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 7",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://dumoviefree.com/cdn/hls/899b86af97fd400f4e4f515061a4d500/master.m3u8?s=1&d=",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://dumoviefree.com/cdn/hls/5297f2fd95c04e847974d733c6ad20fe/master.m3u8?s=1&d=",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         }
        ]
-      },
+      }
+     ]
+    },
       {
       "name": "The Art of Sarah (2026) ซาร่าห์ เริ่ดลวงโลก (EP1-8)",
       "author": "🤜Akaraphisit🤛",
