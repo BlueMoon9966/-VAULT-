@@ -11,7 +11,7 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjUkExXauiOEXv3Rx1-astlgoO0P6Z8TniAk2M2gX4XOT8XDJlOneWN7d6&s=10",
       "groups": [
         {
-      "name": "คุณชายสายสืบ (2024) Flex X Cop (Season 1 - EP 1-7)",
+      "name": "คุณชายสายสืบ (2024) Flex X Cop (Season 1 - EP 1-16)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVG-Kf9bk9uFvNClhEUWlw1lKhiiEkkamzAzxwPjzWdc4rA1pm_NRe-k&s=10",
       "stations": [
@@ -162,7 +162,7 @@
        ]
       },
         {
-      "name": "คุณชายสายสืบ (2026) Flex X Cop (Season 2 - EP 1-8)",
+      "name": "คุณชายสายสืบ (2026) Flex X Cop (Season 2 - EP 1-8 ยังไม่จบ)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
       "stations": [
@@ -237,7 +237,52 @@
         "isLive": false,
         "referer": "https://dumoviefree.com",
         "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
-        }
+        },
+        {
+        "name": "EP 9",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://myserieshd.co/play-torbo-m3u8?hash=755ad80a7bfab59bdd25cc539a49cd90&domain=torbo007.com",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 10",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://myserieshd.co/play-torbo-m3u8?hash=cd3bc41f2c22241a1a382d24daddd6ca&domain=torbo007.com",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 11 รอ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://myserieshd.co/play-torbo-m3u8?hash=cd3bc41f2c22241a1a382d24daddd6ca&domain=torbo007.com",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 12 รอ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://myserieshd.co/play-torbo-m3u8?hash=cd3bc41f2c22241a1a382d24daddd6ca&domain=torbo007.com",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 13",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://myserieshd.co/play-torbo-m3u8?hash=c9ca08d0aa2cb48e252f5950c4fe9284&domain=torbo007.com",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
        ]
       }
      ]
