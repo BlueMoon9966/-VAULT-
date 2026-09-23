@@ -5,6 +5,22 @@
  "day": "1-09-2026",
  "info": "จัดให้ตามคำขอ",
  "groups": [
+        {
+      "name": "คุณชายสายสืบ Flex X Cop (2024) (Season 2 - EP 1-8)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+      "stations": [
+        {
+        "name": "EP 1",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
+        "url": "https://dumoviefree.com/cdn/hls/b8683af1c7db3cc64e8cd8ba27d9d432/master.m3u8?s=1&d=",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        }
+       ]
+      },
       {
       "name": "The Art of Sarah (2026) ซาร่าห์ เริ่ดลวงโลก (EP1-8)",
       "author": "🤜Akaraphisit🤛",
