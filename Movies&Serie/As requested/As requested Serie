@@ -241,20 +241,16 @@
         {
         "name": "EP 9",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
-        "url": "https://main.24playerhd.com/m3u8/a2a53d7621025c1b34205ec0/a2a53d7621025c1b34205ec0168.m3u8",
+        "url": "https://main.24playerhd.com/newplaylist/a2a53d7621025c1b34205ec0/a2a53d7621025c1b34205ec0.m3u8",
         "info": "HD | TH",
-        "isLive": false,
-        "referer": "https://dumoviefree.com",
-        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        "import": false
         },
         {
         "name": "EP 10",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
-        "url": "https://main.24playerhd.com/newplaylist/483403a95dfe2988d4a78ba4/483403a95dfe2988d4a78ba4.m3u8",
+        "url": "https://main.24playerhd.com/m3u8/483403a95dfe2988d4a78ba4/483403a95dfe2988d4a78ba4438.m3u8",
         "info": "HD | TH",
-        "isLive": false,
-        "referer": "https://dumoviefree.com",
-        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        "import": false
         },
         {
         "name": "EP 11",
