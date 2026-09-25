@@ -257,36 +257,28 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
         "url": "https://main.24playerhd.com/m3u8/dcb8c41e05c7054d60beda4d/dcb8c41e05c7054d60beda4d438.m3u8",
         "info": "HD | TH",
-        "isLive": false,
-        "referer": "https://dumoviefree.com",
-        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        "import": false
         },
         {
         "name": "EP 12",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
         "url": "https://main.24playerhd.com/m3u8/4b6427b8c22609efa613d26f/4b6427b8c22609efa613d26f438.m3u8",
         "info": "HD | TH",
-        "isLive": false,
-        "referer": "https://dumoviefree.com",
-        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        "import": false
         },
         {
         "name": "EP 13",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
         "url": "https://main.24playerhd.com/m3u8/3b858369d30a5a949291f321/3b858369d30a5a949291f321438.m3u8",
         "info": "HD | TH",
-        "isLive": false,
-        "referer": "https://dumoviefree.com",
-        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        "import": false
         },
         {
         "name": "EP 14",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjDpt9EO8h6DXfhQXpCLm_o26_MFgPHUUuuwsDKYI0g&s=10",
         "url": "https://main.24playerhd.com/m3u8/581b123a586cb69df0d8671c/581b123a586cb69df0d8671c438.m3u8",
         "info": "HD | TH",
-        "isLive": false,
-        "referer": "https://dumoviefree.com",
-        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        "import": false
         }
        ]
       },
