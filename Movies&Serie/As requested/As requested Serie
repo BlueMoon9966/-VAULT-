@@ -4,7 +4,69 @@
  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
  "day": "1-09-2026",
  "info": "จัดให้ตามคำขอ",
- "groups": [
+ "groups": [      {
+      "name": "Plastic Beauty (2026) สวยพลาสติก (EP1-8)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://www.123-hda.com/wp-content/uploads/2026/09/Plastic-Beauty-2026-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-300x450.jpg",
+      "stations": [
+        {
+        "name": "EP 1",
+        "image": "https://www.123-hda.com/wp-content/uploads/2026/09/Plastic-Beauty-2026-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-300x450.jpg",
+        "url": "https://main.24playerhd.com/m3u8/557224f86731792de4551898/557224f86731792de4551898438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 2",
+        "image": "https://www.123-hda.com/wp-content/uploads/2026/09/Plastic-Beauty-2026-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-300x450.jpg",
+        "url": "https://main.24playerhd.com/m3u8/b27470f3a0ccb917ad3ca54b/b27470f3a0ccb917ad3ca54b438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 3",
+        "image": "https://www.123-hda.com/wp-content/uploads/2026/09/Plastic-Beauty-2026-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-300x450.jpg",
+        "url": "https://main.24playerhd.com/m3u8/0941ae8cf418446644d9640d/0941ae8cf418446644d9640d438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 4",
+        "image": "https://www.123-hda.com/wp-content/uploads/2026/09/Plastic-Beauty-2026-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-300x450.jpg",
+        "url": "https://main.24playerhd.com/m3u8/a3a6836371ae61ac63927fa0/a3a6836371ae61ac63927fa0438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 5",
+        "image": "https://www.123-hda.com/wp-content/uploads/2026/09/Plastic-Beauty-2026-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-300x450.jpg",
+        "url": "https://main.24playerhd.com/m3u8/02dc30473fd8da93768412e1/02dc30473fd8da93768412e1438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 6",
+        "image": "https://www.123-hda.com/wp-content/uploads/2026/09/Plastic-Beauty-2026-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-300x450.jpg",
+        "url": "https://main.24playerhd.com/m3u8/40d47ed860251883fec77532/40d47ed860251883fec77532438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 7",
+        "image": "https://www.123-hda.com/wp-content/uploads/2026/09/Plastic-Beauty-2026-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-300x450.jpg",
+        "url": "https://main.24playerhd.com/m3u8/ff8b5965f0e863345b727286/ff8b5965f0e863345b727286438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 8",
+        "image": "https://www.123-hda.com/wp-content/uploads/2026/09/Plastic-Beauty-2026-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-300x450.jpg",
+        "url": "https://main.24playerhd.com/m3u8/d9dcaa88caec056c75e510e2/d9dcaa88caec056c75e510e2438.m3u8",
+        "info": "HD | TH",
+        "import": false
+        }
+       ]
+      },
       {
       "name": "คุณชายสายสืบ (2024) Flex X Cop (Season 1-2)",
       "author": "🤜Akaraphisit🤛",
