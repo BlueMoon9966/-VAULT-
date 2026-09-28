@@ -6,6 +6,109 @@
 "url": "https://raw.githubusercontent.com/BlueMoon9966/-VAULT-/refs/heads/main/VAULT",
 "groups": [
 {
+"name": "กล้องวงจรปิด",
+"author": "🤜Akaraphisit🤛",
+"image": "https://png.pngtree.com/png-clipart/20220726/original/pngtree-live-streaming-live-box-signal-png-image_8409519.png",
+"stations": [
+{
+"name": "(กรุงเทพมหานคร) รพ.บางปะกอก 9",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camera1.iticfoundation.org/hls/10.8.0.22_8555.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+{
+"name": "(กรุงเทพมหานคร) รพ.บางปะกอก 9",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camera1.iticfoundation.org/hls/10.8.0.22_8554.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+{
+"name": "(กรุงเทพมหานคร) เชิงสะพานตากสิน ฝั่งสาทร บริเวณจุดกลับใต้สะพาน",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camera1.iticfoundation.org/hls/10.8.0.18_8002.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+{
+"name": "(กรุงเทพมหานคร) เชิงสะพานตากสิน ฝั่งสาทร มุ่งหน้าถนนสาทร",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camera1.iticfoundation.org/hls/10.8.0.18_8001.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+{
+"name": "(กรุงเทพมหานคร) ถนนสาทรหน้าสถานเอกอัครราชทูตเยอรมนี",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camera1.iticfoundation.org/hls/10.8.0.15_8552.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+{
+"name": "(กรุงเทพมหานคร) ถ.พระราม4 แยกทางด่วนพระราม4",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camera1.iticfoundation.org/hls/10.8.0.14_8001.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+{
+"name": "(กรุงเทพมหานคร) Bangna-Trat",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camera1.iticfoundation.org/hls/10.8.0.21_8001.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+{
+"name": "(กรุงเทพมหานคร) Bangna-Trat",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camera1.iticfoundation.org/hls/10.8.0.21_8002.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+{
+"name": "(กรุงเทพมหานคร) เชิงสะพานตากสิน ฝั่งสาทร บริเวณจุดกลับใต้สะพาน",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camera1.iticfoundation.org/hls/10.8.0.18_8002.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+{
+"name": "(กรุงเทพมหานคร) ถนนสาทรหน้าสถานเอกอัครราชทูตเยอรมนี",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camera1.iticfoundation.org/hls/10.8.0.15_8552.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+{
+"name": "(กรุงเทพมหานคร) ประชานุกูลไปแยกประชาชื่น",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camerai1.iticfoundation.org/hls/cl209-d.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+{
+"name": "(กรุงเทพมหานคร) ประชานุกูลไปแยกประชาชื่น",
+"image": "https://www.shutterstock.com/image-vector/cctv-camera-symbol-circular-red-260nw-2720933013.jpg",
+"url": "https://camerai1.iticfoundation.org/hls/cl209-d.m3u8",
+"referer": "https://live.iticfoundation.org/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"playInNatPlayer": "true"
+},
+]
+},
+{
 "name": "ถ่ายทอดสด",
 "author": "🤜Akaraphisit🤛",
 "image": "https://png.pngtree.com/png-clipart/20220726/original/pngtree-live-streaming-live-box-signal-png-image_8409519.png",
