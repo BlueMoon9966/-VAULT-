@@ -4,7 +4,92 @@
  "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM4Nng1ZHBzaDJjM2lmajMzNnVwc25vMTd3MDc3cm9zcmx3N2U1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZVxNVF2vDnKjxNZVC/giphy.gif",
  "day": "1-09-2026",
  "info": "จัดให้ตามคำขอ",
- "groups": [      {
+ "groups": [
+        {
+      "name": "Dr.Ashura (2025) หัตถ์อาชูระ (EP1-11)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+      "stations": [
+        {
+        "name": "EP 1",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "url": "https://s12-t25.97bf1.com/hls/v7WBaYlwws0GgGYqbh7uPiEtKVwvm6SC/master.m3u8?token=30ea9a58bdeea0bb44610683e3a01aaa-1790950618-2a06%3A98c0%3A3600%3A%3A103-ed954cb2eba4c2236d1f483af9f8b3bc0ba4978207820cf1f85ab694c94a89f9",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 2",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "url": "https://s12-t25.97bf1.com/hls/qqfOiRuYNn04JoMsme5wIEK3E0l9dVeH/master.m3u8?token=919b749cea3d2eb79fa4a8a665ed8c9d-1790950879-2a06%3A98c0%3A3600%3A%3A103-23151aa1c84fcffb327ce5b6555159979d01cfdc5b7e796dc75ae5c1ce17d962",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "url": "https://s12-t25.97bf1.com/hls/7OHeNII3qLCupNEt9MEAqv3wrAd13bTV/master.m3u8?token=86879f727431a6391102e32b4569b561-1790950905-2a06%3A98c0%3A3600%3A%3A103-87e507b6201c282e7c278b60faf48e2ffa004c693ce9145401d77c7fba8f59f4",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 4",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "url": "https://s12-t25.97bf1.com/hls/e74rBuRS5Uula0MnP0Hq4gaVt5fEzyI5/master.m3u8?token=ce53bac8ce3700dcc61141483fefcc57-1790950955-2a06%3A98c0%3A3600%3A%3A103-51f072d41c238681333eccd06447915e82916865c20274652e6678d9cb1ff922",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 5",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "url": "https://s12-t25.97bf1.com/hls/0v1dNYWDLLoOcA9Le5Fp2gv6PWB6rVSQ/master.m3u8?token=9da006a9fbe942dfd847b706ae57fa86-1790950977-2a06%3A98c0%3A3600%3A%3A103-40e6469b48f4b668fd569a479ee33abdc503e1bb4142aeb6a895f84d3f1de6c5",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 6",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "url": "https://s12-t25.97bf1.com/hls/uBk2rRAd2uPQPuwXGUFMY24b4Z8qSCyC/master.m3u8?token=b7078e66f39f55ada8e3d1db4d070130-1790951005-2a06%3A98c0%3A3600%3A%3A103-62868be977be5a5aaf78d28fe91a9b132e8d642773bd3b7147c7b23466499fec",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 7",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "url": "https://s12-t25.97bf1.com/hls/ZiNBPXyZrevmynd3K2iyR97GPQXQEP1y/master.m3u8?token=39ce6dd54baffc882decd4b39b7c7c73-1790951042-2a06%3A98c0%3A3600%3A%3A103-8920e9dc3d5eb38a6fa916ba2e7090c48a0d69ac4fa87e8e7b89d9bfb0eb62e0",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "url": "https://s12-t25.97bf1.com/hls/EhcION7aaG54wAqFC0YvxGRPTy0HTZla/master.m3u8?token=77ddf580bdf748e0a534b3259b9fb8eb-1790951065-2a06%3A98c0%3A3600%3A%3A103-75760d29d24933f0d33a8070f42cccd0adef0901919396848c629afbd1e5c0da",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 9",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "url": "https://s12-t25.97bf1.com/hls/529JTEYL0G0xtv8DDvir90lG04AmRn73/master.m3u8?token=d593f208a7c6c25944d5f20232243ba2-1790951073-2a06%3A98c0%3A3600%3A%3A103-438ae8308a0a2a72af9ef1a0e967e1f8e79d39b8ca1ca55615945bbba1047b0b",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 10",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "url": "https://s12-t25.97bf1.com/hls/oIb3RxxhOdlvgoWAc3mXFf97ljSAA76z/master.m3u8?token=7a30dd1a396aaa5b4c86d3177604eefc-1790951094-2a06%3A98c0%3A3600%3A%3A103-08fbb636a2b189b5bf1a50e912f626fd82e3208fc7931dc1ca91ff8bd4c02363",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 11",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "url": "https://s12-t25.97bf1.com/hls/XhY5MEmurvuF1lVJS6Jm2fgHGu7gUU1A/master.m3u8?token=9a62b346d9534f7efb6272045ab5a8ce-1790951133-2a06%3A98c0%3A3600%3A%3A103-72fd248b6321a1f8a116d2ad56a572361876f4009764db9027e937e7bf79b256",
+        "info": "HD | TH",
+        "import": false
+        }
+       ]
+      },
+        {
       "name": "Plastic Beauty (2026) สวยพลาสติก (EP1-8)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://www.123-hda.com/wp-content/uploads/2026/09/Plastic-Beauty-2026-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-300x450.jpg",
