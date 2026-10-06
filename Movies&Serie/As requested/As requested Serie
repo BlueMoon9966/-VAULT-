@@ -8,12 +8,19 @@
         {
       "name": "Marry My Husband (2024) สามีคนนี้แจกฟรีให้เธอ Trailer (EP1-16)",
       "author": "🤜Akaraphisit🤛",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
       "stations": [
         {
         "name": "EP 1",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNiKhgq3Q_MYqkKlIPxFrdXRk8jRTU3NTvtNm5jReNQ&s=10",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://main.24playerhd.com/newplaylist/18435d506e525ad3708b00dd/18435d506e525ad3708b00dd.m3u8",
+        "info": "HD | TH",
+        "import": false
+        },
+        {
+        "name": "EP 2",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/c98f7b1bd05dc1a5f11109dd/c98f7b1bd05dc1a5f11109dd.m3u8",
         "info": "HD | TH",
         "import": false
         }
