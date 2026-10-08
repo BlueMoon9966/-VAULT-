@@ -15,112 +15,144 @@
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s5-25t.s1q2105.com/hls/rQpFsG5idv31uaQZEAjLnJn4O0ILkSel/master.m3u8?token=1bc5eb27848d96916e252d39e34df401-1791369189-2a06%3A98c0%3A3600%3A%3A103-5ceb80caf6aa94cac9881e26d9b0f573b5c9212e5d1b121b8f97a43d83f0b7dd",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 2",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s4-z20.97bf1.com/hls/UQ6oFbVQGzh7yfahVNLwypBmREtsMcy8/master.m3u8?token=481e8ea310ca2ed3f6277b8eba3216af-1791369216-2a06%3A98c0%3A3600%3A%3A103-88452f689b80b00b7bdd6eb14fa8cfce316bad5668ce2f521c8ed07f256b2a82",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 3",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s5-25t.s1q2105.com/hls/aZAS6SpXN7jzeS5rbJX1mrF5HBL99vrM/master.m3u8?token=f42840cab25cfe8867bcccdf3b3ce0eb-1791369174-2a06%3A98c0%3A3600%3A%3A103-4f735389cf732dfc22c6a0d94830be8e179eda7e8e83533285df4ff8b06a2c03",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 4",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s5-25t.s1q2105.com/hls/d4E70db1GzxVRy3dGdsdmMjZ5YGOORx3/master.m3u8?token=d09d40c97a8c37b17fe00015a6196698-1791369241-2a06%3A98c0%3A3600%3A%3A103-741d397e96531375c29bd3a40c2670654471becb8875e90bdcabf029f0313fda",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 5",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s5-25t.s1q2105.com/hls/0FF5MaIotkj5kuhXnjvuoOQGZ2mRQKal/master.m3u8?token=a74af12857e31123b38a8131ef1a8f7b-1791369258-2a06%3A98c0%3A3600%3A%3A103-fb5182d7d0e13a1f53ac451a0f9bc1916b127bf6bc0b6b5cda9d0384948de481",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 6",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://s5-25t.s1q2105.com/hls/FDF82pHcheVQJMaLoYkHg813kpwzmNns/master.m3u8?token=db8d75e1ab714ae2e0b108f6ccfc77d6-1791368610-2a06%3A98c0%3A3600%3A%3A103-aac6c70ee494e1ac905549b40bc23f17ecd8ff2430df06f132323183ab622ca6",
+        "url": "https://s5-25t.s1q2105.com/hls/FDF82pHcheVQJMaLoYkHg813kpwzmNns/master.m3u8?token=428a25ab4f92d83585d71b2ba368b823-1791451504-2a06%3A98c0%3A3600%3A%3A103-5085b6c43fa1eeceda4a15b231aff142a144d8cf00f7c4837419f59b131355f2",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 7",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://s5-25t.s1q2105.com/hls/vSnpfQOhxJikso6XXB5otZGjUAlGRMwK/master.m3u8?token=72f9769efd24fbe813d2d75822144061-1791368753-2a06%3A98c0%3A3600%3A%3A103-59b2a63776444f78a20408d0d9be3160c70dd4df9171bceda481e7a45b04e7bd",
+        "url": "https://s5-25t.s1q2105.com/hls/vSnpfQOhxJikso6XXB5otZGjUAlGRMwK/master.m3u8?token=950b21753addf2534764a5701589c8e8-1791451545-2a06%3A98c0%3A3600%3A%3A103-1accc1f06f7dd77dd5cc8a6c5e77af8d0e273063609a95870e18ddfe3b839af7",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 8",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://s6-25t.97bf1.com/hls/9IBuXeWOW8IuqoOAVXjXvNFUvttVe3GT/master.m3u8?token=a335e0ef5d9eff71d2084bbb5bd56491-1791368812-2a06%3A98c0%3A3600%3A%3A103-5078dc7ae7b0dc136cb6af82ca91a46cee38ecb3bdeb1449e3ffa3d5a761fa59",
+        "url": "https://s6-25t.97bf1.com/hls/9IBuXeWOW8IuqoOAVXjXvNFUvttVe3GT/master.m3u8?token=6a6eb200336341da3861f702a91f120b-1791451565-2a06%3A98c0%3A3600%3A%3A103-6d2b5f52602769889865ec08e9d0f85aedf004638adf2b8ab89faabea760f73d",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 9",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s5-25t.s1q2105.com/hls/hQADbRxwtp81tHrWqEBolofNiBXd9o2y/master.m3u8?token=f314467092e50d4d4243a260f12d2dba-1791368846-2a06%3A98c0%3A3600%3A%3A103-a200dfa2dbcfb6bfd6c027cf0dbc4d42a557300f84547c5de4184dc2a0b48b75",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 10",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://s5-25t.s1q2105.com/hls/52hT2TBbkAeEjS3cgYj5RH5k9jgY0UfV/master.m3u8?token=7651dca3c6fd95463da151fa74fb447e-1791368879-2a06%3A98c0%3A3600%3A%3A103-cde0c081adba52968b0756e1457d0fb2d91a3b89913322cb992e182694f5ef67",
+        "url": "https://s5-25t.s1q2105.com/hls/52hT2TBbkAeEjS3cgYj5RH5k9jgY0UfV/master.m3u8?token=385b4ae24acec5843c6bfef1b6a5e817-1791451611-2a06%3A98c0%3A3600%3A%3A103-2b8cbb650655024b8b65ddc74ff5bdda767d765711dcc4be9dc39b70e148d87f",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 11",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s5-25t.s1q2105.com/hls/WlJ2Fxn8ph8469j9ggHeLSGBijDzlifw/master.m3u8?token=3533d27dff64953a84b0f0e9bc6b7678-1791368941-2a06%3A98c0%3A3600%3A%3A103-c2ad255d61d04e53012e48415938d0952e219ac65816982ae52954e37716f17d",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 12",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s5-25t.s1q2105.com/hls/OLmw9jJ5r6UZ63LIDPTDmhAm1fCMBaFG/master.m3u8?token=063b8f79affcc54ab5e058940968ebdb-1791369013-2a06%3A98c0%3A3600%3A%3A103-ce3306c7d4ff320fe051a6ff835b2c922f91c878bc84a61d7d706e00e3829ac9",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 13",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s5-25t.s1q2105.com/hls/YsG03uG8MnrNY2a6GIMHizEs92yyyiiY/master.m3u8?token=9380b4de3206c003964518910fdc2169-1791369048-2a06%3A98c0%3A3600%3A%3A103-8775672cf9da3e0693fe2619a9be97152f283fc07f075d67c9ec477b1393282f",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 14",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s6-25t.97bf1.com/hls/mFJRevTxih2BTyf5ibdkqsn9twW3K2XE/master.m3u8?token=6f7e2e4d3f9baeae03a51c7b54d361fd-1791369093-2a06%3A98c0%3A3600%3A%3A103-8d394c8e5ba5794f565cc98622da41acccaa0385be586795b5ae60e57e8773a9",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 15",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s5-25t.s1q2105.com/hls/pZTPnSdqFeR66RPiKeyybGhKhE5sfbXU/master.m3u8?token=12765d06de5945d1a35d891a9c38670e-1791369129-2a06%3A98c0%3A3600%3A%3A103-7616ff2ddbfed124a3debb6d94a31ad37a9a68b3e954966f0381f14e7fcb9b66",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 16",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
         "url": "https://s5-25t.s1q2105.com/hls/S8nIDNDwJ4cqdpfA9j6iNwuwFRNorbkZ/master.m3u8?token=283277c53ab3a3aa64d75b81eafccf76-1791369153-2a06%3A98c0%3A3600%3A%3A103-008048adc3ad7ae137fc25d0836c8591219118e67a899887af8e26560f688ee1",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         }
        ]
       },
