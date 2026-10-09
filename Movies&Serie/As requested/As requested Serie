@@ -103,45 +103,57 @@
         {
         "name": "EP 11",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://torbo007.com/api/stream/bf201670056793cb5c46c38f7e7193d9163a8ec13475a53d283bd8f3eb3d6683/index.m3u8?token=365b2acba05b8f517ee4921d7f4d9a83543e789570309f2379727ce3d0aa236b&expires=1791516303&parent=goseries4k.com&sid=e37c4ca5",
+        "url": "https://s5-25t.s1q2105.com/hls/WlJ2Fxn8ph8469j9ggHeLSGBijDzlifw/master.m3u8?token=3fe8b0f895c8f6dfdd8c2c01d128b731-1791539437-2a06%3A98c0%3A3600%3A%3A103-89b4a7ca353c1cd8351c00b62ee7f2ac4a6e5bc4c04101437487fcab54d627ba",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "nginx/1.30.5",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 12",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://torbo007.com/api/stream/e62217735461c2c15a4197887e2a9c8712308b946122f46e213c88f7b76937d6/index.m3u8?token=c373264725b4010f33f0c59387dbdee75690143faf7ad949252b01ec6969c638&expires=1791516321&parent=goseries4k.com&sid=e37c4ca5",
+        "url": "https://s5-25t.s1q2105.com/hls/OLmw9jJ5r6UZ63LIDPTDmhAm1fCMBaFG/master.m3u8?token=facb4ab6a122152efab81f5976353da9-1791540109-2a06%3A98c0%3A3600%3A%3A103-19f3140141069846705fbe374962f19210a196a4e046b186ca0b0faba8b3e4d9",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "nginx/1.30.5",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 13",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://torbo007.com/api/stream/ea2c16230266cd9f0842ccdb2a70c180166a8fc06474a63e266cd9fab1693e85/index.m3u8?token=9e97a76c206e9eec2ee82a0f978af8b95da552a08b4ef320bb975ab544434045&expires=1791516338&parent=goseries4k.com&sid=e37c4ca5",
+        "url": "https://s5-25t.s1q2105.com/hls/YsG03uG8MnrNY2a6GIMHizEs92yyyiiY/master.m3u8?token=d1107cad19b21c59a93d2218c38042c4-1791540184-2a06%3A98c0%3A3600%3A%3A103-99ccccf6fa4729d2357a727e89c7026b2b466df01a6e7bcb665e4997f3687ed0",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "nginx/1.30.5",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 14",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://torbo007.com/api/stream/e6231a765b30c7ce5e1796db7a229cd5403ed8c06372f66e733b8ca3e73e63d5/index.m3u8?token=4740f2750bee0c65c00e4d0a0e56bfadd97b7984212be5c6c89cf73f33d700f0&expires=1791516351&parent=goseries4k.com&sid=e37c4ca5",
+        "url": "https://s6-25t.97bf1.com/hls/mFJRevTxih2BTyf5ibdkqsn9twW3K2XE/master.m3u8?token=153341118ee50fcbc6c23ef2ffc1102b-1791540205-2a06%3A98c0%3A3600%3A%3A103-662da365ce585a01bafaf8cb9be4984ff2927479b5dfd5c775cb7b9157dd4e21",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "nginx/1.30.5",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 15",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://torbo007.com/api/stream/ba2511275235969d5f1ec18f2d7195d21d6a8a936e76a539233b8bfae7683e86/index.m3u8?token=cb8ddf3209c318f82620571a049551568afed1d86d549fa5a8ea1e9db8fd951c&expires=1791516366&parent=goseries4k.com&sid=e37c4ca5",
+        "url": "https://s5-25t.s1q2105.com/hls/pZTPnSdqFeR66RPiKeyybGhKhE5sfbXU/master.m3u8?token=2e16eb7a50a27b146a490daab7bd2664-1791540231-2a06%3A98c0%3A3600%3A%3A103-a90f497edb17e3bcfd6b907ab96722c9e89f6582e26c9878e53187466c340efc",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "nginx/1.30.5",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 16",
         "image": "https://m.media-amazon.com/images/M/MV5BZTY0MTI2OWQtNmMwOS00YmRkLWJhMWMtZjkxZjgwZjA2ZDU0XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://torbo007.com/api/stream/b82410715531cdcf5f42cdd27b24c5d94630db9c6e73a23f293bdff0b43d618f/index.m3u8?token=0f2cf7da06455101918947bd758d63f883ced2b0a20b6c3cc22afbc932adbc04&expires=1791516380&parent=goseries4k.com&sid=e37c4ca5",
+        "url": "https://s5-25t.s1q2105.com/hls/S8nIDNDwJ4cqdpfA9j6iNwuwFRNorbkZ/master.m3u8?token=f3c27cb7bd3bd481d930d063ecc8eaef-1791540255-2a06%3A98c0%3A3600%3A%3A103-aab348e8d111d74746208a4447ca03788ada8e16f6df523295f0234bcee46e1c",
         "info": "HD | TH",
-        "import": false
-        }
+        "isLive": false,
+        "referer": "nginx/1.30.5",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
        ]
       },
         {
