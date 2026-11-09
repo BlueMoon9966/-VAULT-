@@ -6,6 +6,22 @@
  "info": "จัดให้ตามคำขอ",
  "groups": [
         {
+      "name": "Head Over Heels (2025) หนุ่มดวงจู๋กับหมอดูคนจ๋วย (EP1-12)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://www.serieday-z.com/wp-content/uploads/2025/06/Head-Over-Heels-2025-200x300.jpg",
+      "stations": [
+        {
+        "name": "EP 1",
+        "image": "https://www.serieday-z.com/wp-content/uploads/2025/06/Head-Over-Heels-2025-200x300.jpg",
+        "url": "https://main.24playerhd.com/m3u8/f08862b9489d24b99261e2ea/f08862b9489d24b99261e2ea168.m3u8",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://main.24playerhd.com/index_th.php?id=f08862b9489d24b99261e2ea&b=1597",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        }
+       ]
+      },
+        {
       "name": "Final Table (2026) สงครามนักปรุง (EP1-2)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
