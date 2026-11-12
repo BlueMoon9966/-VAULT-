@@ -6,6 +6,103 @@
  "info": "จัดให้ตามคำขอ",
  "groups": [
         {
+      "name": "Trigger คนดุปืนเดือด (2025) (EP1-10)",
+      "author": "🤜Akaraphisit🤛",
+      "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
+      "stations": [
+        {
+        "name": "EP 1",
+        "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
+        "url": "https://main.24playerhd.com/m3u8/38aac02a4f7ed4c53546a431/38aac02a4f7ed4c53546a431168.m3u8",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://main.24playerhd.com/index_th.php?id=38aac02a4f7ed4c53546a431&backup=0",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 2",
+        "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/1091fddb03781dda56aa56ef/1091fddb03781dda56aa56ef.m3u8",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://main.24playerhd.com/index_th.php?id=38aac02a4f7ed4c53546a431&backup=0",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 3",
+        "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
+        "url": "https://main.24playerhd.com/newplaylist/8dd7df382bd6eecd9c9a695c/8dd7df382bd6eecd9c9a695c.m3u8",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://main.24playerhd.com/index_th.php?id=38aac02a4f7ed4c53546a431&backup=0",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 4",
+        "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
+        "url": "https://main.24playerhd.com/m3u8/519afc83bdec304ac9beb1b7/519afc83bdec304ac9beb1b7168.m3u8",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://main.24playerhd.com/index_th.php?id=38aac02a4f7ed4c53546a431&backup=0",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 5",
+        "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
+        "url": "https://main.24playerhd.com/m3u8/fac16a72842e1d98a2337b83/fac16a72842e1d98a2337b83168.m3u8",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://main.24playerhd.com/index_th.php?id=38aac02a4f7ed4c53546a431&backup=0",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 6",
+        "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
+        "url": "https://main.24playerhd.com/m3u8/8efaca8e71a4eb41e9fe6ae4/8efaca8e71a4eb41e9fe6ae4168.m3u8",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://main.24playerhd.com/index_th.php?id=38aac02a4f7ed4c53546a431&backup=0",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 7",
+        "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
+        "url": "https://main.24playerhd.com/m3u8/46e6439eed9d7914a5a4db0d/46e6439eed9d7914a5a4db0d168.m3u8",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://main.24playerhd.com/index_th.php?id=b7db52f861d45205e1effd5e&backup=0",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 8",
+        "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
+        "url": "https://main.24playerhd.com/m3u8/b7db52f861d45205e1effd5e/b7db52f861d45205e1effd5e168.m3u8",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://main.24playerhd.com/index_th.php?id=b7db52f861d45205e1effd5e&backup=0",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 9",
+        "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
+        "url": "https://main.24playerhd.com/m3u8/f0778ac69c45617945df4af8/f0778ac69c45617945df4af8168.m3u8",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://main.24playerhd.com/index_th.php?id=f0778ac69c45617945df4af8&backup=0",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        },
+        {
+        "name": "EP 10",
+        "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
+        "url": "https://main.24playerhd.com/m3u8/683db75ddd62f03b54a6ab5e/683db75ddd62f03b54a6ab5e168.m3u8",
+        "info": "HD | TH",
+        "isLive": false,
+        "referer": "https://main.24playerhd.com/index_th.php?id=f0778ac69c45617945df4af8&backup=0",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        }
+       ]
+      },
+        {
       "name": "Head Over Heels (2025) หนุ่มดวงจู๋กับหมอดูคนจ๋วย (EP1-12)",
       "author": "🤜Akaraphisit🤛",
       "image": "https://www.serieday-z.com/wp-content/uploads/2025/06/Head-Over-Heels-2025-200x300.jpg",
