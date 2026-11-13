@@ -76,7 +76,7 @@
         {
         "name": "EP 8",
         "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
-        "url": "https://cdn1008.cdn-tnmr.org/hls2/03/03668/9gv6clcocx9k_h/master.m3u8?t=dv_5U-2mYrswNCBPfNbyhkggZ7ilYCDJ1A7io1Mci5o&s=1794538493&e=28800&f=18342234&i=0.3&sp=0",
+        "url": "https://cdn1008.cdn-tnmr.org/hls2/03/03668/9gv6clcocx9k_h/master.m3u8?t=UiiMdmKUDhzV5cSl_OTRpOciuuSRf4z5x2C40SPIHpk&s=1794538303&e=28800&f=18342234&i=0.3&sp=0",
         "info": "HD | TH",
         "referer": "https://upde.cc/watch/50627",
         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0"
@@ -171,12 +171,10 @@
         },
         {
         "name": "EP 8",
-        "image": "https://www.serieday-z.com/wp-content/uploads/2025/06/Head-Over-Heels-2025-200x300.jpg",
-        "url": "https://main.24playerhd.com/newplaylist/f445cf087e15645e2b5a1acf/f445cf087e15645e2b5a1acf.m3u8",
+        "image": "https://upde.cc/storage/title-posters/db09deb2-64a2-481c-aa2f-bc1028407daa.webp",
+        "url": "https://s25-wyl5.97bf1.com/hls/41gU0YVEgPb1ugFqhGFfAFt9IRhsM9ZR/master.m3u8?token=503d8d5d7ee520eefe8dd4c4470d1090-1788281720-2a06%3A98c0%3A3600%3A%3A103-d0aadc008d30fe836f80008720fef2e088454934aba97332c45c5ee51ef966d0",
         "info": "HD | TH",
-        "isLive": false,
-        "referer": "https://fembed.co/",
-        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
+        "import": false
         },
         {
         "name": "EP 9",
