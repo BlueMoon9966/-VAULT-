@@ -76,9 +76,11 @@
         {
         "name": "EP 8",
         "image": "https://goseries4k.com/wp-content/uploads/2025/07/44-2.jpg",
-        "url": "https://cdn1008.cdn-tnmr.org/hls2/03/03668/9gv6clcocx9k_h/master.m3u8?t=UiiMdmKUDhzV5cSl_OTRpOciuuSRf4z5x2C40SPIHpk&s=1794538303&e=28800&f=18342234&i=0.3&sp=0",
+        "url": "https://goseries4k.com/wp-content/uploads/mvast.xml?ver=afe0cf03a02ba6a1bcb609652c884baa",
         "info": "HD | TH",
-        "import": false
+        "isLive": false,
+        "referer": "https://dumoviefree.com",
+        "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/153.0.0.0 Mobile Safari/537.36"
         },
         {
         "name": "EP 9",
